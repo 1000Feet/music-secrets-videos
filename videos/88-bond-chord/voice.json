@@ -1,0 +1,1016 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One chord instantly sounds like a spy movie. It ends the James Bond Theme.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chord",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "instantly",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "sounds",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "like",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "spy",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "movie.",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "It",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "ends",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "James",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "Bond",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "Theme.",
+     "t": 4.72,
+     "end": 5.28
+    }
+   ]
+  },
+  "what": {
+   "text": "Take E minor, then add a major seventh and a ninth: E, G, B, D sharp, F sharp.",
+   "dur": 7.88898,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "E",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "minor,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "then",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "add",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "major",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "seventh",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "ninth:",
+     "t": 3.28,
+     "end": 4.16
+    },
+    {
+     "w": "E,",
+     "t": 4.24,
+     "end": 4.72
+    },
+    {
+     "w": "G,",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "B,",
+     "t": 5.6,
+     "end": 6.08
+    },
+    {
+     "w": "D",
+     "t": 6.24,
+     "end": 6.4
+    },
+    {
+     "w": "sharp,",
+     "t": 6.48,
+     "end": 7.12
+    },
+    {
+     "w": "F",
+     "t": 7.2,
+     "end": 7.28
+    },
+    {
+     "w": "sharp.",
+     "t": 7.36,
+     "end": 7.84
+    }
+   ]
+  },
+  "what2": {
+   "text": "E minor major nine.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "E",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "major",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "nine.",
+     "t": 1.28,
+     "end": 2.08
+    }
+   ]
+  },
+  "theme": {
+   "text": "The theme was written by Monty Norman, arranged by John Barry, and first heard in Dr. No, in 1962.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "theme",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "was",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "written",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "by",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Monty",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "Norman,",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "arranged",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "by",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "John",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "Barry,",
+     "t": 3.36,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "first",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "heard",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "in",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "Dr.",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "No,",
+     "t": 5.6,
+     "end": 6.16
+    },
+    {
+     "w": "in",
+     "t": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "1962.",
+     "t": 6.4,
+     "end": 7.84
+    }
+   ]
+  },
+  "vamp": {
+   "text": "Underneath, a line creeps inside E minor: B rises to C, C sharp, then back to C.",
+   "dur": 7.549388,
+   "speechEnd": 7.6,
+   "words": [
+    {
+     "w": "Underneath,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "line",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "creeps",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "inside",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "E",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "minor:",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "B",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "rises",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "to",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "C,",
+     "t": 4.72,
+     "end": 5.36
+    },
+    {
+     "w": "C",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "sharp,",
+     "t": 5.68,
+     "end": 6.32
+    },
+    {
+     "w": "then",
+     "t": 6.44,
+     "end": 6.56
+    },
+    {
+     "w": "back",
+     "t": 6.64,
+     "end": 6.8
+    },
+    {
+     "w": "to",
+     "t": 6.88,
+     "end": 6.96
+    },
+    {
+     "w": "C.",
+     "t": 7.04,
+     "end": 7.6
+    }
+   ]
+  },
+  "vamp2": {
+   "text": "A minor line cliché.",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "line",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "cliché.",
+     "t": 1.04,
+     "end": 2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound so dangerous? E minor alone is dark.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "dangerous?",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "E",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "minor",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "alone",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "is",
+     "t": 3.96,
+     "end": 4.08
+    },
+    {
+     "w": "dark.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "Add D sharp: a major seventh, just a half step below the root.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "D",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "sharp:",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "major",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "seventh,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "just",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.24
+    },
+    {
+     "w": "half",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "step",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "below",
+     "t": 3.96,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.16,
+     "end": 4.2
+    },
+    {
+     "w": "root.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3": {
+   "text": "A leading tone. It wants to resolve up to E... and it never does.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "leading",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "tone.",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "It",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "wants",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "to",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "resolve",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "up",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "to",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "E...",
+     "t": 3.04,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "it",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "never",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "does.",
+     "t": 4.64,
+     "end": 5.44
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Permanent tension.",
+   "dur": 1.48898,
+   "speechEnd": 1.52,
+   "words": [
+    {
+     "w": "Permanent",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "tension.",
+     "t": 0.64,
+     "end": 1.52
+    }
+   ]
+  },
+  "why4": {
+   "text": "Add F sharp, the ninth, and it turns lush and wide. Dark, elegant, suspicious.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "F",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "sharp,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "ninth,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "it",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "turns",
+     "t": 2.44,
+     "end": 2.72
+    },
+    {
+     "w": "lush",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "wide.",
+     "t": 3.6,
+     "end": 4.4
+    },
+    {
+     "w": "Dark,",
+     "t": 4.72,
+     "end": 5.52
+    },
+    {
+     "w": "elegant,",
+     "t": 5.6,
+     "end": 6.48
+    },
+    {
+     "w": "suspicious.",
+     "t": 6.52,
+     "end": 7.68
+    }
+   ]
+  },
+  "why5": {
+   "text": "And that line, B, C, C sharp, C, creeps by half steps, like someone sneaking around.",
+   "dur": 7.627755,
+   "speechEnd": 7.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "that",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "line,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "B,",
+     "t": 1.44,
+     "end": 1.88
+    },
+    {
+     "w": "C,",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "C",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "sharp,",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "C,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "creeps",
+     "t": 3.84,
+     "end": 4.32
+    },
+    {
+     "w": "by",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "half",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "steps,",
+     "t": 4.96,
+     "end": 5.68
+    },
+    {
+     "w": "like",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "someone",
+     "t": 5.92,
+     "end": 6.24
+    },
+    {
+     "w": "sneaking",
+     "t": 6.32,
+     "end": 6.72
+    },
+    {
+     "w": "around.",
+     "t": 6.8,
+     "end": 7.6
+    }
+   ]
+  },
+  "why6": {
+   "text": "Film noir and spy music love this minor major seventh sound.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Film",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "noir",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "spy",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "music",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "love",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "this",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "minor",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "major",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "seventh",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "sound.",
+     "t": 4,
+     "end": 4.8
+    }
+   ]
+  },
+  "essence": {
+   "text": "A minor chord with a note that refuses to resolve. Danger, style and suspense in one sound.",
+   "dur": 7.706122,
+   "speechEnd": 7.76,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "chord",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "with",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.48
+    },
+    {
+     "w": "note",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "that",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "refuses",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "to",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "resolve.",
+     "t": 3.12,
+     "end": 4
+    },
+    {
+     "w": "Danger,",
+     "t": 4.08,
+     "end": 4.96
+    },
+    {
+     "w": "style",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "suspense",
+     "t": 5.68,
+     "end": 6.32
+    },
+    {
+     "w": "in",
+     "t": 6.4,
+     "end": 6.56
+    },
+    {
+     "w": "one",
+     "t": 6.72,
+     "end": 6.88
+    },
+    {
+     "w": "sound.",
+     "t": 7.04,
+     "end": 7.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

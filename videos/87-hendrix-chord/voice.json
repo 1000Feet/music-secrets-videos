@@ -1,0 +1,971 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One chord sounds major and minor at the same time. Guitarists call it the Hendrix chord.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chord",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sounds",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "major",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "minor",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "at",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "same",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "time.",
+     "t": 3.32,
+     "end": 3.8
+    },
+    {
+     "w": "Guitarists",
+     "t": 4.08,
+     "end": 4.8
+    },
+    {
+     "w": "call",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "it",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "Hendrix",
+     "t": 5.44,
+     "end": 5.84
+    },
+    {
+     "w": "chord.",
+     "t": 5.92,
+     "end": 6.56
+    }
+   ]
+  },
+  "what": {
+   "text": "Take E seven: E, G sharp, D. Now add a G on top.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "E",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "seven:",
+     "t": 0.72,
+     "end": 1.6
+    },
+    {
+     "w": "E,",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "G",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "sharp,",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "D.",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "Now",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "add",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "a",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "G",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "on",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "top.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "what2": {
+   "text": "That's E seven sharp nine.",
+   "dur": 2.586122,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "E",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "seven",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "sharp",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "nine.",
+     "t": 1.84,
+     "end": 2.56
+    }
+   ]
+  },
+  "purple": {
+   "text": "It's the chord at the heart of Purple Haze, from 1967...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "chord",
+     "t": 0.44,
+     "end": 0.72
+    },
+    {
+     "w": "at",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "heart",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "Purple",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "Haze,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "from",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "1967...",
+     "t": 2.88,
+     "end": 4.32
+    }
+   ]
+  },
+  "taxman": {
+   "text": "The Beatles used a seven sharp nine in Taxman, a year earlier.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "Beatles",
+     "t": 0.16,
+     "end": 0.56
+    },
+    {
+     "w": "used",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "seven",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "sharp",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "nine",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "in",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "Taxman,",
+     "t": 2.48,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "year",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "earlier.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "jazz": {
+   "text": "And jazz and R&B players had used it long before rock adopted it.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "jazz",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "R&B",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "players",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "had",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "used",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "it",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "long",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "before",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "rock",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "adopted",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "it.",
+     "t": 4,
+     "end": 4.4
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it bite? E seven contains G sharp, the major third.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "bite?",
+     "t": 1.28,
+     "end": 1.96
+    },
+    {
+     "w": "E",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "seven",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "contains",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "G",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "sharp,",
+     "t": 3.84,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "major",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "third.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "why2": {
+   "text": "The sharp nine adds G natural, which sounds like the minor third. Both at once.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sharp",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "nine",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "adds",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "G",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "natural,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "which",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "sounds",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "like",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.32
+    },
+    {
+     "w": "minor",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "third.",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "Both",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "at",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "once.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "why3": {
+   "text": "Blues singers and guitarists bend between those two thirds.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Blues",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "singers",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "guitarists",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "bend",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "between",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "those",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "two",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "thirds.",
+     "t": 3.28,
+     "end": 4.08
+    }
+   ]
+  },
+  "why3b": {
+   "text": "This chord freezes that bend into one grip.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chord",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "freezes",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "that",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "bend",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "into",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "one",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "grip.",
+     "t": 2.8,
+     "end": 3.36
+    }
+   ]
+  },
+  "why4": {
+   "text": "On guitar, G sharp sits low and G sits high, almost an octave apart.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "guitar,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "G",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "sharp",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "sits",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "low",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "G",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "sits",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "high,",
+     "t": 3.6,
+     "end": 4.32
+    },
+    {
+     "w": "almost",
+     "t": 4.52,
+     "end": 4.72
+    },
+    {
+     "w": "an",
+     "t": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "octave",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "apart.",
+     "t": 5.44,
+     "end": 6.16
+    }
+   ]
+  },
+  "why4b": {
+   "text": "So instead of a muddy clash, you get a gritty, biting sound.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "instead",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "muddy",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "clash,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "you",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "get",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "gritty,",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "biting",
+     "t": 3.64,
+     "end": 3.92
+    },
+    {
+     "w": "sound.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why5": {
+   "text": "And the flat seventh, D, adds the bluesy pull of a dominant seventh.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "flat",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "seventh,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "D,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "adds",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "bluesy",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "pull",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "of",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "dominant",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "seventh.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "Major and minor in one chord. The blues, in a single grip.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Major",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "minor",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "chord.",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "The",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "blues,",
+     "t": 2.88,
+     "end": 3.68
+    },
+    {
+     "w": "in",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "single",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "grip.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
