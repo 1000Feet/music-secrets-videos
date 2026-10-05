@@ -1,0 +1,983 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "In reggae, the chords dodge the beat, and the drums skip beat one.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "reggae,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "chords",
+     "t": 1.16,
+     "end": 1.52
+    },
+    {
+     "w": "dodge",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "beat,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "drums",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "skip",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "beat",
+     "t": 3.96,
+     "end": 4.08
+    },
+    {
+     "w": "one.",
+     "t": 4.16,
+     "end": 4.72
+    }
+   ]
+  },
+  "what": {
+   "text": "The guitar and keys play short chords only on the and of each beat. That's the skank.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "guitar",
+     "t": 0.293,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "keys",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "play",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "short",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "chords",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "only",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "of",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "each",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "beat.",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "That's",
+     "t": 4.84,
+     "end": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "skank.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "what2": {
+   "text": "The drums leave beat one empty: the one drop.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "drums",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "leave",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "beat",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "one",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "empty:",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "one",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "drop.",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "s1": {
+   "text": "It's the sound of Bob Marley and the Wailers.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "sound",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "Bob",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "Marley",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "Wailers.",
+     "t": 2.08,
+     "end": 2.96
+    }
+   ]
+  },
+  "s1b": {
+   "text": "Drummer Carlton Barrett is closely associated with the one drop.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Drummer",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Carlton",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "Barrett",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "is",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "closely",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "associated",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "with",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "one",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "drop.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "s2": {
+   "text": "It grew out of ska in the early 1960s: fast, with offbeat horns and guitar.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "grew",
+     "t": 0.2,
+     "end": 0.4
+    },
+    {
+     "w": "out",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "ska",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "early",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "1960s:",
+     "t": 1.76,
+     "end": 3.2
+    },
+    {
+     "w": "fast,",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "with",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "offbeat",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "horns",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "guitar.",
+     "t": 5.28,
+     "end": 6.08
+    }
+   ]
+  },
+  "s3": {
+   "text": "Then rocksteady slowed it down...",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rocksteady",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "slowed",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "it",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "down...",
+     "t": 1.96,
+     "end": 2.48
+    }
+   ]
+  },
+  "s4": {
+   "text": "and by the late 1960s, it was reggae.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "by",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "late",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "1960s,",
+     "t": 0.68,
+     "end": 2
+    },
+    {
+     "w": "it",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "was",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "reggae.",
+     "t": 2.44,
+     "end": 3.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The skank leaves every downbeat empty...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "The",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "skank",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "leaves",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "every",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "downbeat",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "empty...",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "why1b": {
+   "text": "and your ear fills them in by itself.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "your",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "ear",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "fills",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "them",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "by",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "itself.",
+     "t": 1.8,
+     "end": 2.64
+    }
+   ]
+  },
+  "why2": {
+   "text": "The one drop: kick and snare hit together on beat three, and beat one stays empty.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "one",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "drop:",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "kick",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "snare",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "hit",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "together",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "on",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "beat",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "three,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "and",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "beat",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "one",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "stays",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "empty.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why2b": {
+   "text": "So the beat seems to drop on three.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "beat",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "seems",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "to",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "drop",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "on",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "three.",
+     "t": 1.84,
+     "end": 2.56
+    }
+   ]
+  },
+  "why3": {
+   "text": "Underneath, the bass is deep and melodic. It carries the tune.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Underneath,",
+     "t": 0,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "bass",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "is",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "deep",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "melodic.",
+     "t": 2.52,
+     "end": 3.12
+    },
+    {
+     "w": "It",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "carries",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "tune.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "why4": {
+   "text": "Empty downbeat, chords on the offbeat: the groove leans back instead of pushing forward.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Empty",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "downbeat,",
+     "t": 0.48,
+     "end": 1.36
+    },
+    {
+     "w": "chords",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "on",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "offbeat:",
+     "t": 2.16,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "groove",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "leans",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "back",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "instead",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "of",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "pushing",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "forward.",
+     "t": 5.68,
+     "end": 6.4
+    }
+   ]
+  },
+  "essence": {
+   "text": "Leave the downbeat empty, play the offbeat... and the groove starts to float.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Leave",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "downbeat",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "empty,",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "play",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "offbeat...",
+     "t": 2.32,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.56
+    },
+    {
+     "w": "groove",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "starts",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "to",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "float.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

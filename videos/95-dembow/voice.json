@@ -1,0 +1,881 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Boom, ch-boom, chick. That's the beat under reggaeton. It's called dembow.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Boom,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "ch-boom,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "chick.",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "That's",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "beat",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "under",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "reggaeton.",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "It's",
+     "t": 4.44,
+     "end": 4.56
+    },
+    {
+     "w": "called",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "dembow.",
+     "t": 5.04,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "Count sixteen steps. The kick hits every beat: one, five, nine, thirteen.",
+   "dur": 7.314286,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "Count",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "sixteen",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "steps.",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "The",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "kick",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "hits",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "every",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "beat:",
+     "t": 3.28,
+     "end": 4.16
+    },
+    {
+     "w": "one,",
+     "t": 4.24,
+     "end": 4.96
+    },
+    {
+     "w": "five,",
+     "t": 5.2,
+     "end": 5.76
+    },
+    {
+     "w": "nine,",
+     "t": 5.96,
+     "end": 6.48
+    },
+    {
+     "w": "thirteen.",
+     "t": 6.52,
+     "end": 7.36
+    }
+   ]
+  },
+  "what2": {
+   "text": "The snare answers on four and seven, then twelve and fifteen.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "snare",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "answers",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "on",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "four",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "seven,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "then",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "twelve",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "fifteen.",
+     "t": 3.893,
+     "end": 4.72
+    }
+   ]
+  },
+  "s1": {
+   "text": "The name comes from Dem Bow, a dancehall track by Shabba Ranks.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "name",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "comes",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "from",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "Dem",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "Bow,",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "dancehall",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "track",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "by",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "Shabba",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "Ranks.",
+     "t": 3.64,
+     "end": 4.4
+    }
+   ]
+  },
+  "s2": {
+   "text": "Producers in Puerto Rico and Panama built a new genre on its rhythm.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Producers",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Puerto",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "Rico",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "Panama",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "built",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "new",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "genre",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "on",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "its",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "rhythm.",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "s3": {
+   "text": "Then reggaeton went worldwide, with Gasolina...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "reggaeton",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "went",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "worldwide,",
+     "t": 1.6,
+     "end": 2.72
+    },
+    {
+     "w": "with",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "Gasolina...",
+     "t": 2.96,
+     "end": 3.92
+    }
+   ]
+  },
+  "s4": {
+   "text": "and Despacito.",
+   "dur": 1.567347,
+   "speechEnd": 1.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Despacito.",
+     "t": 0.32,
+     "end": 1.52
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? It has two layers. The kick is perfectly even.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "It",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "has",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "two",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "layers.",
+     "t": 2.64,
+     "end": 3.32
+    },
+    {
+     "w": "The",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "kick",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "is",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "perfectly",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "even.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "Add the snare, and you get three, three, two. The tresillo again.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "snare,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "you",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "get",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "three,",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "three,",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "two.",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "The",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "tresillo",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "again.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why3": {
+   "text": "Even against uneven. Your ear hears both at once...",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Even",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "against",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "uneven.",
+     "t": 0.88,
+     "end": 1.72
+    },
+    {
+     "w": "Your",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "ear",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "hears",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "both",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "at",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "once...",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "why3b": {
+   "text": "so the groove sways instead of marching.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "groove",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sways",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "instead",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "of",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "marching.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "It loops every bar, at a relaxed tempo, around ninety to a hundred beats per minute.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "loops",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "every",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "bar,",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "at",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.867,
+     "end": 1.893
+    },
+    {
+     "w": "relaxed",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "tempo,",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "around",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "ninety",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "to",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "a",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "hundred",
+     "t": 4.52,
+     "end": 4.72
+    },
+    {
+     "w": "beats",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "per",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "minute.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why5": {
+   "text": "And it comes from a long Caribbean line: tresillo, habanera, dancehall, reggaeton.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "comes",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "from",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "long",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "Caribbean",
+     "t": 1.4,
+     "end": 1.84
+    },
+    {
+     "w": "line:",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "tresillo,",
+     "t": 2.8,
+     "end": 3.6
+    },
+    {
+     "w": "habanera,",
+     "t": 3.68,
+     "end": 4.56
+    },
+    {
+     "w": "dancehall,",
+     "t": 4.76,
+     "end": 5.44
+    },
+    {
+     "w": "reggaeton.",
+     "t": 5.52,
+     "end": 6.4
+    }
+   ]
+  },
+  "essence": {
+   "text": "Even kicks, uneven snares... and the whole world starts to sway.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Even",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "kicks,",
+     "t": 0.48,
+     "end": 1.36
+    },
+    {
+     "w": "uneven",
+     "t": 1.48,
+     "end": 1.84
+    },
+    {
+     "w": "snares...",
+     "t": 1.92,
+     "end": 3.04
+    },
+    {
+     "w": "and",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "whole",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "world",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "starts",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "to",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "sway.",
+     "t": 4.96,
+     "end": 5.68
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,911 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Seven seconds of drums from 1969 ended up in thousands of tracks.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "seconds",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "of",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "drums",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "1969",
+     "t": 1.84,
+     "end": 3.04
+    },
+    {
+     "w": "ended",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "up",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "in",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "thousands",
+     "t": 4.08,
+     "end": 4.56
+    },
+    {
+     "w": "of",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "tracks.",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the Amen break: a four bar drum solo by Gregory Coleman...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Amen",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "break:",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "four",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "bar",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "drum",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "solo",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "by",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "Gregory",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "Coleman...",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "what2": {
+   "text": "in Amen, Brother, by The Winstons. The B side of Color Him Father.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "in",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Amen,",
+     "t": 0.48,
+     "end": 0.92
+    },
+    {
+     "w": "Brother,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "The",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "Winstons.",
+     "t": 2,
+     "end": 2.88
+    },
+    {
+     "w": "The",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "B",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "side",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "Color",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "Him",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "Father.",
+     "t": 4.8,
+     "end": 5.52
+    }
+   ]
+  },
+  "s1": {
+   "text": "Hip hop sampled it...",
+   "dur": 1.645714,
+   "speechEnd": 1.6,
+   "words": [
+    {
+     "w": "Hip",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "hop",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "sampled",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "it...",
+     "t": 1.04,
+     "end": 1.6
+    }
+   ]
+  },
+  "s2": {
+   "text": "and in the 1990s, above all jungle and drum and bass.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "in",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "1990s,",
+     "t": 0.4,
+     "end": 1.52
+    },
+    {
+     "w": "above",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "all",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "jungle",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "drum",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "bass.",
+     "t": 3.76,
+     "end": 4.56
+    }
+   ]
+  },
+  "s3": {
+   "text": "The band never got royalties for it.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "band",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "never",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "got",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "royalties",
+     "t": 1.32,
+     "end": 1.76
+    },
+    {
+     "w": "for",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "it.",
+     "t": 2.08,
+     "end": 2.56
+    }
+   ]
+  },
+  "s3b": {
+   "text": "In 2015, crowdfunding raised about 24,000 pounds for bandleader Richard Spencer.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "2015,",
+     "t": 0.24,
+     "end": 1.44
+    },
+    {
+     "w": "crowdfunding",
+     "t": 1.56,
+     "end": 2.08
+    },
+    {
+     "w": "raised",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "about",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "24,000",
+     "t": 2.96,
+     "end": 4
+    },
+    {
+     "w": "pounds",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "for",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "bandleader",
+     "t": 4.76,
+     "end": 5.28
+    },
+    {
+     "w": "Richard",
+     "t": 5.36,
+     "end": 5.68
+    },
+    {
+     "w": "Spencer.",
+     "t": 5.76,
+     "end": 6.56
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? It's funk drumming: kicks off the beat...",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "It's",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "funk",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "drumming:",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "kicks",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "off",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "beat...",
+     "t": 4.08,
+     "end": 4.72
+    }
+   ]
+  },
+  "why1b": {
+   "text": "snare on two and four, soft ghost notes in between. It already swings.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "snare",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "on",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "two",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "four,",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "soft",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "ghost",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "notes",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.96,
+     "end": 3
+    },
+    {
+     "w": "between.",
+     "t": 3.04,
+     "end": 4
+    },
+    {
+     "w": "It",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "already",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "swings.",
+     "t": 4.72,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "Coleman also varies it: the snare lands late, the kick shifts. Little surprises in a loop.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "Coleman",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "also",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "varies",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "it:",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "snare",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "lands",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "late,",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "kick",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "shifts.",
+     "t": 4.16,
+     "end": 4.96
+    },
+    {
+     "w": "Little",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "surprises",
+     "t": 5.44,
+     "end": 6.08
+    },
+    {
+     "w": "in",
+     "t": 6.12,
+     "end": 6.16
+    },
+    {
+     "w": "a",
+     "t": 6.24,
+     "end": 6.28
+    },
+    {
+     "w": "loop.",
+     "t": 6.32,
+     "end": 6.96
+    }
+   ]
+  },
+  "why3": {
+   "text": "Producers sped it up, to around 160 to 180 BPM in jungle...",
+   "dur": 5.799184,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Producers",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "sped",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "up,",
+     "t": 1.08,
+     "end": 1.52
+    },
+    {
+     "w": "to",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "around",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "160",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "t": 2.24,
+     "end": 3.36
+    },
+    {
+     "w": "180",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "BPM",
+     "t": 3.52,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "jungle...",
+     "t": 4.96,
+     "end": 5.76
+    }
+   ]
+  },
+  "why3b": {
+   "text": "chopped it into single hits, and rearranged them. A whole new instrument.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "chopped",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "into",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "single",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "hits,",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "rearranged",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "them.",
+     "t": 2.6,
+     "end": 2.96
+    },
+    {
+     "w": "A",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "whole",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "new",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "instrument.",
+     "t": 4,
+     "end": 4.88
+    }
+   ]
+  },
+  "why4": {
+   "text": "Short, clean, and unaccompanied: perfect for sampling.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Short,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "clean,",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "unaccompanied:",
+     "t": 1.84,
+     "end": 3.04
+    },
+    {
+     "w": "perfect",
+     "t": 3.24,
+     "end": 3.44
+    },
+    {
+     "w": "for",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "sampling.",
+     "t": 3.68,
+     "end": 4.48
+    }
+   ]
+  },
+  "essence": {
+   "text": "Seven seconds of drumming, chopped and rearranged... and it built whole genres.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "seconds",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "drumming,",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "chopped",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "rearranged...",
+     "t": 2.56,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "built",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "whole",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "genres.",
+     "t": 4.88,
+     "end": 5.84
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

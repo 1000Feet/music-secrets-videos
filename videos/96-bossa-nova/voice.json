@@ -1,0 +1,993 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Take samba's rhythm, soften it, add jazz chords. That's bossa nova.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "samba's",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "rhythm,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "soften",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "it,",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "add",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "jazz",
+     "t": 2.84,
+     "end": 3.12
+    },
+    {
+     "w": "chords.",
+     "t": 3.2,
+     "end": 3.84
+    },
+    {
+     "w": "That's",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "bossa",
+     "t": 4.48,
+     "end": 4.76
+    },
+    {
+     "w": "nova.",
+     "t": 4.8,
+     "end": 5.44
+    }
+   ]
+  },
+  "what": {
+   "text": "Born in Rio de Janeiro in the late 1950s, the name means new trend.",
+   "dur": 5.642449,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Born",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "in",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "Rio",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "de",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Janeiro",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "late",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "1950s,",
+     "t": 2,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "name",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "means",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "new",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "trend.",
+     "t": 4.72,
+     "end": 5.6
+    }
+   ]
+  },
+  "what2": {
+   "text": "João Gilberto's guitar style defined it.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "João",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Gilberto's",
+     "t": 0.52,
+     "end": 1
+    },
+    {
+     "w": "guitar",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "style",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "defined",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "it.",
+     "t": 2.64,
+     "end": 3.12
+    }
+   ]
+  },
+  "s1": {
+   "text": "Listen to The Girl from Ipanema, by Jobim and Vinícius de Moraes.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "The",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Girl",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "from",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "Ipanema,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "by",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Jobim",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "Vinícius",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "de",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "Moraes.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "s1b": {
+   "text": "F major seven, G seven, G minor seven, G flat seven.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "F",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "major",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "seven,",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "G",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "seven,",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "G",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "minor",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "seven,",
+     "t": 3.44,
+     "end": 4.32
+    },
+    {
+     "w": "G",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "flat",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "seven.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "s2": {
+   "text": "Stan Getz and João Gilberto's 1964 version won the Grammy for Record of the Year.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Stan",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Getz",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "João",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "Gilberto's",
+     "t": 1.4,
+     "end": 2
+    },
+    {
+     "w": "1964",
+     "t": 2.08,
+     "end": 3.12
+    },
+    {
+     "w": "version",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "won",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "Grammy",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "for",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "Record",
+     "t": 4.88,
+     "end": 5.2
+    },
+    {
+     "w": "of",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "the",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "Year.",
+     "t": 5.52,
+     "end": 6.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The thumb keeps the bass on the beat, like samba's big drum.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "thumb",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "keeps",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "bass",
+     "t": 2.92,
+     "end": 3.2
+    },
+    {
+     "w": "on",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "beat,",
+     "t": 3.52,
+     "end": 4.08
+    },
+    {
+     "w": "like",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "samba's",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "big",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "drum.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "The fingers pluck syncopated chords. Two layers, one guitar.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "fingers",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "pluck",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "syncopated",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "chords.",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "Two",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "layers,",
+     "t": 3.04,
+     "end": 3.84
+    },
+    {
+     "w": "one",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "guitar.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "why3": {
+   "text": "The harmony is jazz: major sevenths, like F major seven...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "harmony",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "jazz:",
+     "t": 0.96,
+     "end": 2
+    },
+    {
+     "w": "major",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "sevenths,",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "like",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "F",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "major",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "seven...",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3b": {
+   "text": "and G seven, a secondary dominant: the five of five.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "seven,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "secondary",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "dominant:",
+     "t": 2.16,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "five",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "of",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "five.",
+     "t": 3.76,
+     "end": 4.56
+    }
+   ]
+  },
+  "why4": {
+   "text": "G flat seven is a tritone substitution for C seven...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "flat",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "seven",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "is",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "tritone",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "substitution",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "for",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "C",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "seven...",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why4b": {
+   "text": "and slides down a half step, into F major seven.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "slides",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "down",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "half",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "step,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "into",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "F",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "major",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "seven.",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "why5": {
+   "text": "The bridge jumps up a half step to G flat major seven: a sunny lift.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bridge",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "jumps",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "up",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "half",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "step",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "to",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "G",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "flat",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "major",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "seven:",
+     "t": 3.12,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "sunny",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "lift.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "why6": {
+   "text": "The singing is soft, almost whispered. Cool, not loud.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "singing",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "soft,",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "almost",
+     "t": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "whispered.",
+     "t": 2.16,
+     "end": 3
+    },
+    {
+     "w": "Cool,",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "not",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "loud.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "essence": {
+   "text": "Samba's heartbeat, jazz colours, and a whisper. That's bossa nova.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Samba's",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "heartbeat,",
+     "t": 0.56,
+     "end": 1.44
+    },
+    {
+     "w": "jazz",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "colours,",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "whisper.",
+     "t": 2.96,
+     "end": 4
+    },
+    {
+     "w": "That's",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "bossa",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "nova.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
