@@ -1,0 +1,946 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One clarinet slides up... and jazz walks into the concert hall.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "clarinet",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "slides",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "up...",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "jazz",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "walks",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "into",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "concert",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "hall.",
+     "t": 4.48,
+     "end": 4.96
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Rhapsody in Blue, by George Gershwin, premiered on February 12, 1924, at Aeolian Hall, New York.",
+   "dur": 8.75102,
+   "speechEnd": 8.8,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "Rhapsody",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "Blue,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "by",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "George",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "Gershwin,",
+     "t": 2.68,
+     "end": 3.6
+    },
+    {
+     "w": "premiered",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "on",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "February",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "12,",
+     "t": 4.88,
+     "end": 5.36
+    },
+    {
+     "w": "1924,",
+     "t": 5.44,
+     "end": 6.72
+    },
+    {
+     "w": "at",
+     "t": 6.8,
+     "end": 6.88
+    },
+    {
+     "w": "Aeolian",
+     "t": 6.96,
+     "end": 7.44
+    },
+    {
+     "w": "Hall,",
+     "t": 7.52,
+     "end": 8
+    },
+    {
+     "w": "New",
+     "t": 8.08,
+     "end": 8.16
+    },
+    {
+     "w": "York.",
+     "t": 8.24,
+     "end": 8.8
+    }
+   ]
+  },
+  "what2": {
+   "text": "Paul Whiteman's orchestra played, with Gershwin at the piano. Ferde Grofé orchestrated it.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Paul",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Whiteman's",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "orchestra",
+     "t": 0.92,
+     "end": 1.28
+    },
+    {
+     "w": "played,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "with",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "Gershwin",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "at",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "piano.",
+     "t": 2.96,
+     "end": 3.72
+    },
+    {
+     "w": "Ferde",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "Grofé",
+     "t": 4.44,
+     "end": 4.88
+    },
+    {
+     "w": "orchestrated",
+     "t": 4.96,
+     "end": 5.6
+    },
+    {
+     "w": "it.",
+     "t": 5.68,
+     "end": 6.08
+    }
+   ]
+  },
+  "open": {
+   "text": "It opens with a clarinet trill... and a long, smooth slide upward, a glissando.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opens",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "with",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "clarinet",
+     "t": 1,
+     "end": 1.44
+    },
+    {
+     "w": "trill...",
+     "t": 1.52,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "long,",
+     "t": 2.64,
+     "end": 3.28
+    },
+    {
+     "w": "smooth",
+     "t": 3.56,
+     "end": 3.84
+    },
+    {
+     "w": "slide",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "upward,",
+     "t": 4.4,
+     "end": 5.28
+    },
+    {
+     "w": "a",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "glissando.",
+     "t": 5.48,
+     "end": 6.48
+    }
+   ]
+  },
+  "gorman": {
+   "text": "That slide was the clarinettist Ross Gorman's idea, first played as a joke in rehearsal.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "slide",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "was",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "clarinettist",
+     "t": 1.08,
+     "end": 1.6
+    },
+    {
+     "w": "Ross",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "Gorman's",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "idea,",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "first",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "played",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "as",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "joke",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "in",
+     "t": 4.68,
+     "end": 4.72
+    },
+    {
+     "w": "rehearsal.",
+     "t": 4.8,
+     "end": 5.68
+    }
+   ]
+  },
+  "gorman2": {
+   "text": "Gershwin kept it.",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Gershwin",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "kept",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "it.",
+     "t": 0.96,
+     "end": 1.44
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? A glissando slides through every pitch in between...",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.72
+    },
+    {
+     "w": "A",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "glissando",
+     "t": 2.12,
+     "end": 2.8
+    },
+    {
+     "w": "slides",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "through",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "every",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "pitch",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "in",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "between...",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1v": {
+   "text": "like a voice, or a trombone.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "like",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "voice,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "or",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "trombone.",
+     "t": 1.68,
+     "end": 2.64
+    }
+   ]
+  },
+  "why1b": {
+   "text": "A piano can't do that.",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "piano",
+     "t": 0.16,
+     "end": 0.56
+    },
+    {
+     "w": "can't",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "do",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "that.",
+     "t": 1.2,
+     "end": 1.92
+    }
+   ]
+  },
+  "why1c": {
+   "text": "It sounds playful, cheeky, jazzy.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sounds",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "playful,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "cheeky,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "jazzy.",
+     "t": 2.4,
+     "end": 3.2
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then Gershwin filled a classical piece with blue notes: the flat third and the flat seventh.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Gershwin",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "filled",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "classical",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "piece",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "with",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "blue",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "notes:",
+     "t": 2.8,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "flat",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "third",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "and",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "flat",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "seventh.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "why3": {
+   "text": "Jazz rhythm and harmony, in the form of a concert piece for piano and orchestra.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Jazz",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "rhythm",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "harmony,",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "form",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "concert",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "piece",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "for",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "piano",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "and",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "orchestra.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "why4": {
+   "text": "And a rhapsody is a free, episodic form. Themes come and go, like improvisation.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "rhapsody",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "free,",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "episodic",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "form.",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "Themes",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "come",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "go,",
+     "t": 4.16,
+     "end": 4.72
+    },
+    {
+     "w": "like",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "improvisation.",
+     "t": 5.04,
+     "end": 6.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "One cheeky slide... and jazz and classical music meet in the same room.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "cheeky",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "slide...",
+     "t": 0.96,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "jazz",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "classical",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "music",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "meet",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "in",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "same",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "room.",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

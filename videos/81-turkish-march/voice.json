@@ -1,0 +1,999 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A piano pretending to be a military band... and a tune that circles around itself.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "piano",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "pretending",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "to",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "be",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "military",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "band...",
+     "t": 2.4,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "tune",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "that",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "circles",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "around",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "itself.",
+     "t": 5.2,
+     "end": 6
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the Rondo alla turca, from Mozart's Piano Sonata number eleven, published in 1784.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Rondo",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "alla",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "turca,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "from",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "Mozart's",
+     "t": 2.12,
+     "end": 2.56
+    },
+    {
+     "w": "Piano",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "Sonata",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "number",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "eleven,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "published",
+     "t": 4.76,
+     "end": 4.96
+    },
+    {
+     "w": "in",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "1784.",
+     "t": 5.2,
+     "end": 6.64
+    }
+   ]
+  },
+  "what2": {
+   "text": "It opens in A minor, in quick, even notes.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opens",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "A",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "minor,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "quick,",
+     "t": 2.24,
+     "end": 2.8
+    },
+    {
+     "w": "even",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "notes.",
+     "t": 3.2,
+     "end": 4
+    }
+   ]
+  },
+  "jan": {
+   "text": "It imitates the Ottoman Janissary bands, fashionable in Vienna, with bass drums, cymbals and triangles.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "imitates",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "Ottoman",
+     "t": 0.92,
+     "end": 1.28
+    },
+    {
+     "w": "Janissary",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "bands,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "fashionable",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "in",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "Vienna,",
+     "t": 3.44,
+     "end": 4.24
+    },
+    {
+     "w": "with",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "bass",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "drums,",
+     "t": 4.8,
+     "end": 5.36
+    },
+    {
+     "w": "cymbals",
+     "t": 5.44,
+     "end": 6
+    },
+    {
+     "w": "and",
+     "t": 6.08,
+     "end": 6.16
+    },
+    {
+     "w": "triangles.",
+     "t": 6.24,
+     "end": 7.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it stick? Each group circles one note: a step above, a half step below, and back.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "stick?",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "Each",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "group",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "circles",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "one",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "note:",
+     "t": 3.52,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "step",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "above,",
+     "t": 4.64,
+     "end": 5.36
+    },
+    {
+     "w": "a",
+     "t": 5.44,
+     "end": 5.48
+    },
+    {
+     "w": "half",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "step",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "below,",
+     "t": 6.08,
+     "end": 6.8
+    },
+    {
+     "w": "and",
+     "t": 6.88,
+     "end": 6.96
+    },
+    {
+     "w": "back.",
+     "t": 7.04,
+     "end": 7.68
+    }
+   ]
+  },
+  "why1b": {
+   "text": "B, A, G sharp, A... then it lands on C.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "B,",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "A,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "G",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "sharp,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "A...",
+     "t": 2.48,
+     "end": 3.36
+    },
+    {
+     "w": "then",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "it",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "lands",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "on",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "C.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "These turns start on A, then C, then E. Together, they climb the A minor chord.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "These",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "turns",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "start",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "on",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "A,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "then",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "C,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "then",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "E.",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "Together,",
+     "t": 4.32,
+     "end": 5.04
+    },
+    {
+     "w": "they",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "climb",
+     "t": 5.28,
+     "end": 5.6
+    },
+    {
+     "w": "the",
+     "t": 5.64,
+     "end": 5.68
+    },
+    {
+     "w": "A",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "minor",
+     "t": 6.08,
+     "end": 6.32
+    },
+    {
+     "w": "chord.",
+     "t": 6.4,
+     "end": 7.04
+    }
+   ]
+  },
+  "why2b": {
+   "text": "An arpeggio in disguise.",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "An",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "arpeggio",
+     "t": 0.28,
+     "end": 0.96
+    },
+    {
+     "w": "in",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "disguise.",
+     "t": 1.32,
+     "end": 2.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "The G sharp and D sharp are raised notes, pulling up into A and E. Leading tones.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "G",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "sharp",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "D",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "sharp",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "are",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "raised",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "notes,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "pulling",
+     "t": 3.16,
+     "end": 3.44
+    },
+    {
+     "w": "up",
+     "t": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "into",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "A",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "and",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "E.",
+     "t": 4.8,
+     "end": 5.44
+    },
+    {
+     "w": "Leading",
+     "t": 5.76,
+     "end": 6.08
+    },
+    {
+     "w": "tones.",
+     "t": 6.16,
+     "end": 7.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "In the A major section, the left hand plays rolled, crashing chords, like drums and cymbals.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "A",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "major",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "section,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "left",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "hand",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "plays",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "rolled,",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "crashing",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "chords,",
+     "t": 4.08,
+     "end": 4.8
+    },
+    {
+     "w": "like",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "drums",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "and",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "cymbals.",
+     "t": 5.76,
+     "end": 6.72
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Some pianos of that era even had a Janissary pedal, with a drum or bells.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "pianos",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "that",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "era",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "even",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "had",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "Janissary",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "pedal,",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "with",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "drum",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "or",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "bells.",
+     "t": 4.64,
+     "end": 5.44
+    }
+   ]
+  },
+  "why5": {
+   "text": "And it's a rondo: the main theme keeps coming back between contrasting sections.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it's",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "rondo:",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "main",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "theme",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "keeps",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "coming",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "back",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "between",
+     "t": 3.64,
+     "end": 3.84
+    },
+    {
+     "w": "contrasting",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "sections.",
+     "t": 4.64,
+     "end": 5.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "Little turns climbing a chord, and a piano playing soldier.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Little",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "turns",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "climbing",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "chord,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "piano",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "playing",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "soldier.",
+     "t": 3.36,
+     "end": 4.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

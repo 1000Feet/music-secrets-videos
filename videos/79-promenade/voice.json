@@ -1,0 +1,970 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "This music walks... but with an uneven step.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "music",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "walks...",
+     "t": 0.8,
+     "end": 2
+    },
+    {
+     "w": "but",
+     "t": 2.2,
+     "end": 2.4
+    },
+    {
+     "w": "with",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "an",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "uneven",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "step.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the Promenade from Pictures at an Exhibition, by Modest Mussorgsky, 1874.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Promenade",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Pictures",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "at",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "an",
+     "t": 2.32,
+     "end": 2.36
+    },
+    {
+     "w": "Exhibition,",
+     "t": 2.4,
+     "end": 3.36
+    },
+    {
+     "w": "by",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "Modest",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "Mussorgsky,",
+     "t": 4.04,
+     "end": 5.12
+    },
+    {
+     "w": "1874.",
+     "t": 5.24,
+     "end": 6.64
+    }
+   ]
+  },
+  "what2": {
+   "text": "Written for piano, after an exhibition of paintings by his friend...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Written",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "for",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "piano,",
+     "t": 0.56,
+     "end": 1.32
+    },
+    {
+     "w": "after",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "an",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "exhibition",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "of",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "paintings",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "by",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "his",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "friend...",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "what2b": {
+   "text": "Viktor Hartmann, who had died in 1873.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Viktor",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Hartmann,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "who",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "had",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "died",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "1873.",
+     "t": 2.24,
+     "end": 3.76
+    }
+   ]
+  },
+  "walk": {
+   "text": "The Promenade is the visitor, walking from one painting to the next.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Promenade",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "visitor,",
+     "t": 1.2,
+     "end": 2.08
+    },
+    {
+     "w": "walking",
+     "t": 2.28,
+     "end": 2.48
+    },
+    {
+     "w": "from",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "one",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "painting",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "next.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "ravel": {
+   "text": "Maurice Ravel's 1922 orchestration, opening with a solo trumpet, made it world famous.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Maurice",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Ravel's",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "1922",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "orchestration,",
+     "t": 2,
+     "end": 3.12
+    },
+    {
+     "w": "opening",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "with",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "solo",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "trumpet,",
+     "t": 4.24,
+     "end": 5.04
+    },
+    {
+     "w": "made",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "it",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "world",
+     "t": 5.6,
+     "end": 5.92
+    },
+    {
+     "w": "famous.",
+     "t": 6.08,
+     "end": 6.88
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel like walking? The bars alternate five and six beats.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "feel",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "like",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "walking?",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "The",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "bars",
+     "t": 2.84,
+     "end": 3.04
+    },
+    {
+     "w": "alternate",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "five",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "and",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "six",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "beats.",
+     "t": 4.72,
+     "end": 5.44
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Five plus six: eleven beats before the pattern repeats.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "plus",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "six:",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "eleven",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "beats",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "before",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "pattern",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "repeats.",
+     "t": 3.6,
+     "end": 4.56
+    }
+   ]
+  },
+  "why2": {
+   "text": "Irregular, like a real walk. Strolling, looking, pausing.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Irregular,",
+     "t": 0,
+     "end": 1.12
+    },
+    {
+     "w": "like",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "real",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "walk.",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "Strolling,",
+     "t": 2.72,
+     "end": 3.68
+    },
+    {
+     "w": "looking,",
+     "t": 3.76,
+     "end": 4.64
+    },
+    {
+     "w": "pausing.",
+     "t": 4.72,
+     "end": 5.52
+    }
+   ]
+  },
+  "why3": {
+   "text": "Then, call and response. A single line states the tune...",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Then,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "call",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "response.",
+     "t": 1.28,
+     "end": 2.2
+    },
+    {
+     "w": "A",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "single",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "line",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "states",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "tune...",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "why3b": {
+   "text": "and full chords answer it, like a Russian choir.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "full",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chords",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "answer",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "it,",
+     "t": 1.64,
+     "end": 2
+    },
+    {
+     "w": "like",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "Russian",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "choir.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "why4": {
+   "text": "It's not a European march, in regular four four...",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "not",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "a",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "European",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "march,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "regular",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "four",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "four...",
+     "t": 3.04,
+     "end": 3.52
+    }
+   ]
+  },
+  "why4b": {
+   "text": "It's meant to sound Russian, like a folk song.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "meant",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "to",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "sound",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "Russian,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "like",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "folk",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "song.",
+     "t": 2.4,
+     "end": 2.96
+    }
+   ]
+  },
+  "why5": {
+   "text": "And each time it returns between pictures, it has changed. Shorter, softer, sadder.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "each",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "time",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "returns",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "between",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "pictures,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "it",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "has",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "changed.",
+     "t": 3.04,
+     "end": 3.92
+    },
+    {
+     "w": "Shorter,",
+     "t": 4.24,
+     "end": 5.12
+    },
+    {
+     "w": "softer,",
+     "t": 5.28,
+     "end": 6.32
+    },
+    {
+     "w": "sadder.",
+     "t": 6.48,
+     "end": 7.2
+    }
+   ]
+  },
+  "why5b": {
+   "text": "The visitor's mood, after each painting.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "visitor's",
+     "t": 0.36,
+     "end": 0.64
+    },
+    {
+     "w": "mood,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "after",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "each",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "painting.",
+     "t": 2.32,
+     "end": 3.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "An uneven step and a simple tune... and you're walking through a gallery.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "An",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "uneven",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "step",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "simple",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "tune...",
+     "t": 2.24,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "you're",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "walking",
+     "t": 3.88,
+     "end": 4.08
+    },
+    {
+     "w": "through",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "gallery.",
+     "t": 4.68,
+     "end": 5.2
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

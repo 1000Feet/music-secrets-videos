@@ -1,0 +1,988 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A melody that slides down, one half step at a time... over a rhythm that sways.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "melody",
+     "t": 0.28,
+     "end": 0.64
+    },
+    {
+     "w": "that",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "slides",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "down,",
+     "t": 1.52,
+     "end": 2.32
+    },
+    {
+     "w": "one",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "half",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "step",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "at",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "time...",
+     "t": 3.92,
+     "end": 4.64
+    },
+    {
+     "w": "over",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "rhythm",
+     "t": 5.12,
+     "end": 5.6
+    },
+    {
+     "w": "that",
+     "t": 5.72,
+     "end": 5.84
+    },
+    {
+     "w": "sways.",
+     "t": 5.92,
+     "end": 6.88
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Habanera, Carmen's aria from Bizet's opera, premiered in Paris in 1875.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "Habanera,",
+     "t": 0.64,
+     "end": 1.68
+    },
+    {
+     "w": "Carmen's",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "aria",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "from",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "Bizet's",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "opera,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "premiered",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "in",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "Paris",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "in",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "1875.",
+     "t": 5.36,
+     "end": 6.88
+    }
+   ]
+  },
+  "melody": {
+   "text": "The tune slides down: D, C sharp, C, B, B flat, A.",
+   "dur": 7.079184,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tune",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "slides",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "down:",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "D,",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "C",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "sharp,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "C,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "B,",
+     "t": 4.72,
+     "end": 5.36
+    },
+    {
+     "w": "B",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "flat,",
+     "t": 5.68,
+     "end": 6.4
+    },
+    {
+     "w": "A.",
+     "t": 6.48,
+     "end": 7.04
+    }
+   ]
+  },
+  "bass": {
+   "text": "Underneath, a low D repeats the habanera rhythm.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Underneath,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "low",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "D",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "repeats",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "habanera",
+     "t": 2.4,
+     "end": 2.96
+    },
+    {
+     "w": "rhythm.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "yr": {
+   "text": "Bizet adapted the tune from El Arreglito, by Sebastián Yradier, believing it was a folk song.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Bizet",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "adapted",
+     "t": 0.6,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "tune",
+     "t": 1.08,
+     "end": 1.36
+    },
+    {
+     "w": "from",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "El",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "Arreglito,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "by",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "Sebastián",
+     "t": 3.04,
+     "end": 3.6
+    },
+    {
+     "w": "Yradier,",
+     "t": 3.68,
+     "end": 4.56
+    },
+    {
+     "w": "believing",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "it",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "was",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "a",
+     "t": 5.32,
+     "end": 5.36
+    },
+    {
+     "w": "folk",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "song.",
+     "t": 5.68,
+     "end": 6.24
+    }
+   ]
+  },
+  "yr2": {
+   "text": "He later credited Yradier in the score.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "later",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "credited",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "Yradier",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "in",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "score.",
+     "t": 1.92,
+     "end": 2.72
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so seductive? Six notes, each just a half step lower.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "so",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "seductive?",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "Six",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "notes,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "each",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "just",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "half",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "step",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "lower.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Slippery, never settling... just like Carmen.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Slippery,",
+     "t": 0,
+     "end": 1.12
+    },
+    {
+     "w": "never",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "settling...",
+     "t": 1.6,
+     "end": 2.72
+    },
+    {
+     "w": "just",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "like",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "Carmen.",
+     "t": 3.28,
+     "end": 4
+    }
+   ]
+  },
+  "why2": {
+   "text": "The rhythm comes from Cuba. It is related to the tresillo: three, three, two.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "rhythm",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "comes",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "from",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "Cuba.",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "It",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "is",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "related",
+     "t": 2.52,
+     "end": 2.72
+    },
+    {
+     "w": "to",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "tresillo:",
+     "t": 3.04,
+     "end": 4.16
+    },
+    {
+     "w": "three,",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "three,",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "two.",
+     "t": 5.52,
+     "end": 6
+    }
+   ]
+  },
+  "why2b": {
+   "text": "The same family as many Latin and pop grooves.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "family",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "as",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "many",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "Latin",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "pop",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "grooves.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "why3": {
+   "text": "And the low D never moves. That's a pedal point.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "low",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "D",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "never",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "moves.",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "That's",
+     "t": 2.48,
+     "end": 2.68
+    },
+    {
+     "w": "a",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "pedal",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "point.",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3b": {
+   "text": "So the sliding melody keeps rubbing against it.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "sliding",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "melody",
+     "t": 1,
+     "end": 1.44
+    },
+    {
+     "w": "keeps",
+     "t": 1.48,
+     "end": 1.76
+    },
+    {
+     "w": "rubbing",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "against",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "it.",
+     "t": 2.84,
+     "end": 3.2
+    }
+   ]
+  },
+  "why4": {
+   "text": "The verse is in D minor. Then the refrain switches to D major.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "verse",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "in",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "D",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "minor.",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "Then",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "refrain",
+     "t": 2.6,
+     "end": 3.04
+    },
+    {
+     "w": "switches",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "D",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "major.",
+     "t": 4,
+     "end": 4.8
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Dark and teasing turns bright and bold.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Dark",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "teasing",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "turns",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "bright",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "bold.",
+     "t": 2.72,
+     "end": 3.52
+    }
+   ]
+  },
+  "essence": {
+   "text": "A melody that slips through your fingers, over a rhythm that never stops swaying.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "melody",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "that",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "slips",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "through",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "your",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "fingers,",
+     "t": 1.72,
+     "end": 2.72
+    },
+    {
+     "w": "over",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "rhythm",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "that",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "never",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "stops",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "swaying.",
+     "t": 4.88,
+     "end": 5.68
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
