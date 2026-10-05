@@ -1,0 +1,1004 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Do, re, mi, fa, so, la, ti, do. But why these notes?",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Do,",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "re,",
+     "t": 0.48,
+     "end": 0.84
+    },
+    {
+     "w": "mi,",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "fa,",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "so,",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "la,",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "ti,",
+     "t": 2.76,
+     "end": 3.04
+    },
+    {
+     "w": "do.",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "But",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "why",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "these",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "notes?",
+     "t": 4.96,
+     "end": 5.76
+    }
+   ]
+  },
+  "what": {
+   "text": "The major scale is a pattern: whole, whole, half, whole, whole, whole, half.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "major",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "scale",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "pattern:",
+     "t": 1.28,
+     "end": 2.24
+    },
+    {
+     "w": "whole,",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "whole,",
+     "t": 2.96,
+     "end": 3.52
+    },
+    {
+     "w": "half,",
+     "t": 3.72,
+     "end": 4.24
+    },
+    {
+     "w": "whole,",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "whole,",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "whole,",
+     "t": 5.6,
+     "end": 6
+    },
+    {
+     "w": "half.",
+     "t": 6.24,
+     "end": 6.72
+    }
+   ]
+  },
+  "what2": {
+   "text": "Start on C, and it's simply all the white keys.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "C,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "it's",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "simply",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "all",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.52
+    },
+    {
+     "w": "white",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "keys.",
+     "t": 2.8,
+     "end": 3.52
+    }
+   ]
+  },
+  "joy": {
+   "text": "Joy to the World opens with the whole scale, going down.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Joy",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "World",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "opens",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "with",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "whole",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "scale,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "going",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "down.",
+     "t": 3.28,
+     "end": 4
+    }
+   ]
+  },
+  "doremi": {
+   "text": "And Rodgers and Hammerstein built a whole song on its syllables: Do Re Mi.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Rodgers",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Hammerstein",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "built",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "whole",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "song",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "its",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "syllables:",
+     "t": 3.04,
+     "end": 4.08
+    },
+    {
+     "w": "Do",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "Re",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "Mi.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? There are only two half steps: mi to fa, and ti to do.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "There",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "are",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "only",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "two",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "half",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "steps:",
+     "t": 3.2,
+     "end": 4.08
+    },
+    {
+     "w": "mi",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "to",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "fa,",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "ti",
+     "t": 5.84,
+     "end": 6.08
+    },
+    {
+     "w": "to",
+     "t": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "do.",
+     "t": 6.48,
+     "end": 6.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "That uneven spacing tells your ear where home is.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "uneven",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "spacing",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "tells",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "your",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "ear",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "where",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "home",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "is.",
+     "t": 3.32,
+     "end": 3.76
+    }
+   ]
+  },
+  "lead": {
+   "text": "Ti sits just a half step under do, so it pulls up into it: the leading tone.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Ti",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "sits",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "just",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "half",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "step",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "under",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "do,",
+     "t": 2,
+     "end": 2.72
+    },
+    {
+     "w": "so",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "it",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "pulls",
+     "t": 3.32,
+     "end": 3.6
+    },
+    {
+     "w": "up",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "into",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "it:",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "leading",
+     "t": 4.96,
+     "end": 5.28
+    },
+    {
+     "w": "tone.",
+     "t": 5.36,
+     "end": 5.92
+    }
+   ]
+  },
+  "chords": {
+   "text": "The three main chords, C, F and G, contain exactly the seven notes of the scale.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "three",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "main",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "chords,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "C,",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "F",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "G,",
+     "t": 2.88,
+     "end": 3.52
+    },
+    {
+     "w": "contain",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "exactly",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "seven",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "notes",
+     "t": 5.28,
+     "end": 5.52
+    },
+    {
+     "w": "of",
+     "t": 5.56,
+     "end": 5.6
+    },
+    {
+     "w": "the",
+     "t": 5.68,
+     "end": 5.72
+    },
+    {
+     "w": "scale.",
+     "t": 5.76,
+     "end": 6.48
+    }
+   ]
+  },
+  "fifths": {
+   "text": "And those seven notes are seven stacked fifths: F, C, G, D, A, E, B.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "those",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "seven",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "notes",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "are",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "seven",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "stacked",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "fifths:",
+     "t": 2.64,
+     "end": 3.68
+    },
+    {
+     "w": "F,",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "C,",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "G,",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "D,",
+     "t": 5.68,
+     "end": 6.08
+    },
+    {
+     "w": "A,",
+     "t": 6.32,
+     "end": 6.8
+    },
+    {
+     "w": "E,",
+     "t": 6.96,
+     "end": 7.32
+    },
+    {
+     "w": "B.",
+     "t": 7.44,
+     "end": 8
+    }
+   ]
+  },
+  "guido": {
+   "text": "The syllables come from Guido d'Arezzo, in the 11th century...",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "syllables",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "come",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "from",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "Guido",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "d'Arezzo,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "in",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.76
+    },
+    {
+     "w": "11th",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "century...",
+     "t": 3.28,
+     "end": 4.08
+    }
+   ]
+  },
+  "guido2": {
+   "text": "taken from the first syllables of the lines of a Latin hymn. Ut later became do.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "taken",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "from",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "first",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "syllables",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "lines",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "of",
+     "t": 2.4,
+     "end": 2.44
+    },
+    {
+     "w": "a",
+     "t": 2.48,
+     "end": 2.52
+    },
+    {
+     "w": "Latin",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "hymn.",
+     "t": 2.96,
+     "end": 3.68
+    },
+    {
+     "w": "Ut",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "later",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "became",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "do.",
+     "t": 5.68,
+     "end": 6.32
+    }
+   ]
+  },
+  "essence": {
+   "text": "Seven notes, two half steps. That small asymmetry gives every note a role.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "notes,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "half",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "steps.",
+     "t": 1.76,
+     "end": 2.44
+    },
+    {
+     "w": "That",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "small",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "asymmetry",
+     "t": 3.44,
+     "end": 4.24
+    },
+    {
+     "w": "gives",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "every",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "note",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "a",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "role.",
+     "t": 5.52,
+     "end": 6.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
