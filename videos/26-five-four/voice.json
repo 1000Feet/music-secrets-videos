@@ -1,0 +1,757 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Most songs count to four. Add just one more beat, and the music starts to lean.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "songs",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "count",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "to",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "four.",
+     "t": 1.48,
+     "end": 2.16
+    },
+    {
+     "w": "Add",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "just",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "one",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "more",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "beat,",
+     "t": 3.36,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "music",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "starts",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "to",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "lean.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "what": {
+   "text": "This is five four time: five beats in every bar.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "five",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "four",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "time:",
+     "t": 1.28,
+     "end": 2.16
+    },
+    {
+     "w": "five",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "beats",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "every",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "bar.",
+     "t": 3.52,
+     "end": 4.16
+    }
+   ]
+  },
+  "what2": {
+   "text": "But nobody hears five equal beats. We feel them as three plus two.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "nobody",
+     "t": 0.28,
+     "end": 0.64
+    },
+    {
+     "w": "hears",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "five",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "equal",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "beats.",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "We",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "feel",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "them",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "as",
+     "t": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "three",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "plus",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "two.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "take5": {
+   "text": "It's Take Five by the Dave Brubeck Quartet...",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Take",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "Five",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "by",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "Dave",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "Brubeck",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "Quartet...",
+     "t": 2.48,
+     "end": 3.28
+    }
+   ]
+  },
+  "mi": {
+   "text": "the Mission: Impossible theme...",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Mission:",
+     "t": 0.24,
+     "end": 0.693
+    },
+    {
+     "w": "Impossible",
+     "t": 0.907,
+     "end": 1.12
+    },
+    {
+     "w": "theme...",
+     "t": 1.2,
+     "end": 1.92
+    }
+   ]
+  },
+  "mars": {
+   "text": "and Mars, the Bringer of War, by Gustav Holst.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Mars,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "Bringer",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "War,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "by",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "Gustav",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "Holst.",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so restless? Your brain groups beats in twos and threes.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "restless?",
+     "t": 1.6,
+     "end": 2.8
+    },
+    {
+     "w": "Your",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "brain",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "groups",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "beats",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "in",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "twos",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "and",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "threes.",
+     "t": 5.04,
+     "end": 5.84
+    }
+   ]
+  },
+  "four": {
+   "text": "Four splits evenly: two plus two.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "splits",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "evenly:",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "two",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "plus",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "two.",
+     "t": 2.96,
+     "end": 3.36
+    }
+   ]
+  },
+  "five": {
+   "text": "Five can't. So it becomes three plus two... or two plus three.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "can't.",
+     "t": 0.56,
+     "end": 1.32
+    },
+    {
+     "w": "So",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "it",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "becomes",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "three",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "plus",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "two...",
+     "t": 3.12,
+     "end": 4.08
+    },
+    {
+     "w": "or",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "two",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "plus",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "three.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "That uneven grouping feels like a limp, or a lean forward.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "uneven",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "grouping",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "feels",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "like",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "limp,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "or",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "lean",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "forward.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "why4": {
+   "text": "Restless and suspenseful. Perfect for spies and for war.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Restless",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "suspenseful.",
+     "t": 1.08,
+     "end": 2
+    },
+    {
+     "w": "Perfect",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "for",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "spies",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "for",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "war.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "One extra beat breaks the symmetry, and tension appears out of pure counting.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "extra",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "beat",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "breaks",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.8
+    },
+    {
+     "w": "symmetry,",
+     "t": 1.84,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "tension",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "appears",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "out",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "of",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "pure",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "counting.",
+     "t": 4.88,
+     "end": 5.68
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

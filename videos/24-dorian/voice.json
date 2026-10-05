@@ -1,0 +1,979 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Take a minor scale, change just one note... and suddenly it sounds cool.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "minor",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "scale,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "change",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "just",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "one",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "note...",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "suddenly",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "it",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "sounds",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "cool.",
+     "t": 4.76,
+     "end": 5.28
+    }
+   ]
+  },
+  "what": {
+   "text": "Play the white keys from D to D. That's D Dorian: D, E, F, G, A, B, C.",
+   "dur": 8.202449,
+   "speechEnd": 8.24,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "white",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "keys",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "D",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "D.",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "That's",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "D",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "Dorian:",
+     "t": 3.52,
+     "end": 4.48
+    },
+    {
+     "w": "D,",
+     "t": 4.56,
+     "end": 5
+    },
+    {
+     "w": "E,",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "F,",
+     "t": 5.68,
+     "end": 6.04
+    },
+    {
+     "w": "G,",
+     "t": 6.16,
+     "end": 6.48
+    },
+    {
+     "w": "A,",
+     "t": 6.72,
+     "end": 7.08
+    },
+    {
+     "w": "B,",
+     "t": 7.2,
+     "end": 7.56
+    },
+    {
+     "w": "C.",
+     "t": 7.68,
+     "end": 8.24
+    }
+   ]
+  },
+  "what2": {
+   "text": "Natural minor would have B flat here. Dorian raises it to B.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Natural",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "minor",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "would",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "have",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "B",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "flat",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "here.",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "Dorian",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "raises",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "it",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "to",
+     "t": 4.2,
+     "end": 4.24
+    },
+    {
+     "w": "B.",
+     "t": 4.4,
+     "end": 4.96
+    }
+   ]
+  },
+  "scar": {
+   "text": "It's the melody of Scarborough Fair...",
+   "dur": 2.507755,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "melody",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Scarborough",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "Fair...",
+     "t": 1.68,
+     "end": 2.48
+    }
+   ]
+  },
+  "oye": {
+   "text": "the two chord groove of Oye Como Va...",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "two",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "chord",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "groove",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "of",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "Oye",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "Como",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "Va...",
+     "t": 2.36,
+     "end": 2.8
+    }
+   ]
+  },
+  "sowhat": {
+   "text": "So What by Miles Davis, a whole tune on one mode...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "What",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "by",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Miles",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "Davis,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "whole",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "tune",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "on",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "one",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "mode...",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "lucky": {
+   "text": "and Get Lucky by Daft Punk.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Get",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "Lucky",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "by",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "Daft",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "Punk.",
+     "t": 1.84,
+     "end": 2.48
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Compared to natural minor, only the sixth note changes. It is raised a half step.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "work?",
+     "t": 1.4,
+     "end": 1.88
+    },
+    {
+     "w": "Compared",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "to",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "natural",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "minor,",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "only",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "sixth",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "note",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "changes.",
+     "t": 5.2,
+     "end": 6.16
+    },
+    {
+     "w": "It",
+     "t": 6.2,
+     "end": 6.24
+    },
+    {
+     "w": "is",
+     "t": 6.32,
+     "end": 6.48
+    },
+    {
+     "w": "raised",
+     "t": 6.56,
+     "end": 6.96
+    },
+    {
+     "w": "a",
+     "t": 7.04,
+     "end": 7.12
+    },
+    {
+     "w": "half",
+     "t": 7.24,
+     "end": 7.36
+    },
+    {
+     "w": "step.",
+     "t": 7.44,
+     "end": 8
+    }
+   ]
+  },
+  "why2": {
+   "text": "And that one note turns the four chord major. In A Dorian, D minor becomes D major.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "that",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "one",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "note",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "turns",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "four",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "chord",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "major.",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "In",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "A",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "Dorian,",
+     "t": 4,
+     "end": 4.8
+    },
+    {
+     "w": "D",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "minor",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "becomes",
+     "t": 5.52,
+     "end": 5.92
+    },
+    {
+     "w": "D",
+     "t": 6,
+     "end": 6.16
+    },
+    {
+     "w": "major.",
+     "t": 6.24,
+     "end": 6.96
+    }
+   ]
+  },
+  "why3": {
+   "text": "Minor one, major four, back and forth. That vamp is the Dorian fingerprint.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Minor",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "one,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "major",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "four,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "back",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "forth.",
+     "t": 2.72,
+     "end": 3.4
+    },
+    {
+     "w": "That",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "vamp",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "is",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "Dorian",
+     "t": 4.72,
+     "end": 5.2
+    },
+    {
+     "w": "fingerprint.",
+     "t": 5.28,
+     "end": 6.16
+    }
+   ]
+  },
+  "why4": {
+   "text": "Get Lucky does it in B: the four chord is E major, with a G sharp.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Get",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Lucky",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1
+    },
+    {
+     "w": "in",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "B:",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "four",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "chord",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "is",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "E",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "major,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "with",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "G",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "sharp.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why5": {
+   "text": "The result is still minor, but brighter, cooler, hopeful. Folk, jazz and funk players love it.",
+   "dur": 8.124082,
+   "speechEnd": 8.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "result",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "still",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "minor,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "but",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "brighter,",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "cooler,",
+     "t": 3.2,
+     "end": 4.08
+    },
+    {
+     "w": "hopeful.",
+     "t": 4.16,
+     "end": 4.96
+    },
+    {
+     "w": "Folk,",
+     "t": 5.28,
+     "end": 5.84
+    },
+    {
+     "w": "jazz",
+     "t": 5.92,
+     "end": 6.32
+    },
+    {
+     "w": "and",
+     "t": 6.4,
+     "end": 6.48
+    },
+    {
+     "w": "funk",
+     "t": 6.56,
+     "end": 6.8
+    },
+    {
+     "w": "players",
+     "t": 6.88,
+     "end": 7.28
+    },
+    {
+     "w": "love",
+     "t": 7.44,
+     "end": 7.68
+    },
+    {
+     "w": "it.",
+     "t": 7.76,
+     "end": 8.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "Minor with the lights left on. One raised note changes the whole atmosphere.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Minor",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "with",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "lights",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "left",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "on.",
+     "t": 1.52,
+     "end": 2.04
+    },
+    {
+     "w": "One",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "raised",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "note",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "changes",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "whole",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "atmosphere.",
+     "t": 4.6,
+     "end": 5.52
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

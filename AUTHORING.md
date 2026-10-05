@@ -47,3 +47,9 @@ scripts first (e.g. `reference/02-tritone/script.js`, `reference/05-pachelbel/sc
 3. Full render (spends ElevenLabs credits once): `node engine/make.js videos/NN-slug`
 4. Check 6–8 frames of the final mp4 the same way, fix and re-render with `--no-tts` if needed.
 5. Delete `videos/NN-slug/build/` when done (keeps disk usage low).
+
+## Engine notes learned so far
+- `a.tag`, rings, arcs, lines, walkers, ghosts and chord shapes fade with the circle: in `circle:false` scenes they are invisible — use `a.big` text or a grid there.
+- The circle always labels black keys as C#, Eb, F#, Ab, Bb. If the narration says another spelling (G flat, G sharp…) add a small tag next to the note.
+- The engine has no 9th/11th chord names: pass explicit `notes` and a `label` (e.g. `a.ch('D7', t0, t1, { notes: [...], label: 'D9' })`).
+- Keyboard range is C2–G5.
