@@ -1,0 +1,861 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One slow melody, floating over a bass that never stops walking.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "slow",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "melody,",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "floating",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "over",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "bass",
+     "t": 2.76,
+     "end": 3.12
+    },
+    {
+     "w": "that",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "never",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "stops",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "walking.",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Air from Bach's Orchestral Suite Number Three, in D major, from around 1730.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "Air",
+     "t": 0.84,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "Bach's",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "Orchestral",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "Suite",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "Number",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "Three,",
+     "t": 3.28,
+     "end": 3.84
+    },
+    {
+     "w": "in",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "D",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "major,",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "from",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "around",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "1730.",
+     "t": 5.52,
+     "end": 6.72
+    }
+   ]
+  },
+  "name": {
+   "text": "The nickname came in 1871, when August Wilhelmj arranged it for violin...",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "nickname",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "came",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "in",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "1871,",
+     "t": 1.2,
+     "end": 2.72
+    },
+    {
+     "w": "when",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "August",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "Wilhelmj",
+     "t": 3.36,
+     "end": 3.92
+    },
+    {
+     "w": "arranged",
+     "t": 4,
+     "end": 4.48
+    },
+    {
+     "w": "it",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "for",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "violin...",
+     "t": 4.88,
+     "end": 5.68
+    }
+   ]
+  },
+  "name2": {
+   "text": "so it could be played entirely on the lowest string: the G string.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "could",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "be",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "played",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "entirely",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "on",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "lowest",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "string:",
+     "t": 2.48,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "G",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "string.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is how it begins.",
+   "dur": 1.802449,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "begins.",
+     "t": 0.8,
+     "end": 1.76
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so calm? Watch the bass.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "so",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "calm?",
+     "t": 1.44,
+     "end": 2.12
+    },
+    {
+     "w": "Watch",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "bass.",
+     "t": 2.84,
+     "end": 3.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "It walks down the scale, step by step, jumping in octaves.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "walks",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "down",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "scale,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "step",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "by",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "step,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "jumping",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "octaves.",
+     "t": 3.76,
+     "end": 4.64
+    }
+   ]
+  },
+  "why3": {
+   "text": "D, C sharp, B, A, G, F sharp... a steady heartbeat.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "D,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "C",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "sharp,",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "B,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "A,",
+     "t": 2.96,
+     "end": 3.68
+    },
+    {
+     "w": "G,",
+     "t": 3.76,
+     "end": 4.48
+    },
+    {
+     "w": "F",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "sharp...",
+     "t": 4.72,
+     "end": 5.68
+    },
+    {
+     "w": "a",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "steady",
+     "t": 5.92,
+     "end": 6.24
+    },
+    {
+     "w": "heartbeat.",
+     "t": 6.32,
+     "end": 7.2
+    }
+   ]
+  },
+  "susp1": {
+   "text": "On top, the melody holds very long notes.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "top,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "melody",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "holds",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "very",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "long",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "notes.",
+     "t": 2.88,
+     "end": 3.6
+    }
+   ]
+  },
+  "susp2": {
+   "text": "The harmony moves underneath, the held note clashes gently... then resolves.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "harmony",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "moves",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "underneath,",
+     "t": 1.12,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "held",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "note",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "clashes",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "gently...",
+     "t": 3.6,
+     "end": 4.64
+    },
+    {
+     "w": "then",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "resolves.",
+     "t": 5.04,
+     "end": 6.08
+    }
+   ]
+  },
+  "susp3": {
+   "text": "Those are suspensions, one after another.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Those",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "are",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "suspensions,",
+     "t": 0.48,
+     "end": 1.84
+    },
+    {
+     "w": "one",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "after",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "another.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "whiter": {
+   "text": "That descending bass inspired later music, like A Whiter Shade of Pale, in 1967.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "descending",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "bass",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "inspired",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "later",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "music,",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "like",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "A",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "Whiter",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "Shade",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "of",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "Pale,",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "in",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "1967.",
+     "t": 5.08,
+     "end": 6.48
+    }
+   ]
+  },
+  "essence": {
+   "text": "A bass that never stops walking, and a melody that refuses to hurry.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bass",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "that",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "never",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "stops",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "walking,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.773,
+     "end": 2.827
+    },
+    {
+     "w": "melody",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "that",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "refuses",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "to",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "hurry.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence2": {
+   "text": "Calm, made of motion.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Calm,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "made",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "motion.",
+     "t": 1.6,
+     "end": 2.48
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

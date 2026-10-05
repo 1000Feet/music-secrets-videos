@@ -1,0 +1,790 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Just two chords, a slow waltz, and a lot of empty space... and it sounds like time stopping.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "Just",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "two",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "chords,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "slow",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "waltz,",
+     "t": 2.12,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.16
+    },
+    {
+     "w": "lot",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "of",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "empty",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "space...",
+     "t": 4,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "it",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "sounds",
+     "t": 5.52,
+     "end": 5.84
+    },
+    {
+     "w": "like",
+     "t": 5.96,
+     "end": 6.08
+    },
+    {
+     "w": "time",
+     "t": 6.16,
+     "end": 6.56
+    },
+    {
+     "w": "stopping.",
+     "t": 6.64,
+     "end": 7.44
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Gymnopédie Number One, by Erik Satie, from 1888.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Gymnopédie",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "Number",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "One,",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "by",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "Erik",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "Satie,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "from",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "1888.",
+     "t": 4.08,
+     "end": 5.52
+    }
+   ]
+  },
+  "what2": {
+   "text": "It's in three four time, and Satie marked it lent et douloureux: slow and painful.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "in",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "three",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "four",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "time,",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "Satie",
+     "t": 1.96,
+     "end": 2.32
+    },
+    {
+     "w": "marked",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "it",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "lent",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "et",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "douloureux:",
+     "t": 3.68,
+     "end": 4.72
+    },
+    {
+     "w": "slow",
+     "t": 4.8,
+     "end": 5.28
+    },
+    {
+     "w": "and",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "painful.",
+     "t": 5.68,
+     "end": 6.56
+    }
+   ]
+  },
+  "play": {
+   "text": "Here's how it opens.",
+   "dur": 1.48898,
+   "speechEnd": 1.52,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "opens.",
+     "t": 0.92,
+     "end": 1.52
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so calm? It's just two major seventh chords, rocking back and forth.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "feel",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "so",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "calm?",
+     "t": 1.6,
+     "end": 2.32
+    },
+    {
+     "w": "It's",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "just",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "two",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "major",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "seventh",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "chords,",
+     "t": 4.08,
+     "end": 4.72
+    },
+    {
+     "w": "rocking",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "back",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "forth.",
+     "t": 5.88,
+     "end": 6.32
+    }
+   ]
+  },
+  "why2": {
+   "text": "Neither one settles into a clear home... so the music simply floats.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Neither",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "one",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "settles",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "into",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "clear",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "home...",
+     "t": 2,
+     "end": 3.04
+    },
+    {
+     "w": "so",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.32
+    },
+    {
+     "w": "music",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "simply",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "floats.",
+     "t": 4.4,
+     "end": 5.2
+    }
+   ]
+  },
+  "thread": {
+   "text": "And the top note, F sharp, stays in both chords, like a thread connecting them.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "top",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "note,",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "F",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "sharp,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "stays",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "in",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "both",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "chords,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "like",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "thread",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "connecting",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "them.",
+     "t": 5.12,
+     "end": 5.6
+    }
+   ]
+  },
+  "thread2": {
+   "text": "Over G, it's the dreamy seventh. Over D, it's the warm third.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Over",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "G,",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "it's",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "dreamy",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "seventh.",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "Over",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "D,",
+     "t": 3.52,
+     "end": 4.16
+    },
+    {
+     "w": "it's",
+     "t": 4.24,
+     "end": 4.36
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "warm",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "third.",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "space": {
+   "text": "Very few notes, lots of space, and a slow waltz pulse with no drive.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Very",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "few",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "notes,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "lots",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "of",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "space,",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "slow",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "waltz",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "pulse",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "with",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "no",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "drive.",
+     "t": 4.88,
+     "end": 5.68
+    }
+   ]
+  },
+  "minimal": {
+   "text": "It's minimalism, decades before minimalism.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "minimalism,",
+     "t": 0.32,
+     "end": 1.44
+    },
+    {
+     "w": "decades",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "before",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "minimalism.",
+     "t": 2.64,
+     "end": 3.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two chords, endless space. The calm comes from what Satie leaves out.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chords,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "endless",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "space.",
+     "t": 1.92,
+     "end": 2.8
+    },
+    {
+     "w": "The",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "calm",
+     "t": 3.4,
+     "end": 3.68
+    },
+    {
+     "w": "comes",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "from",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "what",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "Satie",
+     "t": 4.48,
+     "end": 4.96
+    },
+    {
+     "w": "leaves",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "out.",
+     "t": 5.36,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,854 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "You know this tune from the very first notes. But why does it bounce?",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "know",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "this",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "tune",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "from",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "very",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "first",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "notes.",
+     "t": 2.16,
+     "end": 2.84
+    },
+    {
+     "w": "But",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "why",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "does",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "bounce?",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "what": {
+   "text": "This is The Entertainer, a piano rag by Scott Joplin, from 1902.",
+   "dur": 5.564082,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "The",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Entertainer,",
+     "t": 0.72,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "piano",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "rag",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "by",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "Scott",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "Joplin,",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "from",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "1902.",
+     "t": 4.32,
+     "end": 5.52
+    }
+   ]
+  },
+  "what2": {
+   "text": "It became hugely popular again in 1973, when the film The Sting used it.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "became",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "hugely",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "popular",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "again",
+     "t": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "in",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "1973,",
+     "t": 2.28,
+     "end": 3.68
+    },
+    {
+     "w": "when",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "film",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "The",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "Sting",
+     "t": 4.72,
+     "end": 5.2
+    },
+    {
+     "w": "used",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "it.",
+     "t": 5.72,
+     "end": 6.08
+    }
+   ]
+  },
+  "play": {
+   "text": "Here's how it opens.",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "opens.",
+     "t": 0.64,
+     "end": 1.44
+    }
+   ]
+  },
+  "why1": {
+   "text": "So what makes it ragtime? The left hand is steady, like a march.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "what",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "makes",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "ragtime?",
+     "t": 1.12,
+     "end": 2.08
+    },
+    {
+     "w": "The",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "left",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "hand",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "is",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "steady,",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "like",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "march.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Bass note on the beat, chord on the off beat. Oom, pah, oom, pah.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Bass",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "on",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.92
+    },
+    {
+     "w": "beat,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "chord",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "on",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "off",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "beat.",
+     "t": 2.8,
+     "end": 3.4
+    },
+    {
+     "w": "Oom,",
+     "t": 3.68,
+     "end": 4.12
+    },
+    {
+     "w": "pah,",
+     "t": 4.24,
+     "end": 4.72
+    },
+    {
+     "w": "oom,",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "pah.",
+     "t": 5.24,
+     "end": 5.84
+    }
+   ]
+  },
+  "why2": {
+   "text": "Against it, the right hand is syncopated. It lands between the beats.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Against",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "it,",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "right",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "hand",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "is",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "syncopated.",
+     "t": 1.96,
+     "end": 2.96
+    },
+    {
+     "w": "It",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "lands",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "between",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "beats.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Ragged time. That is ragtime.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Ragged",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "time.",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "That",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "is",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "ragtime.",
+     "t": 2.24,
+     "end": 3.2
+    }
+   ]
+  },
+  "why3": {
+   "text": "And the opening? D, D sharp, E: chromatic steps, leaning into the leap.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "opening?",
+     "t": 0.56,
+     "end": 1.08
+    },
+    {
+     "w": "D,",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "D",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "sharp,",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "E:",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "chromatic",
+     "t": 3.56,
+     "end": 3.92
+    },
+    {
+     "w": "steps,",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "leaning",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "into",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "the",
+     "t": 5.48,
+     "end": 5.52
+    },
+    {
+     "w": "leap.",
+     "t": 5.6,
+     "end": 6.16
+    }
+   ]
+  },
+  "why4": {
+   "text": "Joplin even wrote on some of his rags: it is never right to play ragtime fast.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Joplin",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "even",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "wrote",
+     "t": 0.84,
+     "end": 1.04
+    },
+    {
+     "w": "on",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "some",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "his",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "rags:",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "it",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "is",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "never",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "right",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "play",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "ragtime",
+     "t": 4.4,
+     "end": 5.04
+    },
+    {
+     "w": "fast.",
+     "t": 5.2,
+     "end": 6
+    }
+   ]
+  },
+  "why4b": {
+   "text": "A steady tempo is what makes the syncopation swing.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "steady",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "tempo",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "what",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "makes",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "syncopation",
+     "t": 2,
+     "end": 2.72
+    },
+    {
+     "w": "swing.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "A steady heartbeat below, a playful melody tripping ahead of it.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "steady",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "heartbeat",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "below,",
+     "t": 1.2,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "playful",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "melody",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "tripping",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "ahead",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "it.",
+     "t": 4.2,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence2": {
+   "text": "That's ragtime, and the seed of jazz.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "ragtime,",
+     "t": 0.4,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "seed",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "of",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "jazz.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

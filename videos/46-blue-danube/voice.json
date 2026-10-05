@@ -1,0 +1,849 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three beats, one melody climbing slowly... and you are floating through space.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "beats,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "melody",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "climbing",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "slowly...",
+     "t": 2.64,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "you",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "are",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "floating",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "through",
+     "t": 5.28,
+     "end": 5.52
+    },
+    {
+     "w": "space.",
+     "t": 5.6,
+     "end": 6.48
+    }
+   ]
+  },
+  "what": {
+   "text": "This is The Blue Danube, a waltz by Johann Strauss the Second, composed in 1866 and 1867.",
+   "dur": 8.437551,
+   "speechEnd": 8.48,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "The",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "Blue",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "Danube,",
+     "t": 1.12,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "waltz",
+     "t": 2.28,
+     "end": 2.72
+    },
+    {
+     "w": "by",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "Johann",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "Strauss",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "Second,",
+     "t": 4.12,
+     "end": 4.72
+    },
+    {
+     "w": "composed",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "in",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "1866",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "and",
+     "t": 5.84,
+     "end": 7.04
+    },
+    {
+     "w": "1867.",
+     "t": 7.12,
+     "end": 8.48
+    }
+   ]
+  },
+  "what2": {
+   "text": "A century later, Stanley Kubrick used it for the spaceship scenes in 2001: A Space Odyssey.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "century",
+     "t": 0.28,
+     "end": 0.56
+    },
+    {
+     "w": "later,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "Stanley",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "Kubrick",
+     "t": 1.8,
+     "end": 2.24
+    },
+    {
+     "w": "used",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "it",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "for",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "spaceship",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "scenes",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "in",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "2001:",
+     "t": 4.24,
+     "end": 5.44
+    },
+    {
+     "w": "A",
+     "t": 5.48,
+     "end": 5.52
+    },
+    {
+     "w": "Space",
+     "t": 5.6,
+     "end": 5.92
+    },
+    {
+     "w": "Odyssey.",
+     "t": 6,
+     "end": 6.72
+    }
+   ]
+  },
+  "play": {
+   "text": "Here's the main theme.",
+   "dur": 1.567347,
+   "speechEnd": 1.6,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "main",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "theme.",
+     "t": 0.88,
+     "end": 1.6
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it make you want to dance? Count along: one, two, three.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "make",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "you",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "want",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "to",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "dance?",
+     "t": 1.6,
+     "end": 2.32
+    },
+    {
+     "w": "Count",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "along:",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "one,",
+     "t": 3.76,
+     "end": 4.32
+    },
+    {
+     "w": "two,",
+     "t": 4.4,
+     "end": 4.96
+    },
+    {
+     "w": "three.",
+     "t": 5.12,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "The bass lands on one. The chord answers on two and three.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bass",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "lands",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "on",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "one.",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "The",
+     "t": 2.08,
+     "end": 2.12
+    },
+    {
+     "w": "chord",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "answers",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "on",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "two",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "three.",
+     "t": 4.08,
+     "end": 4.56
+    }
+   ]
+  },
+  "why3": {
+   "text": "One strong beat and two light ones feels like turning in a circle...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "strong",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "beat",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "two",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "light",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "ones",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "feels",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "like",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "turning",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "in",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "circle...",
+     "t": 3.92,
+     "end": 4.48
+    }
+   ]
+  },
+  "why3b": {
+   "text": "which is exactly the dance.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "which",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "exactly",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "dance.",
+     "t": 1.64,
+     "end": 2.08
+    }
+   ]
+  },
+  "arp": {
+   "text": "And the melody simply climbs the notes of the home chord: D, F sharp, A.",
+   "dur": 5.720816,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "melody",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "simply",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "climbs",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.72
+    },
+    {
+     "w": "notes",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.08,
+     "end": 2.12
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "home",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "chord:",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "D,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "F",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "sharp,",
+     "t": 4.52,
+     "end": 5.04
+    },
+    {
+     "w": "A.",
+     "t": 5.12,
+     "end": 5.68
+    }
+   ]
+  },
+  "arp2": {
+   "text": "An arpeggio. Calm, spacious, opening up.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "An",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "arpeggio.",
+     "t": 0.28,
+     "end": 1.04
+    },
+    {
+     "w": "Calm,",
+     "t": 1.6,
+     "end": 2.36
+    },
+    {
+     "w": "spacious,",
+     "t": 2.56,
+     "end": 3.76
+    },
+    {
+     "w": "opening",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "up.",
+     "t": 4.32,
+     "end": 4.8
+    }
+   ]
+  },
+  "lilt": {
+   "text": "In a Viennese waltz, the second beat is often played slightly early.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Viennese",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "waltz,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "second",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "beat",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "is",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "often",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "played",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "slightly",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "early.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "lilt2": {
+   "text": "A famous little lilt.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "famous",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "little",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "lilt.",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  },
+  "essence": {
+   "text": "One heavy beat, two light ones... and the whole room starts to spin.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "heavy",
+     "t": 0.44,
+     "end": 0.56
+    },
+    {
+     "w": "beat,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "two",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "light",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "ones...",
+     "t": 2.08,
+     "end": 3.04
+    },
+    {
+     "w": "and",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "whole",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "room",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "starts",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "to",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "spin.",
+     "t": 5.04,
+     "end": 5.6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

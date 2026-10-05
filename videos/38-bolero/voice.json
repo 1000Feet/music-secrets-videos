@@ -1,0 +1,799 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One rhythm, one melody, repeated for about fifteen minutes... and it just keeps getting louder.",
+   "dur": 7.392653,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rhythm,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "one",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "melody,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "repeated",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "for",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "about",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "fifteen",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "minutes...",
+     "t": 4,
+     "end": 5.04
+    },
+    {
+     "w": "and",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "it",
+     "t": 5.32,
+     "end": 5.44
+    },
+    {
+     "w": "just",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "keeps",
+     "t": 5.8,
+     "end": 6
+    },
+    {
+     "w": "getting",
+     "t": 6.08,
+     "end": 6.4
+    },
+    {
+     "w": "louder.",
+     "t": 6.48,
+     "end": 7.36
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Boléro, by Maurice Ravel, from 1928.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Boléro,",
+     "t": 0.8,
+     "end": 1.76
+    },
+    {
+     "w": "by",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "Maurice",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "Ravel,",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "from",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "1928.",
+     "t": 3.44,
+     "end": 4.72
+    }
+   ]
+  },
+  "what2": {
+   "text": "Ravel himself called it a piece for orchestra without music.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Ravel",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "himself",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "called",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "it",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "piece",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "for",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "orchestra",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "without",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "music.",
+     "t": 3.76,
+     "end": 4.56
+    }
+   ]
+  },
+  "play": {
+   "text": "Listen to the snare drum.",
+   "dur": 1.724082,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "snare",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "drum.",
+     "t": 1.04,
+     "end": 1.68
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it hypnotize? That two bar rhythm repeats the whole time.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "hypnotize?",
+     "t": 0.96,
+     "end": 1.96
+    },
+    {
+     "w": "That",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "two",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "bar",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "rhythm",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "repeats",
+     "t": 3.56,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "whole",
+     "t": 4.36,
+     "end": 4.48
+    },
+    {
+     "w": "time.",
+     "t": 4.56,
+     "end": 5.2
+    }
+   ]
+  },
+  "why1b": {
+   "text": "By a common count, one hundred and sixty nine times.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "By",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "common",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "count,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "one",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "hundred",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "sixty",
+     "t": 2.44,
+     "end": 2.64
+    },
+    {
+     "w": "nine",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "times.",
+     "t": 3.2,
+     "end": 4.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "The melody repeats too, passed from instrument to instrument.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "melody",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "repeats",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "too,",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "passed",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "from",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "instrument",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "instrument.",
+     "t": 3.2,
+     "end": 4.08
+    }
+   ]
+  },
+  "why3": {
+   "text": "Only two things change: the color of the orchestra, and the volume.",
+   "dur": 4.754286,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Only",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "two",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "things",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "change:",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "color",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.6
+    },
+    {
+     "w": "orchestra,",
+     "t": 2.64,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "volume.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "why4": {
+   "text": "One continuous crescendo, from very quiet to full orchestra.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "continuous",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "crescendo,",
+     "t": 1.2,
+     "end": 2.32
+    },
+    {
+     "w": "from",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "very",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "quiet",
+     "t": 2.96,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "full",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "orchestra.",
+     "t": 4.32,
+     "end": 5.28
+    }
+   ]
+  },
+  "key": {
+   "text": "And the harmony stays in C major... until, near the very end, it suddenly lurches into E major.",
+   "dur": 7.47102,
+   "speechEnd": 7.52,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "harmony",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "stays",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "C",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "major...",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "until,",
+     "t": 2.84,
+     "end": 3.36
+    },
+    {
+     "w": "near",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "very",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "end,",
+     "t": 4.16,
+     "end": 4.72
+    },
+    {
+     "w": "it",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "suddenly",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "lurches",
+     "t": 5.6,
+     "end": 6.08
+    },
+    {
+     "w": "into",
+     "t": 6.16,
+     "end": 6.4
+    },
+    {
+     "w": "E",
+     "t": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "major.",
+     "t": 6.96,
+     "end": 7.52
+    }
+   ]
+  },
+  "key2": {
+   "text": "Then it crashes back to C, and collapses.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "crashes",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "back",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "to",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "C,",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "collapses.",
+     "t": 2.32,
+     "end": 3.36
+    }
+   ]
+  },
+  "essence": {
+   "text": "No development, no new themes. Just repetition and growing intensity...",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "development,",
+     "t": 0.6,
+     "end": 1.28
+    },
+    {
+     "w": "no",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "new",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "themes.",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "Just",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "repetition",
+     "t": 3.12,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "growing",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "intensity...",
+     "t": 4.84,
+     "end": 5.76
+    }
+   ]
+  },
+  "essence2": {
+   "text": "and it hypnotizes the whole world.",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "hypnotizes",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "whole",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "world.",
+     "t": 2.08,
+     "end": 2.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
