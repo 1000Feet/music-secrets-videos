@@ -1,0 +1,946 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Why does every octave have exactly twelve notes?",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "does",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "every",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "octave",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "have",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "exactly",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "twelve",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "notes?",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "what": {
+   "text": "A piano octave: seven white keys, five black keys.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "piano",
+     "t": 0.2,
+     "end": 0.56
+    },
+    {
+     "w": "octave:",
+     "t": 0.64,
+     "end": 1.68
+    },
+    {
+     "w": "seven",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "white",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "keys,",
+     "t": 2.6,
+     "end": 3.12
+    },
+    {
+     "w": "five",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "black",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "keys.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "grace": {
+   "text": "Play only the black keys, and you get Amazing Grace: a pentatonic scale.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "only",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "black",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "keys,",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "you",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "get",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Amazing",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "Grace:",
+     "t": 3.2,
+     "end": 4
+    },
+    {
+     "w": "a",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "pentatonic",
+     "t": 4.28,
+     "end": 4.8
+    },
+    {
+     "w": "scale.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "west": {
+   "text": "Most Western music uses just these twelve.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Western",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "music",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "uses",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "just",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "these",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "twelve.",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why twelve? Start on C and climb by perfect fifths, a ratio of three to two.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "twelve?",
+     "t": 0.8,
+     "end": 1.64
+    },
+    {
+     "w": "Start",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "on",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "C",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "climb",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "by",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "perfect",
+     "t": 3.96,
+     "end": 4.16
+    },
+    {
+     "w": "fifths,",
+     "t": 4.32,
+     "end": 5.04
+    },
+    {
+     "w": "a",
+     "t": 5.12,
+     "end": 5.16
+    },
+    {
+     "w": "ratio",
+     "t": 5.2,
+     "end": 5.68
+    },
+    {
+     "w": "of",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "three",
+     "t": 6,
+     "end": 6.16
+    },
+    {
+     "w": "to",
+     "t": 6.24,
+     "end": 6.4
+    },
+    {
+     "w": "two.",
+     "t": 6.48,
+     "end": 7.04
+    }
+   ]
+  },
+  "why2": {
+   "text": "C, G, D, A, E, B, F sharp... after twelve fifths, you land on B sharp.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "C,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "G,",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "D,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "A,",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "E,",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "B,",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "F",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "sharp...",
+     "t": 4.36,
+     "end": 5.04
+    },
+    {
+     "w": "after",
+     "t": 5.16,
+     "end": 5.28
+    },
+    {
+     "w": "twelve",
+     "t": 5.44,
+     "end": 5.68
+    },
+    {
+     "w": "fifths,",
+     "t": 5.84,
+     "end": 6.48
+    },
+    {
+     "w": "you",
+     "t": 6.56,
+     "end": 6.64
+    },
+    {
+     "w": "land",
+     "t": 6.76,
+     "end": 6.88
+    },
+    {
+     "w": "on",
+     "t": 6.96,
+     "end": 7.04
+    },
+    {
+     "w": "B",
+     "t": 7.2,
+     "end": 7.36
+    },
+    {
+     "w": "sharp.",
+     "t": 7.44,
+     "end": 8
+    }
+   ]
+  },
+  "why3": {
+   "text": "That's almost C, seven octaves higher.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "almost",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "C,",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "seven",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "octaves",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "higher.",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "comma": {
+   "text": "But a little sharp: about a quarter of a half step. The Pythagorean comma.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "little",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "sharp:",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "about",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "quarter",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "half",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "step.",
+     "t": 2.96,
+     "end": 3.56
+    },
+    {
+     "w": "The",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "Pythagorean",
+     "t": 4,
+     "end": 4.8
+    },
+    {
+     "w": "comma.",
+     "t": 4.88,
+     "end": 5.6
+    }
+   ]
+  },
+  "close": {
+   "text": "Twelve is the first number of fifths that comes this close.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Twelve",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "first",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "number",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "fifths",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "that",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "comes",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "this",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "close.",
+     "t": 3.2,
+     "end": 3.92
+    }
+   ]
+  },
+  "close2": {
+   "text": "That's why the octave has twelve notes, and the circle of fifths closes.",
+   "dur": 4.832653,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "why",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "octave",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "has",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "twelve",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "notes,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "circle",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "of",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "fifths",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "closes.",
+     "t": 3.84,
+     "end": 4.8
+    }
+   ]
+  },
+  "five": {
+   "text": "Five notes of the chain give the black keys, a pentatonic scale.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "chain",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "give",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "black",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "keys,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "pentatonic",
+     "t": 3.08,
+     "end": 3.6
+    },
+    {
+     "w": "scale.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "seven": {
+   "text": "Seven give the white keys, a major scale. Twelve fill in everything.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "give",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "white",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "keys,",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "major",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "scale.",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "Twelve",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "fill",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "in",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "everything.",
+     "t": 5.52,
+     "end": 6.4
+    }
+   ]
+  },
+  "legend": {
+   "text": "Legend credits Pythagoras, in the sixth century BC, with these ratios.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Legend",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "credits",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "Pythagoras,",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "sixth",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "century",
+     "t": 2.68,
+     "end": 3.04
+    },
+    {
+     "w": "BC,",
+     "t": 3.12,
+     "end": 3.92
+    },
+    {
+     "w": "with",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "these",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "ratios.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "Twelve notes aren't a convention. They're where the fifths almost come home.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Twelve",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "aren't",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.067,
+     "end": 1.093
+    },
+    {
+     "w": "convention.",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "They're",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "where",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "fifths",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "almost",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "come",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "home.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

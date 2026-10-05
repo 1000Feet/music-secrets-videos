@@ -1,0 +1,901 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Sing a note slightly off, and a computer pulls it into tune.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Sing",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "slightly",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "off,",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "computer",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "pulls",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "it",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "into",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "tune.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "hook2": {
+   "text": "Push it too far... and the voice turns robotic.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Push",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "too",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "far...",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "and",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "voice",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "turns",
+     "t": 2.24,
+     "end": 2.52
+    },
+    {
+     "w": "robotic.",
+     "t": 2.56,
+     "end": 3.52
+    }
+   ]
+  },
+  "what": {
+   "text": "That's pitch correction. Its most famous name: Auto-Tune.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "pitch",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "correction.",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "Its",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "most",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "famous",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "name:",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "Auto-Tune.",
+     "t": 3.64,
+     "end": 4.48
+    }
+   ]
+  },
+  "s1": {
+   "text": "Antares released Auto-Tune in 1997.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Antares",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "released",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "Auto-Tune",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "in",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "1997.",
+     "t": 2.16,
+     "end": 3.6
+    }
+   ]
+  },
+  "s1b": {
+   "text": "Its inventor, Andy Hildebrand, had worked analysing seismic data for oil exploration.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "inventor,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "Andy",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "Hildebrand,",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "had",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "worked",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "analysing",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "seismic",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "data",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "for",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "oil",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "exploration.",
+     "t": 4.96,
+     "end": 6
+    }
+   ]
+  },
+  "s2": {
+   "text": "Then Cher's Believe, in 1998, became the first big hit to use it as an obvious effect.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Cher's",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "Believe,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "in",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "1998,",
+     "t": 1.96,
+     "end": 3.2
+    },
+    {
+     "w": "became",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "first",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "big",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "hit",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "to",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "use",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "it",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "as",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "an",
+     "t": 5.56,
+     "end": 5.68
+    },
+    {
+     "w": "obvious",
+     "t": 5.76,
+     "end": 6.16
+    },
+    {
+     "w": "effect.",
+     "t": 6.4,
+     "end": 6.96
+    }
+   ]
+  },
+  "s3": {
+   "text": "In the 2000s, T-Pain made the hard-tuned voice his signature.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "2000s,",
+     "t": 0.32,
+     "end": 1.36
+    },
+    {
+     "w": "T-Pain",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "made",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "hard-tuned",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "voice",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "his",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "signature.",
+     "t": 3.68,
+     "end": 4.56
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? A natural voice glides between notes, and wobbles with vibrato.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "A",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "natural",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "voice",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "glides",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "between",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "notes,",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "and",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "wobbles",
+     "t": 4.96,
+     "end": 5.44
+    },
+    {
+     "w": "with",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "vibrato.",
+     "t": 5.64,
+     "end": 6.56
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Its pitch is a smooth curve.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "pitch",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "smooth",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "curve.",
+     "t": 1.68,
+     "end": 2.56
+    }
+   ]
+  },
+  "why2": {
+   "text": "Auto-Tune measures that pitch, and moves it to the nearest note of the chosen scale.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Auto-Tune",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "measures",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "that",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "pitch,",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "moves",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "it",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "to",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "nearest",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "note",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "of",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "chosen",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "scale.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "why3": {
+   "text": "With a slow setting, it gently nudges notes into tune.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "slow",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "setting,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "it",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "gently",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "nudges",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "notes",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "into",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "tune.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why4": {
+   "text": "But set the retune speed to zero, and the voice jumps instantly from note to note.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "set",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "retune",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "speed",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "to",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "zero,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.6
+    },
+    {
+     "w": "voice",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "jumps",
+     "t": 3,
+     "end": 3.36
+    },
+    {
+     "w": "instantly",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "from",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "note",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "to",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "note.",
+     "t": 4.72,
+     "end": 5.28
+    }
+   ]
+  },
+  "why4b": {
+   "text": "The slides become steps.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "slides",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "become",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "steps.",
+     "t": 1.2,
+     "end": 2.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "Smooth slides, snapped to steps. A mistake fixer that became a new instrument.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "Smooth",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "slides,",
+     "t": 0.56,
+     "end": 1.44
+    },
+    {
+     "w": "snapped",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "to",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "steps.",
+     "t": 2.24,
+     "end": 2.8
+    },
+    {
+     "w": "A",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "mistake",
+     "t": 3.48,
+     "end": 3.84
+    },
+    {
+     "w": "fixer",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "that",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "became",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "new",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "instrument.",
+     "t": 5.44,
+     "end": 6.32
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

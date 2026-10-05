@@ -1,0 +1,904 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Two voices, one melody, a third apart. The sweetest trick in vocal harmony.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "voices,",
+     "t": 0.32,
+     "end": 1.36
+    },
+    {
+     "w": "one",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "melody,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "third",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "apart.",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "The",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "sweetest",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "trick",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "in",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "vocal",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "harmony.",
+     "t": 5.84,
+     "end": 6.64
+    }
+   ]
+  },
+  "what": {
+   "text": "Take a tune, and add a second voice singing the same melody, a third higher.",
+   "dur": 5.407347,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "tune,",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "and",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "add",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "second",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "voice",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "singing",
+     "t": 2.44,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "same",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "melody,",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "a",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "third",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "higher.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "everly": {
+   "text": "You hear it in the Everly Brothers, like Bye Bye Love: Don and Phil's close harmony.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "in",
+     "t": 0.48,
+     "end": 0.52
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Everly",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "Brothers,",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "like",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "Bye",
+     "t": 2.24,
+     "end": 2.44
+    },
+    {
+     "w": "Bye",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "Love:",
+     "t": 2.72,
+     "end": 3.6
+    },
+    {
+     "w": "Don",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "Phil's",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "close",
+     "t": 4.76,
+     "end": 4.96
+    },
+    {
+     "w": "harmony.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "mariachi": {
+   "text": "Mariachi, Mexican trios and Neapolitan songs often harmonize their melodies in thirds.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "Mariachi,",
+     "t": 0,
+     "end": 1.04
+    },
+    {
+     "w": "Mexican",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "trios",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "Neapolitan",
+     "t": 2.28,
+     "end": 2.88
+    },
+    {
+     "w": "songs",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "often",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "harmonize",
+     "t": 4,
+     "end": 4.56
+    },
+    {
+     "w": "their",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "melodies",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "in",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "thirds.",
+     "t": 5.52,
+     "end": 6.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Octaves and fifths blend so well, they almost merge into one sound.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Octaves",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "fifths",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "blend",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "so",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "well,",
+     "t": 3.84,
+     "end": 4.4
+    },
+    {
+     "w": "they",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "almost",
+     "t": 4.76,
+     "end": 4.96
+    },
+    {
+     "w": "merge",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "into",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "one",
+     "t": 5.84,
+     "end": 6.08
+    },
+    {
+     "w": "sound.",
+     "t": 6.16,
+     "end": 6.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "Thirds blend sweetly, but stay distinct. Two voices, one color.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Thirds",
+     "t": 0,
+     "end": 0.52
+    },
+    {
+     "w": "blend",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "sweetly,",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "but",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "stay",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "distinct.",
+     "t": 2.32,
+     "end": 3.24
+    },
+    {
+     "w": "Two",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "voices,",
+     "t": 3.76,
+     "end": 4.64
+    },
+    {
+     "w": "one",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "color.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "To stay in the key, the harmony alternates: major thirds, four half steps...",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "To",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "stay",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "in",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "key,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "harmony",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "alternates:",
+     "t": 2,
+     "end": 3.12
+    },
+    {
+     "w": "major",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "thirds,",
+     "t": 3.52,
+     "end": 4.32
+    },
+    {
+     "w": "four",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "half",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "steps...",
+     "t": 5.12,
+     "end": 5.68
+    }
+   ]
+  },
+  "why3b": {
+   "text": "and minor thirds, three half steps, following the scale.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "minor",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "thirds,",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "three",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "half",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "steps,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "following",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "scale.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "why4": {
+   "text": "Flip a third upside down, and you get a sixth.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Flip",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "third",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "upside",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "down,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "you",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "get",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "sixth.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Parallel sixths sound just as sweet.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "Parallel",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "sixths",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "sound",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "just",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "as",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "sweet.",
+     "t": 2.48,
+     "end": 3.04
+    }
+   ]
+  },
+  "why5": {
+   "text": "Classical counterpoint allowed parallel thirds and sixths...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "counterpoint",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "allowed",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "parallel",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "thirds",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "sixths...",
+     "t": 3.2,
+     "end": 4
+    }
+   ]
+  },
+  "why5b": {
+   "text": "but not parallel fifths or octaves, because the voices lose their independence.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "not",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "parallel",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "fifths",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "or",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "octaves,",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "because",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.12,
+     "end": 3.16
+    },
+    {
+     "w": "voices",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "lose",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "their",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "independence.",
+     "t": 4.24,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two voices a third apart: close enough to blend, far enough to be two.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "voices",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "third",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "apart:",
+     "t": 1.44,
+     "end": 2.4
+    },
+    {
+     "w": "close",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "enough",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "blend,",
+     "t": 3.2,
+     "end": 4.08
+    },
+    {
+     "w": "far",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "enough",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "to",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "be",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "two.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

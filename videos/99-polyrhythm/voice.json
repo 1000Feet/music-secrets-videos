@@ -1,0 +1,959 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Two hands, two different speeds, at exactly the same time.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "hands,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "two",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "different",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "speeds,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "at",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "exactly",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "same",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "time.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "what": {
+   "text": "That's a polyrhythm: like three notes against two, played together.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "polyrhythm:",
+     "t": 0.56,
+     "end": 1.68
+    },
+    {
+     "w": "like",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "three",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "notes",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "against",
+     "t": 2.76,
+     "end": 2.96
+    },
+    {
+     "w": "two,",
+     "t": 3.04,
+     "end": 3.6
+    },
+    {
+     "w": "played",
+     "t": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "together.",
+     "t": 3.92,
+     "end": 4.64
+    }
+   ]
+  },
+  "chopin": {
+   "text": "In Chopin's Fantaisie Impromptu, the right hand plays four notes against the left hand's three.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Chopin's",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "Fantaisie",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "Impromptu,",
+     "t": 1.44,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "right",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "hand",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "plays",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "four",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "notes",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "against",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "left",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "hand's",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "three.",
+     "t": 5.72,
+     "end": 6.24
+    }
+   ]
+  },
+  "debussy": {
+   "text": "Debussy's first Arabesque sets triplets in one hand against pairs in the other.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "Debussy's",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "first",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "Arabesque",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "sets",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "triplets",
+     "t": 2.36,
+     "end": 2.72
+    },
+    {
+     "w": "in",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "one",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "hand",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "against",
+     "t": 3.8,
+     "end": 4
+    },
+    {
+     "w": "pairs",
+     "t": 4.08,
+     "end": 4.56
+    },
+    {
+     "w": "in",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "other.",
+     "t": 4.96,
+     "end": 5.44
+    }
+   ]
+  },
+  "africa": {
+   "text": "And in West African drumming, layering patterns in three and in two is a basic principle.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "in",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "West",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "African",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "drumming,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "layering",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "patterns",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "three",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "in",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "two",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "is",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "basic",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "principle.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? In one beat, one hand plays three even notes, the other two.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "In",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "one",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "beat,",
+     "t": 2.4,
+     "end": 2.96
+    },
+    {
+     "w": "one",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "hand",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "plays",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "three",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "even",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "notes,",
+     "t": 4.72,
+     "end": 5.44
+    },
+    {
+     "w": "the",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "other",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "two.",
+     "t": 5.92,
+     "end": 6.48
+    }
+   ]
+  },
+  "why2": {
+   "text": "They meet only on the beat. In between, every note has its own spot on a grid of six.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "They",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "meet",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "only",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "on",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "beat.",
+     "t": 1.28,
+     "end": 1.88
+    },
+    {
+     "w": "In",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "between,",
+     "t": 2.24,
+     "end": 3.04
+    },
+    {
+     "w": "every",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "note",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "has",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "its",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "own",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "spot",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "on",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "a",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "grid",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "of",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "six.",
+     "t": 5.6,
+     "end": 6.4
+    }
+   ]
+  },
+  "tea": {
+   "text": "To feel it, say: nice cup of tea.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "To",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "feel",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "it,",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "say:",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "nice",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "cup",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "tea.",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "tea2": {
+   "text": "Nice together, then cup, of, tea.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Nice",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "together,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "then",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "cup,",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "of,",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "tea.",
+     "t": 3.44,
+     "end": 4
+    }
+   ]
+  },
+  "four": {
+   "text": "Four against three meets only once every twelve small steps.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "against",
+     "t": 0.52,
+     "end": 0.72
+    },
+    {
+     "w": "three",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "meets",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "only",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "once",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "every",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "twelve",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "small",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "steps.",
+     "t": 3.76,
+     "end": 4.56
+    }
+   ]
+  },
+  "brain": {
+   "text": "Your brain tracks both speeds at once, so the music feels restless and alive.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "brain",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "tracks",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "both",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "speeds",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "at",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "once,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "so",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "music",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "feels",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "restless",
+     "t": 3.76,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "alive.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "hemiola": {
+   "text": "Hemiola puts three and two in a row. Polyrhythm stacks them at the same time.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Hemiola",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "puts",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "three",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "two",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "row.",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "Polyrhythm",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "stacks",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "them",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "at",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "same",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "time.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two speeds, one moment. Music that moves in two currents at once.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "speeds,",
+     "t": 0.32,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "moment.",
+     "t": 1.6,
+     "end": 2.36
+    },
+    {
+     "w": "Music",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "that",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "moves",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "in",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "two",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "currents",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "at",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "once.",
+     "t": 4.88,
+     "end": 5.6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
