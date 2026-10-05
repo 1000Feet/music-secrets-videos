@@ -1,0 +1,993 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A quick flick, a falling run, one huge chord.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "quick",
+     "t": 0.16,
+     "end": 0.32
+    },
+    {
+     "w": "flick,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "falling",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "run,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "one",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "huge",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "chord.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Toccata and Fugue in D minor, traditionally attributed to Bach.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Toccata",
+     "t": 0.6,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "Fugue",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "in",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "D",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "minor,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "traditionally",
+     "t": 3.08,
+     "end": 3.52
+    },
+    {
+     "w": "attributed",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "to",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "Bach.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "what2": {
+   "text": "Some scholars question whether he really wrote it.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "scholars",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "question",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "whether",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "he",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "really",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "wrote",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "it.",
+     "t": 2.68,
+     "end": 3.04
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is how it begins.",
+   "dur": 1.802449,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "begins.",
+     "t": 0.8,
+     "end": 1.76
+    }
+   ]
+  },
+  "chord": {
+   "text": "Then a huge chord builds from the bottom, over a low D in the pedals, and resolves to D minor.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.42
+    },
+    {
+     "w": "a",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "huge",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "chord",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "builds",
+     "t": 1.84,
+     "end": 2.2
+    },
+    {
+     "w": "from",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "bottom,",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "over",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "a",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "low",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "D",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "in",
+     "t": 4.2,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "pedals,",
+     "t": 4.52,
+     "end": 5.2
+    },
+    {
+     "w": "and",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "resolves",
+     "t": 5.48,
+     "end": 6
+    },
+    {
+     "w": "to",
+     "t": 6.08,
+     "end": 6.16
+    },
+    {
+     "w": "D",
+     "t": 6.24,
+     "end": 6.4
+    },
+    {
+     "w": "minor.",
+     "t": 6.48,
+     "end": 7.2
+    }
+   ]
+  },
+  "fantasia": {
+   "text": "Disney's Fantasia, in 1940, opened with an orchestral version by Leopold Stokowski.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Disney's",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "Fantasia,",
+     "t": 0.56,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "1940,",
+     "t": 1.68,
+     "end": 2.88
+    },
+    {
+     "w": "opened",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "with",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "an",
+     "t": 3.52,
+     "end": 3.56
+    },
+    {
+     "w": "orchestral",
+     "t": 3.6,
+     "end": 4.16
+    },
+    {
+     "w": "version",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "by",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "Leopold",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "Stokowski.",
+     "t": 5.44,
+     "end": 6.4
+    }
+   ]
+  },
+  "fantasia2": {
+   "text": "It became the classic spooky organ sound in films.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "became",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "classic",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "spooky",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "organ",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "sound",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "in",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "films.",
+     "t": 3.04,
+     "end": 3.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it grab you? The mordent: a quick flick to the neighbor note and back.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "grab",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "you?",
+     "t": 1.48,
+     "end": 1.92
+    },
+    {
+     "w": "The",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "mordent:",
+     "t": 2.4,
+     "end": 3.36
+    },
+    {
+     "w": "a",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "quick",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "flick",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "to",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.36,
+     "end": 4.4
+    },
+    {
+     "w": "neighbor",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "note",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "and",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "back.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "Octaves make one single line sound enormous.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Octaves",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "make",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "one",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "single",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "line",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "sound",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "enormous.",
+     "t": 2.56,
+     "end": 3.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "That chord is a diminished seventh, built only of minor thirds.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chord",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1
+    },
+    {
+     "w": "diminished",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "seventh,",
+     "t": 1.68,
+     "end": 2.48
+    },
+    {
+     "w": "built",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "only",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "of",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "minor",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "thirds.",
+     "t": 3.84,
+     "end": 4.64
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Perfectly symmetrical, so it has no clear home, and maximum tension.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Perfectly",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "symmetrical,",
+     "t": 0.64,
+     "end": 1.68
+    },
+    {
+     "w": "so",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "it",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "has",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "no",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "clear",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "home,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "maximum",
+     "t": 4.4,
+     "end": 4.96
+    },
+    {
+     "w": "tension.",
+     "t": 5.04,
+     "end": 5.84
+    }
+   ]
+  },
+  "why3c": {
+   "text": "Then it resolves into D minor.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "resolves",
+     "t": 0.52,
+     "end": 0.96
+    },
+    {
+     "w": "into",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "D",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "minor.",
+     "t": 1.68,
+     "end": 2.4
+    }
+   ]
+  },
+  "why4": {
+   "text": "And the pauses let the sound ring through a stone church.",
+   "dur": 4.04898,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "pauses",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "let",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "sound",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "ring",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "through",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "stone",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "church.",
+     "t": 3.12,
+     "end": 4
+    }
+   ]
+  },
+  "why4b": {
+   "text": "The organ runs on wind, not hammers, so it can hold a note as long as the player wants.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "organ",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "runs",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "on",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "wind,",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "not",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "hammers,",
+     "t": 2.2,
+     "end": 2.96
+    },
+    {
+     "w": "so",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "it",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "can",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "hold",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.88
+    },
+    {
+     "w": "note",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "as",
+     "t": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "long",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "as",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "the",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "player",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "wants.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "A flick, a fall, one tense chord... and silence that rings.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "flick,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "fall,",
+     "t": 1.2,
+     "end": 2.16
+    },
+    {
+     "w": "one",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "tense",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "chord...",
+     "t": 3.12,
+     "end": 4.16
+    },
+    {
+     "w": "and",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "silence",
+     "t": 4.48,
+     "end": 5.04
+    },
+    {
+     "w": "that",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "rings.",
+     "t": 5.36,
+     "end": 6.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

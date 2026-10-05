@@ -1,0 +1,1006 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One mysterious chord. It refuses to resolve... and musicians have argued about it for over 150 years.",
+   "dur": 9.090612,
+   "speechEnd": 9.12,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "mysterious",
+     "t": 0.48,
+     "end": 1.36
+    },
+    {
+     "w": "chord.",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "It",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "refuses",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "to",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "resolve...",
+     "t": 3.6,
+     "end": 4.8
+    },
+    {
+     "w": "and",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "musicians",
+     "t": 4.96,
+     "end": 5.44
+    },
+    {
+     "w": "have",
+     "t": 5.56,
+     "end": 5.68
+    },
+    {
+     "w": "argued",
+     "t": 5.8,
+     "end": 6
+    },
+    {
+     "w": "about",
+     "t": 6.08,
+     "end": 6.32
+    },
+    {
+     "w": "it",
+     "t": 6.4,
+     "end": 6.48
+    },
+    {
+     "w": "for",
+     "t": 6.56,
+     "end": 6.64
+    },
+    {
+     "w": "over",
+     "t": 6.72,
+     "end": 6.96
+    },
+    {
+     "w": "150",
+     "t": 7.12,
+     "end": 8.16
+    },
+    {
+     "w": "years.",
+     "t": 8.32,
+     "end": 9.12
+    }
+   ]
+  },
+  "what": {
+   "text": "It opens Richard Wagner's opera, Tristan and Isolde.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opens",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "Richard",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "Wagner's",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "opera,",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "Tristan",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "Isolde.",
+     "t": 3.08,
+     "end": 3.84
+    }
+   ]
+  },
+  "what2": {
+   "text": "He composed it from 1857 to 1859, and it premiered in Munich in 1865.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "composed",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "from",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "1857",
+     "t": 1.16,
+     "end": 1.36
+    },
+    {
+     "w": "to",
+     "t": 1.52,
+     "end": 2.48
+    },
+    {
+     "w": "1859,",
+     "t": 2.56,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "it",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "premiered",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "in",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "Munich",
+     "t": 4.76,
+     "end": 5.2
+    },
+    {
+     "w": "in",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "1865.",
+     "t": 5.56,
+     "end": 6.96
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is how it begins.",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "is",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "begins.",
+     "t": 0.88,
+     "end": 1.84
+    }
+   ]
+  },
+  "again": {
+   "text": "Then the phrase comes back, each time a little higher. And each time... silence.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "phrase",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "comes",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "back,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "each",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "time",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "little",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "higher.",
+     "t": 3.2,
+     "end": 3.88
+    },
+    {
+     "w": "And",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "each",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "time...",
+     "t": 4.64,
+     "end": 5.68
+    },
+    {
+     "w": "silence.",
+     "t": 5.76,
+     "end": 6.72
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so restless? Its two lowest notes, F and B, form a tritone: pure tension.",
+   "dur": 8.437551,
+   "speechEnd": 8.48,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "so",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "restless?",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "Its",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "two",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "lowest",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "notes,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "F",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "B,",
+     "t": 4.72,
+     "end": 5.28
+    },
+    {
+     "w": "form",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "a",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "tritone:",
+     "t": 5.84,
+     "end": 6.96
+    },
+    {
+     "w": "pure",
+     "t": 7.04,
+     "end": 7.44
+    },
+    {
+     "w": "tension.",
+     "t": 7.6,
+     "end": 8.48
+    }
+   ]
+  },
+  "why2": {
+   "text": "Its notes sound like a familiar chord, a half diminished seventh...",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "notes",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sound",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "like",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "familiar",
+     "t": 1.24,
+     "end": 1.68
+    },
+    {
+     "w": "chord,",
+     "t": 1.84,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "half",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "diminished",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "seventh...",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "why2b": {
+   "text": "but they behave differently. So your ear can't tell where it's going.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "they",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "behave",
+     "t": 0.44,
+     "end": 0.88
+    },
+    {
+     "w": "differently.",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "So",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "your",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "ear",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "can't",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "tell",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "where",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "it's",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "going.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "Then it moves to E seven, a dominant chord that wants to resolve to A minor.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "moves",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "to",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "E",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "seven,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "dominant",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "chord",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "that",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "wants",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.64
+    },
+    {
+     "w": "resolve",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "to",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "A",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "minor.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why3b": {
+   "text": "It never does. Just silence.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "never",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "does.",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "Just",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "silence.",
+     "t": 2.24,
+     "end": 3.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "That's the point. It's an opera about longing, and the harmony keeps longing too.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "point.",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "It's",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "an",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "opera",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "about",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "longing,",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "harmony",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "keeps",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "longing",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "too.",
+     "t": 5.36,
+     "end": 6
+    }
+   ]
+  },
+  "why4b": {
+   "text": "The full resolution is held back for hours, until the very end of the opera.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "full",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "resolution",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "held",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "back",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "for",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "hours,",
+     "t": 2.4,
+     "end": 2.96
+    },
+    {
+     "w": "until",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "very",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "end",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "of",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "opera.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "debate": {
+   "text": "No wonder it's often seen as a gateway to modern harmony.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "wonder",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "it's",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "often",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "seen",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "as",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "gateway",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "to",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "modern",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "harmony.",
+     "t": 2.96,
+     "end": 3.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "One chord that never comes home... and music learned to long for something.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chord",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "never",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "comes",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "home...",
+     "t": 1.92,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "music",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "learned",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "to",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "long",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "for",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "something.",
+     "t": 5.04,
+     "end": 5.84
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

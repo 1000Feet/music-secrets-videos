@@ -1,0 +1,922 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A piano that sings like an opera voice... over a gentle, rocking pulse.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "piano",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "that",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "sings",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "like",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "an",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "opera",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "voice...",
+     "t": 2.24,
+     "end": 3.28
+    },
+    {
+     "w": "over",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "a",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "gentle,",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "rocking",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "pulse.",
+     "t": 5.04,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the world of Chopin's Nocturne in E flat, Opus 9 number 2, published in 1832.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "world",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Chopin's",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "Nocturne",
+     "t": 1.68,
+     "end": 2.2
+    },
+    {
+     "w": "in",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "E",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "flat,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "Opus",
+     "t": 3.48,
+     "end": 3.76
+    },
+    {
+     "w": "9",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "number",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "2,",
+     "t": 4.56,
+     "end": 5.2
+    },
+    {
+     "w": "published",
+     "t": 5.44,
+     "end": 5.68
+    },
+    {
+     "w": "in",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "1832.",
+     "t": 5.96,
+     "end": 7.28
+    }
+   ]
+  },
+  "genre": {
+   "text": "The piano nocturne, a night piece, was created by the Irish composer John Field. Chopin made it famous.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "piano",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "nocturne,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.64
+    },
+    {
+     "w": "night",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "piece,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "was",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "created",
+     "t": 3.08,
+     "end": 3.28
+    },
+    {
+     "w": "by",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "Irish",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "composer",
+     "t": 4.28,
+     "end": 4.56
+    },
+    {
+     "w": "John",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "Field.",
+     "t": 5.12,
+     "end": 6
+    },
+    {
+     "w": "Chopin",
+     "t": 6.04,
+     "end": 6.56
+    },
+    {
+     "w": "made",
+     "t": 6.64,
+     "end": 6.8
+    },
+    {
+     "w": "it",
+     "t": 6.84,
+     "end": 6.88
+    },
+    {
+     "w": "famous.",
+     "t": 6.96,
+     "end": 7.84
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is the kind of sound it lives in.",
+   "dur": 2.586122,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "kind",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "it",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "lives",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "in.",
+     "t": 2.04,
+     "end": 2.56
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel like breathing? First, the left hand rocks gently.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "feel",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "like",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "breathing?",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "First,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "left",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "hand",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "rocks",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "gently.",
+     "t": 4.96,
+     "end": 5.76
+    }
+   ]
+  },
+  "why1b": {
+   "text": "A deep bass note, then two chords above, in a slow twelve eight lilt.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "deep",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "bass",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "note,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "then",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "two",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "chords",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "above,",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "slow",
+     "t": 4.04,
+     "end": 4.24
+    },
+    {
+     "w": "twelve",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "eight",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "lilt.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "The right hand sings. Chopin loved Italian bel canto opera, and wrote piano melodies like a voice.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "right",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "hand",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "sings.",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "Chopin",
+     "t": 2.24,
+     "end": 2.8
+    },
+    {
+     "w": "loved",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "Italian",
+     "t": 3.48,
+     "end": 3.76
+    },
+    {
+     "w": "bel",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "canto",
+     "t": 4.12,
+     "end": 4.56
+    },
+    {
+     "w": "opera,",
+     "t": 4.64,
+     "end": 5.28
+    },
+    {
+     "w": "and",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "wrote",
+     "t": 5.48,
+     "end": 5.68
+    },
+    {
+     "w": "piano",
+     "t": 5.76,
+     "end": 6.08
+    },
+    {
+     "w": "melodies",
+     "t": 6.16,
+     "end": 6.64
+    },
+    {
+     "w": "like",
+     "t": 6.72,
+     "end": 6.8
+    },
+    {
+     "w": "a",
+     "t": 6.88,
+     "end": 6.96
+    },
+    {
+     "w": "voice.",
+     "t": 7.04,
+     "end": 7.84
+    }
+   ]
+  },
+  "why3": {
+   "text": "Each time the melody returns, it comes back more decorated...",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "time",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "melody",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "returns,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "it",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "comes",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "back",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "more",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "decorated...",
+     "t": 3.12,
+     "end": 4.08
+    }
+   ]
+  },
+  "why3b": {
+   "text": "trills, turns, fast little runs, the way an opera singer ornaments a repeated phrase.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "trills,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "turns,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "fast",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "little",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "runs,",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.24
+    },
+    {
+     "w": "way",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "an",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "opera",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "singer",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "ornaments",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "a",
+     "t": 4.907,
+     "end": 4.933
+    },
+    {
+     "w": "repeated",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "phrase.",
+     "t": 5.52,
+     "end": 6.32
+    }
+   ]
+  },
+  "why4": {
+   "text": "And then there's rubato: stolen time.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "then",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "there's",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "rubato:",
+     "t": 1.12,
+     "end": 2.16
+    },
+    {
+     "w": "stolen",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "time.",
+     "t": 2.88,
+     "end": 3.6
+    }
+   ]
+  },
+  "why4b": {
+   "text": "The melody leans back or pushes ahead, while the accompaniment keeps a steadier pulse.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "melody",
+     "t": 0.16,
+     "end": 0.56
+    },
+    {
+     "w": "leans",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "back",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "or",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "pushes",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "ahead,",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "while",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "accompaniment",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "keeps",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "steadier",
+     "t": 4.68,
+     "end": 5.04
+    },
+    {
+     "w": "pulse.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "A steady rocking below, a voice that breathes above... and time itself becomes expressive.",
+   "dur": 7.706122,
+   "speechEnd": 7.76,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "steady",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "rocking",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "below,",
+     "t": 1.12,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "voice",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "that",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "breathes",
+     "t": 3.12,
+     "end": 3.68
+    },
+    {
+     "w": "above...",
+     "t": 3.96,
+     "end": 4.96
+    },
+    {
+     "w": "and",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "time",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "itself",
+     "t": 5.52,
+     "end": 6.16
+    },
+    {
+     "w": "becomes",
+     "t": 6.24,
+     "end": 6.64
+    },
+    {
+     "w": "expressive.",
+     "t": 6.72,
+     "end": 7.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
