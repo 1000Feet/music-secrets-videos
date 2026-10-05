@@ -1,0 +1,913 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One of the most famous melodies ever written uses just five neighboring notes.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "of",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "most",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "famous",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "melodies",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "ever",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "written",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "uses",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "just",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "five",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "neighboring",
+     "t": 4,
+     "end": 4.4
+    },
+    {
+     "w": "notes.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "what": {
+   "text": "It's Ode to Joy, from the finale of Beethoven's Ninth Symphony.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Ode",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "to",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "Joy,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "finale",
+     "t": 1.96,
+     "end": 2.32
+    },
+    {
+     "w": "of",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "Beethoven's",
+     "t": 2.56,
+     "end": 3.2
+    },
+    {
+     "w": "Ninth",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "Symphony.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "what2": {
+   "text": "It premiered in Vienna in 1824, when Beethoven was almost completely deaf.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "premiered",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "Vienna",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "1824,",
+     "t": 1.56,
+     "end": 2.88
+    },
+    {
+     "w": "when",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "Beethoven",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "was",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "almost",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "completely",
+     "t": 4.4,
+     "end": 5.04
+    },
+    {
+     "w": "deaf.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "play": {
+   "text": "Here's how it goes.",
+   "dur": 1.48898,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "goes.",
+     "t": 0.64,
+     "end": 1.44
+    }
+   ]
+  },
+  "eu": {
+   "text": "Since 1985, it has also been the anthem of the European Union.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Since",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "1985,",
+     "t": 0.4,
+     "end": 1.68
+    },
+    {
+     "w": "it",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "has",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "also",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "been",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "anthem",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "of",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "European",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "Union.",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "eu2": {
+   "text": "The Council of Europe adopted it first, in 1972.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "Council",
+     "t": 0.16,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Europe",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "adopted",
+     "t": 1.32,
+     "end": 1.6
+    },
+    {
+     "w": "it",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "first,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "in",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "1972.",
+     "t": 2.72,
+     "end": 4.16
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Almost every note moves by step to the next.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Almost",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "every",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "note",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "moves",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "by",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "step",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "to",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "next.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "The first phrase stays within five notes, from D up to A.",
+   "dur": 4.832653,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "first",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "phrase",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "stays",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "within",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "five",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "notes,",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "from",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "D",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "up",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "A.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "why2b": {
+   "text": "No big leaps, no high notes. Anyone can sing it.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "big",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "leaps,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "no",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "high",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "notes.",
+     "t": 1.76,
+     "end": 2.36
+    },
+    {
+     "w": "Anyone",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "can",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "sing",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "it.",
+     "t": 3.56,
+     "end": 3.92
+    }
+   ]
+  },
+  "why3": {
+   "text": "The rhythm is plain, too: steady, even quarter notes.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "rhythm",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "plain,",
+     "t": 0.92,
+     "end": 1.16
+    },
+    {
+     "w": "too:",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "steady,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "even",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "quarter",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "notes.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "why4": {
+   "text": "Its one surprise comes later: a note that arrives a beat too soon.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "surprise",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "comes",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "later:",
+     "t": 1.6,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "note",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "that",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "arrives",
+     "t": 3.24,
+     "end": 3.6
+    },
+    {
+     "w": "a",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "beat",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "too",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "soon.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4b": {
+   "text": "That little push against the beat is called syncopation.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "little",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "push",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "against",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "beat",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "called",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "syncopation.",
+     "t": 2.64,
+     "end": 3.76
+    }
+   ]
+  },
+  "why5": {
+   "text": "Simple and singable means universal. That's why it works as an anthem.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Simple",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "singable",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "means",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "universal.",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "That's",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "why",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "it",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "works",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "as",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "an",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "anthem.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "essence": {
+   "text": "Five neighboring notes, even beats, one small surprise.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "neighboring",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "notes,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "even",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "beats,",
+     "t": 2,
+     "end": 2.88
+    },
+    {
+     "w": "one",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "small",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "surprise.",
+     "t": 3.68,
+     "end": 4.64
+    }
+   ]
+  },
+  "essence2": {
+   "text": "Greatness can be very simple.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "Greatness",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "can",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "be",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "very",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "simple.",
+     "t": 1.52,
+     "end": 2.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "break",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

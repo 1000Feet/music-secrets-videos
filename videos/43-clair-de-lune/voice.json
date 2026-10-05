@@ -1,0 +1,893 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Some music doesn't march. It floats.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "music",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "doesn't",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "march.",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "It",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "floats.",
+     "t": 2.64,
+     "end": 3.52
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the world of Clair de lune, by Claude Debussy.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "world",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "Clair",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "de",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "lune,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "by",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "Claude",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "Debussy.",
+     "t": 3.12,
+     "end": 3.92
+    }
+   ]
+  },
+  "whatb": {
+   "text": "It's the third movement of his Suite bergamasque.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "third",
+     "t": 0.52,
+     "end": 0.64
+    },
+    {
+     "w": "movement",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "of",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "his",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "Suite",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "bergamasque.",
+     "t": 1.92,
+     "end": 3.04
+    }
+   ]
+  },
+  "what2": {
+   "text": "He began the suite around 1890, and it was published in 1905.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "began",
+     "t": 0.267,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "suite",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "around",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "1890,",
+     "t": 1.36,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "it",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "was",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "published",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "1905.",
+     "t": 3.76,
+     "end": 5.04
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is the kind of sound it lives in: soft, slow chords in D flat major.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "kind",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "it",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "lives",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "in:",
+     "t": 1.96,
+     "end": 2.64
+    },
+    {
+     "w": "soft,",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "slow",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "chords",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "in",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "D",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "flat",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "major.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it float? First, the meter: nine eight.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "float?",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "First,",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "meter:",
+     "t": 3.04,
+     "end": 3.92
+    },
+    {
+     "w": "nine",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "eight.",
+     "t": 4.4,
+     "end": 4.96
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Three groups of three, played with a very free tempo, called rubato.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "groups",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "three,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "played",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "with",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "very",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "free",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "tempo,",
+     "t": 3.04,
+     "end": 3.84
+    },
+    {
+     "w": "called",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "rubato.",
+     "t": 4.32,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1c": {
+   "text": "Together, they blur the beat. Nothing marches.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Together,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "they",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "blur",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "beat.",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "Nothing",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "marches.",
+     "t": 3.147,
+     "end": 3.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then the key: D flat major has five flats.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "key:",
+     "t": 0.56,
+     "end": 1.44
+    },
+    {
+     "w": "D",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "flat",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "major",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "has",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "five",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "flats.",
+     "t": 3.36,
+     "end": 4.16
+    }
+   ]
+  },
+  "why2b": {
+   "text": "On the piano, that means lots of black keys, and a soft, rounded sound.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "piano,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "that",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "means",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "lots",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "black",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "keys,",
+     "t": 2.64,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "soft,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "rounded",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "sound.",
+     "t": 4.96,
+     "end": 5.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "And it's marked pianissimo: very soft.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it's",
+     "t": 0.2,
+     "end": 0.4
+    },
+    {
+     "w": "marked",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "pianissimo:",
+     "t": 0.88,
+     "end": 2.24
+    },
+    {
+     "w": "very",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "soft.",
+     "t": 2.88,
+     "end": 3.6
+    }
+   ]
+  },
+  "why4": {
+   "text": "This is Debussy's impressionism: color and atmosphere, instead of strong tension and release.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Debussy's",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "impressionism:",
+     "t": 1.2,
+     "end": 2.64
+    },
+    {
+     "w": "color",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "atmosphere,",
+     "t": 3.44,
+     "end": 4.48
+    },
+    {
+     "w": "instead",
+     "t": 4.68,
+     "end": 4.88
+    },
+    {
+     "w": "of",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "strong",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "tension",
+     "t": 5.6,
+     "end": 6.08
+    },
+    {
+     "w": "and",
+     "t": 6.16,
+     "end": 6.24
+    },
+    {
+     "w": "release.",
+     "t": 6.52,
+     "end": 7.12
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Chords are chosen for their sound, not for their pull.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Chords",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "are",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "chosen",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "for",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "their",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "sound,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "not",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "for",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "their",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "pull.",
+     "t": 2.96,
+     "end": 3.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "Blur the beat, soften the chords...",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "Blur",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "beat,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "soften",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "chords...",
+     "t": 2.08,
+     "end": 2.88
+    }
+   ]
+  },
+  "essence2": {
+   "text": "and music starts to look like moonlight on water.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "music",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "starts",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "to",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "look",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "like",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "moonlight",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "on",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "water.",
+     "t": 2.8,
+     "end": 3.52
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

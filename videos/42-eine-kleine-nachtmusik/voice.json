@@ -1,0 +1,838 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "You can recognize this music in about two seconds.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "can",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "recognize",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "this",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "music",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "in",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "about",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "two",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "seconds.",
+     "t": 2.48,
+     "end": 3.36
+    }
+   ]
+  },
+  "what": {
+   "text": "It's Eine kleine Nachtmusik: Mozart's Serenade number thirteen in G major, completed in 1787.",
+   "dur": 7.967347,
+   "speechEnd": 7.76,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Eine",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "kleine",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "Nachtmusik:",
+     "t": 1.12,
+     "end": 2.24
+    },
+    {
+     "w": "Mozart's",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "Serenade",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "number",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "thirteen",
+     "t": 3.76,
+     "end": 4.32
+    },
+    {
+     "w": "in",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "G",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "major,",
+     "t": 4.88,
+     "end": 5.52
+    },
+    {
+     "w": "completed",
+     "t": 5.8,
+     "end": 6.08
+    },
+    {
+     "w": "in",
+     "t": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "1787.",
+     "t": 6.4,
+     "end": 7.76
+    }
+   ]
+  },
+  "what2": {
+   "text": "The title simply means a little night music.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "title",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "simply",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "means",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "little",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "night",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "music.",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "play": {
+   "text": "Here's how it opens.",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "opens.",
+     "t": 0.64,
+     "end": 1.44
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The first bars just spell out one chord.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "first",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "bars",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "just",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "spell",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "out",
+     "t": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "one",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "chord.",
+     "t": 3.92,
+     "end": 4.64
+    }
+   ]
+  },
+  "why1b": {
+   "text": "G, D, G, D... then up through G, B, D. The home chord: G major.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "G,",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "D,",
+     "t": 0.24,
+     "end": 0.24
+    },
+    {
+     "w": "G,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "D...",
+     "t": 1.2,
+     "end": 1.96
+    },
+    {
+     "w": "then",
+     "t": 2.16,
+     "end": 2.8
+    },
+    {
+     "w": "up",
+     "t": 2.84,
+     "end": 2.92
+    },
+    {
+     "w": "through",
+     "t": 2.96,
+     "end": 3.52
+    },
+    {
+     "w": "G,",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "B,",
+     "t": 4.12,
+     "end": 4.28
+    },
+    {
+     "w": "D.",
+     "t": 4.32,
+     "end": 5.12
+    },
+    {
+     "w": "The",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "home",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "chord:",
+     "t": 5.52,
+     "end": 6.32
+    },
+    {
+     "w": "G",
+     "t": 6.4,
+     "end": 6.56
+    },
+    {
+     "w": "major.",
+     "t": 6.64,
+     "end": 7.44
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then comes the answer: C, A, F sharp, down to D.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "comes",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.76
+    },
+    {
+     "w": "answer:",
+     "t": 0.8,
+     "end": 1.76
+    },
+    {
+     "w": "C,",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "A,",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "F",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "sharp,",
+     "t": 3.52,
+     "end": 4.08
+    },
+    {
+     "w": "down",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "to",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "D.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2b": {
+   "text": "That's D seven, the dominant chord.",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "D",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "seven,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "dominant",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "chord.",
+     "t": 2.24,
+     "end": 2.88
+    }
+   ]
+  },
+  "why2c": {
+   "text": "In G major, it's the chord that pulls back home.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "G",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "major,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "it's",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "chord",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "that",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "pulls",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "back",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "home.",
+     "t": 2.88,
+     "end": 3.52
+    }
+   ]
+  },
+  "why3": {
+   "text": "A question and an answer, built from just two chords.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "question",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "an",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "answer,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "built",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "from",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "just",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "two",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "chords.",
+     "t": 3.04,
+     "end": 3.92
+    }
+   ]
+  },
+  "why4": {
+   "text": "And that rising arpeggio? Composers of the time loved this rocket figure.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "that",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "rising",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "arpeggio?",
+     "t": 0.8,
+     "end": 1.64
+    },
+    {
+     "w": "Composers",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "time",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "loved",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "this",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "rocket",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "figure.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "why4b": {
+   "text": "It grabs your attention instantly.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "grabs",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "your",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "attention",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "instantly.",
+     "t": 1.44,
+     "end": 2.4
+    }
+   ]
+  },
+  "why5": {
+   "text": "That's Mozart's style: balanced phrases, clear harmony, everything in proportion.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Mozart's",
+     "t": 0.36,
+     "end": 0.8
+    },
+    {
+     "w": "style:",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "balanced",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "phrases,",
+     "t": 2.28,
+     "end": 3.04
+    },
+    {
+     "w": "clear",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "harmony,",
+     "t": 3.52,
+     "end": 4.32
+    },
+    {
+     "w": "everything",
+     "t": 4.4,
+     "end": 4.96
+    },
+    {
+     "w": "in",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "proportion.",
+     "t": 5.2,
+     "end": 6.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two chords, perfectly balanced.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chords,",
+     "t": 0.32,
+     "end": 1.08
+    },
+    {
+     "w": "perfectly",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "balanced.",
+     "t": 1.84,
+     "end": 2.72
+    }
+   ]
+  },
+  "essence2": {
+   "text": "And you recognize it in two seconds.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "you",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "recognize",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "two",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "seconds.",
+     "t": 1.84,
+     "end": 2.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.724082,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "break",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.76
+    }
+   ]
+  }
+ }
+}
