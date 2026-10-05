@@ -1,0 +1,911 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One instrument... and the music turns into magic.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "instrument...",
+     "t": 0.4,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "music",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "turns",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "into",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "magic.",
+     "t": 3.36,
+     "end": 4.24
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Dance of the Sugar Plum Fairy, from Tchaikovsky's ballet The Nutcracker.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "Dance",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "of",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "Sugar",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "Plum",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "Fairy,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "from",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "Tchaikovsky's",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "ballet",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "The",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "Nutcracker.",
+     "t": 4.56,
+     "end": 5.52
+    }
+   ]
+  },
+  "what2": {
+   "text": "It premiered in Saint Petersburg in December 1892.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "premiered",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Saint",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "Petersburg",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "in",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "December",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "1892.",
+     "t": 2.72,
+     "end": 4.08
+    }
+   ]
+  },
+  "secret": {
+   "text": "In 1891, in Paris, Tchaikovsky discovered a new instrument...",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1891,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "in",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "Paris,",
+     "t": 1.84,
+     "end": 2.64
+    },
+    {
+     "w": "Tchaikovsky",
+     "t": 2.68,
+     "end": 3.28
+    },
+    {
+     "w": "discovered",
+     "t": 3.4,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "new",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "instrument...",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "secret1b": {
+   "text": "the celesta, invented by Auguste Mustel.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "celesta,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "invented",
+     "t": 1.32,
+     "end": 1.76
+    },
+    {
+     "w": "by",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "Auguste",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "Mustel.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "secret2": {
+   "text": "He asked his publisher to keep it secret, so other Russian composers could not use it first.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "asked",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "his",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "publisher",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "to",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "keep",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "it",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "secret,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "so",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "other",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "Russian",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "composers",
+     "t": 3.52,
+     "end": 4.08
+    },
+    {
+     "w": "could",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "not",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "use",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "it",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "first.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound magical? A celesta looks like a small piano...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "sound",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "magical?",
+     "t": 1.44,
+     "end": 2.28
+    },
+    {
+     "w": "A",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "celesta",
+     "t": 2.84,
+     "end": 3.28
+    },
+    {
+     "w": "looks",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "like",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "small",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "piano...",
+     "t": 4.2,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1b": {
+   "text": "but its hammers strike metal plates instead of strings. The tone is bell-like and glassy.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "its",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "hammers",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "strike",
+     "t": 1,
+     "end": 1.2
+    },
+    {
+     "w": "metal",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "plates",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "instead",
+     "t": 2.28,
+     "end": 2.48
+    },
+    {
+     "w": "of",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "strings.",
+     "t": 2.64,
+     "end": 3.68
+    },
+    {
+     "w": "The",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "tone",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "is",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "bell-like",
+     "t": 4.6,
+     "end": 5.2
+    },
+    {
+     "w": "and",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "glassy.",
+     "t": 5.64,
+     "end": 6.32
+    }
+   ]
+  },
+  "why2": {
+   "text": "Timbre is about overtones. The same note on different instruments has a different mix.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Timbre",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "about",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "overtones.",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "The",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "same",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "note",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "on",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "different",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "instruments",
+     "t": 3.76,
+     "end": 4.4
+    },
+    {
+     "w": "has",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "a",
+     "t": 4.72,
+     "end": 4.76
+    },
+    {
+     "w": "different",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "mix.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Metal plates give bright, shimmering overtones that fade fast.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Metal",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "plates",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "give",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "bright,",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "shimmering",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "overtones",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "that",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "fade",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "fast.",
+     "t": 3.84,
+     "end": 4.64
+    }
+   ]
+  },
+  "why3": {
+   "text": "And the dance is in a minor key, quiet, with plucked strings underneath.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "dance",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "minor",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "key,",
+     "t": 1.52,
+     "end": 2.32
+    },
+    {
+     "w": "quiet,",
+     "t": 2.4,
+     "end": 3.2
+    },
+    {
+     "w": "with",
+     "t": 3.32,
+     "end": 3.44
+    },
+    {
+     "w": "plucked",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "strings",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "underneath.",
+     "t": 4.44,
+     "end": 5.2
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Mysterious, rather than sweet.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Mysterious,",
+     "t": 0,
+     "end": 1.2
+    },
+    {
+     "w": "rather",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "than",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "sweet.",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "why4": {
+   "text": "High notes, short notes, metallic sparkle... that is fairy dust.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "High",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "notes,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "short",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "notes,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "metallic",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "sparkle...",
+     "t": 2.56,
+     "end": 3.6
+    },
+    {
+     "w": "that",
+     "t": 3.8,
+     "end": 4
+    },
+    {
+     "w": "is",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "fairy",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "dust.",
+     "t": 4.76,
+     "end": 5.44
+    }
+   ]
+  },
+  "essence": {
+   "text": "The same notes on a different instrument become a different world. Timbre is magic.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "notes",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "on",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "different",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "instrument",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "become",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "different",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "world.",
+     "t": 3.28,
+     "end": 3.84
+    },
+    {
+     "w": "Timbre",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "is",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "magic.",
+     "t": 5.36,
+     "end": 6.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

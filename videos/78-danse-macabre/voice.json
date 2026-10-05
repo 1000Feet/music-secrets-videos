@@ -1,0 +1,971 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Death plays the violin... tuned to the devil's interval.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Death",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "plays",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "violin...",
+     "t": 1.04,
+     "end": 2.4
+    },
+    {
+     "w": "tuned",
+     "t": 2.44,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "devil's",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "interval.",
+     "t": 3.76,
+     "end": 4.64
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Danse Macabre by Saint-Saëns, from 1874, based on a poem by Henri Cazalis.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Danse",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "Macabre",
+     "t": 0.96,
+     "end": 1.52
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "Saint-Saëns,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "from",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "1874,",
+     "t": 3.04,
+     "end": 4.64
+    },
+    {
+     "w": "based",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "on",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "a",
+     "t": 5.12,
+     "end": 5.16
+    },
+    {
+     "w": "poem",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "by",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "Henri",
+     "t": 5.84,
+     "end": 6.16
+    },
+    {
+     "w": "Cazalis.",
+     "t": 6.24,
+     "end": 7.2
+    }
+   ]
+  },
+  "what2": {
+   "text": "At midnight, Death plays his fiddle and skeletons dance until dawn.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "midnight,",
+     "t": 0.24,
+     "end": 1.12
+    },
+    {
+     "w": "Death",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "plays",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "his",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "fiddle",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "skeletons",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "dance",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "until",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "dawn.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "harp": {
+   "text": "First, the harp plays a single note, D, twelve times. The clock strikes midnight.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "First,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "harp",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "plays",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "single",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "note,",
+     "t": 2.16,
+     "end": 2.8
+    },
+    {
+     "w": "D,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "twelve",
+     "t": 3.72,
+     "end": 4
+    },
+    {
+     "w": "times.",
+     "t": 4.08,
+     "end": 4.92
+    },
+    {
+     "w": "The",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "clock",
+     "t": 5.36,
+     "end": 5.68
+    },
+    {
+     "w": "strikes",
+     "t": 5.76,
+     "end": 6.16
+    },
+    {
+     "w": "midnight.",
+     "t": 6.24,
+     "end": 7.04
+    }
+   ]
+  },
+  "tune": {
+   "text": "Then the solo violin plays its open strings A and E flat together: Death tuning his fiddle.",
+   "dur": 7.392653,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "solo",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "violin",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "plays",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "its",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "open",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "strings",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "A",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "E",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "flat",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "together:",
+     "t": 4.16,
+     "end": 5.28
+    },
+    {
+     "w": "Death",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "tuning",
+     "t": 5.92,
+     "end": 6.32
+    },
+    {
+     "w": "his",
+     "t": 6.44,
+     "end": 6.56
+    },
+    {
+     "w": "fiddle.",
+     "t": 6.64,
+     "end": 7.36
+    }
+   ]
+  },
+  "waltz": {
+   "text": "And the dance begins: a waltz in G minor.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "dance",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "begins:",
+     "t": 0.8,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "waltz",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "in",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "G",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "minor.",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why so sinister? Saint-Saëns asked the soloist to tune the top string down, from E to E flat.",
+   "dur": 8.280816,
+   "speechEnd": 8.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "so",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "sinister?",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "Saint-Saëns",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "asked",
+     "t": 3.24,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "soloist",
+     "t": 3.6,
+     "end": 4.16
+    },
+    {
+     "w": "to",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "tune",
+     "t": 4.36,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "top",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "string",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "down,",
+     "t": 5.52,
+     "end": 6.24
+    },
+    {
+     "w": "from",
+     "t": 6.32,
+     "end": 6.48
+    },
+    {
+     "w": "E",
+     "t": 6.64,
+     "end": 6.96
+    },
+    {
+     "w": "to",
+     "t": 7.2,
+     "end": 7.28
+    },
+    {
+     "w": "E",
+     "t": 7.36,
+     "end": 7.52
+    },
+    {
+     "w": "flat.",
+     "t": 7.6,
+     "end": 8.32
+    }
+   ]
+  },
+  "why1b": {
+   "text": "That's called scordatura.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "called",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "scordatura.",
+     "t": 0.8,
+     "end": 2.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "Now the open strings A and E flat form a tritone. Six half steps, the devil's interval.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "open",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "strings",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "A",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "E",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "flat",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "form",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.08
+    },
+    {
+     "w": "tritone.",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "Six",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "half",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "steps,",
+     "t": 4.88,
+     "end": 5.68
+    },
+    {
+     "w": "the",
+     "t": 5.72,
+     "end": 5.76
+    },
+    {
+     "w": "devil's",
+     "t": 5.92,
+     "end": 6.32
+    },
+    {
+     "w": "interval.",
+     "t": 6.4,
+     "end": 7.2
+    }
+   ]
+  },
+  "why2b": {
+   "text": "On the circle, exactly opposite.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "circle,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "exactly",
+     "t": 1.24,
+     "end": 1.76
+    },
+    {
+     "w": "opposite.",
+     "t": 1.84,
+     "end": 2.64
+    }
+   ]
+  },
+  "why3": {
+   "text": "The xylophone imitates rattling bones.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "xylophone",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "imitates",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "rattling",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "bones.",
+     "t": 2.32,
+     "end": 3.2
+    }
+   ]
+  },
+  "why4": {
+   "text": "He also quotes the Dies irae, the medieval chant for the dead, a symbol of death.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "also",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "quotes",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "Dies",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "irae,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "medieval",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "chant",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "for",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "dead,",
+     "t": 3.52,
+     "end": 4.32
+    },
+    {
+     "w": "a",
+     "t": 4.36,
+     "end": 4.4
+    },
+    {
+     "w": "symbol",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "of",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "death.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "why5": {
+   "text": "At dawn, the oboe plays a rooster's crow, and the skeletons flee.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "dawn,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "oboe",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "plays",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "rooster's",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "crow,",
+     "t": 2.76,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "skeletons",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "flee.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "essence": {
+   "text": "One detuned string turns a violin into Death's instrument. The tritone does the rest.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "detuned",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "string",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "turns",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "violin",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "into",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "Death's",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "instrument.",
+     "t": 3.6,
+     "end": 4.4
+    },
+    {
+     "w": "The",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "tritone",
+     "t": 4.8,
+     "end": 5.44
+    },
+    {
+     "w": "does",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "the",
+     "t": 5.76,
+     "end": 5.8
+    },
+    {
+     "w": "rest.",
+     "t": 5.84,
+     "end": 6.56
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "break",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,894 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Five notes, played slowly... and suddenly everyone feels homesick.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "played",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "slowly...",
+     "t": 1.68,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "suddenly",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "everyone",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "feels",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "homesick.",
+     "t": 4.72,
+     "end": 5.6
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Largo from Dvořák's Ninth Symphony, From the New World.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "Largo",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "from",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "Dvořák's",
+     "t": 1.64,
+     "end": 2.32
+    },
+    {
+     "w": "Ninth",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "Symphony,",
+     "t": 2.72,
+     "end": 3.52
+    },
+    {
+     "w": "From",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "New",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "World.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "what2": {
+   "text": "He wrote it while living in the United States.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "wrote",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "while",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "living",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "United",
+     "t": 1.56,
+     "end": 1.76
+    },
+    {
+     "w": "States.",
+     "t": 1.84,
+     "end": 2.64
+    }
+   ]
+  },
+  "what3": {
+   "text": "It premiered at Carnegie Hall, New York, in December 1893.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "premiered",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "at",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Carnegie",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "Hall,",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "New",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "York,",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "in",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "December",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "1893.",
+     "t": 3.28,
+     "end": 4.64
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is the English horn solo.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "English",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "horn",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "solo.",
+     "t": 1.44,
+     "end": 2.08
+    }
+   ]
+  },
+  "song": {
+   "text": "In 1922, his student William Arms Fisher set words to it, as the song Goin' Home.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1922,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "his",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "student",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "William",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "Arms",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "Fisher",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "set",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "words",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "to",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "it,",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "as",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "song",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "Goin'",
+     "t": 6.08,
+     "end": 6.36
+    },
+    {
+     "w": "Home.",
+     "t": 6.4,
+     "end": 7.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel like home? The melody only uses the major pentatonic scale.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "like",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "home?",
+     "t": 1.6,
+     "end": 2.28
+    },
+    {
+     "w": "The",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "melody",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "only",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "uses",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "major",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "pentatonic",
+     "t": 4.48,
+     "end": 5.04
+    },
+    {
+     "w": "scale.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Five notes, no half steps, so nothing clashes. It sounds like a folk song.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "no",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "half",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "steps,",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "so",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "nothing",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "clashes.",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "It",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "sounds",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "like",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "folk",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "song.",
+     "t": 5.04,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "Dvořák was deeply interested in African American spirituals,",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Dvořák",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "was",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "deeply",
+     "t": 1.08,
+     "end": 1.36
+    },
+    {
+     "w": "interested",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "African",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "American",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "spirituals,",
+     "t": 3.2,
+     "end": 4.24
+    }
+   ]
+  },
+  "why2b": {
+   "text": "which his student Harry T. Burleigh sang for him, and in Native American music.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "which",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "his",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "student",
+     "t": 0.6,
+     "end": 0.8
+    },
+    {
+     "w": "Harry",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "T.",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Burleigh",
+     "t": 1.64,
+     "end": 2
+    },
+    {
+     "w": "sang",
+     "t": 2.04,
+     "end": 2.32
+    },
+    {
+     "w": "for",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "him,",
+     "t": 2.6,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "Native",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "American",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "music.",
+     "t": 4.72,
+     "end": 5.44
+    }
+   ]
+  },
+  "why3": {
+   "text": "The English horn, a lower, darker oboe, gives it a warm, melancholy voice.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "English",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "horn,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "lower,",
+     "t": 1.6,
+     "end": 2.32
+    },
+    {
+     "w": "darker",
+     "t": 2.36,
+     "end": 2.72
+    },
+    {
+     "w": "oboe,",
+     "t": 2.8,
+     "end": 3.6
+    },
+    {
+     "w": "gives",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "a",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "warm,",
+     "t": 4.24,
+     "end": 4.88
+    },
+    {
+     "w": "melancholy",
+     "t": 4.96,
+     "end": 5.6
+    },
+    {
+     "w": "voice.",
+     "t": 5.68,
+     "end": 6.48
+    }
+   ]
+  },
+  "why4": {
+   "text": "And the slow tempo, long held notes and simple steps feel like remembering home.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "slow",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "tempo,",
+     "t": 0.72,
+     "end": 1.6
+    },
+    {
+     "w": "long",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "held",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "notes",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "simple",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "steps",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "feel",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "like",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "remembering",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "home.",
+     "t": 5.72,
+     "end": 6.24
+    }
+   ]
+  },
+  "essence": {
+   "text": "Five notes, no clashes, a dark reed voice... and everyone feels homesick.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "no",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "clashes,",
+     "t": 1.52,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "dark",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "reed",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "voice...",
+     "t": 3.52,
+     "end": 4.56
+    },
+    {
+     "w": "and",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "everyone",
+     "t": 5.2,
+     "end": 5.6
+    },
+    {
+     "w": "feels",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "homesick.",
+     "t": 6,
+     "end": 6.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "break",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}
