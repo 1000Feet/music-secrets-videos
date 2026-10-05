@@ -1,0 +1,819 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Same speed, same six pulses... and suddenly the beat shifts under your feet.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "speed,",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "same",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "six",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "pulses...",
+     "t": 1.92,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "suddenly",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "beat",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "shifts",
+     "t": 4.64,
+     "end": 5
+    },
+    {
+     "w": "under",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "your",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "feet.",
+     "t": 5.48,
+     "end": 6.08
+    }
+   ]
+  },
+  "what": {
+   "text": "Six pulses can be grouped as three plus three...",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "Six",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "pulses",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "can",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "be",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "grouped",
+     "t": 1.32,
+     "end": 1.6
+    },
+    {
+     "w": "as",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "three",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "plus",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "three...",
+     "t": 2.8,
+     "end": 3.28
+    }
+   ]
+  },
+  "what2": {
+   "text": "or as two plus two plus two. Switching between them is a hemiola.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "or",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "as",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "two",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "two",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "plus",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "two.",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "Switching",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "between",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "them",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "is",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.84
+    },
+    {
+     "w": "hemiola.",
+     "t": 4.88,
+     "end": 5.84
+    }
+   ]
+  },
+  "what3": {
+   "text": "Three against two, without changing the speed.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "against",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "two,",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "without",
+     "t": 1.72,
+     "end": 1.92
+    },
+    {
+     "w": "changing",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "speed.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "s1": {
+   "text": "Leonard Bernstein's America, from West Side Story, flips back and forth:",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Leonard",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Bernstein's",
+     "t": 0.52,
+     "end": 1.04
+    },
+    {
+     "w": "America,",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "from",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "West",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "Side",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "Story,",
+     "t": 2.56,
+     "end": 3.28
+    },
+    {
+     "w": "flips",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "back",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "forth:",
+     "t": 4.4,
+     "end": 4.88
+    }
+   ]
+  },
+  "s1b": {
+   "text": "one bar in two groups of three, the next in three groups of two.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "one",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "bar",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "two",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "groups",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "three,",
+     "t": 1.68,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "next",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "in",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "three",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "groups",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "two.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "s2": {
+   "text": "And composers from Handel to Brahms love a hemiola right before a cadence.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "composers",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "from",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "Handel",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "to",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Brahms",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "love",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "hemiola",
+     "t": 2.88,
+     "end": 3.52
+    },
+    {
+     "w": "right",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "before",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "cadence.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The smallest pulse never changes speed.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.72
+    },
+    {
+     "w": "The",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "smallest",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "pulse",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "never",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "changes",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "speed.",
+     "t": 4.4,
+     "end": 4.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "Only the grouping changes: where the accents fall.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Only",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "grouping",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "changes:",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "where",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "accents",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "fall.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "why3": {
+   "text": "Accents on one and four... then on one, three and five.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Accents",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "on",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "one",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "four...",
+     "t": 1.6,
+     "end": 2.48
+    },
+    {
+     "w": "then",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "on",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "one,",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "three",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "and",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "five.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "For a moment, your ear loses its footing. That confusion creates energy...",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "For",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "moment,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "your",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "ear",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "loses",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "its",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "footing.",
+     "t": 2.32,
+     "end": 3.28
+    },
+    {
+     "w": "That",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "confusion",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "creates",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "energy...",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "why5": {
+   "text": "then the music snaps back into place.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "music",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "snaps",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "back",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "into",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "place.",
+     "t": 1.84,
+     "end": 2.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Same six beats, regrouped. Rhythm's own optical illusion.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "six",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "beats,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "regrouped.",
+     "t": 1.6,
+     "end": 2.52
+    },
+    {
+     "w": "Rhythm's",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "own",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "optical",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "illusion.",
+     "t": 4.32,
+     "end": 5.2
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

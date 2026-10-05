@@ -1,0 +1,899 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A few notes, played over and over, can become the whole identity of a song.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "few",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "notes,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "played",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "over",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "over,",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "can",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "become",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "whole",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "identity",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "of",
+     "t": 4.68,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.84
+    },
+    {
+     "w": "song.",
+     "t": 4.88,
+     "end": 5.6
+    }
+   ]
+  },
+  "what": {
+   "text": "That's a riff: a short musical phrase that keeps coming back.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "riff:",
+     "t": 0.48,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "short",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "musical",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "phrase",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "that",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "keeps",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "coming",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "back.",
+     "t": 3.88,
+     "end": 4.32
+    }
+   ]
+  },
+  "s1": {
+   "text": "Seven Nation Army sounds like a bass riff...",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Nation",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "Army",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "sounds",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "like",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "bass",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "riff...",
+     "t": 2.4,
+     "end": 3.04
+    }
+   ]
+  },
+  "s1b": {
+   "text": "but it's Jack White's guitar, pushed an octave down by a pedal.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it's",
+     "t": 0.2,
+     "end": 0.4
+    },
+    {
+     "w": "Jack",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "White's",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "guitar,",
+     "t": 1.08,
+     "end": 1.92
+    },
+    {
+     "w": "pushed",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "an",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "octave",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "down",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "by",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "pedal.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "s1c": {
+   "text": "Today, stadiums around the world chant it.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Today,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "stadiums",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "around",
+     "t": 1.64,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "world",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "chant",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "it.",
+     "t": 3.08,
+     "end": 3.52
+    }
+   ]
+  },
+  "s2": {
+   "text": "Keith Richards played the Satisfaction riff through a fuzz pedal: a Gibson Maestro Fuzz-Tone.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Keith",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Richards",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "played",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.16
+    },
+    {
+     "w": "Satisfaction",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "riff",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "through",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "fuzz",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "pedal:",
+     "t": 2.96,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "Gibson",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "Maestro",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "Fuzz-Tone.",
+     "t": 4.96,
+     "end": 5.92
+    }
+   ]
+  },
+  "s3": {
+   "text": "And Smoke on the Water is one of the first riffs most guitarists learn.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Smoke",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "on",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "Water",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "is",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "one",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "of",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "first",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "riffs",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "most",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "guitarists",
+     "t": 3.08,
+     "end": 3.68
+    },
+    {
+     "w": "learn.",
+     "t": 3.76,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Repetition makes a phrase easy to remember.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "Repetition",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "makes",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "phrase",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "easy",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "to",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "remember.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why2": {
+   "text": "Repeat it enough, and the riff becomes a hook.",
+   "dur": 3.160816,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Repeat",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "enough,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "riff",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "becomes",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.32,
+     "end": 2.36
+    },
+    {
+     "w": "hook.",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "why3": {
+   "text": "Riffs are short: usually just one or two bars.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Riffs",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "are",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "short:",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "usually",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "just",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "one",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "or",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "two",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "bars.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "why4": {
+   "text": "And rhythmic, built from a few notes, often from the pentatonic or blues scale.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "rhythmic,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "built",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "few",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "notes,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "often",
+     "t": 3.08,
+     "end": 3.28
+    },
+    {
+     "w": "from",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "pentatonic",
+     "t": 3.72,
+     "end": 4.4
+    },
+    {
+     "w": "or",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "blues",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "scale.",
+     "t": 5.16,
+     "end": 5.68
+    }
+   ]
+  },
+  "why5": {
+   "text": "Classical music has the same idea, the ostinato: the snare in Ravel's Boléro, or Holst's Mars.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "music",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "has",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "same",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "idea,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "ostinato:",
+     "t": 2.64,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "snare",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "in",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "Ravel's",
+     "t": 4.68,
+     "end": 5.12
+    },
+    {
+     "w": "Boléro,",
+     "t": 5.2,
+     "end": 6.08
+    },
+    {
+     "w": "or",
+     "t": 6.2,
+     "end": 6.32
+    },
+    {
+     "w": "Holst's",
+     "t": 6.48,
+     "end": 6.96
+    },
+    {
+     "w": "Mars.",
+     "t": 7.04,
+     "end": 7.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "Say it short, and say it again. The riff is music's logo.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Say",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "short,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "say",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "it",
+     "t": 1.6,
+     "end": 1.64
+    },
+    {
+     "w": "again.",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "The",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "riff",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "is",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "music's",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "logo.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

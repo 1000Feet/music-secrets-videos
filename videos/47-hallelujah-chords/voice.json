@@ -1,0 +1,869 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "This song tells you exactly which chords it's playing, at the moment it plays them.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "song",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "tells",
+     "t": 0.6,
+     "end": 0.8
+    },
+    {
+     "w": "you",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "exactly",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "which",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "chords",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "it's",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "playing,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "at",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "moment",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "it",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "plays",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "them.",
+     "t": 4.68,
+     "end": 5.04
+    }
+   ]
+  },
+  "what": {
+   "text": "The lyric goes: the fourth, the fifth, the minor fall, the major lift.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "lyric",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "goes:",
+     "t": 0.68,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "fourth,",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "fifth,",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "minor",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "fall,",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "major",
+     "t": 4.96,
+     "end": 5.28
+    },
+    {
+     "w": "lift.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "s1": {
+   "text": "It's Hallelujah, by Leonard Cohen...",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Hallelujah,",
+     "t": 0.32,
+     "end": 1.36
+    },
+    {
+     "w": "by",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "Leonard",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "Cohen...",
+     "t": 2,
+     "end": 2.64
+    }
+   ]
+  },
+  "s2": {
+   "text": "and the famous cover by Jeff Buckley.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "famous",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "cover",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "by",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Jeff",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "Buckley.",
+     "t": 1.76,
+     "end": 2.48
+    }
+   ]
+  },
+  "map1": {
+   "text": "In the original key of C, the fourth is F, and the fifth is G.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "original",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "key",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "C,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "fourth",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "is",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "F,",
+     "t": 2.88,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "fifth",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "is",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "G.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "map2": {
+   "text": "The minor fall is A minor. The major lift is F major.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "fall",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "A",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "minor.",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "The",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "major",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "lift",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "is",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "F",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "major.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Because the lyric is music theory, sung out loud.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "Because",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "lyric",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "is",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "music",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "theory,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "sung",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "out",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "loud.",
+     "t": 4.8,
+     "end": 5.44
+    }
+   ]
+  },
+  "home": {
+   "text": "C is home. F is chord four. G is chord five.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "C",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "home.",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "F",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "is",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "chord",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "four.",
+     "t": 3.04,
+     "end": 3.92
+    },
+    {
+     "w": "G",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "is",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "chord",
+     "t": 4.76,
+     "end": 5.04
+    },
+    {
+     "w": "five.",
+     "t": 5.12,
+     "end": 5.92
+    }
+   ]
+  },
+  "pull": {
+   "text": "After G, your ear expects to go back home, to C.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "After",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "G,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "your",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "ear",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "expects",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "go",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "back",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "home,",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "C.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "fall": {
+   "text": "Instead, it lands on A minor, chord six. Home, swapped for a minor chord.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Instead,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "lands",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "on",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "A",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "minor,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "chord",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "six.",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "Home,",
+     "t": 4.08,
+     "end": 4.8
+    },
+    {
+     "w": "swapped",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "for",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "a",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "minor",
+     "t": 5.84,
+     "end": 6.08
+    },
+    {
+     "w": "chord.",
+     "t": 6.16,
+     "end": 6.8
+    }
+   ]
+  },
+  "fall2": {
+   "text": "That deceptive move is the emotional fall.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "deceptive",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "move",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "is",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "emotional",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "fall.",
+     "t": 2.72,
+     "end": 3.36
+    }
+   ]
+  },
+  "lift": {
+   "text": "Then F, a major chord, lifts the mood again.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "F,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "major",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "chord,",
+     "t": 1.68,
+     "end": 2.32
+    },
+    {
+     "w": "lifts",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "mood",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "again.",
+     "t": 3.32,
+     "end": 3.76
+    }
+   ]
+  },
+  "essence": {
+   "text": "A song that tells you exactly what it's doing... and still makes you cry.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "song",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "that",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "tells",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "you",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "exactly",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "what",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "it's",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "doing...",
+     "t": 2.52,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "still",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "makes",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "you",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "cry.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,901 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Take a steady rhythm, make every second note a little late... and it starts to swing.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "steady",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "rhythm,",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "make",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "every",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "second",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "note",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "little",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "late...",
+     "t": 3.76,
+     "end": 4.72
+    },
+    {
+     "w": "and",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "it",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "starts",
+     "t": 5.28,
+     "end": 5.6
+    },
+    {
+     "w": "to",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "swing.",
+     "t": 5.96,
+     "end": 6.48
+    }
+   ]
+  },
+  "what": {
+   "text": "Straight eighth notes are perfectly even: one and two and.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Straight",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "eighth",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "notes",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "are",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "perfectly",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "even:",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "one",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "two",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "and.",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "what2": {
+   "text": "Swing plays them long, short. Long, short.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Swing",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "plays",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "them",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "long,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "short.",
+     "t": 1.76,
+     "end": 2.44
+    },
+    {
+     "w": "Long,",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "short.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "what3": {
+   "text": "Roughly the first two thirds of a triplet, then the last third.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Roughly",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "first",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "two",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "thirds",
+     "t": 1.36,
+     "end": 1.64
+    },
+    {
+     "w": "of",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "triplet,",
+     "t": 1.96,
+     "end": 2.72
+    },
+    {
+     "w": "then",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "last",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "third.",
+     "t": 3.52,
+     "end": 4.08
+    }
+   ]
+  },
+  "s1": {
+   "text": "That lilt drives In the Mood, by Glenn Miller...",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "lilt",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "drives",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "In",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Mood,",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "by",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "Glenn",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "Miller...",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "s2": {
+   "text": "and Sing, Sing, Sing, by Benny Goodman.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Sing,",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "Sing,",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "Sing,",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "by",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "Benny",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "Goodman.",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so different? Here is a little tune, played straight...",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "different?",
+     "t": 1.88,
+     "end": 2.44
+    },
+    {
+     "w": "Here",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "is",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "little",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "tune,",
+     "t": 3.48,
+     "end": 4.08
+    },
+    {
+     "w": "played",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "straight...",
+     "t": 4.64,
+     "end": 5.12
+    }
+   ]
+  },
+  "why2": {
+   "text": "and here it is swung.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "here",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "swung.",
+     "t": 1.28,
+     "end": 2.08
+    }
+   ]
+  },
+  "why3": {
+   "text": "Same notes. Only the and arrives late.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes.",
+     "t": 0.56,
+     "end": 1
+    },
+    {
+     "w": "Only",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "arrives",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "late.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "why4": {
+   "text": "The amount of swing varies. Slower tempos often swing harder...",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "amount",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "swing",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "varies.",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "Slower",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "tempos",
+     "t": 2.64,
+     "end": 3.2
+    },
+    {
+     "w": "often",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "swing",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "harder...",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why4b": {
+   "text": "very fast tempos get closer to even.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "very",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "fast",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "tempos",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "get",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "closer",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "even.",
+     "t": 2.6,
+     "end": 3.12
+    }
+   ]
+  },
+  "why5": {
+   "text": "And the ride cymbal, plus a walking bass on every beat, carry the swing.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "ride",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "cymbal,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "walking",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "bass",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "on",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "every",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "beat,",
+     "t": 3.12,
+     "end": 3.68
+    },
+    {
+     "w": "carry",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "swing.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "why6": {
+   "text": "It grew out of jazz in the twenties and thirties, and big bands made it the dance music of the era.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "grew",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "out",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "jazz",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "twenties",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "thirties,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "big",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "bands",
+     "t": 3.48,
+     "end": 3.68
+    },
+    {
+     "w": "made",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "dance",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "music",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "of",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "era.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "essence": {
+   "text": "Delay one note by a hair, and a stiff rhythm starts to dance.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Delay",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "one",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "note",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "by",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "hair,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "stiff",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "rhythm",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "starts",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "dance.",
+     "t": 4.2,
+     "end": 4.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
