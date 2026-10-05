@@ -1,0 +1,991 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Play two notes twelve keys apart, and your ear hears... the same note.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "two",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "notes",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "twelve",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "keys",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "apart,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "your",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "ear",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "hears...",
+     "t": 3.12,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "same",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "note.",
+     "t": 4.64,
+     "end": 5.12
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on C and climb twelve half steps, all the way to the next C. That's an octave.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "C",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "climb",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "twelve",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "half",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "steps,",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "all",
+     "t": 3.32,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "way",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "next",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "C.",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "That's",
+     "t": 5.28,
+     "end": 5.48
+    },
+    {
+     "w": "an",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "octave.",
+     "t": 5.68,
+     "end": 6.4
+    }
+   ]
+  },
+  "rainbow": {
+   "text": "It's the giant leap that opens Over the Rainbow...",
+   "dur": 3.552653,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "giant",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "leap",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "that",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "opens",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "Over",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "Rainbow...",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "ball": {
+   "text": "and Take Me Out to the Ball Game starts with an octave leap down.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Take",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "Me",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Out",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "to",
+     "t": 0.96,
+     "end": 1
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.08
+    },
+    {
+     "w": "Ball",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "Game",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "starts",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "with",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "an",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "octave",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "leap",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "down.",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why do they sound alike? An A vibrates 440 times a second.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "do",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "they",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "sound",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "alike?",
+     "t": 1.2,
+     "end": 1.96
+    },
+    {
+     "w": "An",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "A",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "vibrates",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "440",
+     "t": 3.52,
+     "end": 4.4
+    },
+    {
+     "w": "times",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "a",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "second.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "The A above vibrates 880 times. Exactly double: two to one.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "A",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "above",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "vibrates",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "880",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "times.",
+     "t": 2.72,
+     "end": 3.68
+    },
+    {
+     "w": "Exactly",
+     "t": 3.96,
+     "end": 4.24
+    },
+    {
+     "w": "double:",
+     "t": 4.4,
+     "end": 5.2
+    },
+    {
+     "w": "two",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "to",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "one.",
+     "t": 5.6,
+     "end": 6.16
+    }
+   ]
+  },
+  "why3": {
+   "text": "Every swing of the low note lines up with exactly two of the high one.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "swing",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "low",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "note",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "lines",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "up",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "with",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "exactly",
+     "t": 2.56,
+     "end": 3.2
+    },
+    {
+     "w": "two",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "of",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.84,
+     "end": 3.88
+    },
+    {
+     "w": "high",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "one.",
+     "t": 4.24,
+     "end": 4.72
+    }
+   ]
+  },
+  "harm": {
+   "text": "And every harmonic of the upper note is already a harmonic of the lower one.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "every",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "harmonic",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "of",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "upper",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "note",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "is",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "already",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "harmonic",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "of",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "lower",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "one.",
+     "t": 4.4,
+     "end": 4.88
+    }
+   ]
+  },
+  "harm2": {
+   "text": "So they blend completely.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "they",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "blend",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "completely.",
+     "t": 1.12,
+     "end": 2.08
+    }
+   ]
+  },
+  "names": {
+   "text": "That's why note names repeat every twelve keys. C, C, C, C.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "why",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "note",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "names",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "repeat",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "every",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "twelve",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "keys.",
+     "t": 2.4,
+     "end": 3.36
+    },
+    {
+     "w": "C,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "C,",
+     "t": 4.24,
+     "end": 4.72
+    },
+    {
+     "w": "C,",
+     "t": 4.88,
+     "end": 5.2
+    },
+    {
+     "w": "C.",
+     "t": 5.28,
+     "end": 5.84
+    }
+   ]
+  },
+  "circle": {
+   "text": "On the circle, an octave is one full turn, back to the same spot.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "circle,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "an",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "octave",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "is",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "one",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "full",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "turn,",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "back",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "to",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "same",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "spot.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "sing": {
+   "text": "When men and women sing a tune together, they are often an octave apart...",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "When",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "men",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "women",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "sing",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "tune",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "together,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "they",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "are",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "often",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "an",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "octave",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "apart...",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "sing2": {
+   "text": "and we hear one melody.",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "we",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "hear",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "one",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "melody.",
+     "t": 1.12,
+     "end": 1.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "The octave is the frame that holds every other note. Music's home address.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "octave",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "frame",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "that",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "holds",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "every",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "other",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "note.",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "Music's",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "home",
+     "t": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "address.",
+     "t": 4.68,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

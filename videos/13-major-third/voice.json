@@ -1,0 +1,1031 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One small interval is what makes a chord sound major, and bright.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "small",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "interval",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "is",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "what",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "makes",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "chord",
+     "t": 2.2,
+     "end": 2.48
+    },
+    {
+     "w": "sound",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "major,",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "bright.",
+     "t": 3.84,
+     "end": 4.64
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on C and go up four half steps, to E. That's a major third.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "C",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "go",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "up",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "four",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "half",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "steps,",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "to",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "E.",
+     "t": 3.36,
+     "end": 3.96
+    },
+    {
+     "w": "That's",
+     "t": 4.24,
+     "end": 4.44
+    },
+    {
+     "w": "a",
+     "t": 4.48,
+     "end": 4.52
+    },
+    {
+     "w": "major",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "third.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "saints": {
+   "text": "It's the opening rise of When the Saints Go Marching In...",
+   "dur": 3.866122,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "opening",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "rise",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "of",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "When",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "Saints",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "Go",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Marching",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "In...",
+     "t": 3.28,
+     "end": 3.84
+    }
+   ]
+  },
+  "swing": {
+   "text": "the gentle fall of Swing Low, Sweet Chariot...",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "gentle",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "fall",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "of",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "Swing",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "Low,",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "Sweet",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "Chariot...",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "beet": {
+   "text": "and Beethoven's Fifth: three short notes, then a fall of a major third.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Beethoven's",
+     "t": 0.28,
+     "end": 0.88
+    },
+    {
+     "w": "Fifth:",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "three",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "short",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "notes,",
+     "t": 2.56,
+     "end": 3.28
+    },
+    {
+     "w": "then",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "fall",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.133,
+     "end": 4.187
+    },
+    {
+     "w": "major",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "third.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound so bright? The ratio is five to four.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "bright?",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "The",
+     "t": 2.48,
+     "end": 2.52
+    },
+    {
+     "w": "ratio",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "is",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "five",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "four.",
+     "t": 4.08,
+     "end": 4.72
+    }
+   ]
+  },
+  "harm": {
+   "text": "Play a low C, and listen to its harmonics. The fifth one... is an E.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "low",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "C,",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "listen",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "to",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "its",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "harmonics.",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "The",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "fifth",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "one...",
+     "t": 4,
+     "end": 4.64
+    },
+    {
+     "w": "is",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "an",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "E.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "chord": {
+   "text": "Add the G above, and you get C major: four, five, six.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "G",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "above,",
+     "t": 0.92,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "you",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "get",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "C",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "major:",
+     "t": 2.44,
+     "end": 3.12
+    },
+    {
+     "w": "four,",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "five,",
+     "t": 4.12,
+     "end": 4.64
+    },
+    {
+     "w": "six.",
+     "t": 4.84,
+     "end": 5.28
+    }
+   ]
+  },
+  "chord2": {
+   "text": "The major chord is built right into the harmonic series.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "major",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chord",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "built",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "right",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "into",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "harmonic",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "series.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "tune": {
+   "text": "But on a piano, the major third is about fourteen cents wider than the pure five to four.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "on",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "piano,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "major",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "third",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "about",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "fourteen",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "cents",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "wider",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "than",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "the",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "pure",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "five",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "to",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "four.",
+     "t": 5.44,
+     "end": 5.84
+    }
+   ]
+  },
+  "tune2": {
+   "text": "So choirs and string players often narrow it by ear.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "choirs",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "string",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "players",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "often",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "narrow",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "it",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "by",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "ear.",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "aug": {
+   "text": "Stack two major thirds, C, E, G sharp, and you get the augmented chord.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Stack",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "two",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "major",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "thirds,",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "C,",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "E,",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "G",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "sharp,",
+     "t": 3.52,
+     "end": 4.24
+    },
+    {
+     "w": "and",
+     "t": 4.36,
+     "end": 4.48
+    },
+    {
+     "w": "you",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "get",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "augmented",
+     "t": 4.96,
+     "end": 5.44
+    },
+    {
+     "w": "chord.",
+     "t": 5.52,
+     "end": 6.08
+    }
+   ]
+  },
+  "aug2": {
+   "text": "Add a third one, and you are back at C. A perfect triangle.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "third",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "one,",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "you",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "are",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "back",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "at",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "C.",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "A",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "perfect",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "triangle.",
+     "t": 3.76,
+     "end": 4.64
+    }
+   ]
+  },
+  "essence": {
+   "text": "Four half steps, and the whole world of major. Brightness is built into physics.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "half",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "steps,",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "whole",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "world",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "major.",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "Brightness",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "is",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "built",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "into",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "physics.",
+     "t": 5.12,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

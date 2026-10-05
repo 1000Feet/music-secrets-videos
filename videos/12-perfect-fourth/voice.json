@@ -1,0 +1,1026 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Some of the most famous melodies ever written start with the same small leap.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "of",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "most",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "famous",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "melodies",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "ever",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "written",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "start",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "with",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.32,
+     "end": 3.44
+    },
+    {
+     "w": "same",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "small",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "leap.",
+     "t": 4.32,
+     "end": 4.88
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on G and go up five half steps, to C. That's a perfect fourth.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "G",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "go",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "up",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "five",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "half",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "steps,",
+     "t": 2.56,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "C.",
+     "t": 3.44,
+     "end": 4.04
+    },
+    {
+     "w": "That's",
+     "t": 4.32,
+     "end": 4.52
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "perfect",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "fourth.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "bride": {
+   "text": "It's the first step of Here Comes the Bride...",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "first",
+     "t": 0.52,
+     "end": 0.64
+    },
+    {
+     "w": "step",
+     "t": 0.84,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "Here",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "Comes",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "Bride...",
+     "t": 2.2,
+     "end": 2.96
+    }
+   ]
+  },
+  "grace": {
+   "text": "the opening of Amazing Grace...",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opening",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "Amazing",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "Grace...",
+     "t": 1.6,
+     "end": 2.4
+    }
+   ]
+  },
+  "auld": {
+   "text": "and the first leap of Auld Lang Syne.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "first",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "leap",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "Auld",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "Lang",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "Syne.",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The fourth is the fifth turned upside down.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "fourth",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "is",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "fifth",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "turned",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "upside",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "down.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "C up to G is a fifth. G up to C is a fourth. Together, exactly one octave.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "C",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "up",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "G",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "fifth.",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "G",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "up",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "C",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "is",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "fourth.",
+     "t": 4,
+     "end": 4.64
+    },
+    {
+     "w": "Together,",
+     "t": 4.88,
+     "end": 5.6
+    },
+    {
+     "w": "exactly",
+     "t": 5.76,
+     "end": 6.24
+    },
+    {
+     "w": "one",
+     "t": 6.4,
+     "end": 6.56
+    },
+    {
+     "w": "octave.",
+     "t": 6.64,
+     "end": 7.44
+    }
+   ]
+  },
+  "ratio": {
+   "text": "Four to three, times three to two, makes two to one.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "to",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "three,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "times",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "three",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "to",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "two,",
+     "t": 2.16,
+     "end": 2.8
+    },
+    {
+     "w": "makes",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "two",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "to",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "one.",
+     "t": 3.68,
+     "end": 4.24
+    }
+   ]
+  },
+  "land": {
+   "text": "Leaping from the fifth below up to the root sounds like an arrival.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Leaping",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "from",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "fifth",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "below",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "up",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "to",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "root",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "sounds",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "like",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "an",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "arrival.",
+     "t": 3.68,
+     "end": 4.56
+    }
+   ]
+  },
+  "land2": {
+   "text": "The pickup note lifts, and the melody lands on home, right on the downbeat.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pickup",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "note",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "lifts,",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.8
+    },
+    {
+     "w": "melody",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "lands",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "home,",
+     "t": 3.04,
+     "end": 3.84
+    },
+    {
+     "w": "right",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "on",
+     "t": 4.2,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.32,
+     "end": 4.36
+    },
+    {
+     "w": "downbeat.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "sus": {
+   "text": "In a chord, a fourth over the bass sounds unresolved. That's the sus four chord.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "chord,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "fourth",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "over",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "bass",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "sounds",
+     "t": 2.6,
+     "end": 2.8
+    },
+    {
+     "w": "unresolved.",
+     "t": 2.88,
+     "end": 4.16
+    },
+    {
+     "w": "That's",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "sus",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "four",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "chord.",
+     "t": 5.44,
+     "end": 6.08
+    }
+   ]
+  },
+  "sus2": {
+   "text": "F wants to fall to E... and C sus four resolves to C.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "F",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "wants",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "fall",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "to",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "E...",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "C",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "sus",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "four",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "resolves",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "C.",
+     "t": 4.16,
+     "end": 4.72
+    }
+   ]
+  },
+  "monks": {
+   "text": "Medieval monks sang in parallel fourths, as well as fifths.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Medieval",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "monks",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "sang",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "parallel",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "fourths,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "as",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "well",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "as",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "fifths.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two halves of the octave: the fifth is a door out, and the fourth is the door back home.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "halves",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "octave:",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "fifth",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "is",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.72,
+     "end": 2.76
+    },
+    {
+     "w": "door",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "out,",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "fourth",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "is",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "the",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "door",
+     "t": 5.16,
+     "end": 5.28
+    },
+    {
+     "w": "back",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "home.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
