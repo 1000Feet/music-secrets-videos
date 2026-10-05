@@ -1,0 +1,870 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Take the third out of a chord, and it stops being major or minor. It just hangs there.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "third",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "out",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "chord,",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "it",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "stops",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "being",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "major",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "or",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "minor.",
+     "t": 3.52,
+     "end": 4.12
+    },
+    {
+     "w": "It",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "just",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "hangs",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "there.",
+     "t": 5.52,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "Swap the third for the fourth: C sus four. Or for the second: C sus two.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Swap",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "third",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "for",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "fourth:",
+     "t": 1.36,
+     "end": 2.16
+    },
+    {
+     "w": "C",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "sus",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "four.",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "Or",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "for",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "second:",
+     "t": 4.56,
+     "end": 5.36
+    },
+    {
+     "w": "C",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "sus",
+     "t": 5.84,
+     "end": 6.08
+    },
+    {
+     "w": "two.",
+     "t": 6.24,
+     "end": 6.8
+    }
+   ]
+  },
+  "pinball": {
+   "text": "It's the intro of Pinball Wizard, by The Who, built on sus four chords resolving...",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "intro",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "Pinball",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Wizard,",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "by",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "The",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "Who,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "built",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "on",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "sus",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "four",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "chords",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "resolving...",
+     "t": 4.64,
+     "end": 5.52
+    }
+   ]
+  },
+  "free": {
+   "text": "and the little flicker in the riff of Free Fallin', by Tom Petty.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "little",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "flicker",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.4
+    },
+    {
+     "w": "riff",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "Free",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Fallin',",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "by",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "Tom",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "Petty.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it hang? The name comes from an old technique called suspension.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "hang?",
+     "t": 1.28,
+     "end": 1.96
+    },
+    {
+     "w": "The",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "name",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "comes",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "from",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "an",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "old",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "technique",
+     "t": 3.52,
+     "end": 4.08
+    },
+    {
+     "w": "called",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "suspension.",
+     "t": 4.56,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "A note from the previous chord is held over, then falls to the chord tone.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "note",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "from",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "previous",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "chord",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "is",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "held",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "over,",
+     "t": 2.16,
+     "end": 2.8
+    },
+    {
+     "w": "then",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "falls",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "to",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.8
+    },
+    {
+     "w": "chord",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "tone.",
+     "t": 4.36,
+     "end": 4.8
+    }
+   ]
+  },
+  "why3": {
+   "text": "In C sus four, the F wants to fall a half step to E. And there it is: C major.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "C",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "sus",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "four,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "F",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "wants",
+     "t": 2.28,
+     "end": 2.48
+    },
+    {
+     "w": "to",
+     "t": 2.56,
+     "end": 2.6
+    },
+    {
+     "w": "fall",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "half",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "step",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "E.",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "And",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "there",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "it",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "is:",
+     "t": 5.28,
+     "end": 5.84
+    },
+    {
+     "w": "C",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "major.",
+     "t": 6.16,
+     "end": 6.88
+    }
+   ]
+  },
+  "why4": {
+   "text": "Tension and release, inside one chord.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Tension",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "release,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "inside",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "one",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "chord.",
+     "t": 2.8,
+     "end": 3.52
+    }
+   ]
+  },
+  "why5a": {
+   "text": "And with no third at all, there's no major or minor color.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "with",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "no",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "third",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "at",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "all,",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "there's",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "no",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "major",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "or",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "minor",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "color.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why5": {
+   "text": "That's the sus two sound: open, ambiguous, modern.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "sus",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "two",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "sound:",
+     "t": 1.28,
+     "end": 2.16
+    },
+    {
+     "w": "open,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "ambiguous,",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "modern.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "essence": {
+   "text": "A question held in the air, and an answer one half step away.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "question",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "held",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "air,",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "an",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "answer",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "one",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "half",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "step",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "away.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

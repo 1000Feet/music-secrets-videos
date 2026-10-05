@@ -1,0 +1,1018 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Four chords, and you're instantly back at a fifties slow dance.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords,",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "and",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "you're",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "instantly",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "back",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "at",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "fifties",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "slow",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "dance.",
+     "t": 3.36,
+     "end": 4.08
+    }
+   ]
+  },
+  "what": {
+   "text": "One, six, four, five. In C, that's C, A minor, F and G.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "One,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "six,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "four,",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "five.",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "In",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "C,",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "that's",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "C,",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "A",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "minor,",
+     "t": 5.28,
+     "end": 5.92
+    },
+    {
+     "w": "F",
+     "t": 6,
+     "end": 6.32
+    },
+    {
+     "w": "and",
+     "t": 6.48,
+     "end": 6.56
+    },
+    {
+     "w": "G.",
+     "t": 6.72,
+     "end": 7.28
+    }
+   ]
+  },
+  "name": {
+   "text": "It's called the fifties progression, or the doo-wop progression.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "called",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "fifties",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "progression,",
+     "t": 1.28,
+     "end": 2.16
+    },
+    {
+     "w": "or",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "doo-wop",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "progression.",
+     "t": 3.44,
+     "end": 4.4
+    }
+   ]
+  },
+  "earth": {
+   "text": "You hear it in Earth Angel...",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "Earth",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "Angel...",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  },
+  "stand": {
+   "text": "Stand By Me, in A...",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "Stand",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "By",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "Me,",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "A...",
+     "t": 1.8,
+     "end": 2.08
+    }
+   ]
+  },
+  "every": {
+   "text": "and the verse of Every Breath You Take.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "verse",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "Every",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Breath",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "You",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Take.",
+     "t": 2.16,
+     "end": 2.8
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so smooth? C and A minor share two notes: C and E.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "smooth?",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "C",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "A",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "minor",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "share",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "two",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "notes:",
+     "t": 4.72,
+     "end": 5.6
+    },
+    {
+     "w": "C",
+     "t": 5.68,
+     "end": 6
+    },
+    {
+     "w": "and",
+     "t": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "E.",
+     "t": 6.4,
+     "end": 6.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "A minor and F share two notes too: A and C.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "F",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "share",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "two",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "notes",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "too:",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "A",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "C.",
+     "t": 3.76,
+     "end": 4.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "So only one note moves each time. The chords glide.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "only",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "one",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "note",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "moves",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "each",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "time.",
+     "t": 2.08,
+     "end": 2.68
+    },
+    {
+     "w": "The",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "chords",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "glide.",
+     "t": 3.6,
+     "end": 4.56
+    }
+   ]
+  },
+  "why4": {
+   "text": "F to G shares nothing... but the bass just steps up,",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "F",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "to",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "G",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "shares",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "nothing...",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "but",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "bass",
+     "t": 2.6,
+     "end": 2.88
+    },
+    {
+     "w": "just",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "steps",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "up,",
+     "t": 3.6,
+     "end": 4.08
+    }
+   ]
+  },
+  "why5": {
+   "text": "and G, the five chord, pulls straight back to C. The loop closes itself.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "five",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "chord,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "pulls",
+     "t": 2.2,
+     "end": 2.4
+    },
+    {
+     "w": "straight",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "back",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "to",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "C.",
+     "t": 3.28,
+     "end": 4.08
+    },
+    {
+     "w": "The",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "loop",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "closes",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "itself.",
+     "t": 5.12,
+     "end": 5.92
+    }
+   ]
+  },
+  "bass": {
+   "text": "Listen to the bass: C, A, F, G. Down a third, down a third, up a step.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "bass:",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "C,",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "A,",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "F,",
+     "t": 3.12,
+     "end": 3.56
+    },
+    {
+     "w": "G.",
+     "t": 3.68,
+     "end": 4.32
+    },
+    {
+     "w": "Down",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "a",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "third,",
+     "t": 5.04,
+     "end": 5.68
+    },
+    {
+     "w": "down",
+     "t": 5.76,
+     "end": 5.92
+    },
+    {
+     "w": "a",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "third,",
+     "t": 6.16,
+     "end": 6.8
+    },
+    {
+     "w": "up",
+     "t": 6.88,
+     "end": 6.96
+    },
+    {
+     "w": "a",
+     "t": 7,
+     "end": 7.04
+    },
+    {
+     "w": "step.",
+     "t": 7.12,
+     "end": 7.68
+    }
+   ]
+  },
+  "order": {
+   "text": "These are the same four chords as the modern one, five, six, four.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "These",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "are",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "same",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "four",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "chords",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "as",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "modern",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "one,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "five,",
+     "t": 3.56,
+     "end": 4
+    },
+    {
+     "w": "six,",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "four.",
+     "t": 4.56,
+     "end": 5.2
+    }
+   ]
+  },
+  "order2": {
+   "text": "Just change the order, and fifties sweetness becomes a modern anthem.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Just",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "change",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "order,",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "fifties",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "sweetness",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "becomes",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "modern",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "anthem.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Chords that share notes feel like one long breath. That's why this loop sounds so warm and safe.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "Chords",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "that",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "share",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "notes",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "feel",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "like",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "one",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "long",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "breath.",
+     "t": 2.96,
+     "end": 3.8
+    },
+    {
+     "w": "That's",
+     "t": 4.08,
+     "end": 4.293
+    },
+    {
+     "w": "why",
+     "t": 4.347,
+     "end": 4.4
+    },
+    {
+     "w": "this",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "loop",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "sounds",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "so",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "warm",
+     "t": 5.68,
+     "end": 6.08
+    },
+    {
+     "w": "and",
+     "t": 6.16,
+     "end": 6.24
+    },
+    {
+     "w": "safe.",
+     "t": 6.32,
+     "end": 7.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
