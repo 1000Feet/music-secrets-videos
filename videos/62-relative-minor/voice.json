@@ -1,0 +1,1031 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Same chords. One song sounds hopeful, another sounds dark. Why?",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords.",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "One",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "song",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "sounds",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "hopeful,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "another",
+     "t": 3.48,
+     "end": 3.68
+    },
+    {
+     "w": "sounds",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "dark.",
+     "t": 4.16,
+     "end": 5.04
+    },
+    {
+     "w": "Why?",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "what": {
+   "text": "Every major key shares its notes with a minor key. C major and A minor: the same seven white keys.",
+   "dur": 7.88898,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "major",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "key",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "shares",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "its",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "notes",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "with",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.32,
+     "end": 2.36
+    },
+    {
+     "w": "minor",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "key.",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "C",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "major",
+     "t": 4,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "A",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "minor:",
+     "t": 5.04,
+     "end": 5.92
+    },
+    {
+     "w": "the",
+     "t": 5.96,
+     "end": 6
+    },
+    {
+     "w": "same",
+     "t": 6.16,
+     "end": 6.4
+    },
+    {
+     "w": "seven",
+     "t": 6.56,
+     "end": 6.8
+    },
+    {
+     "w": "white",
+     "t": 6.88,
+     "end": 7.12
+    },
+    {
+     "w": "keys.",
+     "t": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "what2": {
+   "text": "Only home is different: A, the sixth note.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Only",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "home",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "different:",
+     "t": 1.28,
+     "end": 2.4
+    },
+    {
+     "w": "A,",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "sixth",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "note.",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "letit": {
+   "text": "Let It Be: C, G, A minor, F. Hopeful.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Let",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "It",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Be:",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "C,",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "G,",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "A",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "minor,",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "F.",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "Hopeful.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "zombie": {
+   "text": "Zombie: E minor, C, G, D. G major's chords, but starting on the minor one. Dark.",
+   "dur": 8.437551,
+   "speechEnd": 8.48,
+   "words": [
+    {
+     "w": "Zombie:",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "E",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "minor,",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "C,",
+     "t": 2.16,
+     "end": 2.68
+    },
+    {
+     "w": "G,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "D.",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "G",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "major's",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "chords,",
+     "t": 5.04,
+     "end": 5.6
+    },
+    {
+     "w": "but",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "starting",
+     "t": 5.84,
+     "end": 6.16
+    },
+    {
+     "w": "on",
+     "t": 6.2,
+     "end": 6.24
+    },
+    {
+     "w": "the",
+     "t": 6.32,
+     "end": 6.4
+    },
+    {
+     "w": "minor",
+     "t": 6.48,
+     "end": 6.72
+    },
+    {
+     "w": "one.",
+     "t": 6.8,
+     "end": 7.36
+    },
+    {
+     "w": "Dark.",
+     "t": 7.68,
+     "end": 8.48
+    }
+   ]
+  },
+  "desp": {
+   "text": "Despacito does it too: B minor, G, D, A.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Despacito",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "too:",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "B",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "minor,",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "G,",
+     "t": 3.2,
+     "end": 3.92
+    },
+    {
+     "w": "D,",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "A.",
+     "t": 4.8,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does the mood flip? Rotate C, G, A minor, F to start on A minor:",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "mood",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "flip?",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "Rotate",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "C,",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "G,",
+     "t": 3.44,
+     "end": 3.88
+    },
+    {
+     "w": "A",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "minor,",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "F",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "to",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "start",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "on",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "A",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "minor:",
+     "t": 5.92,
+     "end": 6.56
+    }
+   ]
+  },
+  "why2": {
+   "text": "A minor, F, C, G. Same four chords, different first chord.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "F,",
+     "t": 1.04,
+     "end": 1.56
+    },
+    {
+     "w": "C,",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "G.",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "Same",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "four",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "chords,",
+     "t": 3.84,
+     "end": 4.64
+    },
+    {
+     "w": "different",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "first",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "chord.",
+     "t": 5.36,
+     "end": 5.92
+    }
+   ]
+  },
+  "home": {
+   "text": "Your ear treats the chord you start on, and keep returning to, as home.",
+   "dur": 5.067755,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "ear",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "treats",
+     "t": 0.64,
+     "end": 0.92
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "chord",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "you",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "start",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "on,",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "keep",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "returning",
+     "t": 3.08,
+     "end": 3.44
+    },
+    {
+     "w": "to,",
+     "t": 3.56,
+     "end": 4
+    },
+    {
+     "w": "as",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "home.",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "third": {
+   "text": "A minor home chord has a minor third: A to C, three half steps. Major has four.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "home",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "chord",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "has",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "minor",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "third:",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "A",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "to",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "C,",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "three",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "half",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "steps.",
+     "t": 4.64,
+     "end": 5.12
+    },
+    {
+     "w": "Major",
+     "t": 5.6,
+     "end": 6
+    },
+    {
+     "w": "has",
+     "t": 6.08,
+     "end": 6.32
+    },
+    {
+     "w": "four.",
+     "t": 6.4,
+     "end": 7.04
+    }
+   ]
+  },
+  "third2": {
+   "text": "That one half step is the sad color.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "half",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "step",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "is",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "sad",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "color.",
+     "t": 2.4,
+     "end": 3.04
+    }
+   ]
+  },
+  "sig": {
+   "text": "That's why C major and A minor share a key signature: no sharps, no flats.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "why",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "C",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "major",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "A",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "minor",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "share",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "key",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "signature:",
+     "t": 2.96,
+     "end": 3.92
+    },
+    {
+     "w": "no",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "sharps,",
+     "t": 4.24,
+     "end": 4.96
+    },
+    {
+     "w": "no",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "flats.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "sig2": {
+   "text": "Every major key has a relative minor, three half steps below.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "major",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "key",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "has",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "relative",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "minor,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "three",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "half",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "steps",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "below.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Happy or sad isn't in the notes. It's where you decide home is.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Happy",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "or",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "sad",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "isn't",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "notes.",
+     "t": 1.84,
+     "end": 2.56
+    },
+    {
+     "w": "It's",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "where",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "you",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "decide",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "home",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "is.",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,899 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One word, sung again and again... and a whole audience rises to its feet.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "word,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "sung",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "again",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "again...",
+     "t": 2.56,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "whole",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "audience",
+     "t": 4.48,
+     "end": 4.96
+    },
+    {
+     "w": "rises",
+     "t": 5.12,
+     "end": 5.6
+    },
+    {
+     "w": "to",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "its",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "feet.",
+     "t": 6.08,
+     "end": 6.64
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Hallelujah Chorus, from Handel's Messiah, first performed in Dublin in 1742.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "Hallelujah",
+     "t": 0.84,
+     "end": 1.44
+    },
+    {
+     "w": "Chorus,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "from",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "Handel's",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "Messiah,",
+     "t": 2.96,
+     "end": 3.92
+    },
+    {
+     "w": "first",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "performed",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "Dublin",
+     "t": 4.96,
+     "end": 5.44
+    },
+    {
+     "w": "in",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "1742.",
+     "t": 5.76,
+     "end": 7.28
+    }
+   ]
+  },
+  "fast": {
+   "text": "Handel composed the whole Messiah in about three and a half weeks, in 1741.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Handel",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "composed",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "whole",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "Messiah",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "about",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "three",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "half",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "weeks,",
+     "t": 3.36,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "1741.",
+     "t": 4.24,
+     "end": 5.68
+    }
+   ]
+  },
+  "stand": {
+   "text": "Audiences traditionally stand during this chorus.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Audiences",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "traditionally",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "stand",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "during",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "this",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "chorus.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "legend1": {
+   "text": "A famous story says King George the Second stood up at a London performance.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "famous",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "story",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "says",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "King",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "George",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "Second",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "stood",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "up",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "at",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "London",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "performance.",
+     "t": 4.08,
+     "end": 5.04
+    }
+   ]
+  },
+  "legend2": {
+   "text": "But there's no reliable evidence for it. It's a legend.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "there's",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "no",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "reliable",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "evidence",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "for",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "it.",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "It's",
+     "t": 2.72,
+     "end": 2.84
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "legend.",
+     "t": 2.96,
+     "end": 3.68
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so thrilling? First, the key: D major.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "so",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "thrilling?",
+     "t": 1.28,
+     "end": 2.32
+    },
+    {
+     "w": "First,",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "key:",
+     "t": 3.44,
+     "end": 4.08
+    },
+    {
+     "w": "D",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "major.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Bright and ringing, perfect for trumpets and timpani, which join for the big moments.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Bright",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "ringing,",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "perfect",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "for",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "trumpets",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "timpani,",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "which",
+     "t": 3.96,
+     "end": 4.08
+    },
+    {
+     "w": "join",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "for",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "big",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "moments.",
+     "t": 5.12,
+     "end": 5.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then, Handel switches between two textures.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Then,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "Handel",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "switches",
+     "t": 1.16,
+     "end": 1.44
+    },
+    {
+     "w": "between",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "two",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "textures.",
+     "t": 2.24,
+     "end": 3.2
+    }
+   ]
+  },
+  "homo": {
+   "text": "Everyone sings the same rhythm, in big block chords. That's homophony.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Everyone",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "sings",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "same",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "rhythm,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "in",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "big",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "block",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "chords.",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "That's",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "homophony.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "poly": {
+   "text": "Then the voices enter one after another, in overlapping lines. That's polyphony.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "voices",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "enter",
+     "t": 1.08,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "after",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "another,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "in",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "overlapping",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "lines.",
+     "t": 4,
+     "end": 4.8
+    },
+    {
+     "w": "That's",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "polyphony.",
+     "t": 5.6,
+     "end": 6.4
+    }
+   ]
+  },
+  "why4": {
+   "text": "Together, then apart, then together again. The contrast is what makes it thrilling.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Together,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "then",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "apart,",
+     "t": 1.16,
+     "end": 2
+    },
+    {
+     "w": "then",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "together",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "again.",
+     "t": 2.92,
+     "end": 3.2
+    },
+    {
+     "w": "The",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "contrast",
+     "t": 3.84,
+     "end": 4.48
+    },
+    {
+     "w": "is",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "what",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "makes",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "it",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "thrilling.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "Alternate one voice with many voices, add trumpets... and a chorus becomes a celebration.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "Alternate",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "one",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "voice",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "with",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "many",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "voices,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "add",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "trumpets...",
+     "t": 2.96,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "chorus",
+     "t": 4.32,
+     "end": 4.8
+    },
+    {
+     "w": "becomes",
+     "t": 4.96,
+     "end": 5.28
+    },
+    {
+     "w": "a",
+     "t": 5.36,
+     "end": 5.48
+    },
+    {
+     "w": "celebration.",
+     "t": 5.6,
+     "end": 6.64
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

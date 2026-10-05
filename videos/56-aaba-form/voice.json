@@ -1,0 +1,903 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Say it. Say it again. Take a detour... and come home.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Say",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it.",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "Say",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "again.",
+     "t": 1.28,
+     "end": 1.96
+    },
+    {
+     "w": "Take",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "detour...",
+     "t": 2.56,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "come",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "home.",
+     "t": 4.24,
+     "end": 4.72
+    }
+   ]
+  },
+  "what": {
+   "text": "This is A A B A form. Thirty two bars, in four sections of eight.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "is",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "A",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "A",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "B",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "A",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "form.",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "Thirty",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "two",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "bars,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "in",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "four",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "sections",
+     "t": 4.32,
+     "end": 4.8
+    },
+    {
+     "w": "of",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "eight.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "a1": {
+   "text": "A: the main tune, eight bars.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "A:",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.92
+    },
+    {
+     "w": "main",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "tune,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "eight",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "bars.",
+     "t": 2.32,
+     "end": 3.12
+    }
+   ]
+  },
+  "a2": {
+   "text": "A again. Same tune.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "again.",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "Same",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "tune.",
+     "t": 1.6,
+     "end": 2.24
+    }
+   ]
+  },
+  "b": {
+   "text": "B: the bridge. Something new.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "B:",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1
+    },
+    {
+     "w": "bridge.",
+     "t": 1.04,
+     "end": 1.88
+    },
+    {
+     "w": "Something",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "new.",
+     "t": 2.64,
+     "end": 3.28
+    }
+   ]
+  },
+  "a3": {
+   "text": "And A once more... home.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "A",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "once",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "more...",
+     "t": 1.2,
+     "end": 2.24
+    },
+    {
+     "w": "home.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "s1": {
+   "text": "You hear it in Over the Rainbow.",
+   "dur": 2.35102,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "Over",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Rainbow.",
+     "t": 1.44,
+     "end": 2.32
+    }
+   ]
+  },
+  "s2": {
+   "text": "Yesterday goes verse, verse, bridge, verse...",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Yesterday",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "goes",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "verse,",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "verse,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "bridge,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "verse...",
+     "t": 4,
+     "end": 4.56
+    }
+   ]
+  },
+  "s2b": {
+   "text": "then the bridge and the last verse repeat. Still an A A B A shape.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "bridge",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "last",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "verse",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "repeat.",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "Still",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "an",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "A",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "A",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "B",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "A",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "shape.",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "s3": {
+   "text": "And in many jazz standards and Tin Pan Alley songs, from the twenties to the fifties.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "in",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "many",
+     "t": 0.52,
+     "end": 0.64
+    },
+    {
+     "w": "jazz",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "standards",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "Tin",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "Pan",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "Alley",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "songs,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "from",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "twenties",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "to",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "fifties.",
+     "t": 4.52,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Hearing A twice makes the melody familiar.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Hearing",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "A",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "twice",
+     "t": 2.76,
+     "end": 3.28
+    },
+    {
+     "w": "makes",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "melody",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "familiar.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then the bridge brings contrast: different chords, often a new key area.",
+   "dur": 5.250612,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "bridge",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "brings",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "contrast:",
+     "t": 1.12,
+     "end": 2.32
+    },
+    {
+     "w": "different",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "chords,",
+     "t": 2.72,
+     "end": 3.52
+    },
+    {
+     "w": "often",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.92,
+     "end": 3.96
+    },
+    {
+     "w": "new",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "key",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "area.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "why3": {
+   "text": "It's sometimes called the middle eight.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "sometimes",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "called",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "middle",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "eight.",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "why4": {
+   "text": "And after the detour, the return of A feels like coming home.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "after",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.6
+    },
+    {
+     "w": "detour,",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "return",
+     "t": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "of",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "A",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "feels",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "like",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "coming",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "home.",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "essence": {
+   "text": "Say it, say it again, take a detour, come home. The shape of a story, in thirty two bars.",
+   "dur": 7.314286,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "Say",
+     "t": 0,
+     "end": 0.12
+    },
+    {
+     "w": "it,",
+     "t": 0.12,
+     "end": 0.16
+    },
+    {
+     "w": "say",
+     "t": 0.16,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "again,",
+     "t": 0.8,
+     "end": 1.456
+    },
+    {
+     "w": "take",
+     "t": 1.504,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.187,
+     "end": 2.213
+    },
+    {
+     "w": "detour,",
+     "t": 2.24,
+     "end": 3.12
+    },
+    {
+     "w": "come",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "home.",
+     "t": 3.44,
+     "end": 4.04
+    },
+    {
+     "w": "The",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "shape",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "of",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "a",
+     "t": 4.88,
+     "end": 4.92
+    },
+    {
+     "w": "story,",
+     "t": 4.96,
+     "end": 5.76
+    },
+    {
+     "w": "in",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "thirty",
+     "t": 6,
+     "end": 6.24
+    },
+    {
+     "w": "two",
+     "t": 6.32,
+     "end": 6.48
+    },
+    {
+     "w": "bars.",
+     "t": 6.56,
+     "end": 7.36
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

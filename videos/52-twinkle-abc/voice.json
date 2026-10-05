@@ -1,0 +1,935 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three songs from your childhood... secretly sharing one tune.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "songs",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "from",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "your",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "childhood...",
+     "t": 1.2,
+     "end": 2.32
+    },
+    {
+     "w": "secretly",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "sharing",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "one",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "tune.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "what": {
+   "text": "Same notes. Only the words change.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes.",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "Only",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "words",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "change.",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "twinkle": {
+   "text": "You hear it in Twinkle Twinkle Little Star...",
+   "dur": 2.847347,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Twinkle",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "Twinkle",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "Little",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "Star...",
+     "t": 2,
+     "end": 2.8
+    }
+   ]
+  },
+  "abc": {
+   "text": "in the Alphabet Song...",
+   "dur": 1.724082,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "in",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Alphabet",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "Song...",
+     "t": 0.88,
+     "end": 1.68
+    }
+   ]
+  },
+  "baa": {
+   "text": "and in Baa Baa Black Sheep.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Baa",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "Baa",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "Black",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Sheep.",
+     "t": 1.6,
+     "end": 2.08
+    }
+   ]
+  },
+  "origin": {
+   "text": "All three come from an 18th century French song: Ah! vous dirai-je, maman.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "All",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "three",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "come",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "an",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "18th",
+     "t": 1.48,
+     "end": 1.84
+    },
+    {
+     "w": "century",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "French",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "song:",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "Ah!",
+     "t": 3.76,
+     "end": 3.96
+    },
+    {
+     "w": "vous",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "dirai-je,",
+     "t": 4.28,
+     "end": 4.76
+    },
+    {
+     "w": "maman.",
+     "t": 4.8,
+     "end": 5.52
+    }
+   ]
+  },
+  "mozart": {
+   "text": "And Mozart wrote twelve variations on it, in the early 1780s.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Mozart",
+     "t": 0.2,
+     "end": 0.72
+    },
+    {
+     "w": "wrote",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "twelve",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "variations",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "on",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "it,",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "in",
+     "t": 2.72,
+     "end": 2.76
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "early",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "1780s.",
+     "t": 3.28,
+     "end": 4.48
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it stick? Look at the form: A, B, B, A.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "stick?",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "Look",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "at",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "form:",
+     "t": 2.48,
+     "end": 3.36
+    },
+    {
+     "w": "A,",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "B,",
+     "t": 4.08,
+     "end": 4.6
+    },
+    {
+     "w": "B,",
+     "t": 4.8,
+     "end": 5.16
+    },
+    {
+     "w": "A.",
+     "t": 5.28,
+     "end": 5.84
+    }
+   ]
+  },
+  "why1b": {
+   "text": "The opening phrase returns at the end. Perfect for memory.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opening",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "phrase",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "returns",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "at",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "end.",
+     "t": 1.84,
+     "end": 2.36
+    },
+    {
+     "w": "Perfect",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "for",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "memory.",
+     "t": 3.28,
+     "end": 3.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "It starts with a leap, a perfect fifth: C up to G.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "starts",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "with",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "leap,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "perfect",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "fifth:",
+     "t": 2.32,
+     "end": 3.2
+    },
+    {
+     "w": "C",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "up",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "G.",
+     "t": 4.16,
+     "end": 4.72
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Then it walks down the scale, step by step, all the way home.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "walks",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "scale,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "step",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "by",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "step,",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "all",
+     "t": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.8
+    },
+    {
+     "w": "way",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "home.",
+     "t": 4.08,
+     "end": 4.64
+    }
+   ]
+  },
+  "why2c": {
+   "text": "Tension up, gravity down.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Tension",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "up,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "gravity",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "down.",
+     "t": 1.84,
+     "end": 2.56
+    }
+   ]
+  },
+  "why3": {
+   "text": "Every line ends on a long note. A place to breathe...",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "line",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "ends",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "on",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "long",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "note.",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "A",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "place",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "breathe...",
+     "t": 3.68,
+     "end": 4.56
+    }
+   ]
+  },
+  "why3b": {
+   "text": "and room to fit different words.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "room",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "to",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "fit",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "different",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "words.",
+     "t": 1.36,
+     "end": 2.08
+    }
+   ]
+  },
+  "var": {
+   "text": "Mozart's variations show how one simple tune can be decorated endlessly.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Mozart's",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "variations",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "show",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "how",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "one",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "simple",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "tune",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "can",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "be",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "decorated",
+     "t": 3.68,
+     "end": 4.32
+    },
+    {
+     "w": "endlessly.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "A leap up, a staircase down, and a return. So simple that three songs, and Mozart, all used it.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "leap",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "up,",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "staircase",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "down,",
+     "t": 1.96,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "return.",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "So",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "simple",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "that",
+     "t": 4.6,
+     "end": 4.72
+    },
+    {
+     "w": "three",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "songs,",
+     "t": 5.2,
+     "end": 5.92
+    },
+    {
+     "w": "and",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "Mozart,",
+     "t": 6.16,
+     "end": 6.96
+    },
+    {
+     "w": "all",
+     "t": 7.04,
+     "end": 7.2
+    },
+    {
+     "w": "used",
+     "t": 7.36,
+     "end": 7.52
+    },
+    {
+     "w": "it.",
+     "t": 7.6,
+     "end": 8
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

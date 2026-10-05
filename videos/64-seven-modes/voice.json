@@ -1,0 +1,932 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Seven white keys. Start on a different one, and the mood changes.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "white",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "keys.",
+     "t": 0.96,
+     "end": 1.72
+    },
+    {
+     "w": "Start",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "on",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.44
+    },
+    {
+     "w": "different",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "one,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "mood",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "changes.",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on C: Ionian. D is Dorian, E Phrygian, F Lydian, G Mixolydian, A Aeolian, B Locrian.",
+   "dur": 12.120816,
+   "speechEnd": 12.16,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "C:",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "Ionian.",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "D",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "is",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "Dorian,",
+     "t": 3.36,
+     "end": 4.32
+    },
+    {
+     "w": "E",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "Phrygian,",
+     "t": 4.8,
+     "end": 5.76
+    },
+    {
+     "w": "F",
+     "t": 5.92,
+     "end": 6.16
+    },
+    {
+     "w": "Lydian,",
+     "t": 6.4,
+     "end": 7.12
+    },
+    {
+     "w": "G",
+     "t": 7.36,
+     "end": 7.68
+    },
+    {
+     "w": "Mixolydian,",
+     "t": 7.84,
+     "end": 8.88
+    },
+    {
+     "w": "A",
+     "t": 9.12,
+     "end": 9.36
+    },
+    {
+     "w": "Aeolian,",
+     "t": 9.52,
+     "end": 10.56
+    },
+    {
+     "w": "B",
+     "t": 10.72,
+     "end": 11.04
+    },
+    {
+     "w": "Locrian.",
+     "t": 11.28,
+     "end": 12.16
+    }
+   ]
+  },
+  "what2": {
+   "text": "Same notes, seven moods.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "seven",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "moods.",
+     "t": 1.68,
+     "end": 2.48
+    }
+   ]
+  },
+  "pop": {
+   "text": "Ionian: the major scale of most pop songs.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Ionian:",
+     "t": 0,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.4
+    },
+    {
+     "w": "major",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "scale",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "of",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "most",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "pop",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "songs.",
+     "t": 3.12,
+     "end": 3.92
+    }
+   ]
+  },
+  "aeol": {
+   "text": "Aeolian: the natural minor.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Aeolian:",
+     "t": 0,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "natural",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "minor.",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "scar": {
+   "text": "Dorian is how Scarborough Fair is usually sung...",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Dorian",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "how",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Scarborough",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "Fair",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "is",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "usually",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "sung...",
+     "t": 2.72,
+     "end": 3.36
+    }
+   ]
+  },
+  "nw": {
+   "text": "Mixolydian: Norwegian Wood by The Beatles...",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Mixolydian:",
+     "t": 0,
+     "end": 1.16
+    },
+    {
+     "w": "Norwegian",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "Wood",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "by",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "The",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "Beatles...",
+     "t": 2.88,
+     "end": 3.76
+    }
+   ]
+  },
+  "phry": {
+   "text": "and Phrygian, the dark sound of flamenco and metal riffs.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Phrygian,",
+     "t": 0.24,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "dark",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "sound",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "flamenco",
+     "t": 2.2,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "metal",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "riffs.",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why so different? The notes never change. Only home does.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "so",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "different?",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "The",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "notes",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "never",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "change.",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "Only",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "home",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "does.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why2": {
+   "text": "So the half steps land in different places relative to home.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "half",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "steps",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "land",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "in",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "different",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "places",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "relative",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "home.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why3": {
+   "text": "Each mode has a signature note: Dorian's raised sixth, Phrygian's flat second...",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "mode",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "has",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "signature",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "note:",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "Dorian's",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "raised",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "sixth,",
+     "t": 3.36,
+     "end": 4.16
+    },
+    {
+     "w": "Phrygian's",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "flat",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "second...",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Lydian's sharp fourth, Mixolydian's flat seventh.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Lydian's",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "sharp",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "fourth,",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "Mixolydian's",
+     "t": 1.92,
+     "end": 2.8
+    },
+    {
+     "w": "flat",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "seventh.",
+     "t": 3.28,
+     "end": 4
+    }
+   ]
+  },
+  "why4": {
+   "text": "From brightest to darkest: Lydian, Ionian, Mixolydian, Dorian, Aeolian, Phrygian, Locrian.",
+   "dur": 8.75102,
+   "speechEnd": 8.8,
+   "words": [
+    {
+     "w": "From",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "brightest",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "to",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "darkest:",
+     "t": 1.04,
+     "end": 2.16
+    },
+    {
+     "w": "Lydian,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "Ionian,",
+     "t": 3.16,
+     "end": 3.84
+    },
+    {
+     "w": "Mixolydian,",
+     "t": 3.92,
+     "end": 5.04
+    },
+    {
+     "w": "Dorian,",
+     "t": 5.12,
+     "end": 5.92
+    },
+    {
+     "w": "Aeolian,",
+     "t": 5.96,
+     "end": 6.88
+    },
+    {
+     "w": "Phrygian,",
+     "t": 6.96,
+     "end": 7.84
+    },
+    {
+     "w": "Locrian.",
+     "t": 7.92,
+     "end": 8.8
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Each step lowers exactly one note.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "step",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "lowers",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "exactly",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "one",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "note.",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "why5": {
+   "text": "The names come from ancient Greek regions...",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "names",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "come",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "from",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "ancient",
+     "t": 1.24,
+     "end": 1.52
+    },
+    {
+     "w": "Greek",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "regions...",
+     "t": 2,
+     "end": 2.88
+    }
+   ]
+  },
+  "why5b": {
+   "text": "but the church modes don't match how the Greeks used them.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "church",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "modes",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "don't",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "match",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "how",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Greeks",
+     "t": 2.12,
+     "end": 2.48
+    },
+    {
+     "w": "used",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "them.",
+     "t": 2.92,
+     "end": 3.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "Seven notes, seven moods. The home you choose changes everything.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "seven",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "moods.",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "The",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "home",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "you",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "choose",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "changes",
+     "t": 3.84,
+     "end": 4.32
+    },
+    {
+     "w": "everything.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

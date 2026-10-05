@@ -1,0 +1,922 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One note that never moves... and it makes every other note glow.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "that",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "never",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "moves...",
+     "t": 1.52,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "it",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "makes",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "every",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "other",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "note",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "glow.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "what": {
+   "text": "That's a drone: one note held underneath, while the melody moves above it.",
+   "dur": 5.250612,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "drone:",
+     "t": 0.4,
+     "end": 1.44
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "note",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "held",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "underneath,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "while",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.56
+    },
+    {
+     "w": "melody",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "moves",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "above",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "it.",
+     "t": 4.72,
+     "end": 5.2
+    }
+   ]
+  },
+  "grace": {
+   "text": "It's Amazing Grace on the bagpipes, with drones tuned to A under the melody...",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "Amazing",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "Grace",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "on",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.4
+    },
+    {
+     "w": "bagpipes,",
+     "t": 1.44,
+     "end": 2.4
+    },
+    {
+     "w": "with",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "drones",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "tuned",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "A",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "under",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.427,
+     "end": 4.453
+    },
+    {
+     "w": "melody...",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "tanpura": {
+   "text": "the tanpura in Indian classical music, holding home and the fifth under every raga...",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tanpura",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "Indian",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "classical",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "music,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "holding",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "home",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "fifth",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "under",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "every",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "raga...",
+     "t": 5.52,
+     "end": 6.24
+    }
+   ]
+  },
+  "tnk": {
+   "text": "and Tomorrow Never Knows by The Beatles, which sits on a single C drone.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Tomorrow",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "Never",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "Knows",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "Beatles,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "which",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "sits",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "on",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "single",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "C",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "drone.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? A drone fixes home permanently: you never forget where the tonic is.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "A",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "drone",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "fixes",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "home",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "permanently:",
+     "t": 3.36,
+     "end": 4.48
+    },
+    {
+     "w": "you",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "never",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "forget",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "where",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "the",
+     "t": 5.76,
+     "end": 5.8
+    },
+    {
+     "w": "tonic",
+     "t": 5.84,
+     "end": 6.24
+    },
+    {
+     "w": "is.",
+     "t": 6.32,
+     "end": 6.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "Every melody note is heard against it. The fifth sounds sweet, the octave pure...",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "melody",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "note",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "heard",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "against",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "it.",
+     "t": 2.12,
+     "end": 2.52
+    },
+    {
+     "w": "The",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "fifth",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "sounds",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "sweet,",
+     "t": 3.76,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "octave",
+     "t": 4.8,
+     "end": 5.28
+    },
+    {
+     "w": "pure...",
+     "t": 5.44,
+     "end": 6.16
+    }
+   ]
+  },
+  "why2b": {
+   "text": "the second rubs, and the tritone grinds.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "second",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "rubs,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "tritone",
+     "t": 1.68,
+     "end": 2.32
+    },
+    {
+     "w": "grinds.",
+     "t": 2.4,
+     "end": 3.36
+    }
+   ]
+  },
+  "why3": {
+   "text": "The drone turns each interval into a colour.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "drone",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "turns",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "each",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "interval",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "into",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "colour.",
+     "t": 2.6,
+     "end": 3.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "It's one of the oldest forms of harmony: bagpipes, the hurdy gurdy, early medieval organum.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "of",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "oldest",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "forms",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "of",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "harmony:",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "bagpipes,",
+     "t": 2.72,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "hurdy",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "gurdy,",
+     "t": 4.16,
+     "end": 4.88
+    },
+    {
+     "w": "early",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "medieval",
+     "t": 5.28,
+     "end": 5.68
+    },
+    {
+     "w": "organum.",
+     "t": 5.76,
+     "end": 6.64
+    }
+   ]
+  },
+  "why5": {
+   "text": "A held bass note under changing chords is called a pedal point, after the organ's pedals.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "held",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "bass",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "note",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "under",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "changing",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "chords",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "is",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "called",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "pedal",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "point,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "after",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "organ's",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "pedals.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "One note that never moves... and every other note discovers its own colour against it.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "never",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "moves...",
+     "t": 1.44,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "every",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "other",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "note",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "discovers",
+     "t": 4,
+     "end": 4.48
+    },
+    {
+     "w": "its",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "own",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "colour",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "against",
+     "t": 5.52,
+     "end": 5.92
+    },
+    {
+     "w": "it.",
+     "t": 6,
+     "end": 6.4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

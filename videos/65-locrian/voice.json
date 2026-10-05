@@ -1,0 +1,1009 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One mode that almost nobody writes songs in. Here's why.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "mode",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "that",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "almost",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "nobody",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "writes",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "songs",
+     "t": 2.44,
+     "end": 2.64
+    },
+    {
+     "w": "in.",
+     "t": 2.76,
+     "end": 3.28
+    },
+    {
+     "w": "Here's",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "why.",
+     "t": 3.6,
+     "end": 4.16
+    }
+   ]
+  },
+  "what": {
+   "text": "White keys from B to B: B, C, D, E, F, G, A. That's Locrian.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "White",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "keys",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "from",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "B",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "to",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "B:",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "B,",
+     "t": 2.48,
+     "end": 2.92
+    },
+    {
+     "w": "C,",
+     "t": 3.04,
+     "end": 3.48
+    },
+    {
+     "w": "D,",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "E,",
+     "t": 4.24,
+     "end": 4.6
+    },
+    {
+     "w": "F,",
+     "t": 4.72,
+     "end": 5.08
+    },
+    {
+     "w": "G,",
+     "t": 5.2,
+     "end": 5.56
+    },
+    {
+     "w": "A.",
+     "t": 5.68,
+     "end": 6
+    },
+    {
+     "w": "That's",
+     "t": 6.56,
+     "end": 6.8
+    },
+    {
+     "w": "Locrian.",
+     "t": 6.92,
+     "end": 7.68
+    }
+   ]
+  },
+  "what2": {
+   "text": "Its home chord is B diminished: a flat second and a flat fifth.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "home",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "chord",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "B",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "diminished:",
+     "t": 1.52,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "flat",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "second",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "flat",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "fifth.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "leaves": {
+   "text": "In jazz, Autumn Leaves has a half diminished chord...",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "jazz,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "Autumn",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "Leaves",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "has",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "half",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "diminished",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "chord...",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "leaves2": {
+   "text": "and players use Locrian over chords like it, in the minor two, five, one.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "players",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "use",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "Locrian",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "over",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "chords",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "like",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "it,",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "minor",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "two,",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "five,",
+     "t": 4.36,
+     "end": 4.64
+    },
+    {
+     "w": "one.",
+     "t": 4.8,
+     "end": 5.2
+    }
+   ]
+  },
+  "bdim": {
+   "text": "It's the B diminished chord in any C major song: the only chord whose fifth isn't perfect.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "B",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "diminished",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "chord",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "in",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "any",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "C",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "major",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "song:",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "only",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "chord",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "whose",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "fifth",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "isn't",
+     "t": 5.36,
+     "end": 5.68
+    },
+    {
+     "w": "perfect.",
+     "t": 5.96,
+     "end": 6.48
+    }
+   ]
+  },
+  "metal": {
+   "text": "And metal guitarists borrow its flat second and flat fifth for menacing riffs.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "metal",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "guitarists",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "borrow",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "its",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "flat",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "second",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "flat",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "fifth",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "for",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "menacing",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "riffs.",
+     "t": 4.72,
+     "end": 5.52
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does nobody live there? A home chord needs a perfect fifth to feel stable.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "nobody",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "live",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "there?",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "A",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "home",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "chord",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "needs",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "perfect",
+     "t": 3.8,
+     "end": 4
+    },
+    {
+     "w": "fifth",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "to",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "feel",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "stable.",
+     "t": 5.04,
+     "end": 5.84
+    }
+   ]
+  },
+  "why2": {
+   "text": "But B to F is a tritone, six half steps. Home itself is unstable.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "B",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "to",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "F",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "is",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "tritone,",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "six",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "half",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "steps.",
+     "t": 3.28,
+     "end": 3.96
+    },
+    {
+     "w": "Home",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "itself",
+     "t": 4.48,
+     "end": 5.12
+    },
+    {
+     "w": "is",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "unstable.",
+     "t": 5.4,
+     "end": 6.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "And the flat second, C, pulls away from home instead of toward it.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "flat",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "second,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "C,",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "pulls",
+     "t": 2.32,
+     "end": 2.6
+    },
+    {
+     "w": "away",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "from",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "home",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "instead",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "of",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "toward",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "it.",
+     "t": 4.68,
+     "end": 5.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "So Locrian keeps wanting to resolve elsewhere... usually to C, where its notes really belong.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Locrian",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "keeps",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "wanting",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "to",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "resolve",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "elsewhere...",
+     "t": 2.32,
+     "end": 3.44
+    },
+    {
+     "w": "usually",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "C,",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "where",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "its",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "notes",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "really",
+     "t": 5.6,
+     "end": 5.84
+    },
+    {
+     "w": "belong.",
+     "t": 5.96,
+     "end": 6.64
+    }
+   ]
+  },
+  "why5": {
+   "text": "Medieval and Renaissance theorists treated it as mostly theoretical.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Medieval",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Renaissance",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "theorists",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "treated",
+     "t": 2.04,
+     "end": 2.32
+    },
+    {
+     "w": "it",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "as",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "mostly",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "theoretical.",
+     "t": 3.52,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "A home that can't sit still: proof that the perfect fifth makes a home feel like home.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "home",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "that",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "can't",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "sit",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "still:",
+     "t": 1.36,
+     "end": 2.32
+    },
+    {
+     "w": "proof",
+     "t": 2.52,
+     "end": 2.72
+    },
+    {
+     "w": "that",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "perfect",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "fifth",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "makes",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.48,
+     "end": 4.52
+    },
+    {
+     "w": "home",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "feel",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "like",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "home.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.52
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

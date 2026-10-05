@@ -1,0 +1,997 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Six notes, all the same distance apart. No home, no gravity... just a dream.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "Six",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "all",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "same",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "distance",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "apart.",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "No",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "home,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "no",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "gravity...",
+     "t": 4.64,
+     "end": 5.76
+    },
+    {
+     "w": "just",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "a",
+     "t": 6.08,
+     "end": 6.16
+    },
+    {
+     "w": "dream.",
+     "t": 6.4,
+     "end": 6.96
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on C and climb only in whole steps: C, D, E, F sharp, G sharp, A sharp.",
+   "dur": 8.672653,
+   "speechEnd": 8.72,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "C",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "climb",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "only",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "in",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "whole",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "steps:",
+     "t": 2.72,
+     "end": 3.76
+    },
+    {
+     "w": "C,",
+     "t": 3.84,
+     "end": 4.44
+    },
+    {
+     "w": "D,",
+     "t": 4.64,
+     "end": 5.16
+    },
+    {
+     "w": "E,",
+     "t": 5.36,
+     "end": 5.68
+    },
+    {
+     "w": "F",
+     "t": 6.08,
+     "end": 6.16
+    },
+    {
+     "w": "sharp,",
+     "t": 6.24,
+     "end": 6.88
+    },
+    {
+     "w": "G",
+     "t": 6.96,
+     "end": 7.12
+    },
+    {
+     "w": "sharp,",
+     "t": 7.2,
+     "end": 7.84
+    },
+    {
+     "w": "A",
+     "t": 7.92,
+     "end": 8.08
+    },
+    {
+     "w": "sharp.",
+     "t": 8.16,
+     "end": 8.72
+    }
+   ]
+  },
+  "what2": {
+   "text": "One more step, and you're back on C. Not a single half step. That's the whole tone scale.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "more",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "step,",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "you're",
+     "t": 1.333,
+     "end": 1.44
+    },
+    {
+     "w": "back",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "on",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "C.",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "Not",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "single",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "half",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "step.",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "That's",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "the",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "whole",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "tone",
+     "t": 5.44,
+     "end": 5.68
+    },
+    {
+     "w": "scale.",
+     "t": 5.76,
+     "end": 6.4
+    }
+   ]
+  },
+  "debussy": {
+   "text": "Claude Debussy built much of his piano prelude Voiles on it.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Claude",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Debussy",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "built",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "much",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "of",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "his",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "piano",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "prelude",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "Voiles",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "on",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "it.",
+     "t": 3.84,
+     "end": 4.24
+    }
+   ]
+  },
+  "film": {
+   "text": "And film and TV use whole tone runs for dreams and flashbacks.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "film",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "TV",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "use",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "whole",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "tone",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "runs",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "for",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "dreams",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "flashbacks.",
+     "t": 3.76,
+     "end": 4.88
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it float? In a major scale, B sits a half step under C and pulls up into it.",
+   "dur": 7.549388,
+   "speechEnd": 7.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "float?",
+     "t": 1.28,
+     "end": 1.96
+    },
+    {
+     "w": "In",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "major",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "scale,",
+     "t": 2.8,
+     "end": 3.6
+    },
+    {
+     "w": "B",
+     "t": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "sits",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "a",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "half",
+     "t": 4.44,
+     "end": 4.56
+    },
+    {
+     "w": "step",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "under",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "C",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "and",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "pulls",
+     "t": 6.2,
+     "end": 6.48
+    },
+    {
+     "w": "up",
+     "t": 6.56,
+     "end": 6.8
+    },
+    {
+     "w": "into",
+     "t": 6.88,
+     "end": 7.12
+    },
+    {
+     "w": "it.",
+     "t": 7.2,
+     "end": 7.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "Here there's no half step, so no leading tone. Nothing pulls you home.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "there's",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "no",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "half",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "step,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "so",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "no",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "leading",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "tone.",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "Nothing",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "pulls",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "you",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "home.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "hex": {
+   "text": "It cuts the octave into six equal steps. On the circle, a perfect hexagon.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "cuts",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "octave",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "into",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "six",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "equal",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "steps.",
+     "t": 2.24,
+     "end": 3
+    },
+    {
+     "w": "On",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "circle,",
+     "t": 3.52,
+     "end": 4.16
+    },
+    {
+     "w": "a",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "perfect",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "hexagon.",
+     "t": 4.88,
+     "end": 5.76
+    }
+   ]
+  },
+  "two": {
+   "text": "Shift it up a half step, and you get the only other one.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Shift",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "up",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "half",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "step,",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "you",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "get",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "only",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "other",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "one.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "two2": {
+   "text": "Shift again, and you're back to the first. Only two whole tone scales exist.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Shift",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "again,",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "you're",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "back",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "to",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "first.",
+     "t": 1.92,
+     "end": 2.6
+    },
+    {
+     "w": "Only",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "two",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "whole",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "tone",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "scales",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "exist.",
+     "t": 4.92,
+     "end": 5.52
+    }
+   ]
+  },
+  "aug": {
+   "text": "Stack every other note into a chord, and it is always augmented: major thirds on major thirds.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "Stack",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "every",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "other",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "note",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "into",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "chord,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "it",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "is",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "always",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "augmented:",
+     "t": 3.64,
+     "end": 4.72
+    },
+    {
+     "w": "major",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "thirds",
+     "t": 5.2,
+     "end": 5.68
+    },
+    {
+     "w": "on",
+     "t": 5.76,
+     "end": 5.92
+    },
+    {
+     "w": "major",
+     "t": 6,
+     "end": 6.24
+    },
+    {
+     "w": "thirds.",
+     "t": 6.32,
+     "end": 7.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "Equal steps, no gravity. The sound of a dream.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "Equal",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "steps,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "no",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "gravity.",
+     "t": 1.6,
+     "end": 2.64
+    },
+    {
+     "w": "The",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "sound",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "of",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "dream.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

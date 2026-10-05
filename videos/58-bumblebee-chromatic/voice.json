@@ -1,0 +1,842 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A whole orchestra, buzzing like an insect... using every note there is.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "whole",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "orchestra,",
+     "t": 0.72,
+     "end": 1.84
+    },
+    {
+     "w": "buzzing",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "like",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "an",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "insect...",
+     "t": 2.8,
+     "end": 3.84
+    },
+    {
+     "w": "using",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "every",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "note",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "there",
+     "t": 5.24,
+     "end": 5.36
+    },
+    {
+     "w": "is.",
+     "t": 5.44,
+     "end": 6.08
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Flight of the Bumblebee, by Nikolai Rimsky-Korsakov.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Flight",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "Bumblebee,",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "by",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "Nikolai",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "Rimsky-Korsakov.",
+     "t": 2.96,
+     "end": 4.4
+    }
+   ]
+  },
+  "what2": {
+   "text": "An orchestral interlude from his opera The Tale of Tsar Saltan, written in 1899 and 1900.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "An",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "orchestral",
+     "t": 0.28,
+     "end": 0.72
+    },
+    {
+     "w": "interlude",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "from",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "his",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "opera",
+     "t": 1.88,
+     "end": 2.16
+    },
+    {
+     "w": "The",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "Tale",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "of",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "Tsar",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "Saltan,",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "written",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "1899",
+     "t": 4.96,
+     "end": 5.28
+    },
+    {
+     "w": "and",
+     "t": 5.36,
+     "end": 6.32
+    },
+    {
+     "w": "1900.",
+     "t": 6.36,
+     "end": 7.44
+    }
+   ]
+  },
+  "what3": {
+   "text": "Today it's famous as a virtuoso showpiece.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Today",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "it's",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "famous",
+     "t": 1,
+     "end": 1.36
+    },
+    {
+     "w": "as",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "virtuoso",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "showpiece.",
+     "t": 2.64,
+     "end": 3.68
+    }
+   ]
+  },
+  "play": {
+   "text": "Listen to how it begins.",
+   "dur": 1.724082,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "begins.",
+     "t": 0.92,
+     "end": 1.76
+    }
+   ]
+  },
+  "chrom": {
+   "text": "That's the chromatic scale: all twelve notes, every half step.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "chromatic",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "scale:",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "all",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "twelve",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "notes,",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "every",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "half",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "step.",
+     "t": 3.76,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound like a bee? It uses every half step, with no clear scale.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "like",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "bee?",
+     "t": 1.6,
+     "end": 2.28
+    },
+    {
+     "w": "It",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "uses",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "every",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "half",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "step,",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "with",
+     "t": 4.52,
+     "end": 4.64
+    },
+    {
+     "w": "no",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "clear",
+     "t": 5.08,
+     "end": 5.2
+    },
+    {
+     "w": "scale.",
+     "t": 5.28,
+     "end": 6.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "So there are no resting notes. Nothing to land on, like something that never stops buzzing.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "there",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "are",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "no",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "resting",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "notes.",
+     "t": 1.76,
+     "end": 2.2
+    },
+    {
+     "w": "Nothing",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "to",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "land",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "on,",
+     "t": 3.28,
+     "end": 3.84
+    },
+    {
+     "w": "like",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "something",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "that",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "never",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "stops",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "buzzing.",
+     "t": 5.52,
+     "end": 6.24
+    }
+   ]
+  },
+  "why3": {
+   "text": "It's also very fast, and moves mostly by step...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "also",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "very",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "fast,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "moves",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "mostly",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "by",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "step...",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why3b": {
+   "text": "with tiny back and forth turns. That's the sound of wings.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "with",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "tiny",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "back",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "forth",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "turns.",
+     "t": 1.6,
+     "end": 2.44
+    },
+    {
+     "w": "That's",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "sound",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "of",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "wings.",
+     "t": 3.6,
+     "end": 4.48
+    }
+   ]
+  },
+  "why4": {
+   "text": "And on the circle, the chromatic scale is just a walk around it, one step at a time.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "on",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "circle,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "chromatic",
+     "t": 1.48,
+     "end": 1.84
+    },
+    {
+     "w": "scale",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "is",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "just",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "walk",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "around",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "it,",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "one",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "step",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "at",
+     "t": 4.68,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.84
+    },
+    {
+     "w": "time.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "essence": {
+   "text": "Twelve notes, no stops, top speed... and an orchestra turns into an insect.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Twelve",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "no",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "stops,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "top",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "speed...",
+     "t": 2.48,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "an",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "orchestra",
+     "t": 4.04,
+     "end": 4.48
+    },
+    {
+     "w": "turns",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "into",
+     "t": 5.08,
+     "end": 5.2
+    },
+    {
+     "w": "an",
+     "t": 5.32,
+     "end": 5.44
+    },
+    {
+     "w": "insect.",
+     "t": 5.56,
+     "end": 6.4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

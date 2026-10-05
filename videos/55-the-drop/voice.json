@@ -1,0 +1,952 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Every dance track has this moment.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "dance",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "track",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "has",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "this",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "moment.",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "hook2": {
+   "text": "The beat pulls back, the tension climbs... and then everything hits at once.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "beat",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "pulls",
+     "t": 0.6,
+     "end": 0.8
+    },
+    {
+     "w": "back,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "tension",
+     "t": 1.8,
+     "end": 2.16
+    },
+    {
+     "w": "climbs...",
+     "t": 2.24,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "then",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "everything",
+     "t": 4.08,
+     "end": 4.56
+    },
+    {
+     "w": "hits",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "at",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "once.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "That's the drop. In dance music, the build-up raises tension, and the drop releases it.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "drop.",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "In",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "dance",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "music,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "build-up",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "raises",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "tension,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "drop",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "releases",
+     "t": 5.28,
+     "end": 5.76
+    },
+    {
+     "w": "it.",
+     "t": 5.84,
+     "end": 6.24
+    }
+   ]
+  },
+  "groove": {
+   "text": "Let's build one. A groove: kick, bass, chords.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Let's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "build",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "one.",
+     "t": 0.64,
+     "end": 1.16
+    },
+    {
+     "w": "A",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "groove:",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "kick,",
+     "t": 2.64,
+     "end": 3.28
+    },
+    {
+     "w": "bass,",
+     "t": 3.32,
+     "end": 4
+    },
+    {
+     "w": "chords.",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "strip": {
+   "text": "The build-up begins. The kick and bass disappear.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "build-up",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "begins.",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "kick",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "bass",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "disappear.",
+     "t": 3.04,
+     "end": 4
+    }
+   ]
+  },
+  "q": {
+   "text": "A snare roll comes in, and a riser starts to climb.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "snare",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "roll",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "comes",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "in,",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "riser",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "starts",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "to",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "climb.",
+     "t": 2.96,
+     "end": 3.68
+    }
+   ]
+  },
+  "e": {
+   "text": "Twice as fast...",
+   "dur": 1.567347,
+   "speechEnd": 1.52,
+   "words": [
+    {
+     "w": "Twice",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "as",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "fast...",
+     "t": 0.64,
+     "end": 1.52
+    }
+   ]
+  },
+  "s": {
+   "text": "and twice again.",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "twice",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "again.",
+     "t": 0.72,
+     "end": 1.44
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Without kick and bass, your ears start to miss the low end.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.72
+    },
+    {
+     "w": "Without",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "kick",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "bass,",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "your",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "ears",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "start",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "to",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "miss",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "low",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "end.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "The snare roll keeps doubling its speed...",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "snare",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "roll",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "keeps",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "doubling",
+     "t": 1.4,
+     "end": 1.76
+    },
+    {
+     "w": "its",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "speed...",
+     "t": 2.24,
+     "end": 2.8
+    }
+   ]
+  },
+  "why2b": {
+   "text": "and that feels like acceleration.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "that",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "feels",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "like",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "acceleration.",
+     "t": 1.4,
+     "end": 2.48
+    }
+   ]
+  },
+  "why3": {
+   "text": "The riser sweeps upward, and the sound gets brighter and brighter.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "riser",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sweeps",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "upward,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "sound",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "gets",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "brighter",
+     "t": 2.96,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "brighter.",
+     "t": 3.84,
+     "end": 4.64
+    }
+   ]
+  },
+  "why4": {
+   "text": "A breath of silence right before makes the return hit harder.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "breath",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "of",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "silence",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "right",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "before",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "makes",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.76
+    },
+    {
+     "w": "return",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "hit",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "harder.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "why5": {
+   "text": "Then kick and bass come back together, right on beat one.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "kick",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "and",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "bass",
+     "t": 0.84,
+     "end": 1.12
+    },
+    {
+     "w": "come",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "back",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "together,",
+     "t": 1.68,
+     "end": 2.48
+    },
+    {
+     "w": "right",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "on",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "beat",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "one.",
+     "t": 3.28,
+     "end": 3.84
+    }
+   ]
+  },
+  "why6": {
+   "text": "It's tension and release, just like in harmony...",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "tension",
+     "t": 0.36,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "release,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "just",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "like",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "in",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "harmony...",
+     "t": 2.72,
+     "end": 3.52
+    }
+   ]
+  },
+  "why6b": {
+   "text": "but built with rhythm, texture and frequency.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "built",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "with",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "rhythm,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "texture",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "frequency.",
+     "t": 2.56,
+     "end": 3.52
+    }
+   ]
+  },
+  "essence": {
+   "text": "Take something away, make the listener wait, then give it all back at once.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "something",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "away,",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "make",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.8
+    },
+    {
+     "w": "listener",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "wait,",
+     "t": 2.32,
+     "end": 3.04
+    },
+    {
+     "w": "then",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "give",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "it",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "all",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "back",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "at",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "once.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

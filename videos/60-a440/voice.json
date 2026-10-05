@@ -1,0 +1,939 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Before a concert, the orchestra tunes to one single note. But who decided what that note is?",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "Before",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "concert,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "orchestra",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "tunes",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "to",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "one",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "single",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "note.",
+     "t": 3.6,
+     "end": 4.48
+    },
+    {
+     "w": "But",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "who",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "decided",
+     "t": 5.12,
+     "end": 5.6
+    },
+    {
+     "w": "what",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "that",
+     "t": 5.92,
+     "end": 6
+    },
+    {
+     "w": "note",
+     "t": 6.08,
+     "end": 6.32
+    },
+    {
+     "w": "is?",
+     "t": 6.4,
+     "end": 7.04
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the A above middle C, and it vibrates 440 times every second.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "A",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "above",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "middle",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "C,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "it",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "vibrates",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "440",
+     "t": 3.12,
+     "end": 4
+    },
+    {
+     "w": "times",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "every",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "second.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "what2": {
+   "text": "A equals 440 hertz: the standard tuning pitch.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "equals",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "440",
+     "t": 0.88,
+     "end": 1.8
+    },
+    {
+     "w": "hertz:",
+     "t": 1.84,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "standard",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "tuning",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "pitch.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "oboe": {
+   "text": "At the start of a concert, the oboe plays an A... and everyone tunes to it.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "start",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.56,
+     "end": 0.6
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "concert,",
+     "t": 1,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "oboe",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "plays",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "an",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "A...",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "everyone",
+     "t": 3.84,
+     "end": 4.32
+    },
+    {
+     "w": "tunes",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "to",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "it.",
+     "t": 4.96,
+     "end": 5.44
+    }
+   ]
+  },
+  "baroque": {
+   "text": "Baroque specialists often tune lower, to 415. About a half step down.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Baroque",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "specialists",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "often",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "tune",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "lower,",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "to",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "415.",
+     "t": 2.96,
+     "end": 4.48
+    },
+    {
+     "w": "About",
+     "t": 4.6,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "half",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "step",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "down.",
+     "t": 5.52,
+     "end": 6.08
+    }
+   ]
+  },
+  "europe": {
+   "text": "And many orchestras, especially in Europe, tune a little higher, around 442 or 443, for a brighter sound.",
+   "dur": 8.907755,
+   "speechEnd": 8.96,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "many",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "orchestras,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "especially",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Europe,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "tune",
+     "t": 2.76,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.08
+    },
+    {
+     "w": "little",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "higher,",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "around",
+     "t": 4.28,
+     "end": 4.48
+    },
+    {
+     "w": "442",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "or",
+     "t": 4.8,
+     "end": 5.24
+    },
+    {
+     "w": "443,",
+     "t": 5.92,
+     "end": 7.6
+    },
+    {
+     "w": "for",
+     "t": 7.68,
+     "end": 7.76
+    },
+    {
+     "w": "a",
+     "t": 7.8,
+     "end": 7.84
+    },
+    {
+     "w": "brighter",
+     "t": 7.92,
+     "end": 8.24
+    },
+    {
+     "w": "sound.",
+     "t": 8.32,
+     "end": 8.96
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why 440? For a long time, there was no single standard.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "440?",
+     "t": 0.88,
+     "end": 2.4
+    },
+    {
+     "w": "For",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "long",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "time,",
+     "t": 3.04,
+     "end": 3.6
+    },
+    {
+     "w": "there",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "was",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "no",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "single",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "standard.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "Tuning varied widely, from city to city and century to century.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Tuning",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "varied",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "widely,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "from",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "city",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "to",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "city",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "century",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "to",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "century.",
+     "t": 4.12,
+     "end": 4.8
+    }
+   ]
+  },
+  "london": {
+   "text": "Then, in 1939, an international conference in London agreed on 440.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "Then,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "1939,",
+     "t": 0.96,
+     "end": 2.32
+    },
+    {
+     "w": "an",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "international",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "conference",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "in",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "London",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "agreed",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "on",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "440.",
+     "t": 5.2,
+     "end": 6.56
+    }
+   ]
+  },
+  "iso": {
+   "text": "It later became the official standard ISO 16, in 1955, confirmed in 1975.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "later",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "became",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "official",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "standard",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "ISO",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "16,",
+     "t": 3.12,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "1955,",
+     "t": 4.16,
+     "end": 5.6
+    },
+    {
+     "w": "confirmed",
+     "t": 5.68,
+     "end": 6.24
+    },
+    {
+     "w": "in",
+     "t": 6.32,
+     "end": 6.4
+    },
+    {
+     "w": "1975.",
+     "t": 6.48,
+     "end": 8
+    }
+   ]
+  },
+  "myth": {
+   "text": "And 432? Some call it natural, or healing.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "432?",
+     "t": 0.4,
+     "end": 2.24
+    },
+    {
+     "w": "Some",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "call",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "it",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "natural,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "or",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "healing.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "myth2": {
+   "text": "There is no scientific evidence behind that claim.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "There",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "no",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "scientific",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "evidence",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "behind",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "that",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "claim.",
+     "t": 2.56,
+     "end": 3.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "There's nothing magic about 440. It's an agreement, so musicians everywhere can play together.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "There's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "nothing",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "magic",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "about",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "440.",
+     "t": 1.52,
+     "end": 2.88
+    },
+    {
+     "w": "It's",
+     "t": 2.96,
+     "end": 3.08
+    },
+    {
+     "w": "an",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "agreement,",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "so",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "musicians",
+     "t": 4.24,
+     "end": 4.88
+    },
+    {
+     "w": "everywhere",
+     "t": 4.96,
+     "end": 5.52
+    },
+    {
+     "w": "can",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "play",
+     "t": 5.88,
+     "end": 6
+    },
+    {
+     "w": "together.",
+     "t": 6.08,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

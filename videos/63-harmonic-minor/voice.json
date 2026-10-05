@@ -1,0 +1,1001 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Change one note of a minor scale... and a whole other world opens up.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Change",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "one",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "note",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "scale...",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "whole",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "other",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "world",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "opens",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "up.",
+     "t": 4.56,
+     "end": 5.04
+    }
+   ]
+  },
+  "what": {
+   "text": "Take A natural minor: A, B, C, D, E, F, G. Now raise the seventh to G sharp.",
+   "dur": 8.359184,
+   "speechEnd": 8.4,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "A",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "natural",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "minor:",
+     "t": 0.88,
+     "end": 1.84
+    },
+    {
+     "w": "A,",
+     "t": 1.92,
+     "end": 2.36
+    },
+    {
+     "w": "B,",
+     "t": 2.48,
+     "end": 2.92
+    },
+    {
+     "w": "C,",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "D,",
+     "t": 3.52,
+     "end": 3.88
+    },
+    {
+     "w": "E,",
+     "t": 4,
+     "end": 4.36
+    },
+    {
+     "w": "F,",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "G.",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "Now",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "raise",
+     "t": 6.24,
+     "end": 6.48
+    },
+    {
+     "w": "the",
+     "t": 6.56,
+     "end": 6.64
+    },
+    {
+     "w": "seventh",
+     "t": 6.72,
+     "end": 7.2
+    },
+    {
+     "w": "to",
+     "t": 7.28,
+     "end": 7.36
+    },
+    {
+     "w": "G",
+     "t": 7.52,
+     "end": 7.68
+    },
+    {
+     "w": "sharp.",
+     "t": 7.76,
+     "end": 8.4
+    }
+   ]
+  },
+  "what2": {
+   "text": "That's the harmonic minor.",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "harmonic",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "minor.",
+     "t": 1.2,
+     "end": 1.84
+    }
+   ]
+  },
+  "hava": {
+   "text": "Start it on its fifth note, E, and you get the scale of Hava Nagila...",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "on",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "its",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "fifth",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "note,",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "E,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "you",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "get",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3
+    },
+    {
+     "w": "scale",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "of",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "Hava",
+     "t": 3.64,
+     "end": 3.84
+    },
+    {
+     "w": "Nagila...",
+     "t": 3.88,
+     "end": 4.72
+    }
+   ]
+  },
+  "misirlou": {
+   "text": "and of Misirlou, the folk song Dick Dale made surf rock.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "of",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Misirlou,",
+     "t": 0.48,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "folk",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "song",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "Dick",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "Dale",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "made",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "surf",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "rock.",
+     "t": 3.44,
+     "end": 4.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why raise the G? In natural minor, the five chord is E minor: a weak pull home.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "raise",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "G?",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "In",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "natural",
+     "t": 2.6,
+     "end": 2.8
+    },
+    {
+     "w": "minor,",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "five",
+     "t": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "chord",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "is",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "E",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "minor:",
+     "t": 4.88,
+     "end": 5.76
+    },
+    {
+     "w": "a",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "weak",
+     "t": 6,
+     "end": 6.32
+    },
+    {
+     "w": "pull",
+     "t": 6.44,
+     "end": 6.56
+    },
+    {
+     "w": "home.",
+     "t": 6.64,
+     "end": 7.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "With G sharp, it becomes E major.",
+   "dur": 3.004082,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "sharp,",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "it",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "becomes",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "E",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "major.",
+     "t": 2.16,
+     "end": 2.96
+    }
+   ]
+  },
+  "why2b": {
+   "text": "G sharp sits a half step below A, and pulls hard into A minor.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sharp",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sits",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "half",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "step",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "below",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "A,",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "pulls",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "hard",
+     "t": 3.48,
+     "end": 3.68
+    },
+    {
+     "w": "into",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "A",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "minor.",
+     "t": 4.36,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3": {
+   "text": "Bach and Mozart used that major five chord in minor keys all the time.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Bach",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "and",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "Mozart",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "used",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "that",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "major",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "five",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "chord",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "in",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "minor",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "keys",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "all",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "time.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why4": {
+   "text": "The side effect: F to G sharp is three half steps, between neighbouring notes.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "side",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "effect:",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "F",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "G",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "sharp",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "is",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "three",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "half",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "steps,",
+     "t": 3.6,
+     "end": 4.16
+    },
+    {
+     "w": "between",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "neighbouring",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "notes.",
+     "t": 5.44,
+     "end": 5.92
+    }
+   ]
+  },
+  "why5": {
+   "text": "An augmented second, a gap the major scale never has.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "An",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "augmented",
+     "t": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "second,",
+     "t": 0.96,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "gap",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "major",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "scale",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "never",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "has.",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "why6": {
+   "text": "That gap sounds exotic to Western ears...",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "gap",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sounds",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "exotic",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Western",
+     "t": 2.04,
+     "end": 2.24
+    },
+    {
+     "w": "ears...",
+     "t": 2.32,
+     "end": 3.04
+    }
+   ]
+  },
+  "why6b": {
+   "text": "and it's central to many Middle Eastern, Jewish and Balkan melodies.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it's",
+     "t": 0.2,
+     "end": 0.4
+    },
+    {
+     "w": "central",
+     "t": 0.6,
+     "end": 0.8
+    },
+    {
+     "w": "to",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "many",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "Middle",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "Eastern,",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "Jewish",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "Balkan",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "melodies.",
+     "t": 3.76,
+     "end": 4.64
+    }
+   ]
+  },
+  "essence": {
+   "text": "One raised note for a stronger homecoming... and a whole exotic world came with it.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "raised",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "note",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "for",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "stronger",
+     "t": 1.64,
+     "end": 2
+    },
+    {
+     "w": "homecoming...",
+     "t": 2.16,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "whole",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "exotic",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "world",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "came",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "with",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "it.",
+     "t": 5.6,
+     "end": 6.08
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
