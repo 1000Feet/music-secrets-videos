@@ -1,0 +1,916 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "No tune, no drama. Just one broken chord pattern, bar after bar... and it sounds like heaven.",
+   "dur": 8.515918,
+   "speechEnd": 8.56,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "tune,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "no",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "drama.",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "Just",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "one",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "broken",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "chord",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "pattern,",
+     "t": 3.84,
+     "end": 4.64
+    },
+    {
+     "w": "bar",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "after",
+     "t": 5.28,
+     "end": 5.52
+    },
+    {
+     "w": "bar...",
+     "t": 5.68,
+     "end": 6.72
+    },
+    {
+     "w": "and",
+     "t": 6.76,
+     "end": 6.8
+    },
+    {
+     "w": "it",
+     "t": 6.88,
+     "end": 7.04
+    },
+    {
+     "w": "sounds",
+     "t": 7.12,
+     "end": 7.44
+    },
+    {
+     "w": "like",
+     "t": 7.52,
+     "end": 7.6
+    },
+    {
+     "w": "heaven.",
+     "t": 7.76,
+     "end": 8.56
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Bach's Prelude in C major, from 1722.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Bach's",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "Prelude",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "in",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "C",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "major,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "from",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "1722.",
+     "t": 2.96,
+     "end": 4.48
+    }
+   ]
+  },
+  "what2": {
+   "text": "The first piece of The Well-Tempered Clavier, Book One.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "first",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "piece",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "The",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Well-Tempered",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "Clavier,",
+     "t": 2.08,
+     "end": 2.96
+    },
+    {
+     "w": "Book",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "One.",
+     "t": 3.28,
+     "end": 3.84
+    }
+   ]
+  },
+  "play": {
+   "text": "Here are the first four bars.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "are",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "first",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "four",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "bars.",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  },
+  "pattern": {
+   "text": "Each bar is one chord, broken into the same shape of eight notes, played twice.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "bar",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "one",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "chord,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "broken",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "into",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "same",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "shape",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "of",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "eight",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "notes,",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "played",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "twice.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "bars": {
+   "text": "35 bars, and almost every one works this way.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "35",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "bars,",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "and",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "almost",
+     "t": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "every",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "one",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "works",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "this",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "way.",
+     "t": 3.6,
+     "end": 4.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So where is the melody? There is none. The melody is the top note of each chord.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "where",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "melody?",
+     "t": 1.28,
+     "end": 2.32
+    },
+    {
+     "w": "There",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "is",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "none.",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "The",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "melody",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "is",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "top",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "note",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "of",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "each",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "chord.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why2": {
+   "text": "Listen: E, F, F, E. It moves by step.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Listen:",
+     "t": 0,
+     "end": 0.76
+    },
+    {
+     "w": "E,",
+     "t": 1.04,
+     "end": 1.48
+    },
+    {
+     "w": "F,",
+     "t": 1.68,
+     "end": 2.04
+    },
+    {
+     "w": "F,",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "E.",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "It",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "moves",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "by",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "step.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "why3": {
+   "text": "Every voice moves as little as possible from chord to chord, so nothing jumps out.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "voice",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "moves",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "as",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "little",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "as",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "possible",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "from",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "chord",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "to",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "chord,",
+     "t": 3.2,
+     "end": 3.92
+    },
+    {
+     "w": "so",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "nothing",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "jumps",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "out.",
+     "t": 5.04,
+     "end": 5.6
+    }
+   ]
+  },
+  "pedal1": {
+   "text": "Near the end, the bass holds a G for several bars. A dominant pedal, building tension...",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "Near",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "end,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "bass",
+     "t": 1.24,
+     "end": 1.52
+    },
+    {
+     "w": "holds",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "G",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "for",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "several",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "bars.",
+     "t": 3.32,
+     "end": 4.08
+    },
+    {
+     "w": "A",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "dominant",
+     "t": 4.36,
+     "end": 4.72
+    },
+    {
+     "w": "pedal,",
+     "t": 4.8,
+     "end": 5.44
+    },
+    {
+     "w": "building",
+     "t": 5.64,
+     "end": 5.84
+    },
+    {
+     "w": "tension...",
+     "t": 5.92,
+     "end": 6.72
+    }
+   ]
+  },
+  "pedal2": {
+   "text": "then a long C in the bass brings it home.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "long",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "C",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "in",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "bass",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "brings",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "it",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "home.",
+     "t": 2.84,
+     "end": 3.28
+    }
+   ]
+  },
+  "gounod": {
+   "text": "In 1853, Charles Gounod wrote a melody over it: the famous Ave Maria.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1853,",
+     "t": 0.24,
+     "end": 1.68
+    },
+    {
+     "w": "Charles",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "Gounod",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "wrote",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "melody",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "over",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "it:",
+     "t": 3.64,
+     "end": 4.16
+    },
+    {
+     "w": "the",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "famous",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "Ave",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "Maria.",
+     "t": 5.6,
+     "end": 6.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "One pattern, 35 chords, nothing extra...",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "pattern,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "35",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "chords,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "nothing",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "extra...",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "essence2": {
+   "text": "harmony alone can sing.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "harmony",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "alone",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "can",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "sing.",
+     "t": 1.6,
+     "end": 2.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

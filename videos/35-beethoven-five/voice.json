@@ -1,0 +1,981 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three short notes and one long one. Everybody knows them... but why do they hit so hard?",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "short",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "notes",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "long",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "one.",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "Everybody",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "knows",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "them...",
+     "t": 3.72,
+     "end": 4.48
+    },
+    {
+     "w": "but",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "why",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "do",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "they",
+     "t": 5.16,
+     "end": 5.28
+    },
+    {
+     "w": "hit",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "so",
+     "t": 5.6,
+     "end": 5.84
+    },
+    {
+     "w": "hard?",
+     "t": 6.08,
+     "end": 6.64
+    }
+   ]
+  },
+  "what": {
+   "text": "Beethoven's Symphony number five, in C minor, first performed in Vienna in 1808.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Beethoven's",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "Symphony",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "number",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "five,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "in",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "C",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "minor,",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "first",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "performed",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "in",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "Vienna",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "in",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "1808.",
+     "t": 5.2,
+     "end": 6.4
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is how it opens.",
+   "dur": 1.645714,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "opens.",
+     "t": 0.8,
+     "end": 1.68
+    }
+   ]
+  },
+  "names": {
+   "text": "G, G, G, E flat. Then the same idea, one step lower: F, F, F, D.",
+   "dur": 7.88898,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "G,",
+     "t": 0,
+     "end": 0
+    },
+    {
+     "w": "G,",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "G,",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "E",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "flat.",
+     "t": 1.72,
+     "end": 2.56
+    },
+    {
+     "w": "Then",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "same",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "idea,",
+     "t": 3.76,
+     "end": 4.4
+    },
+    {
+     "w": "one",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "step",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "lower:",
+     "t": 5.04,
+     "end": 5.84
+    },
+    {
+     "w": "F,",
+     "t": 6,
+     "end": 6.4
+    },
+    {
+     "w": "F,",
+     "t": 6.48,
+     "end": 6.8
+    },
+    {
+     "w": "F,",
+     "t": 6.88,
+     "end": 7.28
+    },
+    {
+     "w": "D.",
+     "t": 7.36,
+     "end": 7.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? It's a motif: four notes, one rhythm. Short, short, short, long.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "It's",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.187,
+     "end": 2.213
+    },
+    {
+     "w": "motif:",
+     "t": 2.24,
+     "end": 3.28
+    },
+    {
+     "w": "four",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "notes,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "one",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "rhythm.",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "Short,",
+     "t": 5.44,
+     "end": 5.92
+    },
+    {
+     "w": "short,",
+     "t": 6,
+     "end": 6.56
+    },
+    {
+     "w": "short,",
+     "t": 6.72,
+     "end": 7.12
+    },
+    {
+     "w": "long.",
+     "t": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "why2": {
+   "text": "And that rhythm comes back in all four movements, in some form.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "that",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "rhythm",
+     "t": 0.44,
+     "end": 0.72
+    },
+    {
+     "w": "comes",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "back",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "in",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "all",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "four",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "movements,",
+     "t": 2.24,
+     "end": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "some",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "form.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "why3": {
+   "text": "Look at the notes too. G falls a major third, to E flat...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Look",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "at",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "notes",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "too.",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "G",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "falls",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "major",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "third,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "E",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "flat...",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why4": {
+   "text": "then F falls a minor third, to D. Two thirds that outline the world of C minor.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "F",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "falls",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "third,",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "to",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "D.",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "Two",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "thirds",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "that",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "outline",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "world",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "of",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "C",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "minor.",
+     "t": 5.68,
+     "end": 6.4
+    }
+   ]
+  },
+  "legend": {
+   "text": "Legend says Beethoven called it fate knocking at the door.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Legend",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "says",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "Beethoven",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "called",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "it",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "fate",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "knocking",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "at",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "door.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "legend2": {
+   "text": "But the story comes from his secretary, Anton Schindler, and many historians doubt it.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "story",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "comes",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "from",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "his",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "secretary,",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "Anton",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "Schindler,",
+     "t": 2.88,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "many",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "historians",
+     "t": 4.4,
+     "end": 5.12
+    },
+    {
+     "w": "doubt",
+     "t": 5.16,
+     "end": 5.4
+    },
+    {
+     "w": "it.",
+     "t": 5.44,
+     "end": 5.84
+    }
+   ]
+  },
+  "journey": {
+   "text": "What is certain: the symphony travels from C minor to a triumphant C major finale.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "certain:",
+     "t": 0.56,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "symphony",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "travels",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "from",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "C",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "minor",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "triumphant",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "C",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "major",
+     "t": 5.28,
+     "end": 5.6
+    },
+    {
+     "w": "finale.",
+     "t": 5.68,
+     "end": 6.48
+    }
+   ]
+  },
+  "journey2": {
+   "text": "Darkness to light.",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "Darkness",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "to",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "light.",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  },
+  "essence": {
+   "text": "Four notes are enough. Repeat them, develop them, transform them...",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "are",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "enough.",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "Repeat",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "them,",
+     "t": 2.28,
+     "end": 2.8
+    },
+    {
+     "w": "develop",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "them,",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "transform",
+     "t": 4.44,
+     "end": 4.8
+    },
+    {
+     "w": "them...",
+     "t": 4.88,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence2": {
+   "text": "and they can carry a whole symphony.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "they",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "can",
+     "t": 0.44,
+     "end": 0.56
+    },
+    {
+     "w": "carry",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "whole",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "symphony.",
+     "t": 1.76,
+     "end": 2.64
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

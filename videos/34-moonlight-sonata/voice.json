@@ -1,0 +1,877 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three notes, rolling quietly over a deep bass... and the whole world calls it moonlight.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "rolling",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "quietly",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "over",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "deep",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "bass...",
+     "t": 3.36,
+     "end": 4.48
+    },
+    {
+     "w": "and",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "whole",
+     "t": 4.88,
+     "end": 5.2
+    },
+    {
+     "w": "world",
+     "t": 5.44,
+     "end": 5.68
+    },
+    {
+     "w": "calls",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "it",
+     "t": 6.04,
+     "end": 6.08
+    },
+    {
+     "w": "moonlight.",
+     "t": 6.16,
+     "end": 7.04
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Beethoven's Piano Sonata number fourteen, in C sharp minor, from 1801.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Beethoven's",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "Piano",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "Sonata",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "number",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "fourteen,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "in",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "C",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "sharp",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "minor,",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "from",
+     "t": 4.76,
+     "end": 4.88
+    },
+    {
+     "w": "1801.",
+     "t": 4.96,
+     "end": 6.08
+    }
+   ]
+  },
+  "name": {
+   "text": "The nickname Moonlight came years later, from the critic Ludwig Rellstab. Beethoven never used it.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "nickname",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "Moonlight",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "came",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "years",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "later,",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "from",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "critic",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "Ludwig",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "Rellstab.",
+     "t": 3.88,
+     "end": 4.96
+    },
+    {
+     "w": "Beethoven",
+     "t": 5.04,
+     "end": 5.6
+    },
+    {
+     "w": "never",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "used",
+     "t": 6,
+     "end": 6.24
+    },
+    {
+     "w": "it.",
+     "t": 6.32,
+     "end": 6.72
+    }
+   ]
+  },
+  "play": {
+   "text": "Here is how it begins.",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "Here",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "is",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "how",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "begins.",
+     "t": 0.88,
+     "end": 1.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? First, the rhythm: triplets that never stop, over slow bass notes.",
+   "dur": 7.549388,
+   "speechEnd": 7.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "First,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "rhythm:",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "triplets",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "that",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "never",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "stop,",
+     "t": 5.04,
+     "end": 5.68
+    },
+    {
+     "w": "over",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "slow",
+     "t": 6.16,
+     "end": 6.48
+    },
+    {
+     "w": "bass",
+     "t": 6.56,
+     "end": 6.8
+    },
+    {
+     "w": "notes.",
+     "t": 6.88,
+     "end": 7.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "On top, the melody floats, almost like a voice.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "top,",
+     "t": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "melody",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "floats,",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "almost",
+     "t": 2.76,
+     "end": 2.96
+    },
+    {
+     "w": "like",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "voice.",
+     "t": 3.28,
+     "end": 4.08
+    }
+   ]
+  },
+  "why3": {
+   "text": "Then the bass sinks: C sharp, B, A... and a strange chord appears. D major.",
+   "dur": 8.359184,
+   "speechEnd": 8.4,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "bass",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "sinks:",
+     "t": 0.88,
+     "end": 1.92
+    },
+    {
+     "w": "C",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "sharp,",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "B,",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "A...",
+     "t": 3.92,
+     "end": 4.88
+    },
+    {
+     "w": "and",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "strange",
+     "t": 5.2,
+     "end": 5.68
+    },
+    {
+     "w": "chord",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "appears.",
+     "t": 6.08,
+     "end": 6.72
+    },
+    {
+     "w": "D",
+     "t": 7.36,
+     "end": 7.52
+    },
+    {
+     "w": "major.",
+     "t": 7.6,
+     "end": 8.4
+    }
+   ]
+  },
+  "why4": {
+   "text": "In C sharp minor, D is the lowered second degree. That is the Neapolitan chord.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "C",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "sharp",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "minor,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "D",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "lowered",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "second",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "degree.",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "That",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "is",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "Neapolitan",
+     "t": 4.88,
+     "end": 5.52
+    },
+    {
+     "w": "chord.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why5": {
+   "text": "It brings a dark, sinking color, early in the piece.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "brings",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "dark,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "sinking",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "color,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "early",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "piece.",
+     "t": 3.36,
+     "end": 4.08
+    }
+   ]
+  },
+  "pedal": {
+   "text": "And Beethoven asks for the pedal held down, so the notes blur into a mist.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Beethoven",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "asks",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "for",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "pedal",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "held",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "down,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "so",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "notes",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "blur",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "into",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "mist.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "One rhythm that never stops, one dark borrowed chord...",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "rhythm",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "never",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "stops,",
+     "t": 1.44,
+     "end": 2.56
+    },
+    {
+     "w": "one",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "dark",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "borrowed",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "chord...",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "essence2": {
+   "text": "and a piece that sounds like moonlight, though Beethoven never called it that.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "piece",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "that",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "sounds",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "like",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "moonlight,",
+     "t": 1.52,
+     "end": 2.56
+    },
+    {
+     "w": "though",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "Beethoven",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "never",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "called",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "it",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "that.",
+     "t": 4.32,
+     "end": 4.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.28,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}
