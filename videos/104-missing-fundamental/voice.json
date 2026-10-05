@@ -1,0 +1,956 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Your phone speaker is too small for deep bass. So how can you still hear the bass line?",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "phone",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "speaker",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.08,
+     "end": 1.2
+    },
+    {
+     "w": "too",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "small",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "for",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "deep",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "bass.",
+     "t": 2.36,
+     "end": 3.28
+    },
+    {
+     "w": "So",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "how",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "can",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "you",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "still",
+     "t": 4.44,
+     "end": 4.56
+    },
+    {
+     "w": "hear",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "bass",
+     "t": 4.92,
+     "end": 5.2
+    },
+    {
+     "w": "line?",
+     "t": 5.36,
+     "end": 5.76
+    }
+   ]
+  },
+  "what": {
+   "text": "Your brain fills in the missing note.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "brain",
+     "t": 0.44,
+     "end": 0.64
+    },
+    {
+     "w": "fills",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "missing",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "note.",
+     "t": 1.92,
+     "end": 2.56
+    }
+   ]
+  },
+  "phone": {
+   "text": "Play a bass heavy song on a phone: the lowest notes aren't really there, yet you still follow the bass.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "bass",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "heavy",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "song",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "on",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "phone:",
+     "t": 1.68,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "lowest",
+     "t": 2.84,
+     "end": 3.04
+    },
+    {
+     "w": "notes",
+     "t": 3.24,
+     "end": 3.44
+    },
+    {
+     "w": "aren't",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "really",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "there,",
+     "t": 4.16,
+     "end": 4.88
+    },
+    {
+     "w": "yet",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "you",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "still",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "follow",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "the",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "bass.",
+     "t": 6.12,
+     "end": 6.88
+    }
+   ]
+  },
+  "organ": {
+   "text": "Pipe organs fake very low notes the same way: two higher pipes, a note and its fifth, together.",
+   "dur": 7.314286,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "Pipe",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "organs",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "fake",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "very",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "low",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "notes",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "same",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "way:",
+     "t": 2.72,
+     "end": 3.52
+    },
+    {
+     "w": "two",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "higher",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "pipes,",
+     "t": 4.24,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "note",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "and",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "its",
+     "t": 5.76,
+     "end": 5.92
+    },
+    {
+     "w": "fifth,",
+     "t": 6,
+     "end": 6.56
+    },
+    {
+     "w": "together.",
+     "t": 6.64,
+     "end": 7.36
+    }
+   ]
+  },
+  "organ2": {
+   "text": "It's called a resultant stop.",
+   "dur": 2.272653,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "called",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "resultant",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "stop.",
+     "t": 1.52,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? A note at 100 hertz has overtones at 200, 300, 400, 500.",
+   "dur": 8.515918,
+   "speechEnd": 8.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "how",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "A",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "note",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "at",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "100",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "hertz",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "has",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "overtones",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "at",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "200,",
+     "t": 4.8,
+     "end": 5.68
+    },
+    {
+     "w": "300,",
+     "t": 5.8,
+     "end": 6.64
+    },
+    {
+     "w": "400,",
+     "t": 6.72,
+     "end": 7.68
+    },
+    {
+     "w": "500.",
+     "t": 7.8,
+     "end": 8.56
+    }
+   ]
+  },
+  "why2": {
+   "text": "Remove the 100 completely, and play only 200, 300 and 400.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Remove",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "100",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "completely,",
+     "t": 0.8,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "play",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "only",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "200,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "300",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "400.",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "why3": {
+   "text": "Your brain still hears 100: the spacing between the overtones.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "brain",
+     "t": 0.44,
+     "end": 0.64
+    },
+    {
+     "w": "still",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "hears",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "100:",
+     "t": 1.52,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "spacing",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "between",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "overtones.",
+     "t": 3.92,
+     "end": 4.96
+    }
+   ]
+  },
+  "why4": {
+   "text": "That's the missing fundamental.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "missing",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "fundamental.",
+     "t": 1.04,
+     "end": 2.08
+    }
+   ]
+  },
+  "prod": {
+   "text": "So producers add harmonics to bass sounds, with saturation or distortion...",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "producers",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "add",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "harmonics",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "to",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "bass",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "sounds,",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "with",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "saturation",
+     "t": 3.28,
+     "end": 4.16
+    },
+    {
+     "w": "or",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "distortion...",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "prod2": {
+   "text": "and the bass survives on small speakers.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "bass",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "survives",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "on",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "small",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "speakers.",
+     "t": 2,
+     "end": 2.96
+    }
+   ]
+  },
+  "organ3": {
+   "text": "Same with the organ: pipes at two and three times a note...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "with",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "organ:",
+     "t": 0.76,
+     "end": 1.44
+    },
+    {
+     "w": "pipes",
+     "t": 1.64,
+     "end": 1.84
+    },
+    {
+     "w": "at",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "two",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "three",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "times",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.36,
+     "end": 3.4
+    },
+    {
+     "w": "note...",
+     "t": 3.44,
+     "end": 4
+    }
+   ]
+  },
+  "organ4": {
+   "text": "imply that note, an octave below the lower pipe.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "imply",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "that",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "note,",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "an",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "octave",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "below",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "lower",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "pipe.",
+     "t": 3.28,
+     "end": 3.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "The bass you hear on your phone isn't there. Your brain is playing it.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bass",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "you",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "hear",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "on",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "your",
+     "t": 1.08,
+     "end": 1.2
+    },
+    {
+     "w": "phone",
+     "t": 1.4,
+     "end": 1.6
+    },
+    {
+     "w": "isn't",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "there.",
+     "t": 2.2,
+     "end": 2.8
+    },
+    {
+     "w": "Your",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "brain",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "is",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "playing",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "it.",
+     "t": 4.12,
+     "end": 4.48
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

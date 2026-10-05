@@ -1,0 +1,966 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Play the same note, just as loud, on a flute and on a violin. You still know which is which.",
+   "dur": 6.922449,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Play",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "same",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "note,",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "just",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "as",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "loud,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "on",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "flute",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "on",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "violin.",
+     "t": 3.92,
+     "end": 4.76
+    },
+    {
+     "w": "You",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "still",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "know",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "which",
+     "t": 5.76,
+     "end": 5.92
+    },
+    {
+     "w": "is",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "which.",
+     "t": 6.16,
+     "end": 6.88
+    }
+   ]
+  },
+  "what": {
+   "text": "That difference is called timbre, or tone color.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "difference",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "called",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "timbre,",
+     "t": 1.52,
+     "end": 2.32
+    },
+    {
+     "w": "or",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "tone",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "color.",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "peter": {
+   "text": "In Prokofiev's Peter and the Wolf, every character is an instrument.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Prokofiev's",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "Peter",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.56
+    },
+    {
+     "w": "Wolf,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "every",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "character",
+     "t": 2.8,
+     "end": 3.44
+    },
+    {
+     "w": "is",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "an",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "instrument.",
+     "t": 3.84,
+     "end": 4.72
+    }
+   ]
+  },
+  "peter2": {
+   "text": "The bird is a flute, the duck an oboe, the cat a clarinet, the wolf French horns.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bird",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "flute,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "duck",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "an",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "oboe,",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "cat",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.04
+    },
+    {
+     "w": "clarinet,",
+     "t": 4.08,
+     "end": 5.12
+    },
+    {
+     "w": "the",
+     "t": 5.2,
+     "end": 5.24
+    },
+    {
+     "w": "wolf",
+     "t": 5.28,
+     "end": 5.68
+    },
+    {
+     "w": "French",
+     "t": 5.92,
+     "end": 6.24
+    },
+    {
+     "w": "horns.",
+     "t": 6.28,
+     "end": 7.12
+    }
+   ]
+  },
+  "bolero": {
+   "text": "Ravel's Boléro passes one melody from instrument to instrument. The tune stays, the color changes.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "Ravel's",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "Boléro",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "passes",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "one",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "melody",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "from",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "instrument",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "instrument.",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "The",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "tune",
+     "t": 4.6,
+     "end": 4.88
+    },
+    {
+     "w": "stays,",
+     "t": 4.96,
+     "end": 5.76
+    },
+    {
+     "w": "the",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "color",
+     "t": 6.08,
+     "end": 6.24
+    },
+    {
+     "w": "changes.",
+     "t": 6.4,
+     "end": 7.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Almost every note is a stack of frequencies.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.72
+    },
+    {
+     "w": "Almost",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "every",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "note",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "is",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "stack",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "of",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "frequencies.",
+     "t": 4.2,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "The fundamental, plus overtones at two, three, four times the frequency.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "fundamental,",
+     "t": 0.24,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "overtones",
+     "t": 1.68,
+     "end": 2.32
+    },
+    {
+     "w": "at",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "two,",
+     "t": 2.64,
+     "end": 3.2
+    },
+    {
+     "w": "three,",
+     "t": 3.36,
+     "end": 3.92
+    },
+    {
+     "w": "four",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "times",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "frequency.",
+     "t": 4.72,
+     "end": 5.6
+    }
+   ]
+  },
+  "why3": {
+   "text": "The recipe, how loud each overtone is, gives each instrument its color.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "recipe,",
+     "t": 0.24,
+     "end": 1.12
+    },
+    {
+     "w": "how",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "loud",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "each",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "overtone",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "is,",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "gives",
+     "t": 3.32,
+     "end": 3.6
+    },
+    {
+     "w": "each",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "instrument",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "its",
+     "t": 4.52,
+     "end": 4.64
+    },
+    {
+     "w": "color.",
+     "t": 4.84,
+     "end": 5.28
+    }
+   ]
+  },
+  "flute": {
+   "text": "A flute is close to pure, with weak overtones.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "flute",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "close",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "to",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "pure,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "with",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "weak",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "overtones.",
+     "t": 2.88,
+     "end": 4
+    }
+   ]
+  },
+  "violin": {
+   "text": "A violin is rich in overtones.",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "violin",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "rich",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "overtones.",
+     "t": 1.76,
+     "end": 2.88
+    }
+   ]
+  },
+  "clar": {
+   "text": "A low clarinet favors the odd ones: three, five, seven.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "low",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "clarinet",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "favors",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "odd",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "ones:",
+     "t": 2.08,
+     "end": 2.96
+    },
+    {
+     "w": "three,",
+     "t": 3.16,
+     "end": 3.76
+    },
+    {
+     "w": "five,",
+     "t": 4,
+     "end": 4.56
+    },
+    {
+     "w": "seven.",
+     "t": 4.76,
+     "end": 5.2
+    }
+   ]
+  },
+  "attack": {
+   "text": "And the start of a note matters too.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "start",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.84
+    },
+    {
+     "w": "note",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "matters",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "too.",
+     "t": 1.76,
+     "end": 2.24
+    }
+   ]
+  },
+  "attack2": {
+   "text": "A piano note starts with a hammer strike, then fades. A violin can swell.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "piano",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "note",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "starts",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "with",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "hammer",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "strike,",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "then",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "fades.",
+     "t": 3.12,
+     "end": 3.96
+    },
+    {
+     "w": "A",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "violin",
+     "t": 4.4,
+     "end": 4.96
+    },
+    {
+     "w": "can",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "swell.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "Pitch tells you which note. Timbre tells you who's singing it.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Pitch",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "tells",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "you",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "which",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "note.",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "Timbre",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "tells",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "you",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "who's",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "singing",
+     "t": 3.4,
+     "end": 3.68
+    },
+    {
+     "w": "it.",
+     "t": 3.76,
+     "end": 4.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

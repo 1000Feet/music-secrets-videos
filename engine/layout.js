@@ -86,7 +86,7 @@ function buildTimeline(dir) {
         ...o, row: o.rows ? o.rows[i] : o.row, strikes: o.strikes === 'pulse' ? [{ o: 0, v: 1 }, { o: len / 2, v: 0.55 }] : o.strikes,
       }));
     },
-    note(m, t0, dur, o = {}) { const ev = { t0, m: T.midi(m), dur, vel: o.vel ?? 0.32, show: o.show !== false, tonic: o.tonic ?? api.tonicAt(t0) }; TL.notes.push(ev); return ev; },
+    note(m, t0, dur, o = {}) { const ev = { t0, m: T.midi(m), dur, vel: o.vel ?? 0.32, show: o.show !== false, tonic: o.tonic ?? api.tonicAt(t0) }; if (o.tone) ev.tone = o.tone; TL.notes.push(ev); return ev; },
     // melody: [[note, beats], ...] starting at t0, `beat` seconds per beat; null note = rest
     melody(list, t0, beat, o = {}) {
       let t = t0;

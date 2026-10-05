@@ -53,3 +53,4 @@ scripts first (e.g. `reference/02-tritone/script.js`, `reference/05-pachelbel/sc
 - The circle always labels black keys as C#, Eb, F#, Ab, Bb. If the narration says another spelling (G flat, G sharp…) add a small tag next to the note.
 - The engine has no 9th/11th chord names: pass explicit `notes` and a `label` (e.g. `a.ch('D7', t0, t1, { notes: [...], label: 'D9' })`).
 - Keyboard range is C2–G5.
+- `a.note(m, t, dur, { tone: { partials: [1, 0.5, ...], attack, release, decay } })` plays an additive tone instead of the piano (`[1]` = pure sine; `m` may be fractional midi, e.g. `69 + 12 * Math.log2(f / 440)` for a frequency `f`). Fractional notes don't light keys: add a `vel: 0` integer note for that.

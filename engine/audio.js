@@ -53,7 +53,32 @@ function renderAudio(dir, TL) {
     });
     if (c.bass !== null) bass(c.bass, c.t0, dur, 0.29 * c.vel);
   }
-  for (const n of TL.notes) piano(n.m, n.t0, n.dur, n.vel, 0);
+  // optional additive tone (note option `tone`): partials = amplitude of harmonic 1, 2, 3...
+  // ([1] = pure sine), attack/release in seconds, decay = exponential fade rate per second.
+  function tone(m, t0, dur, vel, o) {
+    const f = mtof(m), P = o.partials || [1], att = o.attack ?? 0.01, rl = o.release ?? 0.12, dec = o.decay ?? 0;
+    const s0 = Math.floor(t0 * SR), len = Math.floor((dur + rl) * SR), g = vel * 0.5;
+    // optional pitch curve (default off): bend = [[seconds from note start, semitones], ...], linear in between
+    const BD = o.bend && o.bend.length ? o.bend : null;
+    let ph = 0, bi = 0;
+    for (let i = 0; i < len && s0 + i < N; i++) {
+      const t = i / SR;
+      let fx = f * t;
+      if (BD) {
+        while (bi < BD.length - 1 && BD[bi + 1][0] <= t) bi++;
+        const p = BD[bi], q = BD[Math.min(bi + 1, BD.length - 1)];
+        const st = t <= p[0] || q === p ? p[1] : p[1] + (q[1] - p[1]) * Math.min(1, (t - p[0]) / Math.max(1e-6, q[0] - p[0]));
+        ph += f * Math.pow(2, st / 12) / SR; fx = ph;
+      }
+      if (s0 + i < 0) continue;
+      const a = att > 0 ? Math.min(1, t / att) : 1, r = t < dur ? 1 : Math.max(0, 1 - (t - dur) / rl);
+      let v = 0;
+      for (let h = 1; h <= P.length; h++) if (P[h - 1] && f * h < 18000) v += P[h - 1] * Math.sin(2 * Math.PI * h * fx);
+      v *= a * a * (3 - 2 * a) * r * (dec ? Math.exp(-t * dec) : 1);
+      L[s0 + i] += v * g; R[s0 + i] += v * g;
+    }
+  }
+  for (const n of TL.notes) n.tone ? tone(n.m, n.t0, n.dur, n.vel, n.tone) : piano(n.m, n.t0, n.dur, n.vel, 0);
   for (const p of TL.perc) perc(p.type, p.t, p.vel);
 
   // Schroeder reverb
