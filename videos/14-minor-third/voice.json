@@ -1,0 +1,961 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One tiny interval is the heart of minor chords, a Beatles classic, and a playground taunt.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.267
+    },
+    {
+     "w": "tiny",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "interval",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "is",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "heart",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "of",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "minor",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "chords,",
+     "t": 2.72,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "Beatles",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "classic,",
+     "t": 4.08,
+     "end": 4.88
+    },
+    {
+     "w": "and",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "a",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "playground",
+     "t": 5.44,
+     "end": 5.92
+    },
+    {
+     "w": "taunt.",
+     "t": 6.08,
+     "end": 6.8
+    }
+   ]
+  },
+  "what": {
+   "text": "Start on A and go up three half steps, to C. That's a minor third.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "A",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "go",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "up",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "three",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "half",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "steps,",
+     "t": 2.4,
+     "end": 3.04
+    },
+    {
+     "w": "to",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "C.",
+     "t": 3.36,
+     "end": 3.96
+    },
+    {
+     "w": "That's",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "a",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "minor",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "third.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "greens": {
+   "text": "It's the very first leap in Greensleeves...",
+   "dur": 2.925714,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "very",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "first",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "leap",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "Greensleeves...",
+     "t": 1.76,
+     "end": 2.88
+    }
+   ]
+  },
+  "jude": {
+   "text": "the two notes of Hey Jude, falling down...",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "two",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "notes",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "of",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Hey",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "Jude,",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "falling",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "down...",
+     "t": 2.72,
+     "end": 3.36
+    }
+   ]
+  },
+  "smoke": {
+   "text": "the start of the Smoke on the Water riff, going up...",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "start",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "Smoke",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "on",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "Water",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "riff,",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "going",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "up...",
+     "t": 2.64,
+     "end": 3.12
+    }
+   ]
+  },
+  "taunt": {
+   "text": "and the taunt kids sing everywhere.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "taunt",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "kids",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "sing",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "everywhere.",
+     "t": 1.68,
+     "end": 2.72
+    }
+   ]
+  },
+  "why1": {
+   "text": "So what makes it special? Its two notes vibrate in a ratio of six to five.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "what",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "makes",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "special?",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "Its",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "two",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "notes",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "vibrate",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "ratio",
+     "t": 4.04,
+     "end": 4.32
+    },
+    {
+     "w": "of",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "six",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "to",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "five.",
+     "t": 5.36,
+     "end": 5.84
+    }
+   ]
+  },
+  "minor": {
+   "text": "Look at A minor: A, C, E. A minor third on the bottom, a major third on top.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "Look",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "at",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "A",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "minor:",
+     "t": 0.72,
+     "end": 1.68
+    },
+    {
+     "w": "A,",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "C,",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "E.",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "A",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "minor",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "third",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "on",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "bottom,",
+     "t": 4.96,
+     "end": 5.6
+    },
+    {
+     "w": "a",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "major",
+     "t": 5.84,
+     "end": 6.16
+    },
+    {
+     "w": "third",
+     "t": 6.24,
+     "end": 6.48
+    },
+    {
+     "w": "on",
+     "t": 6.52,
+     "end": 6.56
+    },
+    {
+     "w": "top.",
+     "t": 6.72,
+     "end": 7.28
+    }
+   ]
+  },
+  "major": {
+   "text": "Now C major: C, E, G. The same two thirds, just swapped.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "C",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "major:",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "C,",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "E,",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "G.",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "The",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "same",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "two",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "thirds,",
+     "t": 4.4,
+     "end": 5.04
+    },
+    {
+     "w": "just",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "swapped.",
+     "t": 5.36,
+     "end": 6
+    }
+   ]
+  },
+  "fifth": {
+   "text": "Either way, they stack up to a perfect fifth.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "Either",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "way,",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "they",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "stack",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "up",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "to",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "perfect",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "fifth.",
+     "t": 2.64,
+     "end": 3.28
+    }
+   ]
+  },
+  "fifth2": {
+   "text": "Six to five, times five to four... is three to two.",
+   "dur": 5.407347,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Six",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "five,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "times",
+     "t": 1.56,
+     "end": 1.76
+    },
+    {
+     "w": "five",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "four...",
+     "t": 2.56,
+     "end": 3.6
+    },
+    {
+     "w": "is",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "three",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "to",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "two.",
+     "t": 4.72,
+     "end": 5.2
+    }
+   ]
+  },
+  "dim": {
+   "text": "And if you stack only minor thirds? You get the diminished chord.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "if",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "you",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "stack",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "only",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "minor",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "thirds?",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "You",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "get",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "diminished",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "chord.",
+     "t": 3.52,
+     "end": 4.16
+    }
+   ]
+  },
+  "dim2": {
+   "text": "Four of them divide the octave into equal parts.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "of",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "them",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "divide",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "octave",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "into",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "equal",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "parts.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two thirds, swapped. That small flip is the whole difference between happy and sad.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "thirds,",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "swapped.",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "That",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "small",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "flip",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "is",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "whole",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "difference",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "between",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "happy",
+     "t": 5.12,
+     "end": 5.6
+    },
+    {
+     "w": "and",
+     "t": 5.76,
+     "end": 5.92
+    },
+    {
+     "w": "sad.",
+     "t": 6,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

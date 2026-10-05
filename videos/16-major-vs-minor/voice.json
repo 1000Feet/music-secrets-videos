@@ -1,0 +1,1057 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Change just one note by a half step, and happy turns sad.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Change",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "just",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "one",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "note",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "by",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "half",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "step,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "happy",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "turns",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "sad.",
+     "t": 4.08,
+     "end": 4.8
+    }
+   ]
+  },
+  "what": {
+   "text": "C major is C, E, G. Lower the E to E flat, and you get C minor.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "C",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "major",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "C,",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "E,",
+     "t": 1.84,
+     "end": 2.2
+    },
+    {
+     "w": "G.",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "Lower",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "E",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "E",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "flat,",
+     "t": 4.48,
+     "end": 5.04
+    },
+    {
+     "w": "and",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "you",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "get",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "C",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "minor.",
+     "t": 5.84,
+     "end": 6.48
+    }
+   ]
+  },
+  "tw1": {
+   "text": "Here's Twinkle, Twinkle in major...",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Twinkle,",
+     "t": 0.4,
+     "end": 0.76
+    },
+    {
+     "w": "Twinkle",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "major...",
+     "t": 1.6,
+     "end": 2.4
+    }
+   ]
+  },
+  "tw2": {
+   "text": "and here's the very same tune in minor.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "here's",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "very",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "same",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "tune",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "in",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "minor.",
+     "t": 2.16,
+     "end": 2.8
+    }
+   ]
+  },
+  "hits": {
+   "text": "Plenty of hits live in minor keys:",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Plenty",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "of",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "hits",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "live",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "keys:",
+     "t": 1.68,
+     "end": 2.48
+    }
+   ]
+  },
+  "billie": {
+   "text": "Billie Jean, in F sharp minor...",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Billie",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Jean,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "F",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "sharp",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "minor...",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "losing": {
+   "text": "Losing My Religion, in A minor...",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "Losing",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "My",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Religion,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "A",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "minor...",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "eleanor": {
+   "text": "and Eleanor Rigby, in E minor.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Eleanor",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "Rigby,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "in",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "E",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "minor.",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "why1": {
+   "text": "So what actually changes? Only the third.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "what",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "actually",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "changes?",
+     "t": 1.2,
+     "end": 2.12
+    },
+    {
+     "w": "Only",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "third.",
+     "t": 2.88,
+     "end": 3.52
+    }
+   ]
+  },
+  "why2": {
+   "text": "E sits four half steps above C. E flat sits just three.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "E",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "sits",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "four",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "half",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "steps",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "above",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "C.",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "E",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "flat",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "sits",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "just",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "three.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "harm": {
+   "text": "The major chord is built right into the harmonic series: four to five to six.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "major",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chord",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "built",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "right",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "into",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.04
+    },
+    {
+     "w": "harmonic",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "series:",
+     "t": 2.64,
+     "end": 3.52
+    },
+    {
+     "w": "four",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "five",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "to",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "six.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "harm2": {
+   "text": "The minor chord is not as simple: ten to twelve to fifteen.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chord",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "not",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "as",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "simple:",
+     "t": 1.72,
+     "end": 2.48
+    },
+    {
+     "w": "ten",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "to",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "twelve",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "to",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "fifteen.",
+     "t": 3.96,
+     "end": 4.8
+    }
+   ]
+  },
+  "speech": {
+   "text": "Some research finds that sad speech moves in smaller pitch steps, close to a minor third.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "research",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "finds",
+     "t": 0.8,
+     "end": 1.16
+    },
+    {
+     "w": "that",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "sad",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "speech",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "moves",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "in",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "smaller",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "pitch",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "steps,",
+     "t": 3.84,
+     "end": 4.4
+    },
+    {
+     "w": "close",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "to",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "a",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "minor",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "third.",
+     "t": 5.44,
+     "end": 6.08
+    }
+   ]
+  },
+  "speech2": {
+   "text": "That may be part of why minor sounds sad.",
+   "dur": 3.082449,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "may",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "be",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "part",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "why",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "sounds",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "sad.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "culture": {
+   "text": "But culture plays a big role too. It's not a universal law.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "culture",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "plays",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.093,
+     "end": 1.147
+    },
+    {
+     "w": "big",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "role",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "too.",
+     "t": 1.88,
+     "end": 2.32
+    },
+    {
+     "w": "It's",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "not",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "universal",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "law.",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "mirror": {
+   "text": "And a twist: a minor chord is a major chord flipped upside down.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "twist:",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "minor",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "chord",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "is",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "major",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "chord",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "flipped",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "upside",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "down.",
+     "t": 4.68,
+     "end": 5.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "One half step, and the whole mood flips. The smallest change, with the biggest emotional effect.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "half",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "step,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "whole",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "mood",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "flips.",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "The",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "smallest",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "change,",
+     "t": 4.24,
+     "end": 4.96
+    },
+    {
+     "w": "with",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "the",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "biggest",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "emotional",
+     "t": 5.84,
+     "end": 6.32
+    },
+    {
+     "w": "effect.",
+     "t": 6.56,
+     "end": 7.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
