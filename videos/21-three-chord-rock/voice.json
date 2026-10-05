@@ -1,0 +1,899 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three chords. That's all it takes to write a rock and roll classic.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords.",
+     "t": 0.4,
+     "end": 1.16
+    },
+    {
+     "w": "That's",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "all",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "it",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "takes",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "to",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "write",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "rock",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "roll",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "classic.",
+     "t": 3.44,
+     "end": 4.32
+    }
+   ]
+  },
+  "what": {
+   "text": "Build chords on notes one, four and five of the scale.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Build",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "on",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "notes",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "one,",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "four",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "five",
+     "t": 3,
+     "end": 3.2
+    },
+    {
+     "w": "of",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.36,
+     "end": 3.4
+    },
+    {
+     "w": "scale.",
+     "t": 3.44,
+     "end": 4.24
+    }
+   ]
+  },
+  "what2": {
+   "text": "In C, that's C, F and G.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "C,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "that's",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "C,",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "F",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "G.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "bamba": {
+   "text": "You hear them in La Bamba...",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "them",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "La",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "Bamba...",
+     "t": 1,
+     "end": 1.84
+    }
+   ]
+  },
+  "twist": {
+   "text": "Twist and Shout...",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Twist",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "and",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Shout...",
+     "t": 0.64,
+     "end": 1.44
+    }
+   ]
+  },
+  "wild": {
+   "text": "Wild Thing...",
+   "dur": 1.410612,
+   "speechEnd": 1.36,
+   "words": [
+    {
+     "w": "Wild",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "Thing...",
+     "t": 0.56,
+     "end": 1.36
+    }
+   ]
+  },
+  "louie": {
+   "text": "and Louie Louie, where the five turns minor.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Louie",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "Louie,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "where",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "five",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "turns",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "minor.",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why these three? Look at their notes.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "these",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "three?",
+     "t": 1.12,
+     "end": 1.72
+    },
+    {
+     "w": "Look",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "at",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "their",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "notes.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "why1b": {
+   "text": "C, E, G... F, A, C... G, B, D.",
+   "dur": 5.407347,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "C,",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "E,",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "G...",
+     "t": 1.12,
+     "end": 2.16
+    },
+    {
+     "w": "F,",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "A,",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "C...",
+     "t": 3.12,
+     "end": 4.08
+    },
+    {
+     "w": "G,",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "B,",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "D.",
+     "t": 4.72,
+     "end": 5.2
+    }
+   ]
+  },
+  "why1c": {
+   "text": "Together, that's every note of the C major scale.",
+   "dur": 3.787755,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Together,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "that's",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "every",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "note",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "of",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "C",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "major",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "scale.",
+     "t": 2.96,
+     "end": 3.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "So they can harmonize almost any simple melody in the key.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "they",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "can",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "harmonize",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "almost",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "any",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "simple",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "melody",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "key.",
+     "t": 3.2,
+     "end": 3.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "On the circle of fifths, F and G are C's neighbors.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "circle",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "of",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "fifths,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "F",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "G",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "are",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "C's",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "neighbors.",
+     "t": 3.56,
+     "end": 4.16
+    }
+   ]
+  },
+  "why3b": {
+   "text": "One step each way from home.",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "step",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "each",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "way",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "from",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "home.",
+     "t": 1.68,
+     "end": 2.32
+    }
+   ]
+  },
+  "why4": {
+   "text": "G to C, five to one, is the strongest pull home.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "C,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "five",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "one,",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "is",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "strongest",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "pull",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "home.",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "why5": {
+   "text": "F to C is the softer amen.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "F",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "to",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "C",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "softer",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "amen.",
+     "t": 2,
+     "end": 2.72
+    }
+   ]
+  },
+  "roots": {
+   "text": "Rock, blues, folk and country all grew from these three chords.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Rock,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "blues,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "folk",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "country",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "all",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "grew",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "from",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "these",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "three",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "chords.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "Three chords, every note of the key.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "every",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "note",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "key.",
+     "t": 2.32,
+     "end": 2.96
+    }
+   ]
+  },
+  "essence2": {
+   "text": "The smallest complete toolkit in music.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "smallest",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "complete",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "toolkit",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "music.",
+     "t": 2.16,
+     "end": 2.96
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

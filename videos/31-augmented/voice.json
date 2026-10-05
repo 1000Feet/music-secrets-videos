@@ -1,0 +1,943 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One chord sounds dreamy, unstable... like something is about to change.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chord",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sounds",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "dreamy,",
+     "t": 1.2,
+     "end": 2.24
+    },
+    {
+     "w": "unstable...",
+     "t": 2.4,
+     "end": 3.68
+    },
+    {
+     "w": "like",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "something",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "is",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "about",
+     "t": 4.6,
+     "end": 4.72
+    },
+    {
+     "w": "to",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "change.",
+     "t": 5.24,
+     "end": 5.84
+    }
+   ]
+  },
+  "what": {
+   "text": "Stack two major thirds on C: C, E, G sharp. That's C augmented.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Stack",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "two",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "major",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "thirds",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "on",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "C:",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "C,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "E,",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "G",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "sharp.",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "That's",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "C",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "augmented.",
+     "t": 5.92,
+     "end": 6.88
+    }
+   ]
+  },
+  "darling": {
+   "text": "It opens Oh! Darling, by the Beatles...",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opens",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "Oh!",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "Darling,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "by",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "Beatles...",
+     "t": 2.72,
+     "end": 3.52
+    }
+   ]
+  },
+  "film": {
+   "text": "it makes the wavy shimmer of film and TV dream sequences...",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "it",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "makes",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "wavy",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "shimmer",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "of",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "film",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "TV",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "dream",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "sequences...",
+     "t": 3.36,
+     "end": 4.4
+    }
+   ]
+  },
+  "move": {
+   "text": "and it powers a classic move: C, C augmented, F.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "powers",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "classic",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "move:",
+     "t": 1.52,
+     "end": 2.4
+    },
+    {
+     "w": "C,",
+     "t": 2.56,
+     "end": 3.2
+    },
+    {
+     "w": "C",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "augmented,",
+     "t": 3.64,
+     "end": 4.48
+    },
+    {
+     "w": "F.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "move2": {
+   "text": "G rises to G sharp, then to A.",
+   "dur": 3.317551,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rises",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "to",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "G",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "sharp,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "then",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "to",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "A.",
+     "t": 2.64,
+     "end": 3.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it float? Two major thirds make eight half steps.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "does",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "float?",
+     "t": 1.36,
+     "end": 2.04
+    },
+    {
+     "w": "Two",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "major",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "thirds",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "make",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "eight",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "half",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "steps.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "why2": {
+   "text": "One more major third, and you're back on C. Three equal parts: a perfect triangle.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "more",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "major",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "third,",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "you're",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "back",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "on",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "C.",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "Three",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "equal",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "parts:",
+     "t": 4.08,
+     "end": 4.88
+    },
+    {
+     "w": "a",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "perfect",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "triangle.",
+     "t": 5.6,
+     "end": 6.48
+    }
+   ]
+  },
+  "root": {
+   "text": "It's symmetric, so no note is clearly the root.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "symmetric,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "so",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "no",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "note",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "is",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "clearly",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "root.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "rotate": {
+   "text": "Turn the triangle one step, two, three...",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Turn",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "triangle",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "one",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "step,",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "two,",
+     "t": 2.16,
+     "end": 3.04
+    },
+    {
+     "w": "three...",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "rotate2": {
+   "text": "and the fourth step is the first chord again.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "fourth",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "step",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "is",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "first",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "chord",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "again.",
+     "t": 2.28,
+     "end": 2.8
+    }
+   ]
+  },
+  "four": {
+   "text": "So there are only four augmented chords.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "there",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "are",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "only",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "four",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "augmented",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "chords.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "pull": {
+   "text": "And the raised fifth, G sharp, acts like a leading tone, pushing up to A.",
+   "dur": 5.877551,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "raised",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "fifth,",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "G",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "sharp,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "acts",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "like",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "leading",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "tone,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "pushing",
+     "t": 4.36,
+     "end": 4.64
+    },
+    {
+     "w": "up",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "to",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "A.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "pull2": {
+   "text": "That's why C augmented leads so naturally to F, or A minor.",
+   "dur": 5.067755,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "why",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "C",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "augmented",
+     "t": 0.96,
+     "end": 1.52
+    },
+    {
+     "w": "leads",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "so",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "naturally",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "to",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "F,",
+     "t": 3.12,
+     "end": 3.68
+    },
+    {
+     "w": "or",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "A",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "minor.",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "essence": {
+   "text": "A chord with no bottom and no top: pure motion, waiting to land.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "chord",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "with",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "no",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "bottom",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "no",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "top:",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "pure",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "motion,",
+     "t": 3.6,
+     "end": 4.56
+    },
+    {
+     "w": "waiting",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "to",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "land.",
+     "t": 5.28,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

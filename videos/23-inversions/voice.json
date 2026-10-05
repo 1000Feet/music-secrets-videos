@@ -1,0 +1,1053 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Same chord, same three notes...",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chord,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "same",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "three",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "notes...",
+     "t": 1.84,
+     "end": 2.64
+    }
+   ]
+  },
+  "hook2": {
+   "text": "but it can sound solid, or like it's floating.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "but",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "can",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "sound",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "solid,",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "or",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "like",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "it's",
+     "t": 2.68,
+     "end": 2.88
+    },
+    {
+     "w": "floating.",
+     "t": 3.12,
+     "end": 3.6
+    }
+   ]
+  },
+  "what": {
+   "text": "Here's C major: C, E and G, with C in the bass. That's root position.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "C",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "major:",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "C,",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "E",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "G,",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "with",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "C",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.16,
+     "end": 4.2
+    },
+    {
+     "w": "bass.",
+     "t": 4.24,
+     "end": 4.72
+    },
+    {
+     "w": "That's",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "root",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "position.",
+     "t": 5.76,
+     "end": 6.56
+    }
+   ]
+  },
+  "inv1": {
+   "text": "Put E in the bass, and you get C over E. The first inversion.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Put",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "E",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "bass,",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "you",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "get",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "C",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "over",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "E.",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "The",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "first",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "inversion.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "inv2": {
+   "text": "Put G in the bass: C over G. The second inversion.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Put",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "in",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "bass:",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "C",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "over",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "G.",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "The",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "second",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "inversion.",
+     "t": 4.16,
+     "end": 5.04
+    }
+   ]
+  },
+  "whiter": {
+   "text": "You hear inversions in A Whiter Shade of Pale...",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "inversions",
+     "t": 0.52,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "A",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "Whiter",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "Shade",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "Pale...",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "whiter2": {
+   "text": "a bass that walks down step by step...",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "a",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "bass",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "that",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "walks",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "down",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "step",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "by",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "step...",
+     "t": 2.8,
+     "end": 3.36
+    }
+   ]
+  },
+  "whiter3": {
+   "text": "while the chords change above it.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "while",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.293,
+     "end": 0.347
+    },
+    {
+     "w": "chords",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "change",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "above",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "it.",
+     "t": 1.52,
+     "end": 2
+    }
+   ]
+  },
+  "bach": {
+   "text": "It was inspired by Bach's Air on the G String...",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "was",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "inspired",
+     "t": 0.44,
+     "end": 0.96
+    },
+    {
+     "w": "by",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "Bach's",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "Air",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "on",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "G",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "String...",
+     "t": 2.64,
+     "end": 3.28
+    }
+   ]
+  },
+  "bach2": {
+   "text": "and its famous slow walking bass.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "its",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "famous",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "slow",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "walking",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "bass.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it matter?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "matter?",
+     "t": 1.2,
+     "end": 1.92
+    }
+   ]
+  },
+  "why1b": {
+   "text": "With C in the bass, the chord sounds solid and finished.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "C",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "bass,",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "chord",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "sounds",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "solid",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "finished.",
+     "t": 3.28,
+     "end": 4.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "With E in the bass, it feels lighter, like it's still moving.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "E",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "bass,",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "it",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "feels",
+     "t": 1.72,
+     "end": 2
+    },
+    {
+     "w": "lighter,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "like",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "it's",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "still",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "moving.",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "With G in the bass, it's unstable. It wants to move.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "bass,",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "it's",
+     "t": 1.6,
+     "end": 1.72
+    },
+    {
+     "w": "unstable.",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "It",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "wants",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "to",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "move.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "why4": {
+   "text": "Classical composers used it right before the final cadence.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "composers",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "used",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "it",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "right",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "before",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "final",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "cadence.",
+     "t": 2.88,
+     "end": 3.76
+    }
+   ]
+  },
+  "why5": {
+   "text": "Without inversions, the bass jumps around.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Without",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "inversions,",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "bass",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "jumps",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "around.",
+     "t": 2.4,
+     "end": 3.2
+    }
+   ]
+  },
+  "why5b": {
+   "text": "With them, it walks step by step.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "With",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "them,",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "walks",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "step",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "by",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "step.",
+     "t": 2.4,
+     "end": 3.04
+    }
+   ]
+  },
+  "why6": {
+   "text": "That's how smooth, singable bass lines are built.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "smooth,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "singable",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "bass",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "lines",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "are",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "built.",
+     "t": 3,
+     "end": 3.36
+    }
+   ]
+  },
+  "essence": {
+   "text": "Same chord, new foundation.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chord,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "new",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "foundation.",
+     "t": 1.44,
+     "end": 2.4
+    }
+   ]
+  },
+  "essence2": {
+   "text": "The bass note decides how a chord feels.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bass",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "note",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "decides",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "how",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "chord",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "feels.",
+     "t": 2.24,
+     "end": 3.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,976 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One small trick makes a plain progression sound suddenly rich.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "small",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "trick",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "makes",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "plain",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "progression",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "sound",
+     "t": 2.92,
+     "end": 3.12
+    },
+    {
+     "w": "suddenly",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "rich.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "what": {
+   "text": "In C, the five chord, G seven, points home.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "C,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "five",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "chord,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "G",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "seven,",
+     "t": 2.48,
+     "end": 3.28
+    },
+    {
+     "w": "points",
+     "t": 3.48,
+     "end": 3.68
+    },
+    {
+     "w": "home.",
+     "t": 3.84,
+     "end": 4.32
+    }
+   ]
+  },
+  "what2": {
+   "text": "A secondary dominant borrows that pull to point somewhere else.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "secondary",
+     "t": 0.16,
+     "end": 0.72
+    },
+    {
+     "w": "dominant",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "borrows",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "that",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "pull",
+     "t": 2.44,
+     "end": 2.64
+    },
+    {
+     "w": "to",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "point",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "somewhere",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "else.",
+     "t": 3.84,
+     "end": 4.32
+    }
+   ]
+  },
+  "what3": {
+   "text": "A seven is the five of D minor. E seven, of A minor. D seven, of G.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "seven",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "five",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "of",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "D",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "minor.",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "E",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "seven,",
+     "t": 3.2,
+     "end": 3.72
+    },
+    {
+     "w": "of",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "A",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "minor.",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "D",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "seven,",
+     "t": 5.44,
+     "end": 6.08
+    },
+    {
+     "w": "of",
+     "t": 6.16,
+     "end": 6.24
+    },
+    {
+     "w": "G.",
+     "t": 6.32,
+     "end": 6.96
+    }
+   ]
+  },
+  "yesterday": {
+   "text": "It's in Yesterday: F, E minor seven, A seven, D minor.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "in",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "Yesterday:",
+     "t": 0.48,
+     "end": 1.6
+    },
+    {
+     "w": "F,",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "E",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "minor",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "seven,",
+     "t": 2.96,
+     "end": 3.68
+    },
+    {
+     "w": "A",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "seven,",
+     "t": 4,
+     "end": 4.8
+    },
+    {
+     "w": "D",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "minor.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "georgia": {
+   "text": "Sweet Georgia Brown chains them: D seven, G seven, C seven, F.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Sweet",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Georgia",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "Brown",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "chains",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "them:",
+     "t": 1.72,
+     "end": 2.32
+    },
+    {
+     "w": "D",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "seven,",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "G",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "seven,",
+     "t": 3.76,
+     "end": 4.48
+    },
+    {
+     "w": "C",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "seven,",
+     "t": 4.88,
+     "end": 5.6
+    },
+    {
+     "w": "F.",
+     "t": 5.68,
+     "end": 6.24
+    }
+   ]
+  },
+  "georgia2": {
+   "text": "Each chord is the five of the next.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chord",
+     "t": 0.36,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "five",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "next.",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? A seven contains C sharp, a note outside the key of F.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "A",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "seven",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "contains",
+     "t": 2.84,
+     "end": 3.12
+    },
+    {
+     "w": "C",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "sharp,",
+     "t": 3.52,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "note",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "outside",
+     "t": 4.72,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "key",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "of",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "F.",
+     "t": 5.76,
+     "end": 6.32
+    }
+   ]
+  },
+  "why2": {
+   "text": "C sharp becomes a temporary leading tone, pulling up to D.",
+   "dur": 4.519184,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "C",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "sharp",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "becomes",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "temporary",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "leading",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "tone,",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "pulling",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "up",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "D.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "why3": {
+   "text": "For a moment, D minor feels like home. That's tonicization.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "For",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.28
+    },
+    {
+     "w": "moment,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "D",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "minor",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "feels",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "like",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "home.",
+     "t": 2.56,
+     "end": 3.52
+    },
+    {
+     "w": "That's",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "tonicization.",
+     "t": 4,
+     "end": 5.2
+    }
+   ]
+  },
+  "every": {
+   "text": "Every major or minor chord in a key can get its own five.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "major",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "or",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "minor",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "chord",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "key",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "can",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "get",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "its",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "own",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "five.",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "every2": {
+   "text": "That's how songs add color without really changing key.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "how",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "songs",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "add",
+     "t": 1.08,
+     "end": 1.2
+    },
+    {
+     "w": "color",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "without",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "really",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "changing",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "key.",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "chain": {
+   "text": "Chain them, and each chord falls into the next, like the circle of fifths.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Chain",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "them,",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "and",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "each",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "chord",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "falls",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "into",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "next,",
+     "t": 2.64,
+     "end": 3.28
+    },
+    {
+     "w": "like",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "circle",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "of",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "fifths.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "essence": {
+   "text": "Borrow a pull from outside the key, and any chord can become home for a moment.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Borrow",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "pull",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "from",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "outside",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "key,",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "any",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "chord",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "can",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "become",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "home",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "for",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "a",
+     "t": 4.36,
+     "end": 4.4
+    },
+    {
+     "w": "moment.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,976 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Listen. This sound keeps rising... and rising... but it never gets any higher.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Listen.",
+     "t": 0,
+     "end": 0.76
+    },
+    {
+     "w": "This",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "sound",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "keeps",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "rising...",
+     "t": 2.08,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "rising...",
+     "t": 3.44,
+     "end": 4.56
+    },
+    {
+     "w": "but",
+     "t": 4.6,
+     "end": 4.64
+    },
+    {
+     "w": "it",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "never",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "gets",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "any",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "higher.",
+     "t": 5.76,
+     "end": 6.48
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the Shepard tone, an auditory illusion described by Roger Shepard in 1964.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Shepard",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "tone,",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "an",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "auditory",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "illusion",
+     "t": 2.76,
+     "end": 3.04
+    },
+    {
+     "w": "described",
+     "t": 3.16,
+     "end": 3.6
+    },
+    {
+     "w": "by",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "Roger",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "Shepard",
+     "t": 4.32,
+     "end": 4.8
+    },
+    {
+     "w": "in",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "1964.",
+     "t": 5.04,
+     "end": 6.48
+    }
+   ]
+  },
+  "s1": {
+   "text": "Hans Zimmer built the score of Christopher Nolan's Dunkirk around it...",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Hans",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Zimmer",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "built",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "score",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "of",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "Christopher",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "Nolan's",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "Dunkirk",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "around",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "it...",
+     "t": 3.88,
+     "end": 4.24
+    }
+   ]
+  },
+  "s1b": {
+   "text": "for tension that never ends.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "for",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tension",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "that",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "never",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "ends.",
+     "t": 1.68,
+     "end": 2.48
+    }
+   ]
+  },
+  "s2": {
+   "text": "In Super Mario 64, the endless staircase music uses a Shepard scale.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Super",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "Mario",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "64,",
+     "t": 0.96,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "endless",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "staircase",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "music",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "uses",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "Shepard",
+     "t": 4.28,
+     "end": 4.56
+    },
+    {
+     "w": "scale.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? Your ear judges pitch in two ways.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "how",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Your",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "ear",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "judges",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "pitch",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "in",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "two",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "ways.",
+     "t": 4.08,
+     "end": 4.8
+    }
+   ]
+  },
+  "why2": {
+   "text": "By the note name: C, C sharp, D... and by how high it sounds.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "By",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "name:",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "C,",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "C",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "sharp,",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "D...",
+     "t": 3.2,
+     "end": 4.08
+    },
+    {
+     "w": "and",
+     "t": 4.28,
+     "end": 4.48
+    },
+    {
+     "w": "by",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "how",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "high",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "it",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "sounds.",
+     "t": 5.52,
+     "end": 6.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "The trick plays one note in many octaves at once, loudest in the middle.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "trick",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "plays",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "one",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "note",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "many",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "octaves",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "at",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "once,",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "loudest",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "in",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "the",
+     "t": 4.24,
+     "end": 4.28
+    },
+    {
+     "w": "middle.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "why4": {
+   "text": "As it climbs, the top octave fades out... and a new one fades in at the bottom.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "As",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "climbs,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "top",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "octave",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "fades",
+     "t": 2.28,
+     "end": 2.56
+    },
+    {
+     "w": "out...",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "a",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "new",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "one",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "fades",
+     "t": 4.36,
+     "end": 4.64
+    },
+    {
+     "w": "in",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "at",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "bottom.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "why5": {
+   "text": "So the note name keeps rising, but the overall height stays put.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "name",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "keeps",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "rising,",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "but",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "overall",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "height",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "stays",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "put.",
+     "t": 3.84,
+     "end": 4.4
+    }
+   ]
+  },
+  "circle": {
+   "text": "Note names form a circle. After twelve half steps, you're back at C.",
+   "dur": 5.067755,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Note",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "names",
+     "t": 0.52,
+     "end": 0.72
+    },
+    {
+     "w": "form",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "circle.",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "After",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "twelve",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "half",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "steps,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "you're",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "back",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "at",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "C.",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "circle2": {
+   "text": "The Shepard tone just walks around that circle... forever.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Shepard",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "tone",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "just",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "walks",
+     "t": 1.44,
+     "end": 1.72
+    },
+    {
+     "w": "around",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "that",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "circle...",
+     "t": 2.32,
+     "end": 3.44
+    },
+    {
+     "w": "forever.",
+     "t": 3.52,
+     "end": 4.32
+    }
+   ]
+  },
+  "use": {
+   "text": "Composers use it to build tension that never resolves.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Composers",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "use",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "to",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "build",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "tension",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "that",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "never",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "resolves.",
+     "t": 2.88,
+     "end": 3.92
+    }
+   ]
+  },
+  "essence": {
+   "text": "A staircase that only goes up, and never arrives. Tension with no ceiling.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "staircase",
+     "t": 0.16,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "only",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "goes",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "up,",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "never",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "arrives.",
+     "t": 2.96,
+     "end": 4.16
+    },
+    {
+     "w": "Tension",
+     "t": 4.2,
+     "end": 4.72
+    },
+    {
+     "w": "with",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "no",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "ceiling.",
+     "t": 5.6,
+     "end": 6.32
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

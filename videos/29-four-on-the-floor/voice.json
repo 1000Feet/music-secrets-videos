@@ -1,0 +1,951 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One kick drum, on every single beat. That's four on the floor.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "kick",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "drum,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "on",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "every",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "single",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "beat.",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "That's",
+     "t": 3.48,
+     "end": 3.76
+    },
+    {
+     "w": "four",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "on",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "the",
+     "t": 4.213,
+     "end": 4.267
+    },
+    {
+     "w": "floor.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "what": {
+   "text": "The kick hits one, two, three, four... and the hi-hat answers in between.",
+   "dur": 6.269388,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "kick",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "hits",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "one,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "two,",
+     "t": 1.8,
+     "end": 2.32
+    },
+    {
+     "w": "three,",
+     "t": 2.52,
+     "end": 3.12
+    },
+    {
+     "w": "four...",
+     "t": 3.32,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "hi-hat",
+     "t": 4.32,
+     "end": 4.8
+    },
+    {
+     "w": "answers",
+     "t": 4.88,
+     "end": 5.2
+    },
+    {
+     "w": "in",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "between.",
+     "t": 5.44,
+     "end": 6.24
+    }
+   ]
+  },
+  "s1": {
+   "text": "Stayin' Alive runs at about a hundred and four beats per minute.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Stayin'",
+     "t": 0,
+     "end": 0.44
+    },
+    {
+     "w": "Alive",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "runs",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "at",
+     "t": 1.36,
+     "end": 1.4
+    },
+    {
+     "w": "about",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "hundred",
+     "t": 1.88,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "four",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "beats",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "per",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "minute.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "s1b": {
+   "text": "That's in the CPR range, a hundred to a hundred and twenty compressions a minute...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.28
+    },
+    {
+     "w": "in",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "CPR",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "range,",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "hundred",
+     "t": 2.2,
+     "end": 2.56
+    },
+    {
+     "w": "to",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "hundred",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "twenty",
+     "t": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "compressions",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "minute...",
+     "t": 4.56,
+     "end": 5.04
+    }
+   ]
+  },
+  "s1c": {
+   "text": "so it's used in CPR training.",
+   "dur": 2.429388,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it's",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "used",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "CPR",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "training.",
+     "t": 1.6,
+     "end": 2.4
+    }
+   ]
+  },
+  "s2": {
+   "text": "Donna Summer's I Feel Love adds a pulsing synth sequencer.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "Donna",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Summer's",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "I",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Feel",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "Love",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "adds",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "pulsing",
+     "t": 2.6,
+     "end": 3.12
+    },
+    {
+     "w": "synth",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "sequencer.",
+     "t": 3.52,
+     "end": 4.4
+    }
+   ]
+  },
+  "s3": {
+   "text": "And Daft Punk's One More Time rides the same beat.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Daft",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "Punk's",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "One",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "More",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Time",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "rides",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "same",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "beat.",
+     "t": 2.96,
+     "end": 3.6
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? A kick on every beat is the simplest pulse there is.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "A",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "kick",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "on",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "every",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "beat",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "is",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "simplest",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "pulse",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "there",
+     "t": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "is.",
+     "t": 5.04,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "You cannot lose it, so your body locks in.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "cannot",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "lose",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "it,",
+     "t": 1.08,
+     "end": 1.52
+    },
+    {
+     "w": "so",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "your",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "body",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "locks",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "in.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "why2b": {
+   "text": "We naturally move in time with a steady beat.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "We",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "naturally",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "move",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "time",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "with",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "steady",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "beat.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "why3": {
+   "text": "The open hi-hat between the kicks adds lift, like breathing in and out.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "open",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "hi-hat",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "between",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "kicks",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "adds",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "lift,",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "like",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "breathing",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "in",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "and",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "out.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why4": {
+   "text": "And around a hundred and twenty beats per minute, it matches a brisk walking pace.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "around",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "hundred",
+     "t": 0.68,
+     "end": 0.96
+    },
+    {
+     "w": "and",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "twenty",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "beats",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "per",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "minute,",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "it",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "matches",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "brisk",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "walking",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "pace.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "why4b": {
+   "text": "That is where dance music lives.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "where",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "dance",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "music",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "lives.",
+     "t": 1.76,
+     "end": 2.48
+    }
+   ]
+  },
+  "essence": {
+   "text": "One, two, three, four. A beat so simple, your body follows it before your mind does.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "One,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "two,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "three,",
+     "t": 1.72,
+     "end": 2.24
+    },
+    {
+     "w": "four.",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "A",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "beat",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "so",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "simple,",
+     "t": 4,
+     "end": 4.64
+    },
+    {
+     "w": "your",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "body",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "follows",
+     "t": 5.28,
+     "end": 5.6
+    },
+    {
+     "w": "it",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "before",
+     "t": 5.88,
+     "end": 6
+    },
+    {
+     "w": "your",
+     "t": 6.08,
+     "end": 6.24
+    },
+    {
+     "w": "mind",
+     "t": 6.36,
+     "end": 6.48
+    },
+    {
+     "w": "does.",
+     "t": 6.56,
+     "end": 7.2
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

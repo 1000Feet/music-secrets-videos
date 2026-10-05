@@ -1,0 +1,1062 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "There's a chord that makes happy songs hurt...",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "There's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "chord",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "that",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "makes",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "happy",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "songs",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "hurt...",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "hook2": {
+   "text": "and it changes just one note.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "changes",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "just",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "note.",
+     "t": 1.76,
+     "end": 2.4
+    }
+   ]
+  },
+  "what": {
+   "text": "In G major, the four chord is C major: C, E, G.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "G",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "major,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "four",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "chord",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "C",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "major:",
+     "t": 2.56,
+     "end": 3.44
+    },
+    {
+     "w": "C,",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "E,",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "G.",
+     "t": 4.8,
+     "end": 5.28
+    }
+   ]
+  },
+  "what2": {
+   "text": "Now drop the E a half step, to E flat. C major becomes C minor.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "drop",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "E",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "half",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "step,",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "to",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "E",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "flat.",
+     "t": 2.56,
+     "end": 3.28
+    },
+    {
+     "w": "C",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "major",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "becomes",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "C",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "minor.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "name": {
+   "text": "It's called the borrowed minor four.",
+   "dur": 2.76898,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "called",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "borrowed",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "minor",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "four.",
+     "t": 2,
+     "end": 2.72
+    }
+   ]
+  },
+  "creep": {
+   "text": "You hear it in Creep: G, B, C, and C minor.",
+   "dur": 4.597551,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "Creep:",
+     "t": 0.72,
+     "end": 1.6
+    },
+    {
+     "w": "G,",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "B,",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "C,",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "C",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "minor.",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "life": {
+   "text": "And the Beatles slip a D minor into In My Life, a song in A major.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Beatles",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "slip",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "D",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "minor",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "into",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "In",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "My",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Life,",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "song",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "A",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "major.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So where does it come from?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "where",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "come",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "from?",
+     "t": 1.44,
+     "end": 2
+    }
+   ]
+  },
+  "why1b": {
+   "text": "It's borrowed from G minor, the parallel minor key.",
+   "dur": 3.709388,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "borrowed",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "from",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "G",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "minor,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "parallel",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "minor",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "key.",
+     "t": 3.12,
+     "end": 3.68
+    }
+   ]
+  },
+  "why2": {
+   "text": "There, the four chord is naturally minor.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "There,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "four",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "chord",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "is",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "naturally",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "minor.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "why3": {
+   "text": "And only one note changes. E drops a half step to E flat...",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "only",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "one",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "note",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "changes.",
+     "t": 1.36,
+     "end": 2.2
+    },
+    {
+     "w": "E",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "drops",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "half",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "step",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "E",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "flat...",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "then slides down again, to D, the fifth of G, as the song comes home.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "slides",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "again,",
+     "t": 1.16,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "D,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "fifth",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "of",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "G,",
+     "t": 3.28,
+     "end": 3.84
+    },
+    {
+     "w": "as",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "song",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "comes",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "home.",
+     "t": 5.04,
+     "end": 5.52
+    }
+   ]
+  },
+  "why5": {
+   "text": "A tiny chromatic slide. That's the lump in your throat.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tiny",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "chromatic",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "slide.",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "That's",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "lump",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "in",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "your",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "throat.",
+     "t": 3.72,
+     "end": 4.24
+    }
+   ]
+  },
+  "creep2": {
+   "text": "In Creep, even the B major chord is outside the key. It contains D sharp.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Creep,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "even",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "B",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "major",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "chord",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "is",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "outside",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "key.",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "It",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "contains",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "D",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "sharp.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "creep3": {
+   "text": "So the progression keeps leaving the key, and coming back.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "progression",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "keeps",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "leaving",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "key,",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "coming",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "back.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "bitter": {
+   "text": "Major home, minor shadow. That sound is bittersweet.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Major",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "home,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "shadow.",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "That",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "sound",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "is",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "bittersweet.",
+     "t": 3.92,
+     "end": 5.04
+    }
+   ]
+  },
+  "essence": {
+   "text": "Borrow one note from the sad side, and a happy song suddenly aches.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Borrow",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "one",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "note",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "sad",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "side,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "happy",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "song",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "suddenly",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "aches.",
+     "t": 4.32,
+     "end": 5.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

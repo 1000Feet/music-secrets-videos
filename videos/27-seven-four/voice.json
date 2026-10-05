@@ -1,0 +1,792 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Most songs count to four. Now try counting to seven: one, two, three, four, five, six, seven.",
+   "dur": 9.325714,
+   "speechEnd": 9.36,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "songs",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "count",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "to",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "four.",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "Now",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "try",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "counting",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "to",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "seven:",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "one,",
+     "t": 4.56,
+     "end": 5.12
+    },
+    {
+     "w": "two,",
+     "t": 5.2,
+     "end": 5.84
+    },
+    {
+     "w": "three,",
+     "t": 6.04,
+     "end": 6.64
+    },
+    {
+     "w": "four,",
+     "t": 6.8,
+     "end": 7.36
+    },
+    {
+     "w": "five,",
+     "t": 7.56,
+     "end": 8.08
+    },
+    {
+     "w": "six,",
+     "t": 8.24,
+     "end": 8.72
+    },
+    {
+     "w": "seven.",
+     "t": 8.92,
+     "end": 9.36
+    }
+   ]
+  },
+  "what": {
+   "text": "Seven beats in every bar, felt as four plus three... or two, two and three.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "beats",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "every",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "bar,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "felt",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "as",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "four",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "plus",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "three...",
+     "t": 3.44,
+     "end": 4.32
+    },
+    {
+     "w": "or",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "two,",
+     "t": 4.88,
+     "end": 5.6
+    },
+    {
+     "w": "two",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "and",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "three.",
+     "t": 6,
+     "end": 6.56
+    }
+   ]
+  },
+  "s1": {
+   "text": "It's the bass riff of Money by Pink Floyd... until the guitar solo switches to four four.",
+   "dur": 6.269388,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "bass",
+     "t": 0.44,
+     "end": 0.72
+    },
+    {
+     "w": "riff",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Money",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Pink",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "Floyd...",
+     "t": 2.24,
+     "end": 3.2
+    },
+    {
+     "w": "until",
+     "t": 3.4,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "guitar",
+     "t": 3.72,
+     "end": 4.08
+    },
+    {
+     "w": "solo",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "switches",
+     "t": 4.64,
+     "end": 5.04
+    },
+    {
+     "w": "to",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "four",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "four.",
+     "t": 5.52,
+     "end": 6.24
+    }
+   ]
+  },
+  "s2": {
+   "text": "Most of Solsbury Hill by Peter Gabriel...",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "of",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "Solsbury",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "Hill",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "by",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "Peter",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Gabriel...",
+     "t": 2.48,
+     "end": 3.28
+    }
+   ]
+  },
+  "s3": {
+   "text": "and Dave Brubeck's Unsquare Dance, driven by hand claps.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Dave",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "Brubeck's",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "Unsquare",
+     "t": 1.32,
+     "end": 1.76
+    },
+    {
+     "w": "Dance,",
+     "t": 1.84,
+     "end": 2.56
+    },
+    {
+     "w": "driven",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "by",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "hand",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "claps.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Seven won't split into two equal halves.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "Seven",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "won't",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "split",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "into",
+     "t": 3.32,
+     "end": 3.44
+    },
+    {
+     "w": "two",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "equal",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "halves.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why2a": {
+   "text": "Eight beats split evenly: four plus four.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "beats",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "split",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "evenly:",
+     "t": 1.2,
+     "end": 2.24
+    },
+    {
+     "w": "four",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "plus",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "four.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Take one away, and you get four plus three.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "away,",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "you",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "get",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "four",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "plus",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "three.",
+     "t": 2.48,
+     "end": 3.12
+    }
+   ]
+  },
+  "why3": {
+   "text": "So every bar ends one beat early, like a skipped step.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "every",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "bar",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "ends",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "one",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "beat",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "early,",
+     "t": 2.16,
+     "end": 2.96
+    },
+    {
+     "w": "like",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "skipped",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "step.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "why4a": {
+   "text": "But repeat it, and your body learns the skip.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "repeat",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "it,",
+     "t": 0.76,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "your",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "body",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "learns",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "skip.",
+     "t": 2.4,
+     "end": 3.04
+    }
+   ]
+  },
+  "why4b": {
+   "text": "It becomes a groove. Catchy, not chaotic.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "becomes",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "groove.",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "Catchy,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "not",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "chaotic.",
+     "t": 2.88,
+     "end": 3.76
+    }
+   ]
+  },
+  "essence": {
+   "text": "Lose one beat from eight, and a simple loop starts to stumble beautifully.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Lose",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "one",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "beat",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "from",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "eight,",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "simple",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "loop",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "starts",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "stumble",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "beautifully.",
+     "t": 4.08,
+     "end": 5.04
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

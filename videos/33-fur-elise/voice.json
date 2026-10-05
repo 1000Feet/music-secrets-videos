@@ -1,0 +1,921 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "You know this melody from its very first notes.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "know",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "this",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "melody",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "from",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "its",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "very",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "first",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "notes.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "what": {
+   "text": "It's Für Elise: Beethoven's Bagatelle in A minor, written around 1810.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Für",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "Elise:",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "Beethoven's",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "Bagatelle",
+     "t": 2.4,
+     "end": 2.96
+    },
+    {
+     "w": "in",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "A",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "minor,",
+     "t": 3.44,
+     "end": 4.16
+    },
+    {
+     "w": "written",
+     "t": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "around",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "1810.",
+     "t": 4.88,
+     "end": 5.92
+    }
+   ]
+  },
+  "what2": {
+   "text": "But it was published only in 1867, forty years after his death.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "was",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "published",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "only",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "1867,",
+     "t": 1.64,
+     "end": 3.36
+    },
+    {
+     "w": "forty",
+     "t": 3.52,
+     "end": 3.8
+    },
+    {
+     "w": "years",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "after",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "his",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "death.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "play": {
+   "text": "Listen to how it opens.",
+   "dur": 1.724082,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "opens.",
+     "t": 0.8,
+     "end": 1.68
+    }
+   ]
+  },
+  "mystery": {
+   "text": "And the name? Nobody knows who Elise was.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.28
+    },
+    {
+     "w": "name?",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "Nobody",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "knows",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "who",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "Elise",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "was.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "mystery2": {
+   "text": "One theory: the manuscript said Therese, for Therese Malfatti, and was misread.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "theory:",
+     "t": 0.32,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "manuscript",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "said",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "Therese,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "for",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "Therese",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "Malfatti,",
+     "t": 4.24,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "was",
+     "t": 5.48,
+     "end": 5.6
+    },
+    {
+     "w": "misread.",
+     "t": 5.72,
+     "end": 6.48
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so catchy? It rocks on a half step: E, D sharp, E, D sharp.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "so",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "catchy?",
+     "t": 1.2,
+     "end": 2.16
+    },
+    {
+     "w": "It",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "rocks",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "on",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "half",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "step:",
+     "t": 3.28,
+     "end": 4.08
+    },
+    {
+     "w": "E,",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "D",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "sharp,",
+     "t": 4.96,
+     "end": 5.6
+    },
+    {
+     "w": "E,",
+     "t": 5.68,
+     "end": 6.16
+    },
+    {
+     "w": "D",
+     "t": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "sharp.",
+     "t": 6.4,
+     "end": 6.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "D sharp is the leading tone of E, the fifth of A minor.",
+   "dur": 4.440816,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "D",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "sharp",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "leading",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "tone",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "E,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "fifth",
+     "t": 2.84,
+     "end": 3.2
+    },
+    {
+     "w": "of",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "A",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "minor.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "why3": {
+   "text": "So the melody hovers around the dominant, then falls home to A.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "melody",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "hovers",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "around",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "dominant,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "then",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "falls",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "home",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "to",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "A.",
+     "t": 3.84,
+     "end": 4.4
+    }
+   ]
+  },
+  "bass": {
+   "text": "The left hand answers with broken chords: A minor...",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "left",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "hand",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "answers",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "with",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "broken",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "chords:",
+     "t": 2.08,
+     "end": 3.12
+    },
+    {
+     "w": "A",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "minor...",
+     "t": 3.36,
+     "end": 4.16
+    }
+   ]
+  },
+  "bass2": {
+   "text": "then E major, with G sharp, the leading tone of A. Tension, and release.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "E",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "major,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "with",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "G",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "sharp,",
+     "t": 2,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "leading",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "tone",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "of",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "A.",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "Tension,",
+     "t": 4.64,
+     "end": 5.4
+    },
+    {
+     "w": "and",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "release.",
+     "t": 5.76,
+     "end": 6.72
+    }
+   ]
+  },
+  "form": {
+   "text": "And the famous theme keeps returning between contrasting sections.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "famous",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "theme",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "keeps",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "returning",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "between",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "contrasting",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "sections.",
+     "t": 3.44,
+     "end": 4.4
+    }
+   ]
+  },
+  "form2": {
+   "text": "A, B, A, C, A. That's a rondo.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "A,",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "B,",
+     "t": 0.2,
+     "end": 0.2
+    },
+    {
+     "w": "A,",
+     "t": 0.2,
+     "end": 1.04
+    },
+    {
+     "w": "C,",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "A.",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "That's",
+     "t": 2.24,
+     "end": 3.48
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.56
+    },
+    {
+     "w": "rondo.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "essence": {
+   "text": "A half step, a broken chord, a returning theme. Your ear always knows where home is.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "half",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "step,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "broken",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "chord,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "returning",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "theme.",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "Your",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "ear",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "always",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "knows",
+     "t": 5.52,
+     "end": 5.84
+    },
+    {
+     "w": "where",
+     "t": 5.96,
+     "end": 6.08
+    },
+    {
+     "w": "home",
+     "t": 6.24,
+     "end": 6.4
+    },
+    {
+     "w": "is.",
+     "t": 6.48,
+     "end": 7.04
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.28,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}
