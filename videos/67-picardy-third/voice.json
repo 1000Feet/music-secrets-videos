@@ -1,0 +1,957 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A sad piece in a minor key... then, on the very last chord, the lights come on.",
+   "dur": 6.844082,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sad",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "piece",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "minor",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "key...",
+     "t": 2.08,
+     "end": 3.12
+    },
+    {
+     "w": "then,",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "on",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "very",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "last",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "chord,",
+     "t": 4.8,
+     "end": 5.52
+    },
+    {
+     "w": "the",
+     "t": 5.56,
+     "end": 5.6
+    },
+    {
+     "w": "lights",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "come",
+     "t": 6,
+     "end": 6.16
+    },
+    {
+     "w": "on.",
+     "t": 6.24,
+     "end": 6.8
+    }
+   ]
+  },
+  "what": {
+   "text": "That's a Picardy third. The music is minor, but the final chord is major.",
+   "dur": 5.407347,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "Picardy",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "third.",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "The",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "music",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "is",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "minor,",
+     "t": 2.56,
+     "end": 3.2
+    },
+    {
+     "w": "but",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "final",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "chord",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "is",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "major.",
+     "t": 4.56,
+     "end": 5.2
+    }
+   ]
+  },
+  "what2": {
+   "text": "In C minor, the last chord's E flat rises to E.",
+   "dur": 4.362449,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "C",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "minor,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "last",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "chord's",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "E",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "flat",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "rises",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "E.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "bach": {
+   "text": "You hear it in Bach's Prelude in C minor, from 1722: minor throughout, then a C major ending.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "in",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Bach's",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "Prelude",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "C",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "minor,",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "from",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "1722:",
+     "t": 2.88,
+     "end": 4.56
+    },
+    {
+     "w": "minor",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "throughout,",
+     "t": 5.04,
+     "end": 5.84
+    },
+    {
+     "w": "then",
+     "t": 5.92,
+     "end": 6.16
+    },
+    {
+     "w": "a",
+     "t": 6.32,
+     "end": 6.4
+    },
+    {
+     "w": "C",
+     "t": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "major",
+     "t": 6.8,
+     "end": 7.12
+    },
+    {
+     "w": "ending.",
+     "t": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "chorales": {
+   "text": "Many of Bach's minor key chorales end the same way.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Many",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "of",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "Bach's",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "minor",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "key",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "chorales",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "end",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "same",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "way.",
+     "t": 3.04,
+     "end": 3.52
+    }
+   ]
+  },
+  "name": {
+   "text": "The name appears in Rousseau's music dictionary of 1768... but its origin is unclear.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "name",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "appears",
+     "t": 0.52,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Rousseau's",
+     "t": 1,
+     "end": 1.52
+    },
+    {
+     "w": "music",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "dictionary",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "of",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "1768...",
+     "t": 2.72,
+     "end": 4.4
+    },
+    {
+     "w": "but",
+     "t": 4.52,
+     "end": 4.64
+    },
+    {
+     "w": "its",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "origin",
+     "t": 5.04,
+     "end": 5.52
+    },
+    {
+     "w": "is",
+     "t": 5.6,
+     "end": 5.68
+    },
+    {
+     "w": "unclear.",
+     "t": 5.76,
+     "end": 6.64
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Every low note carries hidden overtones.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.2,
+     "end": 1.88
+    },
+    {
+     "w": "Every",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "low",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "note",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "carries",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "hidden",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "overtones.",
+     "t": 4.16,
+     "end": 5.2
+    }
+   ]
+  },
+  "why2": {
+   "text": "In the series of a low C, the fifth note is E: a major third.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "series",
+     "t": 0.52,
+     "end": 0.72
+    },
+    {
+     "w": "of",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.88,
+     "end": 0.92
+    },
+    {
+     "w": "low",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "C,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "fifth",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "note",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "is",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "E:",
+     "t": 3.2,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "major",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "third.",
+     "t": 4.56,
+     "end": 5.2
+    }
+   ]
+  },
+  "why3": {
+   "text": "End on E flat, a minor third, and it rubs against that E.",
+   "dur": 4.989388,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "End",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "E",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "flat,",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "minor",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "third,",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "it",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "rubs",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "against",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "that",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "E.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "why4": {
+   "text": "So for centuries, a minor chord didn't feel fully at rest as a final chord.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "for",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "centuries,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "minor",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "chord",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "didn't",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "feel",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "fully",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "at",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "rest",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "as",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "a",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "final",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "chord.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Composers raised the third, to end on pure consonance.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Composers",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "raised",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "third,",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "end",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "pure",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "consonance.",
+     "t": 3.52,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "After all that darkness, one note rises half a step... and the very last chord opens like a window.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "After",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "all",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "darkness,",
+     "t": 1.04,
+     "end": 2.16
+    },
+    {
+     "w": "one",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "note",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "rises",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "half",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "step...",
+     "t": 3.84,
+     "end": 4.8
+    },
+    {
+     "w": "and",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "the",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "very",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "last",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "chord",
+     "t": 5.84,
+     "end": 6.32
+    },
+    {
+     "w": "opens",
+     "t": 6.4,
+     "end": 6.8
+    },
+    {
+     "w": "like",
+     "t": 6.88,
+     "end": 7.04
+    },
+    {
+     "w": "a",
+     "t": 7.08,
+     "end": 7.12
+    },
+    {
+     "w": "window.",
+     "t": 7.2,
+     "end": 8
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

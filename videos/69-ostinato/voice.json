@@ -1,0 +1,906 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Four notes, over and over and over... and it never gets boring.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "over",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "over",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "over...",
+     "t": 3.12,
+     "end": 4.16
+    },
+    {
+     "w": "and",
+     "t": 4.2,
+     "end": 4.24
+    },
+    {
+     "w": "it",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "never",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "gets",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "boring.",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "That's an ostinato: Italian for obstinate.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "an",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "ostinato:",
+     "t": 0.56,
+     "end": 1.84
+    },
+    {
+     "w": "Italian",
+     "t": 2.12,
+     "end": 2.4
+    },
+    {
+     "w": "for",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "obstinate.",
+     "t": 2.96,
+     "end": 3.84
+    }
+   ]
+  },
+  "what2": {
+   "text": "A short pattern, repeated again and again, while the music changes around it.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "short",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "pattern,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "repeated",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "again",
+     "t": 1.96,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "again,",
+     "t": 2.64,
+     "end": 3.2
+    },
+    {
+     "w": "while",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.48
+    },
+    {
+     "w": "music",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "changes",
+     "t": 4,
+     "end": 4.4
+    },
+    {
+     "w": "around",
+     "t": 4.6,
+     "end": 4.8
+    },
+    {
+     "w": "it.",
+     "t": 4.88,
+     "end": 5.28
+    }
+   ]
+  },
+  "carol": {
+   "text": "You hear it in Carol of the Bells. Four notes: B flat, A, B flat, G.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Carol",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "Bells.",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "Four",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "notes:",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "B",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "flat,",
+     "t": 3.68,
+     "end": 4.32
+    },
+    {
+     "w": "A,",
+     "t": 4.4,
+     "end": 4.92
+    },
+    {
+     "w": "B",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "flat,",
+     "t": 5.36,
+     "end": 6
+    },
+    {
+     "w": "G.",
+     "t": 6.08,
+     "end": 6.64
+    }
+   ]
+  },
+  "carol2": {
+   "text": "It comes from Shchedryk, a Ukrainian New Year's song by Mykola Leontovych, from 1914.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "comes",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "from",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Shchedryk,",
+     "t": 0.8,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "Ukrainian",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "New",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "Year's",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "song",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "by",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "Mykola",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "Leontovych,",
+     "t": 4.08,
+     "end": 4.96
+    },
+    {
+     "w": "from",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "1914.",
+     "t": 5.28,
+     "end": 6.56
+    }
+   ]
+  },
+  "mi": {
+   "text": "You hear it in the driving bass of Lalo Schifrin's Mission Impossible theme...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "driving",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "bass",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Lalo",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "Schifrin's",
+     "t": 2.24,
+     "end": 2.8
+    },
+    {
+     "w": "Mission",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "Impossible",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "theme...",
+     "t": 3.84,
+     "end": 4.48
+    }
+   ]
+  },
+  "bolero": {
+   "text": "and in Ravel's Boléro, where the snare drum rhythm never stops.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "in",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "Ravel's",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "Boléro,",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "where",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "snare",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "drum",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "rhythm",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "never",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "stops.",
+     "t": 3.68,
+     "end": 4.48
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The motif spans just a minor third: G to B flat.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "motif",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "spans",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "just",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "a",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "minor",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "third:",
+     "t": 3.84,
+     "end": 4.64
+    },
+    {
+     "w": "G",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "to",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "B",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "flat.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why2": {
+   "text": "Small enough to fit with many different chords.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "Small",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "enough",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "to",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "fit",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "with",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "many",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "different",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "chords.",
+     "t": 2.08,
+     "end": 2.96
+    }
+   ]
+  },
+  "why3": {
+   "text": "And because it never changes, your ear notices everything that does:",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "because",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "never",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "changes,",
+     "t": 1.2,
+     "end": 2.08
+    },
+    {
+     "w": "your",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "ear",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "notices",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "everything",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "that",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "does:",
+     "t": 4.48,
+     "end": 5.04
+    }
+   ]
+  },
+  "why3b": {
+   "text": "new harmonies, new voices, rising volume.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "new",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "harmonies,",
+     "t": 0.32,
+     "end": 1.28
+    },
+    {
+     "w": "new",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "voices,",
+     "t": 1.6,
+     "end": 2.64
+    },
+    {
+     "w": "rising",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "volume.",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "why4": {
+   "text": "Repetition builds tension, and a hypnotic momentum...",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Repetition",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "builds",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "tension,",
+     "t": 1.28,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "hypnotic",
+     "t": 2.52,
+     "end": 3.12
+    },
+    {
+     "w": "momentum...",
+     "t": 3.2,
+     "end": 4.16
+    }
+   ]
+  },
+  "why4b": {
+   "text": "the same idea behind riffs and loops in modern music.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "idea",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "behind",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "riffs",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "loops",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "in",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "modern",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "music.",
+     "t": 2.96,
+     "end": 3.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "Say it again, and again... and repetition turns into momentum.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "Say",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "again,",
+     "t": 0.4,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "again...",
+     "t": 1.52,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "repetition",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "turns",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "into",
+     "t": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "momentum.",
+     "t": 4.48,
+     "end": 5.44
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,957 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One short theme... transformed again and again, and you still recognize it.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "short",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "theme...",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "transformed",
+     "t": 1.8,
+     "end": 2.16
+    },
+    {
+     "w": "again",
+     "t": 2.44,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "again,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "you",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "still",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "recognize",
+     "t": 4.48,
+     "end": 5.04
+    },
+    {
+     "w": "it.",
+     "t": 5.12,
+     "end": 5.52
+    }
+   ]
+  },
+  "what": {
+   "text": "That's theme and variations. The classic: Paganini's Caprice No. 24, in A minor.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "theme",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "variations.",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "The",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "classic:",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "Paganini's",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "Caprice",
+     "t": 4.04,
+     "end": 4.4
+    },
+    {
+     "w": "No.",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "24,",
+     "t": 4.8,
+     "end": 5.76
+    },
+    {
+     "w": "in",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "A",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "minor.",
+     "t": 6.24,
+     "end": 6.88
+    }
+   ]
+  },
+  "what2": {
+   "text": "For solo violin, published in 1820: a theme, eleven variations and a finale.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "For",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "solo",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "violin,",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "published",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "in",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "1820:",
+     "t": 2.32,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "theme,",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "eleven",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "variations",
+     "t": 5.04,
+     "end": 5.84
+    },
+    {
+     "w": "and",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "a",
+     "t": 6.16,
+     "end": 6.2
+    },
+    {
+     "w": "finale.",
+     "t": 6.24,
+     "end": 7.04
+    }
+   ]
+  },
+  "brahms": {
+   "text": "Brahms wrote variations on it in 1863, and Liszt arranged it too.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Brahms",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "wrote",
+     "t": 0.44,
+     "end": 0.64
+    },
+    {
+     "w": "variations",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "on",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "it",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "in",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "1863,",
+     "t": 1.92,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "Liszt",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "arranged",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "it",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "too.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "rach": {
+   "text": "In 1934, Rachmaninoff wrote his Rhapsody on a Theme of Paganini.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1934,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "Rachmaninoff",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "wrote",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "his",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "Rhapsody",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "on",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "Theme",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "of",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "Paganini.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "rach2": {
+   "text": "In Variation 18, he turns it upside down, slows it, and moves it to D flat major.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Variation",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "18,",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "he",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "turns",
+     "t": 2.04,
+     "end": 2.2
+    },
+    {
+     "w": "it",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "upside",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "down,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "slows",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "it,",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "and",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "moves",
+     "t": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "it",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "to",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "D",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "flat",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "major.",
+     "t": 6,
+     "end": 6.72
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The theme sits on the simplest harmony:",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "theme",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "sits",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "on",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "simplest",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "harmony:",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "why1b": {
+   "text": "home, A minor, and its five chord, E.",
+   "dur": 3.970612,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "home,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "A",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "minor,",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "its",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "five",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "chord,",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "E.",
+     "t": 3.28,
+     "end": 3.92
+    }
+   ]
+  },
+  "motif": {
+   "text": "Take a simple motif.",
+   "dur": 1.645714,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "simple",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "motif.",
+     "t": 0.8,
+     "end": 1.68
+    }
+   ]
+  },
+  "v1": {
+   "text": "Change its rhythm...",
+   "dur": 1.645714,
+   "speechEnd": 1.6,
+   "words": [
+    {
+     "w": "Change",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "its",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "rhythm...",
+     "t": 0.72,
+     "end": 1.6
+    }
+   ]
+  },
+  "v2": {
+   "text": "its register...",
+   "dur": 1.410612,
+   "speechEnd": 1.36,
+   "words": [
+    {
+     "w": "its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "register...",
+     "t": 0.32,
+     "end": 1.36
+    }
+   ]
+  },
+  "v3": {
+   "text": "its speed...",
+   "dur": 1.410612,
+   "speechEnd": 1.36,
+   "words": [
+    {
+     "w": "its",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "speed...",
+     "t": 0.6,
+     "end": 1.36
+    }
+   ]
+  },
+  "v4": {
+   "text": "its mode, minor to major...",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "mode,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "minor",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "to",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "major...",
+     "t": 1.84,
+     "end": 2.56
+    }
+   ]
+  },
+  "v5": {
+   "text": "You still recognize the bones.",
+   "dur": 2.35102,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "still",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "recognize",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "bones.",
+     "t": 1.36,
+     "end": 2.32
+    }
+   ]
+  },
+  "inv": {
+   "text": "Or invert it: every interval that went up now goes down.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Or",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "invert",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "it:",
+     "t": 0.88,
+     "end": 1.52
+    },
+    {
+     "w": "every",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "interval",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "that",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "went",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "up",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "now",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "goes",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "down.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "inv2": {
+   "text": "Slow it, move it to D flat major, and a nervous minor tune turns lush.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Slow",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "it,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "move",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "it",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "to",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "D",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "flat",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "major,",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "a",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "nervous",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "minor",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "tune",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "turns",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "lush.",
+     "t": 5.2,
+     "end": 6
+    }
+   ]
+  },
+  "essence": {
+   "text": "A great theme is a skeleton. The variations are everything you build on it.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "great",
+     "t": 0.16,
+     "end": 0.4
+    },
+    {
+     "w": "theme",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.16
+    },
+    {
+     "w": "skeleton.",
+     "t": 1.2,
+     "end": 2.32
+    },
+    {
+     "w": "The",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "variations",
+     "t": 2.52,
+     "end": 3.28
+    },
+    {
+     "w": "are",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "everything",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "you",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "build",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "on",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "it.",
+     "t": 4.8,
+     "end": 5.2
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
