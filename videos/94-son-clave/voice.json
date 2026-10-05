@@ -1,0 +1,979 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Five hits in two bars. This little rhythm runs through Cuban music... and rock and roll.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "hits",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "in",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "two",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "bars.",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "This",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "little",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "rhythm",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "runs",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "through",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "Cuban",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "music...",
+     "t": 4.24,
+     "end": 4.96
+    },
+    {
+     "w": "and",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "rock",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "and",
+     "t": 5.64,
+     "end": 5.68
+    },
+    {
+     "w": "roll.",
+     "t": 5.76,
+     "end": 6.4
+    }
+   ]
+  },
+  "what": {
+   "text": "It is the son clave. Sixteen steps, with hits on one, four, seven... then eleven and thirteen.",
+   "dur": 8.280816,
+   "speechEnd": 8.32,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "is",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "son",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "clave.",
+     "t": 0.88,
+     "end": 1.64
+    },
+    {
+     "w": "Sixteen",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "steps,",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "with",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "hits",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "on",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "one,",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "four,",
+     "t": 4.64,
+     "end": 5.36
+    },
+    {
+     "w": "seven...",
+     "t": 5.56,
+     "end": 6.24
+    },
+    {
+     "w": "then",
+     "t": 6.32,
+     "end": 6.56
+    },
+    {
+     "w": "eleven",
+     "t": 6.72,
+     "end": 7.2
+    },
+    {
+     "w": "and",
+     "t": 7.28,
+     "end": 7.44
+    },
+    {
+     "w": "thirteen.",
+     "t": 7.48,
+     "end": 8.32
+    }
+   ]
+  },
+  "sticks": {
+   "text": "Clave is also the name of the two wooden sticks that play it.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Clave",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "also",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "name",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "two",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "wooden",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "sticks",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "that",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "play",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "it.",
+     "t": 3.36,
+     "end": 3.76
+    }
+   ]
+  },
+  "s1": {
+   "text": "In Cuban son and salsa, the clave organises the whole band.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Cuban",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "son",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "salsa,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "clave",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "organises",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "whole",
+     "t": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "band.",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "s2": {
+   "text": "Bo Diddley's song Bo Diddley rides the Bo Diddley beat: essentially the son clave.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Bo",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Diddley's",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "song",
+     "t": 0.92,
+     "end": 1.12
+    },
+    {
+     "w": "Bo",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "Diddley",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "rides",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "Bo",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "Diddley",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "beat:",
+     "t": 3.44,
+     "end": 4.16
+    },
+    {
+     "w": "essentially",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "son",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "clave.",
+     "t": 5.44,
+     "end": 6.16
+    }
+   ]
+  },
+  "s3": {
+   "text": "The same beat drives Not Fade Away...",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "beat",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "drives",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Not",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "Fade",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "Away...",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "s4": {
+   "text": "and George Michael's Faith.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "George",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "Michael's",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "Faith.",
+     "t": 1.36,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The first bar is the tresillo: three, three, two.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "The",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "first",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "bar",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "is",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.24
+    },
+    {
+     "w": "tresillo:",
+     "t": 3.28,
+     "end": 4.4
+    },
+    {
+     "w": "three,",
+     "t": 4.48,
+     "end": 5.04
+    },
+    {
+     "w": "three,",
+     "t": 5.2,
+     "end": 5.6
+    },
+    {
+     "w": "two.",
+     "t": 5.76,
+     "end": 6.24
+    }
+   ]
+  },
+  "why1b": {
+   "text": "The second bar answers with just two hits, on eleven and thirteen.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "second",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "bar",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "answers",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "with",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "just",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "two",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "hits,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "on",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "eleven",
+     "t": 3.24,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "thirteen.",
+     "t": 3.96,
+     "end": 4.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "Five hits, unevenly spaced. Tension in the first bar, an answer in the second.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "hits,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "unevenly",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "spaced.",
+     "t": 1.84,
+     "end": 2.6
+    },
+    {
+     "w": "Tension",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "in",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "first",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "bar,",
+     "t": 3.84,
+     "end": 4.48
+    },
+    {
+     "w": "an",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "answer",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "in",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.28,
+     "end": 5.32
+    },
+    {
+     "w": "second.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "why3": {
+   "text": "It can be played three two, or two three. Musicians say the band must be in clave.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "can",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "be",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "played",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "three",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "two,",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "or",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "two",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "three.",
+     "t": 2.8,
+     "end": 3.4
+    },
+    {
+     "w": "Musicians",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "say",
+     "t": 4.36,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "band",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "must",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "be",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "in",
+     "t": 5.68,
+     "end": 5.76
+    },
+    {
+     "w": "clave.",
+     "t": 5.84,
+     "end": 6.64
+    }
+   ]
+  },
+  "why4": {
+   "text": "Its roots are in sub Saharan African rhythms, carried to Cuba.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "roots",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "are",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "sub",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "Saharan",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "African",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "rhythms,",
+     "t": 2.32,
+     "end": 3.04
+    },
+    {
+     "w": "carried",
+     "t": 3.16,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "Cuba.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "essence": {
+   "text": "Five hits, a question and an answer. A rhythm that travelled from Africa to Cuba to rock and roll.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "hits,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "question",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "an",
+     "t": 2.24,
+     "end": 2.28
+    },
+    {
+     "w": "answer.",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "A",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "rhythm",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "that",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "travelled",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "from",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "Africa",
+     "t": 4.72,
+     "end": 5.2
+    },
+    {
+     "w": "to",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "Cuba",
+     "t": 5.6,
+     "end": 6
+    },
+    {
+     "w": "to",
+     "t": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "rock",
+     "t": 6.4,
+     "end": 6.64
+    },
+    {
+     "w": "and",
+     "t": 6.72,
+     "end": 6.8
+    },
+    {
+     "w": "roll.",
+     "t": 6.88,
+     "end": 7.44
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1037 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Rock's favorite chord has just two notes, and no third at all.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Rock's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "favorite",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "chord",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "has",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "just",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "two",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "notes,",
+     "t": 2,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "no",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "third",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "at",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "all.",
+     "t": 3.68,
+     "end": 4.24
+    }
+   ]
+  },
+  "what": {
+   "text": "Take a root, C, add the fifth above it, G. That's a power chord: C five.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "root,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "C,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "add",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "fifth",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "above",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "it,",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "G.",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "That's",
+     "t": 4.4,
+     "end": 4.6
+    },
+    {
+     "w": "a",
+     "t": 4.64,
+     "end": 4.68
+    },
+    {
+     "w": "power",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "chord:",
+     "t": 5.04,
+     "end": 5.68
+    },
+    {
+     "w": "C",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "five.",
+     "t": 6.08,
+     "end": 6.8
+    }
+   ]
+  },
+  "what2": {
+   "text": "No third, so it's neither major nor minor.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "third,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "so",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "it's",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "neither",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "major",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "nor",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "minor.",
+     "t": 3.2,
+     "end": 3.92
+    }
+   ]
+  },
+  "kinks": {
+   "text": "You hear it in the distorted riff of You Really Got Me...",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "distorted",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "riff",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "of",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "You",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "Really",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "Got",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "Me...",
+     "t": 3.12,
+     "end": 3.68
+    }
+   ]
+  },
+  "ramones": {
+   "text": "in Blitzkrieg Bop, punk built almost entirely on power chords...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "in",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Blitzkrieg",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "Bop,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "punk",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "built",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "almost",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "entirely",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "on",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "power",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "chords...",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "metal": {
+   "text": "and all over heavy metal and grunge guitar.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "all",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "over",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "heavy",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "metal",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "grunge",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "guitar.",
+     "t": 2.28,
+     "end": 3.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Distortion adds tons of overtones.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "Distortion",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "adds",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "tons",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "of",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "overtones.",
+     "t": 3.84,
+     "end": 4.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "Add a third, ratio five to four, and those overtones clash into mud.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "third,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "ratio",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "five",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "to",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "four,",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "those",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "overtones",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "clash",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "into",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "mud.",
+     "t": 4.96,
+     "end": 5.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "The fifth, three to two, stays clean.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "fifth,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "three",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "to",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "two,",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "stays",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "clean.",
+     "t": 2.56,
+     "end": 3.28
+    }
+   ]
+  },
+  "why4": {
+   "text": "Even better: the two notes create a difference tone, one octave below the root.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Even",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "better:",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "two",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "notes",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "create",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "difference",
+     "t": 2.52,
+     "end": 2.72
+    },
+    {
+     "w": "tone,",
+     "t": 2.88,
+     "end": 3.52
+    },
+    {
+     "w": "one",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "octave",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "below",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "root.",
+     "t": 4.88,
+     "end": 5.52
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Three minus two is one. The chord reinforces its own bass.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "minus",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "two",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "one.",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "The",
+     "t": 2.4,
+     "end": 2.44
+    },
+    {
+     "w": "chord",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "reinforces",
+     "t": 2.88,
+     "end": 3.68
+    },
+    {
+     "w": "its",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "own",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "bass.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "why5": {
+   "text": "And with no third, it's neither happy nor sad. Just strong.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "with",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "no",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "third,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "it's",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "neither",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "happy",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "nor",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "sad.",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "Just",
+     "t": 3.84,
+     "end": 4.16
+    },
+    {
+     "w": "strong.",
+     "t": 4.48,
+     "end": 5.28
+    }
+   ]
+  },
+  "why5b": {
+   "text": "The singer or the riff decides the mood.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "singer",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "or",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "riff",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "decides",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.44
+    },
+    {
+     "w": "mood.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "why6": {
+   "text": "On guitar, it's one shape you can slide anywhere on the neck.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "guitar,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "it's",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "shape",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "you",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "can",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "slide",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "anywhere",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "on",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "neck.",
+     "t": 3.44,
+     "end": 4
+    }
+   ]
+  },
+  "why7": {
+   "text": "Classical counterpoint forbade parallel fifths.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "counterpoint",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "forbade",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "parallel",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "fifths.",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "why7b": {
+   "text": "Medieval organum and rock are built on them.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Medieval",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "organum",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "rock",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "are",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "built",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "on",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "them.",
+     "t": 2.72,
+     "end": 3.2
+    }
+   ]
+  },
+  "essence": {
+   "text": "Drop the third, keep the fifth. Pure power, no mood.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Drop",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "third,",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "keep",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "fifth.",
+     "t": 1.76,
+     "end": 2.44
+    },
+    {
+     "w": "Pure",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "power,",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "no",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "mood.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

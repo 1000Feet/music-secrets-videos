@@ -1,0 +1,959 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Wa oh, wa oh. Two notes, bouncing back and forth... in a lot of pop hits.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Wa",
+     "t": 0,
+     "end": 0.12
+    },
+    {
+     "w": "oh,",
+     "t": 0.12,
+     "end": 0.18
+    },
+    {
+     "w": "wa",
+     "t": 0.18,
+     "end": 0.24
+    },
+    {
+     "w": "oh.",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "Two",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "notes,",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "bouncing",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "back",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "forth...",
+     "t": 4.16,
+     "end": 5.12
+    },
+    {
+     "w": "in",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "a",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "lot",
+     "t": 5.52,
+     "end": 5.68
+    },
+    {
+     "w": "of",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "pop",
+     "t": 5.92,
+     "end": 6.16
+    },
+    {
+     "w": "hits.",
+     "t": 6.36,
+     "end": 6.88
+    }
+   ]
+  },
+  "what": {
+   "text": "It jumps between the fifth and the third of the major scale: sol and mi.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "jumps",
+     "t": 0.2,
+     "end": 0.4
+    },
+    {
+     "w": "between",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "fifth",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.72
+    },
+    {
+     "w": "third",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "of",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "major",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "scale:",
+     "t": 2.72,
+     "end": 3.6
+    },
+    {
+     "w": "sol",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "and",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "mi.",
+     "t": 4.48,
+     "end": 5.04
+    }
+   ]
+  },
+  "what2": {
+   "text": "In C, that's G and E.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "C,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "that's",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "G",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "E.",
+     "t": 2.56,
+     "end": 3.12
+    }
+   ]
+  },
+  "name": {
+   "text": "In 2016, Patrick Metzger gave it a name: the Millennial Whoop.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "2016,",
+     "t": 0.24,
+     "end": 1.44
+    },
+    {
+     "w": "Patrick",
+     "t": 1.64,
+     "end": 1.84
+    },
+    {
+     "w": "Metzger",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "gave",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "it",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.84
+    },
+    {
+     "w": "name:",
+     "t": 2.88,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "Millennial",
+     "t": 4,
+     "end": 4.56
+    },
+    {
+     "w": "Whoop.",
+     "t": 4.72,
+     "end": 5.28
+    }
+   ]
+  },
+  "name2": {
+   "text": "His article listed many pop hits of the 2000s and 2010s that use it.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "His",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "article",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "listed",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "many",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "pop",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "hits",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "2000s",
+     "t": 2.32,
+     "end": 2.811
+    },
+    {
+     "w": "and",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "2010s",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "that",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "use",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "it.",
+     "t": 4.48,
+     "end": 4.88
+    }
+   ]
+  },
+  "chant": {
+   "text": "And it's older than pop. The same sol and mi make the playground chant.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it's",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "older",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "than",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "pop.",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "same",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "sol",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "mi",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "make",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "playground",
+     "t": 3.84,
+     "end": 4.32
+    },
+    {
+     "w": "chant.",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Sol down to mi is a falling minor third.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Sol",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "down",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "to",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "mi",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "is",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "falling",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "minor",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "third.",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1b": {
+   "text": "And both notes belong to the home chord. No tension. Instantly singable.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "both",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "notes",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "belong",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "to",
+     "t": 1.36,
+     "end": 1.4
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "home",
+     "t": 1.64,
+     "end": 1.76
+    },
+    {
+     "w": "chord.",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "No",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "tension.",
+     "t": 2.96,
+     "end": 3.64
+    },
+    {
+     "w": "Instantly",
+     "t": 3.84,
+     "end": 4.4
+    },
+    {
+     "w": "singable.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "Kodály's method for teaching music starts children with exactly this interval...",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Kodály's",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "method",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "for",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "teaching",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "music",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "starts",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "children",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "with",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "exactly",
+     "t": 3.2,
+     "end": 3.92
+    },
+    {
+     "w": "this",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "interval...",
+     "t": 4.32,
+     "end": 5.12
+    }
+   ]
+  },
+  "why2b": {
+   "text": "because it's so easy to sing.",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "because",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "it's",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "so",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "easy",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "to",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "sing.",
+     "t": 1.68,
+     "end": 2.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "Sing it on an open vowel, oh, and a whole stadium can join in.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Sing",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "on",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "an",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "open",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "vowel,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "oh,",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "whole",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "stadium",
+     "t": 3.52,
+     "end": 4.08
+    },
+    {
+     "w": "can",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "join",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "in.",
+     "t": 4.76,
+     "end": 5.2
+    }
+   ]
+  },
+  "why4": {
+   "text": "And both notes fit many chords of a typical pop loop, so it can repeat all the way around.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "both",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "notes",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "fit",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "many",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "chords",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "of",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "typical",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "pop",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "loop,",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "so",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "it",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "can",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "repeat",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "all",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "way",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "around.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "essence": {
+   "text": "One simple interval, one open vowel... and a whole crowd can sing it.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "simple",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "interval,",
+     "t": 0.88,
+     "end": 1.84
+    },
+    {
+     "w": "one",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "open",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "vowel...",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "whole",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "crowd",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "can",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "sing",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "it.",
+     "t": 5.28,
+     "end": 5.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1021 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Jazz has a favourite sentence. It's only three chords long.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Jazz",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "has",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "favourite",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "sentence.",
+     "t": 1.2,
+     "end": 1.96
+    },
+    {
+     "w": "It's",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "only",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "three",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "chords",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "long.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "what": {
+   "text": "Two, five, one. In C major: D minor seven, G seven, C major seven.",
+   "dur": 7.47102,
+   "speechEnd": 7.52,
+   "words": [
+    {
+     "w": "Two,",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "five,",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "one.",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "In",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "C",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "major:",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "D",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "minor",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "seven,",
+     "t": 4.24,
+     "end": 5.04
+    },
+    {
+     "w": "G",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "seven,",
+     "t": 5.36,
+     "end": 6.16
+    },
+    {
+     "w": "C",
+     "t": 6.24,
+     "end": 6.4
+    },
+    {
+     "w": "major",
+     "t": 6.48,
+     "end": 6.8
+    },
+    {
+     "w": "seven.",
+     "t": 6.88,
+     "end": 7.52
+    }
+   ]
+  },
+  "satin": {
+   "text": "Satin Doll stacks them up: D minor, G seven... then E minor, A seven, one step higher.",
+   "dur": 7.88898,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "Satin",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Doll",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "stacks",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "them",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "up:",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "D",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "minor,",
+     "t": 2.4,
+     "end": 3.12
+    },
+    {
+     "w": "G",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "seven...",
+     "t": 3.52,
+     "end": 4.4
+    },
+    {
+     "w": "then",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "E",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "minor,",
+     "t": 5.12,
+     "end": 5.84
+    },
+    {
+     "w": "A",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "seven,",
+     "t": 6.16,
+     "end": 6.8
+    },
+    {
+     "w": "one",
+     "t": 6.88,
+     "end": 6.96
+    },
+    {
+     "w": "step",
+     "t": 7.04,
+     "end": 7.28
+    },
+    {
+     "w": "higher.",
+     "t": 7.44,
+     "end": 7.84
+    }
+   ]
+  },
+  "autumn": {
+   "text": "Autumn Leaves...",
+   "dur": 1.410612,
+   "speechEnd": 1.44,
+   "words": [
+    {
+     "w": "Autumn",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "Leaves...",
+     "t": 0.56,
+     "end": 1.44
+    }
+   ]
+  },
+  "fly": {
+   "text": "and Fly Me to the Moon are built from them too.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Fly",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "Me",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "to",
+     "t": 0.8,
+     "end": 0.84
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "Moon",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "are",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "built",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "from",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "them",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "too.",
+     "t": 2.56,
+     "end": 3.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The roots fall by a fifth, and then by a fifth again.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.24,
+     "end": 1.72
+    },
+    {
+     "w": "The",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "roots",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "fall",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "by",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "fifth,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "then",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "by",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "fifth",
+     "t": 4.68,
+     "end": 4.88
+    },
+    {
+     "w": "again.",
+     "t": 5.12,
+     "end": 5.6
+    }
+   ]
+  },
+  "why1b": {
+   "text": "D to G, G to C. The strongest move in harmony, twice in a row.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "D",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "to",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "G,",
+     "t": 0.56,
+     "end": 1.08
+    },
+    {
+     "w": "G",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "to",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "C.",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "The",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "strongest",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "move",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "in",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "harmony,",
+     "t": 3.8,
+     "end": 4.48
+    },
+    {
+     "w": "twice",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "in",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "a",
+     "t": 5.12,
+     "end": 5.16
+    },
+    {
+     "w": "row.",
+     "t": 5.2,
+     "end": 5.84
+    }
+   ]
+  },
+  "why2": {
+   "text": "The two chord prepares the five. D minor seven already holds F, A and C: the four chord.",
+   "dur": 7.314286,
+   "speechEnd": 7.36,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "two",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "chord",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "prepares",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "five.",
+     "t": 1.6,
+     "end": 2.36
+    },
+    {
+     "w": "D",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "minor",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "seven",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "already",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "holds",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "F,",
+     "t": 4.56,
+     "end": 5
+    },
+    {
+     "w": "A",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "and",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "C:",
+     "t": 5.68,
+     "end": 6.4
+    },
+    {
+     "w": "the",
+     "t": 6.44,
+     "end": 6.48
+    },
+    {
+     "w": "four",
+     "t": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "chord.",
+     "t": 6.8,
+     "end": 7.36
+    }
+   ]
+  },
+  "guide1": {
+   "text": "Now follow the sevenths. C, the seventh of D minor, slips down to B.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "follow",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "sevenths.",
+     "t": 0.88,
+     "end": 1.84
+    },
+    {
+     "w": "C,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "seventh",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "of",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "D",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "minor,",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "slips",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "down",
+     "t": 5.08,
+     "end": 5.2
+    },
+    {
+     "w": "to",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "B.",
+     "t": 5.44,
+     "end": 6.08
+    }
+   ]
+  },
+  "guide2": {
+   "text": "F, the seventh of G, slips down to E.",
+   "dur": 3.866122,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "F,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "seventh",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "G,",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "slips",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "down",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "E.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "guide3": {
+   "text": "Two quiet half steps carry the whole progression.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "quiet",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "half",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "steps",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "carry",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "whole",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "progression.",
+     "t": 2.48,
+     "end": 3.36
+    }
+   ]
+  },
+  "moves": {
+   "text": "Jazz players use it as a building block, moving it to new keys...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Jazz",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "players",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "use",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.16
+    },
+    {
+     "w": "as",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "building",
+     "t": 1.64,
+     "end": 1.84
+    },
+    {
+     "w": "block,",
+     "t": 2.04,
+     "end": 2.56
+    },
+    {
+     "w": "moving",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "it",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "to",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "new",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "keys...",
+     "t": 3.52,
+     "end": 4.32
+    }
+   ]
+  },
+  "tritone": {
+   "text": "or swapping in the tritone substitution: A flat minor seven, D flat seven, home.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "or",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "swapping",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "in",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "tritone",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "substitution:",
+     "t": 1.68,
+     "end": 3.04
+    },
+    {
+     "w": "A",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "flat",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "minor",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "seven,",
+     "t": 3.84,
+     "end": 4.64
+    },
+    {
+     "w": "D",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "flat",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "seven,",
+     "t": 5.28,
+     "end": 6
+    },
+    {
+     "w": "home.",
+     "t": 6.08,
+     "end": 6.72
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two falling fifths, two tiny half steps. The sentence jazz says a thousand ways.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "falling",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "fifths,",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "two",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "tiny",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "half",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "steps.",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "The",
+     "t": 3.76,
+     "end": 3.8
+    },
+    {
+     "w": "sentence",
+     "t": 3.84,
+     "end": 4.32
+    },
+    {
+     "w": "jazz",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "says",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "a",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "thousand",
+     "t": 5.44,
+     "end": 5.84
+    },
+    {
+     "w": "ways.",
+     "t": 5.92,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

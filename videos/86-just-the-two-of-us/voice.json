@@ -1,0 +1,1009 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One loop sounds smooth forever, because it never quite lands.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "loop",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "sounds",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "smooth",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "forever,",
+     "t": 1.6,
+     "end": 2.56
+    },
+    {
+     "w": "because",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "it",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "never",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "quite",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "lands.",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "what": {
+   "text": "That's Just the Two of Us, Grover Washington Junior featuring Bill Withers, 1981.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Just",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "Two",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Us,",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "Grover",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "Washington",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "Junior",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "featuring",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "Bill",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "Withers,",
+     "t": 4.08,
+     "end": 4.88
+    },
+    {
+     "w": "1981.",
+     "t": 4.96,
+     "end": 6.16
+    }
+   ]
+  },
+  "what2": {
+   "text": "D flat major seven, C seven, F minor seven... then E flat minor seven, A flat seven.",
+   "dur": 8.280816,
+   "speechEnd": 8.32,
+   "words": [
+    {
+     "w": "D",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "flat",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "major",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "seven,",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "C",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "seven,",
+     "t": 2.16,
+     "end": 2.96
+    },
+    {
+     "w": "F",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "minor",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "seven...",
+     "t": 3.76,
+     "end": 4.72
+    },
+    {
+     "w": "then",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "E",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "flat",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "minor",
+     "t": 6,
+     "end": 6.24
+    },
+    {
+     "w": "seven,",
+     "t": 6.32,
+     "end": 7.12
+    },
+    {
+     "w": "A",
+     "t": 7.2,
+     "end": 7.28
+    },
+    {
+     "w": "flat",
+     "t": 7.36,
+     "end": 7.6
+    },
+    {
+     "w": "seven.",
+     "t": 7.68,
+     "end": 8.32
+    }
+   ]
+  },
+  "japan": {
+   "text": "In Japan, it's called the Marusa progression, after Sheena Ringo's Marunouchi Sadistic, from 1999.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Japan,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "it's",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "called",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Marusa",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "progression,",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "after",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "Sheena",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "Ringo's",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "Marunouchi",
+     "t": 4.48,
+     "end": 5.12
+    },
+    {
+     "w": "Sadistic,",
+     "t": 5.2,
+     "end": 6.08
+    },
+    {
+     "w": "from",
+     "t": 6.16,
+     "end": 6.24
+    },
+    {
+     "w": "1999.",
+     "t": 6.32,
+     "end": 7.68
+    }
+   ]
+  },
+  "japan2": {
+   "text": "And it's all over J-pop.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it's",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "all",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "over",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "J-pop.",
+     "t": 1.6,
+     "end": 2.48
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so smooth? C seven doesn't belong to the key.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "so",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "smooth?",
+     "t": 1.28,
+     "end": 2.12
+    },
+    {
+     "w": "C",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "seven",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "doesn't",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "belong",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.88
+    },
+    {
+     "w": "the",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "key.",
+     "t": 4.08,
+     "end": 4.72
+    }
+   ]
+  },
+  "why2": {
+   "text": "It contains E natural, a half step below F.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "contains",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "E",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "natural,",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "half",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "step",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "below",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "F.",
+     "t": 3.2,
+     "end": 3.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "It's a secondary dominant, the five of F minor, so it pulls hard into F minor.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "secondary",
+     "t": 0.6,
+     "end": 0.88
+    },
+    {
+     "w": "dominant,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "five",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "of",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "F",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "minor,",
+     "t": 2.88,
+     "end": 3.68
+    },
+    {
+     "w": "so",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "pulls",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "hard",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "into",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "F",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "minor.",
+     "t": 5.36,
+     "end": 6
+    }
+   ]
+  },
+  "why4": {
+   "text": "Now the bass: D flat falls a half step to C, then leaps to F. Smooth, then decisive.",
+   "dur": 7.706122,
+   "speechEnd": 7.76,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "bass:",
+     "t": 0.36,
+     "end": 1.08
+    },
+    {
+     "w": "D",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "flat",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "falls",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "half",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "step",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "C,",
+     "t": 3.12,
+     "end": 3.68
+    },
+    {
+     "w": "then",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "leaps",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "to",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "F.",
+     "t": 4.72,
+     "end": 5.32
+    },
+    {
+     "w": "Smooth,",
+     "t": 5.6,
+     "end": 6.4
+    },
+    {
+     "w": "then",
+     "t": 6.48,
+     "end": 6.64
+    },
+    {
+     "w": "decisive.",
+     "t": 6.8,
+     "end": 7.76
+    }
+   ]
+  },
+  "why5": {
+   "text": "Major seven and minor seven chords sound soft and jazzy, with no harsh edges.",
+   "dur": 6.112653,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Major",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "seven",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "minor",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "seven",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "chords",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "sound",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "soft",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "jazzy,",
+     "t": 3.52,
+     "end": 4.32
+    },
+    {
+     "w": "with",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "no",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "harsh",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "edges.",
+     "t": 5.28,
+     "end": 6.08
+    }
+   ]
+  },
+  "why6": {
+   "text": "And E flat minor seven to A flat seven is a little two five, pointing back to D flat.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "E",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "flat",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "minor",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "seven",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "to",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "A",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "flat",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "seven",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "is",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.08
+    },
+    {
+     "w": "little",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "two",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "five,",
+     "t": 3.76,
+     "end": 4.4
+    },
+    {
+     "w": "pointing",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "back",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "to",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "D",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "flat.",
+     "t": 5.44,
+     "end": 6
+    }
+   ]
+  },
+  "why6b": {
+   "text": "So the loop restarts before it can settle. An endless spiral.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "loop",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "restarts",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "before",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "it",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "can",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "settle.",
+     "t": 2.16,
+     "end": 2.96
+    },
+    {
+     "w": "An",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "endless",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "spiral.",
+     "t": 3.96,
+     "end": 4.72
+    }
+   ]
+  },
+  "essence": {
+   "text": "One borrowed note, and a loop that never quite lands. That's why it feels smooth forever.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "borrowed",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "note,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "loop",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "that",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "never",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "quite",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "lands.",
+     "t": 3.36,
+     "end": 4.16
+    },
+    {
+     "w": "That's",
+     "t": 4.4,
+     "end": 4.6
+    },
+    {
+     "w": "why",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "it",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "feels",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "smooth",
+     "t": 5.28,
+     "end": 5.76
+    },
+    {
+     "w": "forever.",
+     "t": 5.84,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.28,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

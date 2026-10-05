@@ -1,0 +1,1021 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Kick, snare, kick, snare. That snare on two and four is the backbeat.",
+   "dur": 5.877551,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Kick,",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "snare,",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "kick,",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "snare.",
+     "t": 2.08,
+     "end": 3.04
+    },
+    {
+     "w": "That",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "snare",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "on",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "two",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "four",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "is",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "backbeat.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "what": {
+   "text": "One and three are the strong beats. Rock and pop put the loudest hit on the weak ones.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "and",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "three",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "are",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "strong",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "beats.",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "Rock",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "pop",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "put",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "loudest",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "hit",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "on",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "weak",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "ones.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "s1": {
+   "text": "New Orleans drummer Earl Palmer played on records by Little Richard and Fats Domino.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "New",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Orleans",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "drummer",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "Earl",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "Palmer",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "played",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "on",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "records",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "by",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "Little",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "Richard",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "Fats",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "Domino.",
+     "t": 4.52,
+     "end": 5.2
+    }
+   ]
+  },
+  "s1b": {
+   "text": "He's credited with popularising the strong rock and roll backbeat.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "He's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "credited",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "with",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "popularising",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "strong",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "rock",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "roll",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "backbeat.",
+     "t": 3.36,
+     "end": 4.24
+    }
+   ]
+  },
+  "s2": {
+   "text": "We Will Rock You has no drums at all. Stomp, stomp, clap.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "We",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Will",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Rock",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "You",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "has",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "no",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "drums",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "at",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "all.",
+     "t": 2.16,
+     "end": 2.76
+    },
+    {
+     "w": "Stomp,",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "stomp,",
+     "t": 3.76,
+     "end": 4.48
+    },
+    {
+     "w": "clap.",
+     "t": 4.56,
+     "end": 5.2
+    }
+   ]
+  },
+  "s2b": {
+   "text": "The clap is the backbeat.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "clap",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "backbeat.",
+     "t": 1.2,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? In marches and polkas, the accent falls on one and three.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "In",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "marches",
+     "t": 2.2,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "polkas,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "accent",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "falls",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "on",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "one",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "three.",
+     "t": 5.52,
+     "end": 6.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "Move it to two and four, and you get a push and pull.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Move",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "to",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "two",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "and",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "four,",
+     "t": 1.32,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "you",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "get",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "push",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "pull.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "why2b": {
+   "text": "The kick grounds you on one and three. The snare answers on two and four.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "kick",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "grounds",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "you",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "on",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "three.",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "The",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "snare",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "answers",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "on",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "two",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "and",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "four.",
+     "t": 4.88,
+     "end": 5.28
+    }
+   ]
+  },
+  "why3": {
+   "text": "That contrast moves the body: step on one, clap on two.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "contrast",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "moves",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "body:",
+     "t": 1.6,
+     "end": 2.48
+    },
+    {
+     "w": "step",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "on",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "one,",
+     "t": 3.12,
+     "end": 3.68
+    },
+    {
+     "w": "clap",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "on",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "two.",
+     "t": 4.32,
+     "end": 4.88
+    }
+   ]
+  },
+  "why4": {
+   "text": "Audiences used to march music clap on one and three.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Audiences",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "used",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "to",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "march",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "music",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "clap",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "on",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "one",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "three.",
+     "t": 3.4,
+     "end": 3.84
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Rock, gospel and R and B audiences clap on two and four.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Rock,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "gospel",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "R",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "B",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "audiences",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "clap",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "on",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "two",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "four.",
+     "t": 4.16,
+     "end": 4.64
+    }
+   ]
+  },
+  "why5": {
+   "text": "It comes from African American music: gospel, rhythm and blues, then rock and roll.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "comes",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "from",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "African",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "American",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "music:",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "gospel,",
+     "t": 2.6,
+     "end": 3.36
+    },
+    {
+     "w": "rhythm",
+     "t": 3.4,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "blues,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "then",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "rock",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "and",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "roll.",
+     "t": 5.28,
+     "end": 5.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "Accent the weak beat, and the whole song starts to move your body.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Accent",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "weak",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "beat,",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "whole",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "song",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "starts",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "to",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "move",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "your",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "body.",
+     "t": 3.52,
+     "end": 4.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

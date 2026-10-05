@@ -1,0 +1,1047 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Why do some songs give you chills? Meet the note that leans.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "do",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "some",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "songs",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "give",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "you",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "chills?",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "Meet",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "note",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "that",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "leans.",
+     "t": 4.08,
+     "end": 4.96
+    }
+   ]
+  },
+  "what": {
+   "text": "It's the appoggiatura, from the Italian appoggiare: to lean.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "appoggiatura,",
+     "t": 0.4,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "Italian",
+     "t": 2.12,
+     "end": 2.4
+    },
+    {
+     "w": "appoggiare:",
+     "t": 2.56,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "lean.",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "what2": {
+   "text": "A note outside the chord lands on a strong beat...",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "note",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "outside",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "chord",
+     "t": 1.16,
+     "end": 1.52
+    },
+    {
+     "w": "lands",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "on",
+     "t": 2.08,
+     "end": 2.12
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "strong",
+     "t": 2.52,
+     "end": 2.72
+    },
+    {
+     "w": "beat...",
+     "t": 2.8,
+     "end": 3.36
+    }
+   ]
+  },
+  "what3": {
+   "text": "then resolves by step into the chord.",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "resolves",
+     "t": 0.36,
+     "end": 0.88
+    },
+    {
+     "w": "by",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "step",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "into",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "chord.",
+     "t": 2.16,
+     "end": 2.88
+    }
+   ]
+  },
+  "adele": {
+   "text": "Adele's Someone Like You: A, C sharp minor, F sharp minor, D.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Adele's",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "Someone",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "Like",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "You:",
+     "t": 1.52,
+     "end": 2.04
+    },
+    {
+     "w": "A,",
+     "t": 2.32,
+     "end": 2.84
+    },
+    {
+     "w": "C",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "sharp",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "minor,",
+     "t": 3.72,
+     "end": 4.24
+    },
+    {
+     "w": "F",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "sharp",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "minor,",
+     "t": 4.88,
+     "end": 5.6
+    },
+    {
+     "w": "D.",
+     "t": 5.68,
+     "end": 6.24
+    }
+   ]
+  },
+  "wsj": {
+   "text": "In 2012, the Wall Street Journal asked why it makes people cry, in Anatomy of a Tear-Jerker.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "2012,",
+     "t": 0.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "Wall",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "Street",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "Journal",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "asked",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "why",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "it",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "makes",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "people",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "cry,",
+     "t": 3.92,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "Anatomy",
+     "t": 5.2,
+     "end": 5.76
+    },
+    {
+     "w": "of",
+     "t": 5.92,
+     "end": 5.96
+    },
+    {
+     "w": "a",
+     "t": 6,
+     "end": 6.08
+    },
+    {
+     "w": "Tear-Jerker.",
+     "t": 6.16,
+     "end": 7.12
+    }
+   ]
+  },
+  "wsj2": {
+   "text": "It pointed to the appoggiaturas.",
+   "dur": 2.115918,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pointed",
+     "t": 0.28,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "appoggiaturas.",
+     "t": 0.88,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Over a C chord, sing D on the beat: a clash.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.16,
+     "end": 1.64
+    },
+    {
+     "w": "Over",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "C",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "chord,",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "sing",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "D",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "on",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "beat:",
+     "t": 4.16,
+     "end": 4.88
+    },
+    {
+     "w": "a",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "clash.",
+     "t": 5.12,
+     "end": 6
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Then fall to C. Release.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "fall",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "to",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "C.",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "Release.",
+     "t": 2.24,
+     "end": 3.12
+    }
+   ]
+  },
+  "why2": {
+   "text": "Over G, sing C, then fall to B.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Over",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "G,",
+     "t": 0.4,
+     "end": 1
+    },
+    {
+     "w": "sing",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "C,",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "then",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "fall",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "B.",
+     "t": 3.12,
+     "end": 3.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "It's tension and release in miniature.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "tension",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "and",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "release",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "in",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "miniature.",
+     "t": 2.08,
+     "end": 2.96
+    }
+   ]
+  },
+  "why3b": {
+   "text": "You expect a chord note, get a wrong one, and the resolution comes slightly late.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "expect",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "chord",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "note,",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "get",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "wrong",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "one,",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "resolution",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "comes",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "slightly",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "late.",
+     "t": 4.8,
+     "end": 5.44
+    }
+   ]
+  },
+  "slob": {
+   "text": "In 1991, psychologist John Sloboda asked listeners which passages gave them tears or shivers.",
+   "dur": 7.88898,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1991,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "psychologist",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "John",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "Sloboda",
+     "t": 2.84,
+     "end": 3.44
+    },
+    {
+     "w": "asked",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "listeners",
+     "t": 4,
+     "end": 4.48
+    },
+    {
+     "w": "which",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "passages",
+     "t": 4.96,
+     "end": 5.52
+    },
+    {
+     "w": "gave",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "them",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "tears",
+     "t": 6.08,
+     "end": 6.64
+    },
+    {
+     "w": "or",
+     "t": 6.8,
+     "end": 6.96
+    },
+    {
+     "w": "shivers.",
+     "t": 7.12,
+     "end": 7.84
+    }
+   ]
+  },
+  "slob2": {
+   "text": "Many of them contained appoggiaturas.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Many",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "of",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "them",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "contained",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "appoggiaturas.",
+     "t": 1.32,
+     "end": 2.56
+    }
+   ]
+  },
+  "slob3": {
+   "text": "Others had unexpected harmonies or sudden changes in loudness.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Others",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "had",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "unexpected",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "harmonies",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "or",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "sudden",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "changes",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "in",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "loudness.",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "chain": {
+   "text": "Chain them in a row: wave after wave of tension and release.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Chain",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "them",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "in",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "row:",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "wave",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "after",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "wave",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "of",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "tension",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "release.",
+     "t": 4.24,
+     "end": 5.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "Lean on the wrong note, then let it fall. That tiny release gives you chills.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Lean",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "on",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "wrong",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "note,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "then",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "let",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "it",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "fall.",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "That",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "tiny",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "release",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "gives",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "you",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "chills.",
+     "t": 5.2,
+     "end": 6.08
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
