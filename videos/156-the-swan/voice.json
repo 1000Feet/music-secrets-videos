@@ -1,0 +1,893 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A cello gliding calmly... over water that never stops moving.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "cello",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "gliding",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "calmly...",
+     "t": 1.44,
+     "end": 2.4
+    },
+    {
+     "w": "over",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "water",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "that",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "never",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "stops",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "moving.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "what": {
+   "text": "This is The Swan, by Camille Saint-Saëns.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "The",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "Swan,",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "by",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "Camille",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "Saint-Saëns.",
+     "t": 2.4,
+     "end": 3.28
+    }
+   ]
+  },
+  "what2": {
+   "text": "It's from The Carnival of the Animals, 1886: fourteen movements depicting animals.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "from",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "The",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Carnival",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "Animals,",
+     "t": 1.36,
+     "end": 2.16
+    },
+    {
+     "w": "1886:",
+     "t": 2.28,
+     "end": 3.84
+    },
+    {
+     "w": "fourteen",
+     "t": 3.96,
+     "end": 4.24
+    },
+    {
+     "w": "movements",
+     "t": 4.4,
+     "end": 4.88
+    },
+    {
+     "w": "depicting",
+     "t": 4.96,
+     "end": 5.36
+    },
+    {
+     "w": "animals.",
+     "t": 5.44,
+     "end": 6.32
+    }
+   ]
+  },
+  "joke": {
+   "text": "He considered it a light-hearted joke, and banned its publication in his lifetime.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "considered",
+     "t": 0.36,
+     "end": 0.64
+    },
+    {
+     "w": "it",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "light-hearted",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "joke,",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "banned",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "its",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "publication",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "in",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "his",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "lifetime.",
+     "t": 4,
+     "end": 4.8
+    }
+   ]
+  },
+  "joke2": {
+   "text": "Except The Swan, published in 1887. The full work appeared after his death, in 1921.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "Except",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "The",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "Swan,",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "published",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "in",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "1887.",
+     "t": 2.6,
+     "end": 4.24
+    },
+    {
+     "w": "The",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "full",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "work",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "appeared",
+     "t": 5.08,
+     "end": 5.28
+    },
+    {
+     "w": "after",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "his",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "death,",
+     "t": 5.92,
+     "end": 6.48
+    },
+    {
+     "w": "in",
+     "t": 6.56,
+     "end": 6.64
+    },
+    {
+     "w": "1921.",
+     "t": 6.72,
+     "end": 8
+    }
+   ]
+  },
+  "dance": {
+   "text": "In 1905, Michel Fokine created a solo dance to it,",
+   "dur": 4.362449,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1905,",
+     "t": 0.24,
+     "end": 1.44
+    },
+    {
+     "w": "Michel",
+     "t": 1.56,
+     "end": 1.76
+    },
+    {
+     "w": "Fokine",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "created",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "solo",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "dance",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "to",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "it,",
+     "t": 3.92,
+     "end": 4.32
+    }
+   ]
+  },
+  "dance2": {
+   "text": "The Dying Swan, for the ballerina Anna Pavlova.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Dying",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "Swan,",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "for",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "ballerina",
+     "t": 1.96,
+     "end": 2.48
+    },
+    {
+     "w": "Anna",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "Pavlova.",
+     "t": 3.04,
+     "end": 3.92
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so graceful? First, the cello.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "graceful?",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "First,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "cello.",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "why1b": {
+   "text": "It sings one long, smooth line, legato. The swan, gliding.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sings",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "one",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "long,",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "smooth",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "line,",
+     "t": 2.4,
+     "end": 3.2
+    },
+    {
+     "w": "legato.",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "The",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "swan,",
+     "t": 4.64,
+     "end": 5.52
+    },
+    {
+     "w": "gliding.",
+     "t": 5.6,
+     "end": 6.56
+    }
+   ]
+  },
+  "why2": {
+   "text": "Underneath, the piano plays continuous rippling broken chords. The water.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Underneath,",
+     "t": 0,
+     "end": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "piano",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "plays",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "continuous",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "rippling",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "broken",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "chords.",
+     "t": 3.84,
+     "end": 4.72
+    },
+    {
+     "w": "The",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "water.",
+     "t": 5.28,
+     "end": 6.08
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Originally, on two pianos.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Originally,",
+     "t": 0,
+     "end": 0.96
+    },
+    {
+     "w": "on",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "pianos.",
+     "t": 1.52,
+     "end": 2.48
+    }
+   ]
+  },
+  "why3": {
+   "text": "The key is G major. Slow tempo, long notes, few leaps: grace and calm.",
+   "dur": 7.47102,
+   "speechEnd": 7.52,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "key",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "G",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "major.",
+     "t": 1.28,
+     "end": 2.04
+    },
+    {
+     "w": "Slow",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "tempo,",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "long",
+     "t": 3.52,
+     "end": 3.76
+    },
+    {
+     "w": "notes,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "few",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "leaps:",
+     "t": 4.88,
+     "end": 5.84
+    },
+    {
+     "w": "grace",
+     "t": 5.92,
+     "end": 6.48
+    },
+    {
+     "w": "and",
+     "t": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "calm.",
+     "t": 6.8,
+     "end": 7.52
+    }
+   ]
+  },
+  "why4": {
+   "text": "Two textures at once: a still surface, and constant movement beneath.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "textures",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "at",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "once:",
+     "t": 1.04,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "still",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "surface,",
+     "t": 2.56,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "constant",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "movement",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "beneath.",
+     "t": 4.72,
+     "end": 5.52
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Just like a swan, paddling.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "Just",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "like",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "swan,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "paddling.",
+     "t": 1.56,
+     "end": 2.4
+    }
+   ]
+  },
+  "essence": {
+   "text": "Calm above, ripples below. That's how music draws a swan.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Calm",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "above,",
+     "t": 0.4,
+     "end": 1.16
+    },
+    {
+     "w": "ripples",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "below.",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "That's",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "how",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "music",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "draws",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "swan.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

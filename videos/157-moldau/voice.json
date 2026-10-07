@@ -1,0 +1,874 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Two tiny springs... that grow into a mighty river.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "tiny",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "springs...",
+     "t": 0.96,
+     "end": 2.08
+    },
+    {
+     "w": "that",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "grow",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "into",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "mighty",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "river.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Vltava, The Moldau, by Bedřich Smetana.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Vltava,",
+     "t": 0.56,
+     "end": 1.6
+    },
+    {
+     "w": "The",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "Moldau,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "by",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "Bedřich",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "Smetana.",
+     "t": 3.4,
+     "end": 4.24
+    }
+   ]
+  },
+  "what2": {
+   "text": "It's from his cycle Má vlast, My Homeland, composed in 1874, the year he became deaf.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "from",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "his",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "cycle",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "Má",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "vlast,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "My",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Homeland,",
+     "t": 2.8,
+     "end": 3.76
+    },
+    {
+     "w": "composed",
+     "t": 4.04,
+     "end": 4.32
+    },
+    {
+     "w": "in",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "1874,",
+     "t": 4.56,
+     "end": 6.16
+    },
+    {
+     "w": "the",
+     "t": 6.2,
+     "end": 6.24
+    },
+    {
+     "w": "year",
+     "t": 6.32,
+     "end": 6.56
+    },
+    {
+     "w": "he",
+     "t": 6.64,
+     "end": 6.72
+    },
+    {
+     "w": "became",
+     "t": 6.8,
+     "end": 7.12
+    },
+    {
+     "w": "deaf.",
+     "t": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "prog": {
+   "text": "It follows the river: from two springs, past a hunt in the forest, with horns,",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "follows",
+     "t": 0.24,
+     "end": 0.6
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "river:",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "from",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "two",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "springs,",
+     "t": 2.16,
+     "end": 3.04
+    },
+    {
+     "w": "past",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "a",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "hunt",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "in",
+     "t": 3.92,
+     "end": 3.96
+    },
+    {
+     "w": "the",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "forest,",
+     "t": 4.16,
+     "end": 4.96
+    },
+    {
+     "w": "with",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "horns,",
+     "t": 5.2,
+     "end": 6.08
+    }
+   ]
+  },
+  "prog2": {
+   "text": "a peasant wedding with a polka, nymphs dancing by moonlight,",
+   "dur": 4.205714,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "a",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "peasant",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "wedding",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "with",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "polka,",
+     "t": 1.32,
+     "end": 2.08
+    },
+    {
+     "w": "nymphs",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "dancing",
+     "t": 2.68,
+     "end": 3.04
+    },
+    {
+     "w": "by",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "moonlight,",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "prog3": {
+   "text": "the Saint John's Rapids, and finally, broadly past Vyšehrad castle in Prague.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Saint",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "John's",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "Rapids,",
+     "t": 0.84,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "finally,",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "broadly",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "past",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "Vyšehrad",
+     "t": 3.52,
+     "end": 4.16
+    },
+    {
+     "w": "castle",
+     "t": 4.24,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "Prague.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does music become a river? Two flutes.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "music",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "become",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "river?",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "Two",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "flutes.",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Interweaving running notes: two streams. Then other instruments join. The river grows.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "Interweaving",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "running",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "notes:",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "two",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "streams.",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "Then",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "other",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "instruments",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "join.",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "The",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "river",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "grows.",
+     "t": 6.08,
+     "end": 6.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "And the flowing notes never stop, like the current.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "flowing",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "notes",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "never",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "stop,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "like",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "current.",
+     "t": 2.96,
+     "end": 3.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "The main theme, in E minor, is broad and song-like.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "main",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "theme,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "E",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "minor,",
+     "t": 1.72,
+     "end": 2.24
+    },
+    {
+     "w": "is",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "broad",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "and",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "song-like.",
+     "t": 3.44,
+     "end": 4.32
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Near the end, it returns in E major: triumph, as the river reaches Prague.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Near",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "end,",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "returns",
+     "t": 1.4,
+     "end": 1.68
+    },
+    {
+     "w": "in",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "E",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "major:",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "triumph,",
+     "t": 3.2,
+     "end": 4.08
+    },
+    {
+     "w": "as",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "river",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "reaches",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "Prague.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "why4": {
+   "text": "Program music: every section paints a scene, like Vivaldi's Spring.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Program",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "music:",
+     "t": 0.48,
+     "end": 1.24
+    },
+    {
+     "w": "every",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "section",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "paints",
+     "t": 2.4,
+     "end": 2.68
+    },
+    {
+     "w": "a",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "scene,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "like",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "Vivaldi's",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "Spring.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two trickles become a mighty river... and the music flows from minor to major.",
+   "dur": 6.19102,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "trickles",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "become",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "mighty",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "river...",
+     "t": 2,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "music",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "flows",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "from",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "minor",
+     "t": 4.48,
+     "end": 4.96
+    },
+    {
+     "w": "to",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "major.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
