@@ -1,0 +1,918 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "You know this sunrise... but the sun isn't rising where you think.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "know",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "this",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "sunrise...",
+     "t": 0.72,
+     "end": 2.16
+    },
+    {
+     "w": "but",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "sun",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "isn't",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "rising",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "where",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "you",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "think.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Morning Mood, from Grieg's music for Ibsen's play Peer Gynt, in 1875.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Morning",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "Mood,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "from",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Grieg's",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "music",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "for",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "Ibsen's",
+     "t": 3.24,
+     "end": 3.68
+    },
+    {
+     "w": "play",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "Peer",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "Gynt,",
+     "t": 4.56,
+     "end": 5.12
+    },
+    {
+     "w": "in",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "1875.",
+     "t": 5.36,
+     "end": 6.88
+    }
+   ]
+  },
+  "what2": {
+   "text": "The same work gave us In the Hall of the Mountain King.",
+   "dur": 3.63102,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "work",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "gave",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "us",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "In",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Hall",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "of",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "Mountain",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "King.",
+     "t": 2.96,
+     "end": 3.6
+    }
+   ]
+  },
+  "desert": {
+   "text": "You might picture a Norwegian fjord.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "might",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "picture",
+     "t": 0.6,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "Norwegian",
+     "t": 1.16,
+     "end": 1.68
+    },
+    {
+     "w": "fjord.",
+     "t": 1.76,
+     "end": 2.56
+    }
+   ]
+  },
+  "desert2": {
+   "text": "But in the play, it's a sunrise in the Moroccan desert, in Act 4.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "in",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "play,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "it's",
+     "t": 1.2,
+     "end": 1.333
+    },
+    {
+     "w": "a",
+     "t": 1.387,
+     "end": 1.44
+    },
+    {
+     "w": "sunrise",
+     "t": 1.56,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.187,
+     "end": 2.213
+    },
+    {
+     "w": "Moroccan",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "desert,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "in",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "Act",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "4.",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "desert3": {
+   "text": "Not a fjord in sight.",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "Not",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "fjord",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "in",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "sight.",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound like dawn? Start with just five notes.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "sound",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "like",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "dawn?",
+     "t": 1.68,
+     "end": 2.44
+    },
+    {
+     "w": "Start",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "with",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "just",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "five",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "notes.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why1b": {
+   "text": "E, F sharp, G sharp, B, C sharp. The major pentatonic scale.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "E,",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "F",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "sharp,",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "G",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "sharp,",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "B,",
+     "t": 2.56,
+     "end": 3.08
+    },
+    {
+     "w": "C",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "sharp.",
+     "t": 3.52,
+     "end": 4.12
+    },
+    {
+     "w": "The",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "major",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "pentatonic",
+     "t": 4.96,
+     "end": 5.52
+    },
+    {
+     "w": "scale.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why1c": {
+   "text": "No half steps, so nothing clashes. Calm, and folk-like.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "half",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "steps,",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "nothing",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "clashes.",
+     "t": 2,
+     "end": 2.88
+    },
+    {
+     "w": "Calm,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "folk-like.",
+     "t": 4.16,
+     "end": 5.04
+    }
+   ]
+  },
+  "why2": {
+   "text": "The phrase is passed back and forth between flute and oboe...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "phrase",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "passed",
+     "t": 0.92,
+     "end": 1.12
+    },
+    {
+     "w": "back",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "forth",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "between",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "flute",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "oboe...",
+     "t": 3.2,
+     "end": 3.92
+    }
+   ]
+  },
+  "why2b": {
+   "text": "like birds calling to each other at dawn.",
+   "dur": 2.847347,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "like",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "birds",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "calling",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "to",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "each",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "other",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "at",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "dawn.",
+     "t": 2.16,
+     "end": 2.88
+    }
+   ]
+  },
+  "why3": {
+   "text": "The key is E major: bright and open, like morning light.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "key",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "E",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "major:",
+     "t": 1.2,
+     "end": 2.16
+    },
+    {
+     "w": "bright",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "open,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "like",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "morning",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "light.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "Then it slowly grows louder and fuller...",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "slowly",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "grows",
+     "t": 1.493,
+     "end": 1.76
+    },
+    {
+     "w": "louder",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "fuller...",
+     "t": 2.92,
+     "end": 3.6
+    }
+   ]
+  },
+  "why4b": {
+   "text": "until the full orchestra arrives. The sun is up.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "until",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.52
+    },
+    {
+     "w": "full",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "orchestra",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "arrives.",
+     "t": 1.44,
+     "end": 2.36
+    },
+    {
+     "w": "The",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "sun",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "is",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "up.",
+     "t": 3.2,
+     "end": 3.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "Five notes, two instruments, one slow crescendo... and the sun comes up.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "instruments,",
+     "t": 1.52,
+     "end": 2.56
+    },
+    {
+     "w": "one",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "slow",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "crescendo...",
+     "t": 3.52,
+     "end": 4.88
+    },
+    {
+     "w": "and",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "sun",
+     "t": 5.28,
+     "end": 5.52
+    },
+    {
+     "w": "comes",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "up.",
+     "t": 5.96,
+     "end": 6.32
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

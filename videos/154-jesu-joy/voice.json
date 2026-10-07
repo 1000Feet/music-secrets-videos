@@ -1,0 +1,909 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A river of notes that never stops... and floating on top, a slow, simple hymn.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "river",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "notes",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "that",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "never",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "stops...",
+     "t": 1.92,
+     "end": 3.04
+    },
+    {
+     "w": "and",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "floating",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "on",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "top,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "a",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "slow,",
+     "t": 5.04,
+     "end": 5.6
+    },
+    {
+     "w": "simple",
+     "t": 5.8,
+     "end": 6
+    },
+    {
+     "w": "hymn.",
+     "t": 6.08,
+     "end": 6.72
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Jesu, Joy of Man's Desiring, from a Bach cantata of 1723.",
+   "dur": 6.530612,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Jesu,",
+     "t": 0.52,
+     "end": 1.44
+    },
+    {
+     "w": "Joy",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "of",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "Man's",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "Desiring,",
+     "t": 2.4,
+     "end": 3.36
+    },
+    {
+     "w": "from",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "Bach",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "cantata",
+     "t": 4,
+     "end": 4.56
+    },
+    {
+     "w": "of",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "1723.",
+     "t": 4.88,
+     "end": 6.48
+    }
+   ]
+  },
+  "hymn": {
+   "text": "The slow hymn tune the choir sings is older: Werde munter, by Johann Schop, from 1642.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "slow",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "hymn",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "tune",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "choir",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "sings",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "is",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "older:",
+     "t": 2.32,
+     "end": 3.28
+    },
+    {
+     "w": "Werde",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "munter,",
+     "t": 3.76,
+     "end": 4.48
+    },
+    {
+     "w": "by",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "Johann",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "Schop,",
+     "t": 5.2,
+     "end": 5.76
+    },
+    {
+     "w": "from",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "1642.",
+     "t": 6.08,
+     "end": 7.44
+    }
+   ]
+  },
+  "hess": {
+   "text": "The English title, and much of its fame, come from Myra Hess's piano arrangement, in 1926.",
+   "dur": 7.079184,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "English",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "title,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "much",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "of",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "its",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "fame,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "come",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "from",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "Myra",
+     "t": 3.28,
+     "end": 3.6
+    },
+    {
+     "w": "Hess's",
+     "t": 3.64,
+     "end": 4
+    },
+    {
+     "w": "piano",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "arrangement,",
+     "t": 4.56,
+     "end": 5.28
+    },
+    {
+     "w": "in",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "1926.",
+     "t": 5.52,
+     "end": 7.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it feel so peaceful? Two layers at once.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "feel",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "peaceful?",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "Two",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "layers",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "at",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "once.",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "why1b": {
+   "text": "The orchestra plays a flowing line in triplets, three notes to every beat...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "orchestra",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "plays",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "flowing",
+     "t": 1.4,
+     "end": 1.68
+    },
+    {
+     "w": "line",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "triplets,",
+     "t": 2.28,
+     "end": 3.2
+    },
+    {
+     "w": "three",
+     "t": 3.32,
+     "end": 3.44
+    },
+    {
+     "w": "notes",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "to",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "every",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "beat...",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1c": {
+   "text": "while the choir sings the hymn in long, slow notes, between and over it.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "while",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.293,
+     "end": 0.347
+    },
+    {
+     "w": "choir",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "sings",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "hymn",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "in",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "long,",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "slow",
+     "t": 2.84,
+     "end": 3.04
+    },
+    {
+     "w": "notes,",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "between",
+     "t": 3.92,
+     "end": 4.48
+    },
+    {
+     "w": "and",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "over",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "it.",
+     "t": 5.2,
+     "end": 5.68
+    }
+   ]
+  },
+  "why2": {
+   "text": "Setting an old hymn tune, a chorale, inside new music...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "Setting",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "an",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "old",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "hymn",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "tune,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "chorale,",
+     "t": 2.2,
+     "end": 2.88
+    },
+    {
+     "w": "inside",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "new",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "music...",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "why2b": {
+   "text": "was a common technique in Bach's time.",
+   "dur": 2.35102,
+   "speechEnd": 2.4,
+   "words": [
+    {
+     "w": "was",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "common",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "technique",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Bach's",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "time.",
+     "t": 1.96,
+     "end": 2.4
+    }
+   ]
+  },
+  "why3": {
+   "text": "The triplets never stop: calm, endless motion.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "triplets",
+     "t": 0.28,
+     "end": 0.72
+    },
+    {
+     "w": "never",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "stop:",
+     "t": 1.28,
+     "end": 2.24
+    },
+    {
+     "w": "calm,",
+     "t": 2.32,
+     "end": 3.2
+    },
+    {
+     "w": "endless",
+     "t": 3.32,
+     "end": 3.68
+    },
+    {
+     "w": "motion.",
+     "t": 3.76,
+     "end": 4.56
+    }
+   ]
+  },
+  "why3b": {
+   "text": "The hymn gives it a solid core you can sing.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hymn",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "gives",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "a",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "solid",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "core",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "you",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "can",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "sing.",
+     "t": 2.6,
+     "end": 3.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "That's counterpoint: two independent ideas that fit together.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "counterpoint:",
+     "t": 0.4,
+     "end": 1.6
+    },
+    {
+     "w": "two",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "independent",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "ideas",
+     "t": 2.64,
+     "end": 3.2
+    },
+    {
+     "w": "that",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "fit",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "together.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "essence": {
+   "text": "A river of triplets around a simple hymn... motion and stillness, at the same time.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "river",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "triplets",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "around",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "simple",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "hymn...",
+     "t": 2.4,
+     "end": 3.44
+    },
+    {
+     "w": "motion",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "stillness,",
+     "t": 4.4,
+     "end": 5.36
+    },
+    {
+     "w": "at",
+     "t": 5.44,
+     "end": 5.52
+    },
+    {
+     "w": "the",
+     "t": 5.56,
+     "end": 5.6
+    },
+    {
+     "w": "same",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "time.",
+     "t": 6,
+     "end": 6.64
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

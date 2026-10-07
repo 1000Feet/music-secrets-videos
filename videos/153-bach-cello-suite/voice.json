@@ -1,0 +1,956 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One instrument, mostly one note at a time... yet you hear full chords.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "instrument,",
+     "t": 0.32,
+     "end": 1.28
+    },
+    {
+     "w": "mostly",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "one",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "note",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "at",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.693,
+     "end": 2.747
+    },
+    {
+     "w": "time...",
+     "t": 2.8,
+     "end": 3.76
+    },
+    {
+     "w": "yet",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "you",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "hear",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "full",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "chords.",
+     "t": 4.96,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the Prelude from Bach's Cello Suite No. 1, in G major.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Prelude",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "from",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "Bach's",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "Cello",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Suite",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "No.",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "1,",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "in",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "G",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "major.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "what2": {
+   "text": "Bach wrote six cello suites, around 1720.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Bach",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "wrote",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "six",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "cello",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "suites,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "around",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "1720.",
+     "t": 2.72,
+     "end": 3.92
+    }
+   ]
+  },
+  "casals": {
+   "text": "As a teenager, the cellist Pablo Casals found an old edition in a Barcelona shop.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "As",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "teenager,",
+     "t": 0.44,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "cellist",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "Pablo",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "Casals",
+     "t": 2.28,
+     "end": 2.88
+    },
+    {
+     "w": "found",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "an",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "old",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "edition",
+     "t": 3.8,
+     "end": 4.08
+    },
+    {
+     "w": "in",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "Barcelona",
+     "t": 4.44,
+     "end": 4.96
+    },
+    {
+     "w": "shop.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "casals2": {
+   "text": "Later, he made the first complete recording, from 1936 to 1939... and made them famous.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Later,",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "he",
+     "t": 0.64,
+     "end": 0.76
+    },
+    {
+     "w": "made",
+     "t": 0.8,
+     "end": 0.94
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.093
+    },
+    {
+     "w": "first",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "complete",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "recording,",
+     "t": 2.12,
+     "end": 2.88
+    },
+    {
+     "w": "from",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "1936",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "to",
+     "t": 3.52,
+     "end": 4.4
+    },
+    {
+     "w": "1939...",
+     "t": 4.44,
+     "end": 6
+    },
+    {
+     "w": "and",
+     "t": 6.12,
+     "end": 6.24
+    },
+    {
+     "w": "made",
+     "t": 6.36,
+     "end": 6.48
+    },
+    {
+     "w": "them",
+     "t": 6.6,
+     "end": 6.72
+    },
+    {
+     "w": "famous.",
+     "t": 6.8,
+     "end": 7.68
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Listen to the lowest note.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Listen",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "to",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "lowest",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "note.",
+     "t": 3.28,
+     "end": 3.92
+    }
+   ]
+  },
+  "why1b": {
+   "text": "The open G string comes back at the start of each pattern, like a bass note. A pedal point.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "open",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "G",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "string",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "comes",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "back",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "at",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "start",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "each",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "pattern,",
+     "t": 2.92,
+     "end": 3.36
+    },
+    {
+     "w": "like",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "bass",
+     "t": 3.72,
+     "end": 3.92
+    },
+    {
+     "w": "note.",
+     "t": 4,
+     "end": 4.52
+    },
+    {
+     "w": "A",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "pedal",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "point.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "Above it, the notes outline chords.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "Above",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "it,",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.92
+    },
+    {
+     "w": "notes",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "outline",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "chords.",
+     "t": 1.84,
+     "end": 2.8
+    }
+   ]
+  },
+  "why2b": {
+   "text": "G major. C major over G. D seven over G. And G again.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.12
+    },
+    {
+     "w": "major.",
+     "t": 0.12,
+     "end": 0.32
+    },
+    {
+     "w": "C",
+     "t": 0.32,
+     "end": 0.32
+    },
+    {
+     "w": "major",
+     "t": 0.32,
+     "end": 1.744
+    },
+    {
+     "w": "over",
+     "t": 1.808,
+     "end": 2.16
+    },
+    {
+     "w": "G.",
+     "t": 2.2,
+     "end": 2.28
+    },
+    {
+     "w": "D",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "seven",
+     "t": 2.72,
+     "end": 3.92
+    },
+    {
+     "w": "over",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "G.",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "And",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "G",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "again.",
+     "t": 5.68,
+     "end": 6.32
+    }
+   ]
+  },
+  "why2c": {
+   "text": "One, four, five, one.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "One,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "four,",
+     "t": 0.92,
+     "end": 1.52
+    },
+    {
+     "w": "five,",
+     "t": 1.72,
+     "end": 2.08
+    },
+    {
+     "w": "one.",
+     "t": 2.16,
+     "end": 2.72
+    }
+   ]
+  },
+  "why3": {
+   "text": "The cello mostly plays one note at a time... but your ear connects them into chords.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "cello",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "mostly",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "plays",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "one",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "note",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "at",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "time...",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "but",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "your",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "ear",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "connects",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "them",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "into",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "chords.",
+     "t": 5.2,
+     "end": 6.08
+    }
+   ]
+  },
+  "why4": {
+   "text": "And the same pattern repeats, with small changes...",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "same",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "pattern",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "repeats,",
+     "t": 1.12,
+     "end": 2
+    },
+    {
+     "w": "with",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "small",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "changes...",
+     "t": 2.64,
+     "end": 3.52
+    }
+   ]
+  },
+  "why4b": {
+   "text": "a hypnotic flow, like Bach's Prelude in C.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "a",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hypnotic",
+     "t": 0.28,
+     "end": 0.8
+    },
+    {
+     "w": "flow,",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "like",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "Bach's",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "Prelude",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "in",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "C.",
+     "t": 3.28,
+     "end": 3.92
+    }
+   ]
+  },
+  "essence": {
+   "text": "One line of notes, and the ear builds the chords. A whole orchestra inside one cello.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "line",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "notes,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "ear",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "builds",
+     "t": 2.16,
+     "end": 2.44
+    },
+    {
+     "w": "the",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "chords.",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "A",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "whole",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "orchestra",
+     "t": 4.32,
+     "end": 4.96
+    },
+    {
+     "w": "inside",
+     "t": 5.12,
+     "end": 5.6
+    },
+    {
+     "w": "one",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "cello.",
+     "t": 6,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,884 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Fourteen pieces of music... each one a portrait of a friend.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Fourteen",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "pieces",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "music...",
+     "t": 1.28,
+     "end": 2.32
+    },
+    {
+     "w": "each",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "one",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "portrait",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "of",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "friend.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Edward Elgar's Enigma Variations, from 1899: a theme and fourteen variations.",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Edward",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "Elgar's",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "Enigma",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "Variations,",
+     "t": 2.08,
+     "end": 3.04
+    },
+    {
+     "w": "from",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "1899:",
+     "t": 3.28,
+     "end": 4.8
+    },
+    {
+     "w": "a",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "theme",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "fourteen",
+     "t": 5.88,
+     "end": 6.16
+    },
+    {
+     "w": "variations.",
+     "t": 6.32,
+     "end": 7.44
+    }
+   ]
+  },
+  "what2": {
+   "text": "Each one portrays someone close to him: friends, his wife, and finally himself.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "portrays",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "someone",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "close",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "to",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "him:",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "friends,",
+     "t": 2.72,
+     "end": 3.44
+    },
+    {
+     "w": "his",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "wife,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "finally",
+     "t": 4.64,
+     "end": 5.12
+    },
+    {
+     "w": "himself.",
+     "t": 5.36,
+     "end": 6.24
+    }
+   ]
+  },
+  "nimrod": {
+   "text": "Variation nine, Nimrod, portrays his friend and publisher, Augustus Jaeger.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Variation",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "nine,",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "Nimrod,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "portrays",
+     "t": 2.76,
+     "end": 3.12
+    },
+    {
+     "w": "his",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "friend",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "publisher,",
+     "t": 3.92,
+     "end": 4.64
+    },
+    {
+     "w": "Augustus",
+     "t": 4.84,
+     "end": 5.2
+    },
+    {
+     "w": "Jaeger.",
+     "t": 5.28,
+     "end": 6
+    }
+   ]
+  },
+  "hunter": {
+   "text": "Jäger means hunter in German... and Nimrod is the mighty hunter of the Bible.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Jäger",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "means",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "hunter",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "German...",
+     "t": 1.96,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "Nimrod",
+     "t": 2.92,
+     "end": 3.44
+    },
+    {
+     "w": "is",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "mighty",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "hunter",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "of",
+     "t": 4.84,
+     "end": 4.88
+    },
+    {
+     "w": "the",
+     "t": 4.96,
+     "end": 5
+    },
+    {
+     "w": "Bible.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "cenotaph": {
+   "text": "In Britain, it's often played at remembrance ceremonies, such as at the Cenotaph.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Britain,",
+     "t": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "it's",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "often",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "played",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "at",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "remembrance",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "ceremonies,",
+     "t": 2.48,
+     "end": 3.44
+    },
+    {
+     "w": "such",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "as",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "at",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "Cenotaph.",
+     "t": 4.24,
+     "end": 5.2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? First, the enigma.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "does",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "work?",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "First,",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.24
+    },
+    {
+     "w": "enigma.",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Elgar hinted that another well known theme goes with his main theme, without being played.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Elgar",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "hinted",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "that",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "another",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "well",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "known",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "theme",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "goes",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "with",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "his",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "main",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "theme,",
+     "t": 3.52,
+     "end": 4.16
+    },
+    {
+     "w": "without",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "being",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "played.",
+     "t": 4.88,
+     "end": 5.6
+    }
+   ]
+  },
+  "why1c": {
+   "text": "He never revealed which one. People still debate it.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "never",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "revealed",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "which",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "one.",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "People",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "still",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "debate",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "it.",
+     "t": 3.24,
+     "end": 3.6
+    }
+   ]
+  },
+  "why2": {
+   "text": "Nimrod itself is slow, in E flat major.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "Nimrod",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "itself",
+     "t": 0.6,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "slow,",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "in",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "E",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "flat",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "major.",
+     "t": 3.04,
+     "end": 3.76
+    }
+   ]
+  },
+  "why2b": {
+   "text": "It grows from very quiet to a powerful climax... then fades away.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "grows",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "from",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "very",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "quiet",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "to",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "powerful",
+     "t": 2.52,
+     "end": 2.96
+    },
+    {
+     "w": "climax...",
+     "t": 3.04,
+     "end": 4.32
+    },
+    {
+     "w": "then",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "fades",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "away.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why3": {
+   "text": "And each variation changes rhythm, tempo and character to suggest a personality.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "each",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "variation",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "changes",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "rhythm,",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "tempo",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "character",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "to",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "suggest",
+     "t": 4.28,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "personality.",
+     "t": 4.64,
+     "end": 5.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "Fourteen friends, one theme, and a riddle. Music as a photo album.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Fourteen",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "friends,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "one",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "theme,",
+     "t": 1.84,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "riddle.",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "Music",
+     "t": 4,
+     "end": 4.48
+    },
+    {
+     "w": "as",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "photo",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "album.",
+     "t": 5.28,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
