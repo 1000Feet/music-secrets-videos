@@ -1,0 +1,916 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Does Mozart make you smarter? Here's what the science actually found.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Does",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Mozart",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "make",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "you",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "smarter?",
+     "t": 1.36,
+     "end": 2.32
+    },
+    {
+     "w": "Here's",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "what",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "science",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "actually",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "found.",
+     "t": 4.08,
+     "end": 4.72
+    }
+   ]
+  },
+  "what": {
+   "text": "In 1993, Rauscher, Shaw and Ky published a short paper in Nature.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1993,",
+     "t": 0.24,
+     "end": 1.68
+    },
+    {
+     "w": "Rauscher,",
+     "t": 1.76,
+     "end": 2.4
+    },
+    {
+     "w": "Shaw",
+     "t": 2.44,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "Ky",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "published",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "short",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "paper",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "in",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "Nature.",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "what2": {
+   "text": "College students heard Mozart's Sonata for Two Pianos, K 448.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "College",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "students",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "heard",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "Mozart's",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "Sonata",
+     "t": 1.96,
+     "end": 2.32
+    },
+    {
+     "w": "for",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "Two",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Pianos,",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "K",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "448.",
+     "t": 4.16,
+     "end": 5.52
+    }
+   ]
+  },
+  "what3": {
+   "text": "Then they scored slightly higher on a spatial reasoning task.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "they",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "scored",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "slightly",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "higher",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "on",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "spatial",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "reasoning",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "task.",
+     "t": 3.2,
+     "end": 3.92
+    }
+   ]
+  },
+  "media": {
+   "text": "The media spun it: Mozart makes babies smarter.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "media",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "spun",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "it:",
+     "t": 1.16,
+     "end": 1.76
+    },
+    {
+     "w": "Mozart",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "makes",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "babies",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "smarter.",
+     "t": 3.36,
+     "end": 4.16
+    }
+   ]
+  },
+  "ga": {
+   "text": "In 1998, Georgia's governor Zell Miller...",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1998,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "Georgia's",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "governor",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "Zell",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "Miller...",
+     "t": 3.12,
+     "end": 3.76
+    }
+   ]
+  },
+  "ga2": {
+   "text": "proposed a classical music CD for every newborn in the state.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "proposed",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "classical",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "music",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "CD",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "for",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "every",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "newborn",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "in",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "state.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So what's the truth? The effect was small, and lasted only about 10 to 15 minutes.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "what's",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "truth?",
+     "t": 0.88,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "effect",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "was",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "small,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "lasted",
+     "t": 3.64,
+     "end": 3.92
+    },
+    {
+     "w": "only",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "about",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "10",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "to",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "15",
+     "t": 5.013,
+     "end": 5.36
+    },
+    {
+     "w": "minutes.",
+     "t": 5.44,
+     "end": 6.16
+    }
+   ]
+  },
+  "why2": {
+   "text": "It was never about babies or general intelligence: adults, one kind of task.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "was",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "never",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "about",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "babies",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "or",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "general",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "intelligence:",
+     "t": 2.4,
+     "end": 3.6
+    },
+    {
+     "w": "adults,",
+     "t": 3.8,
+     "end": 4.48
+    },
+    {
+     "w": "one",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "kind",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "of",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "task.",
+     "t": 5.12,
+     "end": 5.84
+    }
+   ]
+  },
+  "why3": {
+   "text": "Reviews of many later studies found little or no special Mozart effect.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Reviews",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "many",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "later",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "studies",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "found",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "little",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "or",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "no",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "special",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "Mozart",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "effect.",
+     "t": 4.6,
+     "end": 5.12
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Any short boost is better explained by mood and arousal...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Any",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "short",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "boost",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "is",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "better",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "explained",
+     "t": 1.88,
+     "end": 2.16
+    },
+    {
+     "w": "by",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "mood",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "arousal...",
+     "t": 3.16,
+     "end": 4
+    }
+   ]
+  },
+  "why3c": {
+   "text": "and any enjoyable, energising music can do it.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "any",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "enjoyable,",
+     "t": 0.68,
+     "end": 1.6
+    },
+    {
+     "w": "energising",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "music",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "can",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "do",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "it.",
+     "t": 3.4,
+     "end": 3.76
+    }
+   ]
+  },
+  "why4": {
+   "text": "Actually learning to play music is a different question.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "Actually",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "learning",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "to",
+     "t": 1.12,
+     "end": 1.16
+    },
+    {
+     "w": "play",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "music",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "a",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "different",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "question.",
+     "t": 2.72,
+     "end": 3.52
+    }
+   ]
+  },
+  "essence": {
+   "text": "Mozart won't make you a genius. But music that lifts your mood can lift your focus, for a while.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "Mozart",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "won't",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "make",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "you",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "a",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "genius.",
+     "t": 1.44,
+     "end": 2.24
+    },
+    {
+     "w": "But",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "music",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "that",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "lifts",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "your",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "mood",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "can",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "lift",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "your",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "focus,",
+     "t": 5.08,
+     "end": 5.76
+    },
+    {
+     "w": "for",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "a",
+     "t": 6,
+     "end": 6.04
+    },
+    {
+     "w": "while.",
+     "t": 6.08,
+     "end": 6.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

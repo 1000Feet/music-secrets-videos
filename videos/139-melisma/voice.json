@@ -1,0 +1,928 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One syllable, and a whole cascade of notes. That's a melisma.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "syllable,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.36,
+     "end": 1.48
+    },
+    {
+     "w": "whole",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "cascade",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "of",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "notes.",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "That's",
+     "t": 3.8,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "melisma.",
+     "t": 4.28,
+     "end": 5.12
+    }
+   ]
+  },
+  "what": {
+   "text": "The singer stretches one vowel over a run of notes.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "singer",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "stretches",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "one",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "vowel",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "over",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "run",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "of",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "notes.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "handel": {
+   "text": "In Handel's Messiah, 1742, the chorus For unto us a Child is born...",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Handel's",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "Messiah,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "1742,",
+     "t": 1.56,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "chorus",
+     "t": 3.4,
+     "end": 3.76
+    },
+    {
+     "w": "For",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "unto",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "us",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "a",
+     "t": 5.2,
+     "end": 5.32
+    },
+    {
+     "w": "Child",
+     "t": 5.44,
+     "end": 5.84
+    },
+    {
+     "w": "is",
+     "t": 5.92,
+     "end": 6
+    },
+    {
+     "w": "born...",
+     "t": 6.08,
+     "end": 6.8
+    }
+   ]
+  },
+  "handel2": {
+   "text": "spins long runs on the word born.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "spins",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "long",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "runs",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "on",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "word",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "born.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "chant": {
+   "text": "Gregorian chant spins long melismas on the final a of Alleluia.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Gregorian",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "chant",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "spins",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "long",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "melismas",
+     "t": 2.04,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "final",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "Alleluia.",
+     "t": 4.24,
+     "end": 5.28
+    }
+   ]
+  },
+  "gospel": {
+   "text": "In gospel and R and B, Whitney Houston and Mariah Carey made runs a signature.",
+   "dur": 5.799184,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "gospel",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "and",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "R",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "and",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "B,",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "Whitney",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "Houston",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "Mariah",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "Carey",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "made",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "runs",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "signature.",
+     "t": 4.8,
+     "end": 5.76
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Syllabic singing is one note per syllable.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.24,
+     "end": 1.76
+    },
+    {
+     "w": "Syllabic",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "singing",
+     "t": 2.64,
+     "end": 3.04
+    },
+    {
+     "w": "is",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "one",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "note",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "per",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "syllable.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Clear, perfect for telling a story.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "Clear,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "perfect",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "for",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "telling",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "story.",
+     "t": 2.08,
+     "end": 2.8
+    }
+   ]
+  },
+  "why2": {
+   "text": "Melisma stretches one syllable over many notes...",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Melisma",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "stretches",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "one",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "syllable",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "over",
+     "t": 2.28,
+     "end": 2.48
+    },
+    {
+     "w": "many",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "notes...",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "why2b": {
+   "text": "and the voice takes over from the words.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "voice",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "takes",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "over",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "words.",
+     "t": 1.92,
+     "end": 2.72
+    }
+   ]
+  },
+  "why3": {
+   "text": "Runs race through a scale, often pentatonic or blues in R and B...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Runs",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "race",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "through",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "scale,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "often",
+     "t": 2.12,
+     "end": 2.32
+    },
+    {
+     "w": "pentatonic",
+     "t": 2.4,
+     "end": 3.2
+    },
+    {
+     "w": "or",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "blues",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "R",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "and",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "B...",
+     "t": 4.6,
+     "end": 5.04
+    }
+   ]
+  },
+  "why3b": {
+   "text": "decorating one simple target note.",
+   "dur": 2.76898,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "decorating",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "one",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "simple",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "target",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "note.",
+     "t": 2.08,
+     "end": 2.72
+    }
+   ]
+  },
+  "why4": {
+   "text": "It shows control and emotion: the word holds while the melody blossoms.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "shows",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "control",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "emotion:",
+     "t": 1.6,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "word",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "holds",
+     "t": 3.36,
+     "end": 3.92
+    },
+    {
+     "w": "while",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "melody",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "blossoms.",
+     "t": 4.88,
+     "end": 6
+    }
+   ]
+  },
+  "why5": {
+   "text": "You hear it in chant, Baroque arias, Arabic and Indian singing, and gospel.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "in",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "chant,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "Baroque",
+     "t": 1.56,
+     "end": 1.84
+    },
+    {
+     "w": "arias,",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "Arabic",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "and",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "Indian",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "singing,",
+     "t": 3.92,
+     "end": 4.56
+    },
+    {
+     "w": "and",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "gospel.",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "One syllable, many notes: the moment the voice speaks louder than the words.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "syllable,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "many",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "notes:",
+     "t": 1.68,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "moment",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "voice",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "speaks",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "louder",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "than",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "the",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "words.",
+     "t": 5.12,
+     "end": 5.92
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,889 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Everybody hits the first beat, hard. Then everything else dances around it. That's funk.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Everybody",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "hits",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "first",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "beat,",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "hard.",
+     "t": 2,
+     "end": 2.72
+    },
+    {
+     "w": "Then",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "everything",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "else",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "dances",
+     "t": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "around",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "it.",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "That's",
+     "t": 5.68,
+     "end": 6.08
+    },
+    {
+     "w": "funk.",
+     "t": 6.16,
+     "end": 6.8
+    }
+   ]
+  },
+  "what": {
+   "text": "James Brown built funk around the one: a heavy accent on beat one.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "James",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Brown",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "built",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "funk",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "around",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "one:",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "heavy",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "accent",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "on",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "beat",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "one.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "s1": {
+   "text": "Papa's Got a Brand New Bag, from 1965, and Cold Sweat, from 1967...",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Papa's",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Got",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Brand",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "New",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "Bag,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "from",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "1965,",
+     "t": 2.24,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "Cold",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "Sweat,",
+     "t": 4.64,
+     "end": 5.2
+    },
+    {
+     "w": "from",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "1967...",
+     "t": 5.44,
+     "end": 6.8
+    }
+   ]
+  },
+  "s1b": {
+   "text": "are often cited as founding funk records.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "are",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "often",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "cited",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "as",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "founding",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "funk",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "records.",
+     "t": 2.24,
+     "end": 3.04
+    }
+   ]
+  },
+  "s2": {
+   "text": "And Clyde Stubblefield's drum break on Funky Drummer, from 1970...",
+   "dur": 4.597551,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Clyde",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "Stubblefield's",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "drum",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "break",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "on",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Funky",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "Drummer,",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "from",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "1970...",
+     "t": 3.36,
+     "end": 4.56
+    }
+   ]
+  },
+  "s2b": {
+   "text": "became one of the most widely sampled breaks in hip hop.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "became",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "one",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "most",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "widely",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "sampled",
+     "t": 1.68,
+     "end": 2.04
+    },
+    {
+     "w": "breaks",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "in",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "hip",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "hop.",
+     "t": 3.04,
+     "end": 3.36
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Funk lives on a sixteenth note grid: every beat split in four.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.72
+    },
+    {
+     "w": "Funk",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "lives",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "on",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "a",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "sixteenth",
+     "t": 2.96,
+     "end": 3.52
+    },
+    {
+     "w": "note",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "grid:",
+     "t": 3.84,
+     "end": 4.64
+    },
+    {
+     "w": "every",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "beat",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "split",
+     "t": 5.52,
+     "end": 5.84
+    },
+    {
+     "w": "in",
+     "t": 5.92,
+     "end": 6
+    },
+    {
+     "w": "four.",
+     "t": 6.16,
+     "end": 6.8
+    }
+   ]
+  },
+  "why2": {
+   "text": "On the one, everybody hits hard. That's the anchor.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "one,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "everybody",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "hits",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "hard.",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "That's",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "anchor.",
+     "t": 3.68,
+     "end": 4.48
+    }
+   ]
+  },
+  "why3": {
+   "text": "Everything else is syncopated: short guitar chops, the chicken scratch...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Everything",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "else",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "syncopated:",
+     "t": 1.08,
+     "end": 2.16
+    },
+    {
+     "w": "short",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "guitar",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "chops,",
+     "t": 2.88,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "chicken",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "scratch...",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3b": {
+   "text": "bass notes between the beats, and horn stabs.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "bass",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "between",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.16
+    },
+    {
+     "w": "beats,",
+     "t": 1.2,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "horn",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "stabs.",
+     "t": 2.4,
+     "end": 3.28
+    }
+   ]
+  },
+  "why4": {
+   "text": "Each part is small and repeats. Together, they lock like gears.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "part",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "small",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "repeats.",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "Together,",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "they",
+     "t": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "lock",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "like",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "gears.",
+     "t": 4.32,
+     "end": 5.2
+    }
+   ]
+  },
+  "why5": {
+   "text": "The harmony often sits on one chord, often a dominant ninth, so rhythm carries the music.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "harmony",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "often",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "sits",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "on",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "one",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "chord,",
+     "t": 1.92,
+     "end": 2.64
+    },
+    {
+     "w": "often",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "dominant",
+     "t": 3.4,
+     "end": 3.76
+    },
+    {
+     "w": "ninth,",
+     "t": 3.84,
+     "end": 4.56
+    },
+    {
+     "w": "so",
+     "t": 4.64,
+     "end": 4.8
+    },
+    {
+     "w": "rhythm",
+     "t": 4.88,
+     "end": 5.36
+    },
+    {
+     "w": "carries",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "the",
+     "t": 5.787,
+     "end": 5.813
+    },
+    {
+     "w": "music.",
+     "t": 5.84,
+     "end": 6.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Hit the one, then let every part dance around it. That's funk.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Hit",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "one,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "then",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "let",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "every",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "part",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "dance",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "around",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "it.",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "That's",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "funk.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}
