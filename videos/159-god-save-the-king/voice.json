@@ -1,0 +1,917 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One melody... and several countries sing it as their very own.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "melody...",
+     "t": 0.4,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "several",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "countries",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "sing",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "it",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "as",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "their",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "very",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "own.",
+     "t": 3.84,
+     "end": 4.4
+    }
+   ]
+  },
+  "what": {
+   "text": "This is God Save the King.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "God",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "Save",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "King.",
+     "t": 1.76,
+     "end": 2.48
+    }
+   ]
+  },
+  "what2": {
+   "text": "Its origin is unknown. It was first published in 1744.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "origin",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "unknown.",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "It",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "was",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "first",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "published",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "1744.",
+     "t": 3.44,
+     "end": 4.96
+    }
+   ]
+  },
+  "us": {
+   "text": "In America, the same tune became My Country, 'Tis of Thee...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "America,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "same",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "tune",
+     "t": 1.56,
+     "end": 1.76
+    },
+    {
+     "w": "became",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "My",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "Country,",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "'Tis",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "of",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "Thee...",
+     "t": 3.92,
+     "end": 4.48
+    }
+   ]
+  },
+  "us2": {
+   "text": "with lyrics by Samuel Francis Smith, in 1831.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "with",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "lyrics",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "by",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "Samuel",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Francis",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "Smith,",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "in",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "1831.",
+     "t": 2.88,
+     "end": 4.24
+    }
+   ]
+  },
+  "lie": {
+   "text": "And Liechtenstein's national anthem, Oben am jungen Rhein, uses exactly the same melody.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Liechtenstein's",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "national",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "anthem,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "Oben",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "am",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "jungen",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "Rhein,",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "uses",
+     "t": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "exactly",
+     "t": 4.48,
+     "end": 5.12
+    },
+    {
+     "w": "the",
+     "t": 5.2,
+     "end": 5.36
+    },
+    {
+     "w": "same",
+     "t": 5.48,
+     "end": 5.6
+    },
+    {
+     "w": "melody.",
+     "t": 5.68,
+     "end": 6.32
+    }
+   ]
+  },
+  "why0": {
+   "text": "So why does it work?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "does",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "work?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  },
+  "why1": {
+   "text": "It's in three four time. Slow, stately, a dignified dance.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "in",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "three",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "four",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "time.",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "Slow,",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "stately,",
+     "t": 2.88,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "dignified",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "dance.",
+     "t": 4.72,
+     "end": 5.52
+    }
+   ]
+  },
+  "why2": {
+   "text": "The phrases are unusual. The first is six bars long, the second is eight.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "phrases",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "are",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "unusual.",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "The",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "first",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "is",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "six",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "bars",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "long,",
+     "t": 3.68,
+     "end": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "second",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "is",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "eight.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Not the usual four plus four.",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "Not",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "usual",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "four",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "four.",
+     "t": 1.68,
+     "end": 2.32
+    }
+   ]
+  },
+  "why2c": {
+   "text": "Fourteen bars in all.",
+   "dur": 1.724082,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "Fourteen",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "bars",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "all.",
+     "t": 1.2,
+     "end": 1.76
+    }
+   ]
+  },
+  "why3": {
+   "text": "The melody moves mostly by step, in a small range...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "melody",
+     "t": 0.28,
+     "end": 0.64
+    },
+    {
+     "w": "moves",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "mostly",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "by",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "step,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "in",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "small",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "range...",
+     "t": 3.12,
+     "end": 3.92
+    }
+   ]
+  },
+  "why3b": {
+   "text": "so a whole crowd can sing it.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "whole",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "crowd",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "can",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "sing",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "it.",
+     "t": 1.76,
+     "end": 2.24
+    }
+   ]
+  },
+  "why4": {
+   "text": "And a simple tune, with no rhythms tied to particular words...",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "simple",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "tune,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "with",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "no",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "rhythms",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "tied",
+     "t": 2.36,
+     "end": 2.64
+    },
+    {
+     "w": "to",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "particular",
+     "t": 2.84,
+     "end": 3.28
+    },
+    {
+     "w": "words...",
+     "t": 3.36,
+     "end": 4.24
+    }
+   ]
+  },
+  "why4b": {
+   "text": "is easy to give new lyrics.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "is",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "easy",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "to",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "give",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "new",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "lyrics.",
+     "t": 1.36,
+     "end": 2.24
+    }
+   ]
+  },
+  "why4c": {
+   "text": "So one melody can serve several countries.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "melody",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "can",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "serve",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "several",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "countries.",
+     "t": 2.24,
+     "end": 3.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "One simple, singable tune... and several nations sing it as their own.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "simple,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "singable",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "tune...",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "several",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "nations",
+     "t": 3.32,
+     "end": 3.84
+    },
+    {
+     "w": "sing",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "it",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "as",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "their",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "own.",
+     "t": 4.56,
+     "end": 5.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
