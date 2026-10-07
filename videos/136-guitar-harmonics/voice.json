@@ -1,0 +1,894 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Barely touch a guitar string at the twelfth fret, then pluck. A bell rings out.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Barely",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "touch",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "a",
+     "t": 0.72,
+     "end": 0.76
+    },
+    {
+     "w": "guitar",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "string",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "at",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.8
+    },
+    {
+     "w": "twelfth",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "fret,",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "then",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "pluck.",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "A",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "bell",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "rings",
+     "t": 4.88,
+     "end": 5.12
+    },
+    {
+     "w": "out.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "what": {
+   "text": "Those are natural harmonics: touch, don't press, over certain frets.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Those",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "are",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "natural",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "harmonics:",
+     "t": 1.12,
+     "end": 2.32
+    },
+    {
+     "w": "touch,",
+     "t": 2.56,
+     "end": 3.12
+    },
+    {
+     "w": "don't",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "press,",
+     "t": 3.44,
+     "end": 4.16
+    },
+    {
+     "w": "over",
+     "t": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "certain",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "frets.",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "more": {
+   "text": "Over the seventh fret, a higher bell. Over the fifth, higher still.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Over",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "seventh",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "fret,",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "higher",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "bell.",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "Over",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "fifth,",
+     "t": 3.12,
+     "end": 3.76
+    },
+    {
+     "w": "higher",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "still.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? A string hides a whole series of harmonics.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "work?",
+     "t": 1.28,
+     "end": 1.96
+    },
+    {
+     "w": "A",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "string",
+     "t": 2.6,
+     "end": 2.8
+    },
+    {
+     "w": "hides",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "whole",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "series",
+     "t": 3.84,
+     "end": 4.24
+    },
+    {
+     "w": "of",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "harmonics.",
+     "t": 4.4,
+     "end": 5.44
+    }
+   ]
+  },
+  "h2": {
+   "text": "At the twelfth fret, halfway, the string splits into two halves: one octave up.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "twelfth",
+     "t": 0.36,
+     "end": 0.64
+    },
+    {
+     "w": "fret,",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "halfway,",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "string",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "splits",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "into",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "two",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "halves:",
+     "t": 3.84,
+     "end": 4.72
+    },
+    {
+     "w": "one",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "octave",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "up.",
+     "t": 5.6,
+     "end": 6
+    }
+   ]
+  },
+  "h3": {
+   "text": "At the seventh, a third of the way: three segments, an octave and a fifth.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "seventh,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "third",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "way:",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "three",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "segments,",
+     "t": 2.8,
+     "end": 3.52
+    },
+    {
+     "w": "an",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "octave",
+     "t": 3.76,
+     "end": 4.32
+    },
+    {
+     "w": "and",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.6
+    },
+    {
+     "w": "fifth.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "h4": {
+   "text": "At the fifth, a quarter: four segments, two octaves.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "At",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "fifth,",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "quarter:",
+     "t": 1.2,
+     "end": 2.16
+    },
+    {
+     "w": "four",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "segments,",
+     "t": 2.48,
+     "end": 3.28
+    },
+    {
+     "w": "two",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "octaves.",
+     "t": 3.52,
+     "end": 4.4
+    }
+   ]
+  },
+  "h5": {
+   "text": "Near the fourth: five segments, two octaves and a major third.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Near",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "fourth:",
+     "t": 0.4,
+     "end": 1.44
+    },
+    {
+     "w": "five",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "segments,",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "two",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "octaves",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "major",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "third.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "node": {
+   "text": "Your light touch makes a still point, called a node.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "light",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "touch",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "makes",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "still",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "point,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "called",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "node.",
+     "t": 3.36,
+     "end": 4.08
+    }
+   ]
+  },
+  "node2": {
+   "text": "It kills every vibration that would need to move there.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "kills",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "every",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "vibration",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "that",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "would",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "need",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "to",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "move",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "there.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "tune": {
+   "text": "Guitarists even tune with harmonics.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "Guitarists",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "even",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "tune",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "with",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "harmonics.",
+     "t": 1.8,
+     "end": 2.72
+    }
+   ]
+  },
+  "tune2": {
+   "text": "Fifth fret on one string, seventh on the next. If they differ, you hear beats.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Fifth",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "fret",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "on",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "one",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "string,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "seventh",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "on",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "next.",
+     "t": 2.64,
+     "end": 3.28
+    },
+    {
+     "w": "If",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "they",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "differ,",
+     "t": 3.973,
+     "end": 4.56
+    },
+    {
+     "w": "you",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "hear",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "beats.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "essence": {
+   "text": "A light touch, the right spot, and the string reveals its hidden harmonics.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "light",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "touch,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "right",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "spot,",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "string",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "reveals",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "its",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "hidden",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "harmonics.",
+     "t": 4.32,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

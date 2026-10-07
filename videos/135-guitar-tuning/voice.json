@@ -1,0 +1,1035 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Six strings: E, A, D, G, B, E. Why tune a guitar like that?",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Six",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "strings:",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "E,",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "A,",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "D,",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "G,",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "B,",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "E.",
+     "t": 4.88,
+     "end": 5.2
+    },
+    {
+     "w": "Why",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "tune",
+     "t": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "a",
+     "t": 6.4,
+     "end": 6.44
+    },
+    {
+     "w": "guitar",
+     "t": 6.48,
+     "end": 6.8
+    },
+    {
+     "w": "like",
+     "t": 6.88,
+     "end": 7.04
+    },
+    {
+     "w": "that?",
+     "t": 7.12,
+     "end": 7.68
+    }
+   ]
+  },
+  "what": {
+   "text": "Almost every neighbouring pair is a fourth apart. Except one.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Almost",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "every",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "neighbouring",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "pair",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "is",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "fourth",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "apart.",
+     "t": 2.48,
+     "end": 3.24
+    },
+    {
+     "w": "Except",
+     "t": 3.52,
+     "end": 3.92
+    },
+    {
+     "w": "one.",
+     "t": 4.08,
+     "end": 4.64
+    }
+   ]
+  },
+  "violin": {
+   "text": "A violin is tuned G, D, A, E, in fifths.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "violin",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "tuned",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "G,",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "D,",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "A,",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "E,",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "fifths.",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "cello": {
+   "text": "Viola and cello: C, G, D, A. Fifths again.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Viola",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "cello:",
+     "t": 0.8,
+     "end": 1.76
+    },
+    {
+     "w": "C,",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "G,",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "D,",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "A.",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "Fifths",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "again.",
+     "t": 5.16,
+     "end": 5.68
+    }
+   ]
+  },
+  "bass": {
+   "text": "The double bass? E, A, D, G. Fourths, like a guitar.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "double",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "bass?",
+     "t": 0.48,
+     "end": 1.16
+    },
+    {
+     "w": "E,",
+     "t": 1.44,
+     "end": 1.8
+    },
+    {
+     "w": "A,",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "D,",
+     "t": 2.32,
+     "end": 2.68
+    },
+    {
+     "w": "G.",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "Fourths,",
+     "t": 3.6,
+     "end": 4.32
+    },
+    {
+     "w": "like",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "guitar.",
+     "t": 4.6,
+     "end": 5.28
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? E to A is five half steps, a perfect fourth.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "E",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "to",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "A",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "is",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "five",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "half",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "steps,",
+     "t": 3.84,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "perfect",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "fourth.",
+     "t": 4.96,
+     "end": 5.68
+    }
+   ]
+  },
+  "why2": {
+   "text": "So are A to D, D to G, and B to E.",
+   "dur": 4.127347,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "are",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "A",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "to",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "D,",
+     "t": 1.04,
+     "end": 1.6
+    },
+    {
+     "w": "D",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "to",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "G,",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "B",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "E.",
+     "t": 3.52,
+     "end": 4.08
+    }
+   ]
+  },
+  "why3": {
+   "text": "But G to B is four half steps, a major third.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "G",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "B",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "is",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "four",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "half",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "steps,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.08
+    },
+    {
+     "w": "major",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "third.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "span": {
+   "text": "Fourths keep scales and chord shapes within one hand span.",
+   "dur": 4.127347,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Fourths",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "keep",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "scales",
+     "t": 0.88,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "chord",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "shapes",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "within",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "one",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "hand",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "span.",
+     "t": 3.36,
+     "end": 4.08
+    }
+   ]
+  },
+  "chords": {
+   "text": "That one third makes common open chords easy to finger...",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "third",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "makes",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "common",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "open",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "chords",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "easy",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "finger...",
+     "t": 3.36,
+     "end": 3.84
+    }
+   ]
+  },
+  "octaves": {
+   "text": "and puts the two E strings exactly two octaves apart.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "puts",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "two",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "E",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "strings",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "exactly",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "two",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "octaves",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "apart.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "fifths": {
+   "text": "The violin family uses fifths: wider gaps, so fewer strings cover the range.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "violin",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "family",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "uses",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "fifths:",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "wider",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "gaps,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "so",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "fewer",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "strings",
+     "t": 4.48,
+     "end": 4.96
+    },
+    {
+     "w": "cover",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.28,
+     "end": 5.32
+    },
+    {
+     "w": "range.",
+     "t": 5.36,
+     "end": 6.16
+    }
+   ]
+  },
+  "reach": {
+   "text": "On a small neck, a fifth is still within reach.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "small",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "neck,",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "fifth",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "is",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "still",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "within",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "reach.",
+     "t": 2.96,
+     "end": 3.68
+    }
+   ]
+  },
+  "dbass": {
+   "text": "A double bass is so large that fifths would mean huge stretches. So, fourths.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "double",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "bass",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "so",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "large",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "that",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "fifths",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "would",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "mean",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "huge",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "stretches.",
+     "t": 3.68,
+     "end": 4.72
+    },
+    {
+     "w": "So,",
+     "t": 4.84,
+     "end": 5.04
+    },
+    {
+     "w": "fourths.",
+     "t": 5.44,
+     "end": 6.24
+    }
+   ]
+  },
+  "essence": {
+   "text": "Fourths, one sneaky third, fifths for the violin.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Fourths,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "one",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "sneaky",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "third,",
+     "t": 1.84,
+     "end": 2.64
+    },
+    {
+     "w": "fifths",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "for",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "violin.",
+     "t": 3.52,
+     "end": 4.32
+    }
+   ]
+  },
+  "essence2": {
+   "text": "Every tuning is a compromise between hands and harmony.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "tuning",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "compromise",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "between",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "hands",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "and",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "harmony.",
+     "t": 3.28,
+     "end": 4.08
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

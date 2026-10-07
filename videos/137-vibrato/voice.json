@@ -1,0 +1,930 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Hold a note perfectly still, and it sounds cold.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Hold",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "note",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "perfectly",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "still,",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "it",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "sounds",
+     "t": 2.76,
+     "end": 2.96
+    },
+    {
+     "w": "cold.",
+     "t": 3.24,
+     "end": 3.84
+    }
+   ]
+  },
+  "hook2": {
+   "text": "Add a tiny wobble, and it comes alive.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "tiny",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "wobble,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "it",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "comes",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "alive.",
+     "t": 2.56,
+     "end": 3.12
+    }
+   ]
+  },
+  "what": {
+   "text": "That wobble is vibrato: a regular wave in pitch.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "wobble",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "vibrato:",
+     "t": 1.28,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "regular",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "wave",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "in",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "pitch.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "sing": {
+   "text": "Classical singers use it on most long notes...",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "singers",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "use",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "it",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "on",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "most",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "long",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "notes...",
+     "t": 2.32,
+     "end": 3.12
+    }
+   ]
+  },
+  "strings": {
+   "text": "and so do violinists and cellists.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "so",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "do",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "violinists",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "and",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "cellists.",
+     "t": 1.84,
+     "end": 2.72
+    }
+   ]
+  },
+  "guitar": {
+   "text": "Guitarists bend or shake the string. A whammy bar does it mechanically.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Guitarists",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "bend",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "or",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "shake",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "string.",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "A",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "whammy",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "bar",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "does",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "it",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "mechanically.",
+     "t": 4.24,
+     "end": 5.2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The pitch rises and falls a few times per second.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "pitch",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "rises",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "falls",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "few",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "times",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "per",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "second.",
+     "t": 4.48,
+     "end": 5.2
+    }
+   ]
+  },
+  "why2": {
+   "text": "In classical singing, roughly five to seven times.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "classical",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "singing,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "roughly",
+     "t": 1.64,
+     "end": 2.08
+    },
+    {
+     "w": "five",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "to",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "seven",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "times.",
+     "t": 3.04,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3": {
+   "text": "A violinist rocks the fingertip back and forth on the string.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "violinist",
+     "t": 0.28,
+     "end": 0.96
+    },
+    {
+     "w": "rocks",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "fingertip",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "back",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "and",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "forth",
+     "t": 3,
+     "end": 3.2
+    },
+    {
+     "w": "on",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.36,
+     "end": 3.4
+    },
+    {
+     "w": "string.",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Singers use the larynx and breath.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "Singers",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "use",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "larynx",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "breath.",
+     "t": 1.92,
+     "end": 2.64
+    }
+   ]
+  },
+  "why4": {
+   "text": "It makes a tone richer, and helps a solo voice stand out from an orchestra.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "makes",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "a",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "tone",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "richer,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "helps",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "solo",
+     "t": 2.44,
+     "end": 2.72
+    },
+    {
+     "w": "voice",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "stand",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "out",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "from",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "an",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "orchestra.",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "why5": {
+   "text": "Baroque specialists often use it more sparingly, as an ornament.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "Baroque",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "specialists",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "often",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "use",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "it",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "more",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "sparingly,",
+     "t": 2.32,
+     "end": 3.28
+    },
+    {
+     "w": "as",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "an",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "ornament.",
+     "t": 3.68,
+     "end": 4.4
+    }
+   ]
+  },
+  "fender": {
+   "text": "Fun fact: Fender called its pitch bending arm a tremolo arm...",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Fun",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "fact:",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "Fender",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "called",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "its",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "pitch",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "bending",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "arm",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "tremolo",
+     "t": 3.48,
+     "end": 3.92
+    },
+    {
+     "w": "arm...",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "fender2": {
+   "text": "and its amp volume effect, vibrato. Technically, backwards.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "its",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "amp",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "volume",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "effect,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "vibrato.",
+     "t": 2.04,
+     "end": 2.92
+    },
+    {
+     "w": "Technically,",
+     "t": 3.2,
+     "end": 4.04
+    },
+    {
+     "w": "backwards.",
+     "t": 4.24,
+     "end": 5.12
+    }
+   ]
+  },
+  "fender3": {
+   "text": "Vibrato is pitch. Tremolo is volume.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "Vibrato",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "pitch.",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "Tremolo",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "is",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "volume.",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "essence": {
+   "text": "A tiny wobble in pitch, and a cold note becomes a living voice.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tiny",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "wobble",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "pitch,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.293,
+     "end": 2.347
+    },
+    {
+     "w": "cold",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "note",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "becomes",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "living",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "voice.",
+     "t": 4.32,
+     "end": 5.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

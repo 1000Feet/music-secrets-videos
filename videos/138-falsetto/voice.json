@@ -1,0 +1,816 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A man's voice suddenly floats up, light and high.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "man's",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "voice",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "suddenly",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "floats",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "up,",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "light",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "high.",
+     "t": 3.68,
+     "end": 4.16
+    }
+   ]
+  },
+  "what": {
+   "text": "That's falsetto: a light register above the normal chest voice.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "falsetto:",
+     "t": 0.4,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "light",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "register",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "above",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "normal",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "chest",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "voice.",
+     "t": 3.92,
+     "end": 4.64
+    }
+   ]
+  },
+  "s1": {
+   "text": "You hear it in Stayin' Alive: Barry Gibb's falsetto.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Stayin'",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "Alive:",
+     "t": 1.32,
+     "end": 2
+    },
+    {
+     "w": "Barry",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "Gibb's",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "falsetto.",
+     "t": 2.8,
+     "end": 3.68
+    }
+   ]
+  },
+  "s2": {
+   "text": "In Prince's Kiss, the whole lead vocal is falsetto.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Prince's",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "Kiss,",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "whole",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "lead",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "vocal",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "is",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "falsetto.",
+     "t": 3,
+     "end": 3.84
+    }
+   ]
+  },
+  "s3": {
+   "text": "And Sherry, by Frankie Valli and the Four Seasons, with its famous falsetto hook.",
+   "dur": 5.642449,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Sherry,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "by",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "Frankie",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "Valli",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "Four",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "Seasons,",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "with",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "its",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "famous",
+     "t": 3.92,
+     "end": 4.32
+    },
+    {
+     "w": "falsetto",
+     "t": 4.44,
+     "end": 4.88
+    },
+    {
+     "w": "hook.",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? In chest voice, the vocal folds vibrate along their full thickness.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.32,
+     "end": 1.8
+    },
+    {
+     "w": "In",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "chest",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "voice,",
+     "t": 2.64,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.32
+    },
+    {
+     "w": "vocal",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "folds",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "vibrate",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "along",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "their",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "full",
+     "t": 5.32,
+     "end": 5.44
+    },
+    {
+     "w": "thickness.",
+     "t": 5.52,
+     "end": 6.4
+    }
+   ]
+  },
+  "why2": {
+   "text": "In falsetto, only their thin edges vibrate.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "falsetto,",
+     "t": 0.24,
+     "end": 1.2
+    },
+    {
+     "w": "only",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "their",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "thin",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "edges",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "vibrate.",
+     "t": 2.8,
+     "end": 3.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "The sound gets lighter, breathier, higher.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sound",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "gets",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "lighter,",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "breathier,",
+     "t": 1.76,
+     "end": 2.72
+    },
+    {
+     "w": "higher.",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "why4": {
+   "text": "So men can reach a range usually associated with women's voices...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "men",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "can",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "reach",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "range",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "usually",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "associated",
+     "t": 2.36,
+     "end": 2.72
+    },
+    {
+     "w": "with",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "women's",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "voices...",
+     "t": 3.44,
+     "end": 4.32
+    }
+   ]
+  },
+  "why4b": {
+   "text": "and the voice sounds more fragile and intimate.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "voice",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "sounds",
+     "t": 0.84,
+     "end": 1.04
+    },
+    {
+     "w": "more",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "fragile",
+     "t": 1.44,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "intimate.",
+     "t": 2.64,
+     "end": 3.52
+    }
+   ]
+  },
+  "why5": {
+   "text": "The break, where the voice flips between registers, is part of the effect.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "break,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "where",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "voice",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "flips",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "between",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "registers,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "is",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "part",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "of",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.92,
+     "end": 3.96
+    },
+    {
+     "w": "effect.",
+     "t": 4,
+     "end": 4.8
+    }
+   ]
+  },
+  "why6": {
+   "text": "Yodelling exploits it on purpose.",
+   "dur": 2.586122,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Yodelling",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "exploits",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "it",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "on",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "purpose.",
+     "t": 1.6,
+     "end": 2.56
+    }
+   ]
+  },
+  "why7": {
+   "text": "Classical countertenors use a related technique.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "Classical",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "countertenors",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "use",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "related",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "technique.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "essence": {
+   "text": "Let the voice go light, and a whole new register opens up.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Let",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "voice",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "go",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "light,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "whole",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "new",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "register",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "opens",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "up.",
+     "t": 3.68,
+     "end": 4.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
