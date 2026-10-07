@@ -1,0 +1,963 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A party in outer space... and hidden inside it, a hymn.",
+   "dur": 4.91102,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "party",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "in",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "outer",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "space...",
+     "t": 1.28,
+     "end": 2.4
+    },
+    {
+     "w": "and",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "hidden",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "inside",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "it,",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "hymn.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Jupiter, from Gustav Holst's The Planets...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Jupiter,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "from",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Gustav",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "Holst's",
+     "t": 2.24,
+     "end": 2.76
+    },
+    {
+     "w": "The",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "Planets...",
+     "t": 3.04,
+     "end": 3.92
+    }
+   ]
+  },
+  "what2": {
+   "text": "composed from 1914 to 1916.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "composed",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "from",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "1914",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "to",
+     "t": 1.4,
+     "end": 2.16
+    },
+    {
+     "w": "1916.",
+     "t": 2.2,
+     "end": 3.52
+    }
+   ]
+  },
+  "seven": {
+   "text": "Seven movements, one for each planet known to astrology.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "movements,",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "for",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "each",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "planet",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "known",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "astrology.",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "noearth": {
+   "text": "No Earth... and Pluto wasn't discovered until 1930.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Earth...",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Pluto",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "wasn't",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "discovered",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "until",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "1930.",
+     "t": 3.2,
+     "end": 4.4
+    }
+   ]
+  },
+  "mars": {
+   "text": "Mars, the Bringer of War, is even in five four.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Mars,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "Bringer",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "of",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "War,",
+     "t": 1.68,
+     "end": 2.32
+    },
+    {
+     "w": "is",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "even",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "in",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "five",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "four.",
+     "t": 3.44,
+     "end": 4.16
+    }
+   ]
+  },
+  "jup": {
+   "text": "Jupiter is the Bringer of Jollity.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "Jupiter",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "Bringer",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "Jollity.",
+     "t": 1.84,
+     "end": 2.72
+    }
+   ]
+  },
+  "hymn": {
+   "text": "In 1921, its slow central tune was adapted as a hymn...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1921,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "its",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "slow",
+     "t": 2.12,
+     "end": 2.32
+    },
+    {
+     "w": "central",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "tune",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "was",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "adapted",
+     "t": 3.72,
+     "end": 4.08
+    },
+    {
+     "w": "as",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "hymn...",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "hymn2": {
+   "text": "I Vow to Thee, My Country. The tune is called Thaxted.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "I",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Vow",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Thee,",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "My",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "Country.",
+     "t": 1.68,
+     "end": 2.16
+    },
+    {
+     "w": "The",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "tune",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "is",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "called",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "Thaxted.",
+     "t": 3.84,
+     "end": 4.72
+    }
+   ]
+  },
+  "why0": {
+   "text": "So why does it work?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.2,
+     "end": 1.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "The outer sections are fast, syncopated and festive.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "outer",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "sections",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "are",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "fast,",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "syncopated",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "festive.",
+     "t": 3.2,
+     "end": 4.08
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then everything slows into a broad, singable melody in E flat major.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.42
+    },
+    {
+     "w": "everything",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "slows",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "into",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "a",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "broad,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "singable",
+     "t": 3.08,
+     "end": 3.44
+    },
+    {
+     "w": "melody",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "E",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "flat",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "major.",
+     "t": 4.88,
+     "end": 5.6
+    }
+   ]
+  },
+  "why2b": {
+   "text": "A hymn hidden inside a dance.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hymn",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "hidden",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "inside",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "dance.",
+     "t": 1.92,
+     "end": 2.8
+    }
+   ]
+  },
+  "why3": {
+   "text": "A wide range, mostly step by step, with a few big leaps.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "wide",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "range,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "mostly",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "step",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "by",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "step,",
+     "t": 2.48,
+     "end": 3.12
+    },
+    {
+     "w": "with",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "few",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "big",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "leaps.",
+     "t": 4.16,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3b": {
+   "text": "That makes it feel noble.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "makes",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "feel",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "noble.",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  },
+  "why4": {
+   "text": "And each planet gets its own character...",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "each",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "planet",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "gets",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "its",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "own",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "character...",
+     "t": 1.76,
+     "end": 2.64
+    }
+   ]
+  },
+  "why4c": {
+   "text": "through orchestration and rhythm.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "through",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "orchestration",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "and",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "rhythm.",
+     "t": 1.52,
+     "end": 2.24
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Music as personality.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "Music",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "as",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "personality.",
+     "t": 0.96,
+     "end": 2.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "A party, then a hymn...",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "party,",
+     "t": 0.24,
+     "end": 1.04
+    },
+    {
+     "w": "then",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "hymn...",
+     "t": 1.44,
+     "end": 2.08
+    }
+   ]
+  },
+  "essence2": {
+   "text": "and one tune travelled from the stars to the church.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "one",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "tune",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "travelled",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "stars",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "to",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "church.",
+     "t": 2.96,
+     "end": 3.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

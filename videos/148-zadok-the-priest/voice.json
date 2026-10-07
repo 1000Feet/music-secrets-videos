@@ -1,0 +1,897 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A quiet, rippling introduction... that builds, and builds... until it explodes.",
+   "dur": 7.47102,
+   "speechEnd": 7.52,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "quiet,",
+     "t": 0.24,
+     "end": 1.12
+    },
+    {
+     "w": "rippling",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "introduction...",
+     "t": 1.76,
+     "end": 3.12
+    },
+    {
+     "w": "that",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "builds,",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "and",
+     "t": 4.52,
+     "end": 4.64
+    },
+    {
+     "w": "builds...",
+     "t": 4.72,
+     "end": 5.76
+    },
+    {
+     "w": "until",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "it",
+     "t": 6.16,
+     "end": 6.2
+    },
+    {
+     "w": "explodes.",
+     "t": 6.24,
+     "end": 7.52
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Zadok the Priest, by Handel, from 1727.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "Zadok",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "Priest,",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "by",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "Handel,",
+     "t": 2.32,
+     "end": 3.04
+    },
+    {
+     "w": "from",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "1727.",
+     "t": 3.36,
+     "end": 4.88
+    }
+   ]
+  },
+  "what2": {
+   "text": "One of four Coronation Anthems he wrote for King George the Second.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "of",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "four",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "Coronation",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "Anthems",
+     "t": 1.56,
+     "end": 1.92
+    },
+    {
+     "w": "he",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "wrote",
+     "t": 2.12,
+     "end": 2.32
+    },
+    {
+     "w": "for",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "King",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "George",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "Second.",
+     "t": 3.36,
+     "end": 4.16
+    }
+   ]
+  },
+  "since": {
+   "text": "It has been performed at every British coronation since...",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "has",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "been",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "performed",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "at",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "every",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "British",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "coronation",
+     "t": 2.2,
+     "end": 2.8
+    },
+    {
+     "w": "since...",
+     "t": 2.88,
+     "end": 3.68
+    }
+   ]
+  },
+  "since2": {
+   "text": "including King Charles the Third's, in 2023.",
+   "dur": 3.709388,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "including",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "King",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "Charles",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "Third's,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "in",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "2023.",
+     "t": 2.4,
+     "end": 3.68
+    }
+   ]
+  },
+  "ucl": {
+   "text": "And the Champions League anthem, by Tony Britten in 1992...",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Champions",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "League",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "anthem,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "by",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "Tony",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "Britten",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "1992...",
+     "t": 3.2,
+     "end": 4.48
+    }
+   ]
+  },
+  "ucl2": {
+   "text": "is an adaptation based on it.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "is",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "an",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "adaptation",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "based",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "on",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "it.",
+     "t": 1.72,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it give you chills? It starts with waiting.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "give",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "you",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "chills?",
+     "t": 1.52,
+     "end": 2.36
+    },
+    {
+     "w": "It",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "starts",
+     "t": 2.88,
+     "end": 3.36
+    },
+    {
+     "w": "with",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "waiting.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "why1b": {
+   "text": "Soft broken chords repeat in the strings, over a steady bass...",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Soft",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "broken",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "chords",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "repeat",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "strings,",
+     "t": 2.24,
+     "end": 3.12
+    },
+    {
+     "w": "over",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "a",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "steady",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "bass...",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why1c": {
+   "text": "slowly gaining intensity. Pure anticipation.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "slowly",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "gaining",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "intensity.",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "Pure",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "anticipation.",
+     "t": 3.12,
+     "end": 4.48
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then, on the word Zadok, the full choir and orchestra burst in.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Then,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "on",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "word",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "Zadok,",
+     "t": 1.36,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "full",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "choir",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "orchestra",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "burst",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "in.",
+     "t": 4.56,
+     "end": 5.04
+    }
+   ]
+  },
+  "why3": {
+   "text": "The key is D major: bright, and ideal for trumpets...",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "key",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "D",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "major:",
+     "t": 1.2,
+     "end": 2.16
+    },
+    {
+     "w": "bright,",
+     "t": 2.24,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "ideal",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "for",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "trumpets...",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "why3b": {
+   "text": "as in the Hallelujah Chorus.",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "as",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "in",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Hallelujah",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "Chorus.",
+     "t": 1.28,
+     "end": 2.08
+    }
+   ]
+  },
+  "why4": {
+   "text": "Holding back the entrance makes the release overwhelming.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Holding",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "back",
+     "t": 0.52,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "entrance",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "makes",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.84,
+     "end": 1.88
+    },
+    {
+     "w": "release",
+     "t": 1.92,
+     "end": 2.48
+    },
+    {
+     "w": "overwhelming.",
+     "t": 2.64,
+     "end": 3.84
+    }
+   ]
+  },
+  "why4b": {
+   "text": "The longer the wait, the bigger the payoff.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "longer",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "wait,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "bigger",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2,
+     "end": 2.04
+    },
+    {
+     "w": "payoff.",
+     "t": 2.08,
+     "end": 2.96
+    }
+   ]
+  },
+  "essence": {
+   "text": "Make them wait... then give them everything.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Make",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "them",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "wait...",
+     "t": 0.56,
+     "end": 1.6
+    },
+    {
+     "w": "then",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "give",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "them",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "everything.",
+     "t": 2.88,
+     "end": 3.84
+    }
+   ]
+  },
+  "essence2": {
+   "text": "The oldest trick in the book.",
+   "dur": 2.194286,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "oldest",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "trick",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "in",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "book.",
+     "t": 1.44,
+     "end": 2
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

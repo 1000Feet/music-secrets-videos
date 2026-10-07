@@ -1,0 +1,972 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Eight bars. That's all Mozart wrote of this music... before he died.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "bars.",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "That's",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "all",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "Mozart",
+     "t": 1.88,
+     "end": 2.32
+    },
+    {
+     "w": "wrote",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "of",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "this",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "music...",
+     "t": 2.88,
+     "end": 3.92
+    },
+    {
+     "w": "before",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "he",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "died.",
+     "t": 4.52,
+     "end": 5.2
+    }
+   ]
+  },
+  "what": {
+   "text": "This is Mozart's Requiem in D minor, a mass for the dead.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "Mozart's",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "Requiem",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "in",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "D",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "minor,",
+     "t": 2.16,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "mass",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "for",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "dead.",
+     "t": 4,
+     "end": 4.64
+    }
+   ]
+  },
+  "what2": {
+   "text": "He died in December 1791, leaving it unfinished.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "died",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "December",
+     "t": 0.92,
+     "end": 1.2
+    },
+    {
+     "w": "1791,",
+     "t": 1.36,
+     "end": 2.96
+    },
+    {
+     "w": "leaving",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "it",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "unfinished.",
+     "t": 3.52,
+     "end": 4.48
+    }
+   ]
+  },
+  "comm": {
+   "text": "It was commissioned anonymously by Count Franz von Walsegg...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "was",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "commissioned",
+     "t": 0.52,
+     "end": 0.8
+    },
+    {
+     "w": "anonymously",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "Count",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "Franz",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "von",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "Walsegg...",
+     "t": 3.04,
+     "end": 3.92
+    }
+   ]
+  },
+  "comm2": {
+   "text": "who wanted to present it as his own work.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "who",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "wanted",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "to",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "present",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "as",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "his",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "own",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "work.",
+     "t": 2.08,
+     "end": 2.72
+    }
+   ]
+  },
+  "finish": {
+   "text": "His pupil, Franz Xaver Süssmayr, completed it.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "His",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "pupil,",
+     "t": 0.28,
+     "end": 0.96
+    },
+    {
+     "w": "Franz",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Xaver",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "Süssmayr,",
+     "t": 1.92,
+     "end": 2.72
+    },
+    {
+     "w": "completed",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "it.",
+     "t": 3.4,
+     "end": 3.76
+    }
+   ]
+  },
+  "amadeus": {
+   "text": "The 1984 film Amadeus spread a legend that Salieri poisoned him.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1984",
+     "t": 0.24,
+     "end": 1.12
+    },
+    {
+     "w": "film",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Amadeus",
+     "t": 1.6,
+     "end": 2.48
+    },
+    {
+     "w": "spread",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "legend",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "that",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "Salieri",
+     "t": 3.84,
+     "end": 4.48
+    },
+    {
+     "w": "poisoned",
+     "t": 4.56,
+     "end": 5.04
+    },
+    {
+     "w": "him.",
+     "t": 5.12,
+     "end": 5.6
+    }
+   ]
+  },
+  "amadeus2": {
+   "text": "There's no evidence for it.",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "There's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "no",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "evidence",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "for",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "it.",
+     "t": 1.4,
+     "end": 1.92
+    }
+   ]
+  },
+  "lacri": {
+   "text": "In the Lacrimosa, Mozart wrote only the first eight bars.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Lacrimosa,",
+     "t": 0.32,
+     "end": 1.44
+    },
+    {
+     "w": "Mozart",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "wrote",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "only",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "first",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "eight",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "bars.",
+     "t": 3.52,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it so haunting? First, D minor.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "it",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "so",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "haunting?",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "First,",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "D",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "minor.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why1b": {
+   "text": "A dark key Mozart used for some of his most dramatic music.",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "dark",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "key",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "Mozart",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "used",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "for",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "some",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "of",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "his",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "most",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "dramatic",
+     "t": 3.16,
+     "end": 3.84
+    },
+    {
+     "w": "music.",
+     "t": 3.92,
+     "end": 4.64
+    }
+   ]
+  },
+  "why2": {
+   "text": "Then the pulse: twelve eight. Four slow beats, each divided in three.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "pulse:",
+     "t": 0.56,
+     "end": 1.52
+    },
+    {
+     "w": "twelve",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "eight.",
+     "t": 2,
+     "end": 2.96
+    },
+    {
+     "w": "Four",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "slow",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "beats,",
+     "t": 3.76,
+     "end": 4.48
+    },
+    {
+     "w": "each",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "divided",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "in",
+     "t": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "three.",
+     "t": 5.6,
+     "end": 6.24
+    }
+   ]
+  },
+  "why2b": {
+   "text": "A rocking, sighing motion.",
+   "dur": 2.690612,
+   "speechEnd": 2.72,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "rocking,",
+     "t": 0.24,
+     "end": 1.2
+    },
+    {
+     "w": "sighing",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "motion.",
+     "t": 1.92,
+     "end": 2.72
+    }
+   ]
+  },
+  "why2c": {
+   "text": "Lacrimosa dies illa: that day of tears.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Lacrimosa",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "dies",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "illa:",
+     "t": 1.44,
+     "end": 2.48
+    },
+    {
+     "w": "that",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "day",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "of",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "tears.",
+     "t": 3.36,
+     "end": 4.24
+    }
+   ]
+  },
+  "why3": {
+   "text": "Then a line climbs, half step after half step, building tension...",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "a",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "line",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "climbs,",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "half",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "step",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "after",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "half",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "step,",
+     "t": 3.64,
+     "end": 4.24
+    },
+    {
+     "w": "building",
+     "t": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "tension...",
+     "t": 4.8,
+     "end": 5.6
+    }
+   ]
+  },
+  "why3b": {
+   "text": "on the words about rising from the ashes.",
+   "dur": 2.76898,
+   "speechEnd": 2.8,
+   "words": [
+    {
+     "w": "on",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "words",
+     "t": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "about",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "rising",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "from",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "ashes.",
+     "t": 1.92,
+     "end": 2.8
+    }
+   ]
+  },
+  "essence": {
+   "text": "Eight bars, a rising line of half steps... and the music stops where Mozart's life did.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "bars,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "rising",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "line",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "of",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "half",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "steps...",
+     "t": 2.48,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.68,
+     "end": 3.72
+    },
+    {
+     "w": "music",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "stops",
+     "t": 4.16,
+     "end": 4.72
+    },
+    {
+     "w": "where",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "Mozart's",
+     "t": 5.2,
+     "end": 5.68
+    },
+    {
+     "w": "life",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "did.",
+     "t": 6.12,
+     "end": 6.56
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,955 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One march to walk in, another to walk out.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "march",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "walk",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "in,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "another",
+     "t": 2,
+     "end": 2.24
+    },
+    {
+     "w": "to",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "walk",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "out.",
+     "t": 2.88,
+     "end": 3.36
+    }
+   ]
+  },
+  "in": {
+   "text": "Walking in, Here Comes the Bride...",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "Walking",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "in,",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "Here",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "Comes",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.68,
+     "end": 1.72
+    },
+    {
+     "w": "Bride...",
+     "t": 1.76,
+     "end": 2.56
+    }
+   ]
+  },
+  "in2": {
+   "text": "the Bridal Chorus from Wagner's opera Lohengrin, 1850.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Bridal",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "Chorus",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "from",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "Wagner's",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "opera",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "Lohengrin,",
+     "t": 2.48,
+     "end": 3.44
+    },
+    {
+     "w": "1850.",
+     "t": 3.52,
+     "end": 4.72
+    }
+   ]
+  },
+  "irony": {
+   "text": "In the opera, the marriage quickly goes wrong.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "opera,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "marriage",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "quickly",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "goes",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "wrong.",
+     "t": 2.48,
+     "end": 3.2
+    }
+   ]
+  },
+  "out": {
+   "text": "Walking out, Mendelssohn's Wedding March...",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "Walking",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "out,",
+     "t": 0.48,
+     "end": 1.12
+    },
+    {
+     "w": "Mendelssohn's",
+     "t": 1.2,
+     "end": 1.76
+    },
+    {
+     "w": "Wedding",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "March...",
+     "t": 2.16,
+     "end": 2.96
+    }
+   ]
+  },
+  "out2": {
+   "text": "from his music for A Midsummer Night's Dream, 1842.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "from",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "his",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "music",
+     "t": 0.48,
+     "end": 0.8
+    },
+    {
+     "w": "for",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "A",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "Midsummer",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "Night's",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "Dream,",
+     "t": 2.36,
+     "end": 3.04
+    },
+    {
+     "w": "1842.",
+     "t": 3.12,
+     "end": 4.48
+    }
+   ]
+  },
+  "royal": {
+   "text": "Both were played at a royal wedding in 1858...",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Both",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "were",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "played",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "at",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "royal",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "wedding",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 2.04,
+     "end": 2.16
+    },
+    {
+     "w": "1858...",
+     "t": 2.28,
+     "end": 3.6
+    }
+   ]
+  },
+  "royalb": {
+   "text": "and a tradition was born.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "tradition",
+     "t": 0.44,
+     "end": 0.96
+    },
+    {
+     "w": "was",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "born.",
+     "t": 1.28,
+     "end": 2
+    }
+   ]
+  },
+  "royal2": {
+   "text": "Queen Victoria's daughter Victoria married...",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Queen",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Victoria's",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "daughter",
+     "t": 1.16,
+     "end": 1.36
+    },
+    {
+     "w": "Victoria",
+     "t": 1.44,
+     "end": 2.16
+    },
+    {
+     "w": "married...",
+     "t": 2.4,
+     "end": 3.12
+    }
+   ]
+  },
+  "royal2b": {
+   "text": "Prince Frederick William of Prussia.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "Prince",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Frederick",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "William",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Prussia.",
+     "t": 1.68,
+     "end": 2.48
+    }
+   ]
+  },
+  "why0": {
+   "text": "So why do they work?",
+   "dur": 2.037551,
+   "speechEnd": 2.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "do",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "they",
+     "t": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "work?",
+     "t": 1.36,
+     "end": 2.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "The Bridal Chorus is slow and steady, in four four.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Bridal",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "Chorus",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "is",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "slow",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "steady,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "in",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "four",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "four.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why1b": {
+   "text": "It opens with a rising perfect fourth. Calm and solemn.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "opens",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "with",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "rising",
+     "t": 1.04,
+     "end": 1.52
+    },
+    {
+     "w": "perfect",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "fourth.",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "Calm",
+     "t": 3.16,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "solemn.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "A rising fourth sounds like a call, an announcement...",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "rising",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "fourth",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "sounds",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "like",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "call,",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "an",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "announcement...",
+     "t": 3.32,
+     "end": 4
+    }
+   ]
+  },
+  "why2b": {
+   "text": "here comes the bride!",
+   "dur": 1.724082,
+   "speechEnd": 1.68,
+   "words": [
+    {
+     "w": "here",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "comes",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.68
+    },
+    {
+     "w": "bride!",
+     "t": 0.72,
+     "end": 1.68
+    }
+   ]
+  },
+  "why3": {
+   "text": "Mendelssohn's march opens with a bright trumpet fanfare...",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Mendelssohn's",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "march",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "opens",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "with",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "bright",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "trumpet",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "fanfare...",
+     "t": 2.88,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3c": {
+   "text": "of triplets, in C major.",
+   "dur": 2.429388,
+   "speechEnd": 2.48,
+   "words": [
+    {
+     "w": "of",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "triplets,",
+     "t": 0.24,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "C",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "major.",
+     "t": 1.76,
+     "end": 2.48
+    }
+   ]
+  },
+  "why3b": {
+   "text": "Fast and festive.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "Fast",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "festive.",
+     "t": 1.04,
+     "end": 2
+    }
+   ]
+  },
+  "why4": {
+   "text": "Slow and solemn going in, bright and fast coming out...",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "Slow",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "solemn",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "going",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "in,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "bright",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "fast",
+     "t": 3.2,
+     "end": 3.68
+    },
+    {
+     "w": "coming",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "out...",
+     "t": 4.08,
+     "end": 4.64
+    }
+   ]
+  },
+  "why4b": {
+   "text": "the music tells the story of the ceremony.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "the",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "music",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "tells",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "story",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "of",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "ceremony.",
+     "t": 2.08,
+     "end": 2.96
+    }
+   ]
+  },
+  "essence": {
+   "text": "A calm fourth to walk in... a trumpet fanfare to walk out.",
+   "dur": 4.91102,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "calm",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "fourth",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "to",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "walk",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "in...",
+     "t": 1.6,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "trumpet",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "fanfare",
+     "t": 3.04,
+     "end": 3.6
+    },
+    {
+     "w": "to",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "walk",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "out.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}
