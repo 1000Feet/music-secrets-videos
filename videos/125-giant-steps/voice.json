@@ -1,0 +1,939 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Three keys, equally spaced, and a tune that never sits still. This is Giant Steps.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "keys,",
+     "t": 0.4,
+     "end": 1.2
+    },
+    {
+     "w": "equally",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "spaced,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "tune",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "that",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "never",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "sits",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "still.",
+     "t": 4.08,
+     "end": 4.76
+    },
+    {
+     "w": "This",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "is",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "Giant",
+     "t": 5.84,
+     "end": 6.16
+    },
+    {
+     "w": "Steps.",
+     "t": 6.24,
+     "end": 7.04
+    }
+   ]
+  },
+  "what": {
+   "text": "John Coltrane recorded it in 1959, and it came out in 1960.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "John",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Coltrane",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "recorded",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "it",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "1959,",
+     "t": 1.8,
+     "end": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "it",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "came",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "out",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "in",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "1960.",
+     "t": 4.24,
+     "end": 5.44
+    }
+   ]
+  },
+  "s1": {
+   "text": "Listen to the opening: B major seven, D seven, G major seven...",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Listen",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "to",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "opening:",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "B",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "major",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "seven,",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "D",
+     "t": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "seven,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "G",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "major",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "seven...",
+     "t": 4.96,
+     "end": 5.6
+    }
+   ]
+  },
+  "s1b": {
+   "text": "B flat seven, E flat major seven.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "B",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "flat",
+     "t": 0.16,
+     "end": 0.5
+    },
+    {
+     "w": "seven,",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "E",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "flat",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "major",
+     "t": 2.24,
+     "end": 2.56
+    },
+    {
+     "w": "seven.",
+     "t": 2.64,
+     "end": 3.28
+    }
+   ]
+  },
+  "s2": {
+   "text": "Three keys in just three bars.",
+   "dur": 2.925714,
+   "speechEnd": 2.88,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "keys",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "in",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "just",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "three",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "bars.",
+     "t": 2,
+     "end": 2.88
+    }
+   ]
+  },
+  "s3": {
+   "text": "Coltrane also used this cycle, the Coltrane changes, to reharmonise standard tunes.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Coltrane",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "also",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "used",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "this",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "cycle,",
+     "t": 1.6,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "Coltrane",
+     "t": 2.52,
+     "end": 2.88
+    },
+    {
+     "w": "changes,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "to",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "reharmonise",
+     "t": 4,
+     "end": 4.8
+    },
+    {
+     "w": "standard",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "tunes.",
+     "t": 5.32,
+     "end": 6.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it sound like that? B, G and E flat are each a major third apart.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "sound",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "like",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "that?",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "B,",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "G",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "E",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "flat",
+     "t": 4,
+     "end": 4.4
+    },
+    {
+     "w": "are",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "each",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "major",
+     "t": 5.28,
+     "end": 5.6
+    },
+    {
+     "w": "third",
+     "t": 5.68,
+     "end": 5.92
+    },
+    {
+     "w": "apart.",
+     "t": 6.04,
+     "end": 6.72
+    }
+   ]
+  },
+  "why2": {
+   "text": "Together they form an augmented triad: on the circle, a perfect equilateral triangle.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Together",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "they",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "form",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "an",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "augmented",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "triad:",
+     "t": 2,
+     "end": 3.04
+    },
+    {
+     "w": "on",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "circle,",
+     "t": 3.36,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "perfect",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "equilateral",
+     "t": 4.8,
+     "end": 5.44
+    },
+    {
+     "w": "triangle.",
+     "t": 5.52,
+     "end": 6.4
+    }
+   ]
+  },
+  "why3": {
+   "text": "Each new key is reached through its own dominant seventh: D seven to G...",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "new",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "key",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "reached",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "through",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "its",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "own",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "dominant",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "seventh:",
+     "t": 2.8,
+     "end": 3.76
+    },
+    {
+     "w": "D",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "seven",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "to",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "G...",
+     "t": 4.8,
+     "end": 5.28
+    }
+   ]
+  },
+  "why3b": {
+   "text": "B flat seven to E flat, F sharp seven to B.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "B",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "flat",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "seven",
+     "t": 0.56,
+     "end": 0.896
+    },
+    {
+     "w": "to",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "E",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "flat,",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "F",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "sharp",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "seven",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "to",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "B.",
+     "t": 3.52,
+     "end": 4.08
+    }
+   ]
+  },
+  "why4": {
+   "text": "Because the keys are evenly spaced, no key feels like home for long. The tune keeps spinning.",
+   "dur": 6.844082,
+   "speechEnd": 6.88,
+   "words": [
+    {
+     "w": "Because",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "keys",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "are",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "evenly",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "spaced,",
+     "t": 1.52,
+     "end": 2.48
+    },
+    {
+     "w": "no",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "key",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "feels",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "like",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "home",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "for",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "long.",
+     "t": 4.24,
+     "end": 4.88
+    },
+    {
+     "w": "The",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "tune",
+     "t": 5.32,
+     "end": 5.68
+    },
+    {
+     "w": "keeps",
+     "t": 5.84,
+     "end": 6.08
+    },
+    {
+     "w": "spinning.",
+     "t": 6.16,
+     "end": 6.88
+    }
+   ]
+  },
+  "why5": {
+   "text": "And it's played at a very fast tempo, a famous test for improvisers.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it's",
+     "t": 0.2,
+     "end": 0.32
+    },
+    {
+     "w": "played",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "at",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "very",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "fast",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "tempo,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "famous",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "test",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "for",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "improvisers.",
+     "t": 3.76,
+     "end": 4.8
+    }
+   ]
+  },
+  "essence": {
+   "text": "Three keys, equally spaced... and harmony turns into a spinning wheel.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "keys,",
+     "t": 0.48,
+     "end": 1.16
+    },
+    {
+     "w": "equally",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "spaced...",
+     "t": 1.84,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "harmony",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "turns",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "into",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "spinning",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "wheel.",
+     "t": 4.96,
+     "end": 5.52
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

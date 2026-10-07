@@ -1,0 +1,954 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Fewer chords, more space. This is modal jazz.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Fewer",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "chords,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "more",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "space.",
+     "t": 1.6,
+     "end": 2.44
+    },
+    {
+     "w": "This",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "is",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "modal",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "jazz.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "what": {
+   "text": "Instead of racing through chord changes, you improvise on one mode.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Instead",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "of",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "racing",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "through",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "chord",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "changes,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "you",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "improvise",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "on",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "one",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "mode.",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "s1": {
+   "text": "So What, by Miles Davis, from Kind of Blue, 1959.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "What,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "by",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Miles",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "Davis,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "from",
+     "t": 2.52,
+     "end": 2.64
+    },
+    {
+     "w": "Kind",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "of",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "Blue,",
+     "t": 3.2,
+     "end": 3.84
+    },
+    {
+     "w": "1959.",
+     "t": 3.92,
+     "end": 5.2
+    }
+   ]
+  },
+  "s1b": {
+   "text": "Sixteen bars of D Dorian, eight of E flat Dorian, eight back on D.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Sixteen",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "bars",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1,
+     "end": 1.04
+    },
+    {
+     "w": "D",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "Dorian,",
+     "t": 1.44,
+     "end": 2.32
+    },
+    {
+     "w": "eight",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "of",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "E",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "flat",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "Dorian,",
+     "t": 3.52,
+     "end": 4.4
+    },
+    {
+     "w": "eight",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "back",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "on",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "D.",
+     "t": 5.28,
+     "end": 5.84
+    }
+   ]
+  },
+  "s2": {
+   "text": "The bass states the theme, and the band answers with a two chord figure.",
+   "dur": 4.519184,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bass",
+     "t": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "states",
+     "t": 0.68,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "theme,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 1.96
+    },
+    {
+     "w": "band",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "answers",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "with",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "a",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "two",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "chord",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "figure.",
+     "t": 3.76,
+     "end": 4.48
+    }
+   ]
+  },
+  "s2b": {
+   "text": "Pianist Bill Evans voiced it in stacked fourths: the So What chord.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Pianist",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "Bill",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "Evans",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "voiced",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "it",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "in",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "stacked",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "fourths:",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "So",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "What",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "chord.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? In bebop, chords change every bar or two, and soloists race through them.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "work?",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "In",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "bebop,",
+     "t": 2.32,
+     "end": 3.04
+    },
+    {
+     "w": "chords",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "change",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "every",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "bar",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "or",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "two,",
+     "t": 4.88,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "soloists",
+     "t": 5.68,
+     "end": 6.4
+    },
+    {
+     "w": "race",
+     "t": 6.56,
+     "end": 6.88
+    },
+    {
+     "w": "through",
+     "t": 7,
+     "end": 7.12
+    },
+    {
+     "w": "them.",
+     "t": 7.2,
+     "end": 7.68
+    }
+   ]
+  },
+  "why2": {
+   "text": "Modal jazz holds one mode for many bars.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Modal",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "jazz",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "holds",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "one",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "mode",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "for",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "many",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "bars.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "why3": {
+   "text": "D Dorian is just the white keys from D to D. Soloists explore the colours of one scale.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "D",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Dorian",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "just",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "white",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "keys",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "from",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "D",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "to",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "D.",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "Soloists",
+     "t": 4,
+     "end": 4.72
+    },
+    {
+     "w": "explore",
+     "t": 4.84,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.28,
+     "end": 5.36
+    },
+    {
+     "w": "colours",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "of",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "one",
+     "t": 6.08,
+     "end": 6.24
+    },
+    {
+     "w": "scale.",
+     "t": 6.32,
+     "end": 7.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "The So What chord stacks three perfect fourths, with a major third on top.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "So",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "What",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "chord",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "stacks",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "three",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "perfect",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "fourths,",
+     "t": 2.56,
+     "end": 3.28
+    },
+    {
+     "w": "with",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "major",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "third",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "on",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "top.",
+     "t": 4.56,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4b": {
+   "text": "Fourths sound open and ambiguous: neither clearly major nor minor.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Fourths",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "sound",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "open",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "ambiguous:",
+     "t": 1.76,
+     "end": 2.96
+    },
+    {
+     "w": "neither",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "clearly",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "major",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "nor",
+     "t": 4.56,
+     "end": 4.72
+    },
+    {
+     "w": "minor.",
+     "t": 4.8,
+     "end": 5.52
+    }
+   ]
+  },
+  "why5": {
+   "text": "The bridge shifts it all up a half step, to E flat Dorian: a sudden change of light.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bridge",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "shifts",
+     "t": 0.68,
+     "end": 0.84
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "all",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "up",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "half",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "step,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "to",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "E",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "flat",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "Dorian:",
+     "t": 3.44,
+     "end": 4.4
+    },
+    {
+     "w": "a",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "sudden",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "change",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "of",
+     "t": 5.48,
+     "end": 5.52
+    },
+    {
+     "w": "light.",
+     "t": 5.6,
+     "end": 6.32
+    }
+   ]
+  },
+  "essence": {
+   "text": "Hold one mode, leave space... and improvisation becomes exploration.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Hold",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "one",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "mode,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "leave",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "space...",
+     "t": 1.6,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "improvisation",
+     "t": 2.88,
+     "end": 3.84
+    },
+    {
+     "w": "becomes",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "exploration.",
+     "t": 4.48,
+     "end": 5.68
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

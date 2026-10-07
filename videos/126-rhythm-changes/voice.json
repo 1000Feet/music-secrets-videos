@@ -1,0 +1,931 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "The chords of one Gershwin song became one of jazz's most common frameworks.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "chords",
+     "t": 0.16,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "one",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "Gershwin",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "song",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "became",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "one",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "jazz's",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "most",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "common",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "frameworks.",
+     "t": 4,
+     "end": 4.96
+    }
+   ]
+  },
+  "what": {
+   "text": "I Got Rhythm, by George and Ira Gershwin, 1930, from the musical Girl Crazy.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "I",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Got",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "Rhythm,",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "by",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "George",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Ira",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Gershwin,",
+     "t": 2.48,
+     "end": 3.28
+    },
+    {
+     "w": "1930,",
+     "t": 3.36,
+     "end": 4.56
+    },
+    {
+     "w": "from",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "the",
+     "t": 4.8,
+     "end": 4.84
+    },
+    {
+     "w": "musical",
+     "t": 4.88,
+     "end": 5.36
+    },
+    {
+     "w": "Girl",
+     "t": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "Crazy.",
+     "t": 5.92,
+     "end": 6.64
+    }
+   ]
+  },
+  "what2": {
+   "text": "Thirty two bars, usually in B flat.",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "Thirty",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "two",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "bars,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "usually",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "in",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "B",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "flat.",
+     "t": 2.56,
+     "end": 3.28
+    }
+   ]
+  },
+  "s1": {
+   "text": "Jazz musicians wrote new melodies on its chords: Charlie Parker's Anthropology...",
+   "dur": 5.642449,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Jazz",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "musicians",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "wrote",
+     "t": 1,
+     "end": 1.2
+    },
+    {
+     "w": "new",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "melodies",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "on",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "its",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "chords:",
+     "t": 2.36,
+     "end": 3.36
+    },
+    {
+     "w": "Charlie",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "Parker's",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "Anthropology...",
+     "t": 4.32,
+     "end": 5.6
+    }
+   ]
+  },
+  "s2": {
+   "text": "Sonny Rollins' Oleo...",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "Sonny",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Rollins'",
+     "t": 0.4,
+     "end": 1
+    },
+    {
+     "w": "Oleo...",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  },
+  "s3": {
+   "text": "and Duke Ellington's Cotton Tail.",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Duke",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "Ellington's",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "Cotton",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "Tail.",
+     "t": 1.68,
+     "end": 2.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The A sections loop a fast turnaround: one, six, two, five.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "The",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "A",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "sections",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "loop",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "a",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "fast",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "turnaround:",
+     "t": 3.84,
+     "end": 4.96
+    },
+    {
+     "w": "one,",
+     "t": 5.04,
+     "end": 5.6
+    },
+    {
+     "w": "six,",
+     "t": 5.68,
+     "end": 6.32
+    },
+    {
+     "w": "two,",
+     "t": 6.44,
+     "end": 6.96
+    },
+    {
+     "w": "five.",
+     "t": 7.2,
+     "end": 7.68
+    }
+   ]
+  },
+  "why1b": {
+   "text": "B flat, G minor seven, C minor seven, F seven, round and round.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "B",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "flat,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "G",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "minor",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "seven,",
+     "t": 1.68,
+     "end": 2.4
+    },
+    {
+     "w": "C",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "minor",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "seven,",
+     "t": 3.04,
+     "end": 3.84
+    },
+    {
+     "w": "F",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "seven,",
+     "t": 4.16,
+     "end": 4.96
+    },
+    {
+     "w": "round",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "round.",
+     "t": 5.68,
+     "end": 6.4
+    }
+   ]
+  },
+  "why2": {
+   "text": "The bridge is a chain of dominant sevenths around the circle of fifths.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bridge",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "a",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "chain",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "of",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "dominant",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "sevenths",
+     "t": 2,
+     "end": 2.56
+    },
+    {
+     "w": "around",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "circle",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "of",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "fifths.",
+     "t": 3.56,
+     "end": 4.32
+    }
+   ]
+  },
+  "why2b": {
+   "text": "D seven, G seven, C seven, F seven.",
+   "dur": 4.440816,
+   "speechEnd": 4.48,
+   "words": [
+    {
+     "w": "D",
+     "t": 0,
+     "end": 0.12
+    },
+    {
+     "w": "seven,",
+     "t": 0.12,
+     "end": 0.32
+    },
+    {
+     "w": "G",
+     "t": 0.32,
+     "end": 0.32
+    },
+    {
+     "w": "seven,",
+     "t": 0.32,
+     "end": 1.44
+    },
+    {
+     "w": "C",
+     "t": 1.44,
+     "end": 1.44
+    },
+    {
+     "w": "seven,",
+     "t": 1.52,
+     "end": 2.48
+    },
+    {
+     "w": "F",
+     "t": 2.64,
+     "end": 2.64
+    },
+    {
+     "w": "seven.",
+     "t": 2.72,
+     "end": 4.48
+    }
+   ]
+  },
+  "why2c": {
+   "text": "Each one is the five of the next, and it lands back on B flat.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "one",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "five",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "of",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "next,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "and",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "it",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "lands",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "back",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "on",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "B",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "flat.",
+     "t": 3.84,
+     "end": 4.56
+    }
+   ]
+  },
+  "why3": {
+   "text": "A simple, strong skeleton that musicians knew by heart, ready for new melodies and solos.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "simple,",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "strong",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "skeleton",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "that",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "musicians",
+     "t": 2.44,
+     "end": 2.96
+    },
+    {
+     "w": "knew",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "by",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "heart,",
+     "t": 3.52,
+     "end": 4.24
+    },
+    {
+     "w": "ready",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "for",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "new",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "melodies",
+     "t": 5.12,
+     "end": 5.68
+    },
+    {
+     "w": "and",
+     "t": 5.76,
+     "end": 5.84
+    },
+    {
+     "w": "solos.",
+     "t": 5.92,
+     "end": 6.8
+    }
+   ]
+  },
+  "why4": {
+   "text": "Writing a new tune over existing chords was common in jazz. It's called a contrafact.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Writing",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "a",
+     "t": 0.453,
+     "end": 0.507
+    },
+    {
+     "w": "new",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "tune",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "over",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "existing",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "chords",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "was",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "common",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "in",
+     "t": 3.08,
+     "end": 3.12
+    },
+    {
+     "w": "jazz.",
+     "t": 3.28,
+     "end": 4.08
+    },
+    {
+     "w": "It's",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "called",
+     "t": 4.44,
+     "end": 4.56
+    },
+    {
+     "w": "a",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "contrafact.",
+     "t": 4.8,
+     "end": 5.84
+    }
+   ]
+  },
+  "essence": {
+   "text": "One song's skeleton, a thousand new melodies. That's rhythm changes.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "song's",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "skeleton,",
+     "t": 0.76,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "thousand",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "new",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "melodies.",
+     "t": 2.8,
+     "end": 3.68
+    },
+    {
+     "w": "That's",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "rhythm",
+     "t": 4.2,
+     "end": 4.48
+    },
+    {
+     "w": "changes.",
+     "t": 4.56,
+     "end": 5.28
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

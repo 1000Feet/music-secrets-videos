@@ -1,0 +1,961 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One rolling left hand turned the blues into a dance. This is boogie woogie.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rolling",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "left",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "hand",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "turned",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "the",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "blues",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "into",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "dance.",
+     "t": 3.2,
+     "end": 3.96
+    },
+    {
+     "w": "This",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "is",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "boogie",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "woogie.",
+     "t": 5.44,
+     "end": 6.08
+    }
+   ]
+  },
+  "what": {
+   "text": "Eight notes per bar: up the chord, plus the sixth and the flat seven, then back down.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "notes",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "per",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "bar:",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "up",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "chord,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "plus",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "sixth",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "flat",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "seven,",
+     "t": 4.32,
+     "end": 4.96
+    },
+    {
+     "w": "then",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "back",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "down.",
+     "t": 5.52,
+     "end": 6.08
+    }
+   ]
+  },
+  "what2": {
+   "text": "C, E, G, A, B flat, A, G, E.",
+   "dur": 5.564082,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "C,",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "E,",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "G,",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "A,",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "B",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "flat,",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "A,",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "G,",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "E.",
+     "t": 5,
+     "end": 5.52
+    }
+   ]
+  },
+  "s1": {
+   "text": "In 1928, Pinetop's Boogie Woogie by Pinetop Smith gave the style its name.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1928,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "Pinetop's",
+     "t": 1.72,
+     "end": 2.32
+    },
+    {
+     "w": "Boogie",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "Woogie",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "by",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "Pinetop",
+     "t": 3.52,
+     "end": 4
+    },
+    {
+     "w": "Smith",
+     "t": 4.08,
+     "end": 4.56
+    },
+    {
+     "w": "gave",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "the",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "style",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "its",
+     "t": 5.64,
+     "end": 5.76
+    },
+    {
+     "w": "name.",
+     "t": 5.96,
+     "end": 6.4
+    }
+   ]
+  },
+  "s2": {
+   "text": "Then in 1938, the From Spirituals to Swing concert at Carnegie Hall...",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "in",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "1938,",
+     "t": 0.88,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "From",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "Spirituals",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "to",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "Swing",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "concert",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "at",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "Carnegie",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "Hall...",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "s2b": {
+   "text": "with pianists Albert Ammons, Meade Lux Lewis and Pete Johnson,",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "with",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pianists",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "Albert",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "Ammons,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "Meade",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "Lux",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "Lewis",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "Pete",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "Johnson,",
+     "t": 3.84,
+     "end": 4.64
+    }
+   ]
+  },
+  "s2c": {
+   "text": "helped launch a boogie woogie craze.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "helped",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "launch",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "a",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "boogie",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "woogie",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "craze.",
+     "t": 1.72,
+     "end": 2.56
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? It runs over the twelve bar blues: one, four, five.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "It",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "runs",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "over",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "twelve",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "bar",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "blues:",
+     "t": 3.36,
+     "end": 4.4
+    },
+    {
+     "w": "one,",
+     "t": 4.48,
+     "end": 5.12
+    },
+    {
+     "w": "four,",
+     "t": 5.28,
+     "end": 5.76
+    },
+    {
+     "w": "five.",
+     "t": 6,
+     "end": 6.48
+    }
+   ]
+  },
+  "why1b": {
+   "text": "The same shape simply moves to F and G.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "shape",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "simply",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "moves",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "F",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "and",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "G.",
+     "t": 2.56,
+     "end": 3.12
+    }
+   ]
+  },
+  "why2": {
+   "text": "The eighth notes are usually swung: long, short, long, short.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "eighth",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "notes",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "are",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "usually",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "swung:",
+     "t": 1.6,
+     "end": 2.64
+    },
+    {
+     "w": "long,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "short,",
+     "t": 3.56,
+     "end": 4.08
+    },
+    {
+     "w": "long,",
+     "t": 4.16,
+     "end": 4.72
+    },
+    {
+     "w": "short.",
+     "t": 4.92,
+     "end": 5.44
+    }
+   ]
+  },
+  "why2b": {
+   "text": "That gives it the rolling, driving feel.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "gives",
+     "t": 0.28,
+     "end": 0.48
+    },
+    {
+     "w": "it",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "rolling,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "driving",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "feel.",
+     "t": 2.32,
+     "end": 3.04
+    }
+   ]
+  },
+  "why3": {
+   "text": "On top, the right hand plays bluesy riffs and repeated chords. Two independent layers.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "top,",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "right",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "hand",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "plays",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "bluesy",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "riffs",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "repeated",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "chords.",
+     "t": 3.6,
+     "end": 4.4
+    },
+    {
+     "w": "Two",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "independent",
+     "t": 5.04,
+     "end": 5.6
+    },
+    {
+     "w": "layers.",
+     "t": 5.68,
+     "end": 6.48
+    }
+   ]
+  },
+  "why4": {
+   "text": "Early rock and roll guitar riffs, like Chuck Berry's, adapted these boogie bass patterns.",
+   "dur": 5.642449,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Early",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rock",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "and",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "roll",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "guitar",
+     "t": 0.92,
+     "end": 1.28
+    },
+    {
+     "w": "riffs,",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "like",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "Chuck",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "Berry's,",
+     "t": 2.4,
+     "end": 3.2
+    },
+    {
+     "w": "adapted",
+     "t": 3.4,
+     "end": 3.76
+    },
+    {
+     "w": "these",
+     "t": 3.88,
+     "end": 4
+    },
+    {
+     "w": "boogie",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "bass",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "patterns.",
+     "t": 4.72,
+     "end": 5.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "One rolling left hand, eight notes per bar... and the blues started to dance.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "rolling",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "left",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "hand,",
+     "t": 1.12,
+     "end": 1.84
+    },
+    {
+     "w": "eight",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "notes",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "per",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "bar...",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "blues",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "started",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "to",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "dance.",
+     "t": 5.32,
+     "end": 5.92
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}
