@@ -1,0 +1,897 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Listen. Slow, heavy drums under racing hi-hats. Two speeds at once. This is trap.",
+   "dur": 7.810612,
+   "speechEnd": 7.84,
+   "words": [
+    {
+     "w": "Listen.",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "Slow,",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "heavy",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "drums",
+     "t": 2.24,
+     "end": 2.72
+    },
+    {
+     "w": "under",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "racing",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "hi-hats.",
+     "t": 3.6,
+     "end": 4.48
+    },
+    {
+     "w": "Two",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "speeds",
+     "t": 4.96,
+     "end": 5.32
+    },
+    {
+     "w": "at",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "once.",
+     "t": 5.52,
+     "end": 6.16
+    },
+    {
+     "w": "This",
+     "t": 6.4,
+     "end": 6.72
+    },
+    {
+     "w": "is",
+     "t": 6.96,
+     "end": 7.04
+    },
+    {
+     "w": "trap.",
+     "t": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "what": {
+   "text": "It grew out of Southern hip hop in Atlanta, Georgia, in the two thousands.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "grew",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "out",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Southern",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "hip",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "hop",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "in",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "Atlanta,",
+     "t": 1.84,
+     "end": 2.28
+    },
+    {
+     "w": "Georgia,",
+     "t": 2.32,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "two",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "thousands.",
+     "t": 3.36,
+     "end": 4.24
+    }
+   ]
+  },
+  "s1": {
+   "text": "T.I.'s 2003 album, Trap Muzik, helped give the style its name.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "T.I.'s",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "2003",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "album,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "Trap",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "Muzik,",
+     "t": 2.56,
+     "end": 3.28
+    },
+    {
+     "w": "helped",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "give",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "style",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "its",
+     "t": 4.36,
+     "end": 4.48
+    },
+    {
+     "w": "name.",
+     "t": 4.68,
+     "end": 5.2
+    }
+   ]
+  },
+  "s2": {
+   "text": "And producers like Lex Luger and Metro Boomin shaped its sound.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "producers",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "like",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "Lex",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "Luger",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Metro",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "Boomin",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "shaped",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "its",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "sound.",
+     "t": 3.84,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The tempo is fast, around 140 beats per minute.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "tempo",
+     "t": 2.12,
+     "end": 2.32
+    },
+    {
+     "w": "is",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "fast,",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "around",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "140",
+     "t": 3.84,
+     "end": 4.72
+    },
+    {
+     "w": "beats",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "per",
+     "t": 5.12,
+     "end": 5.2
+    },
+    {
+     "w": "minute.",
+     "t": 5.28,
+     "end": 5.92
+    }
+   ]
+  },
+  "why2": {
+   "text": "But the snare, or clap, lands only on beat three of each bar. Half time. So it feels like 70.",
+   "dur": 7.967347,
+   "speechEnd": 8,
+   "words": [
+    {
+     "w": "But",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "snare,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "or",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "clap,",
+     "t": 1.36,
+     "end": 2.08
+    },
+    {
+     "w": "lands",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "only",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "on",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "beat",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "three",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "of",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "each",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "bar.",
+     "t": 4.16,
+     "end": 4.84
+    },
+    {
+     "w": "Half",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "time.",
+     "t": 5.36,
+     "end": 5.76
+    },
+    {
+     "w": "So",
+     "t": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "it",
+     "t": 6.4,
+     "end": 6.56
+    },
+    {
+     "w": "feels",
+     "t": 6.6,
+     "end": 6.88
+    },
+    {
+     "w": "like",
+     "t": 6.96,
+     "end": 7.12
+    },
+    {
+     "w": "70.",
+     "t": 7.2,
+     "end": 8
+    }
+   ]
+  },
+  "why3": {
+   "text": "Underneath sits the 808, from our TR-808 video.",
+   "dur": 4.284082,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Underneath",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "sits",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "808,",
+     "t": 1.28,
+     "end": 2.16
+    },
+    {
+     "w": "from",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "our",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "TR-808",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "video.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "why3b": {
+   "text": "A deep kick with a long, pitched tail. It plays the bass line.",
+   "dur": 5.067755,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "deep",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "kick",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "with",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "long,",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "pitched",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "tail.",
+     "t": 2.64,
+     "end": 3.12
+    },
+    {
+     "w": "It",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "plays",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 4,
+     "end": 4.04
+    },
+    {
+     "w": "bass",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "line.",
+     "t": 4.4,
+     "end": 5.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "The hi-hats run in fast, steady sixteenths...",
+   "dur": 3.239184,
+   "speechEnd": 3.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hi-hats",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "run",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "in",
+     "t": 1.08,
+     "end": 1.2
+    },
+    {
+     "w": "fast,",
+     "t": 1.4,
+     "end": 1.76
+    },
+    {
+     "w": "steady",
+     "t": 1.96,
+     "end": 2.16
+    },
+    {
+     "w": "sixteenths...",
+     "t": 2.24,
+     "end": 3.28
+    }
+   ]
+  },
+  "why4b": {
+   "text": "then switch to rolls of thirty second notes and triplets. That's the rattle.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "switch",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "to",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "rolls",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "thirty",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "second",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "notes",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "triplets.",
+     "t": 2.56,
+     "end": 3.52
+    },
+    {
+     "w": "That's",
+     "t": 3.64,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "rattle.",
+     "t": 4.08,
+     "end": 4.8
+    }
+   ]
+  },
+  "why5": {
+   "text": "On top, sparse, dark melodies, often minor, leave room for the bass and the vocals.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "top,",
+     "t": 0.44,
+     "end": 0.96
+    },
+    {
+     "w": "sparse,",
+     "t": 1.04,
+     "end": 1.76
+    },
+    {
+     "w": "dark",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "melodies,",
+     "t": 2.16,
+     "end": 2.96
+    },
+    {
+     "w": "often",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "minor,",
+     "t": 3.56,
+     "end": 4.16
+    },
+    {
+     "w": "leave",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "room",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "for",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "the",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "bass",
+     "t": 5.2,
+     "end": 5.52
+    },
+    {
+     "w": "and",
+     "t": 5.56,
+     "end": 5.6
+    },
+    {
+     "w": "the",
+     "t": 5.68,
+     "end": 5.72
+    },
+    {
+     "w": "vocals.",
+     "t": 5.76,
+     "end": 6.64
+    }
+   ]
+  },
+  "essence": {
+   "text": "A slow, heavy backbeat under racing hats. Trap lives in two speeds at once.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "slow,",
+     "t": 0.24,
+     "end": 0.96
+    },
+    {
+     "w": "heavy",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "backbeat",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "under",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "racing",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "hats.",
+     "t": 2.88,
+     "end": 3.64
+    },
+    {
+     "w": "Trap",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "lives",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "in",
+     "t": 4.68,
+     "end": 4.8
+    },
+    {
+     "w": "two",
+     "t": 4.92,
+     "end": 5.04
+    },
+    {
+     "w": "speeds",
+     "t": 5.12,
+     "end": 5.48
+    },
+    {
+     "w": "at",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "once.",
+     "t": 5.76,
+     "end": 6.4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

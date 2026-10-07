@@ -1,0 +1,937 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Four chords, and two notes that never move. That's the Wonderwall trick.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "chords,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "two",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "notes",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "that",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "never",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "move.",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "That's",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "Wonderwall",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "trick.",
+     "t": 4.72,
+     "end": 5.28
+    }
+   ]
+  },
+  "what": {
+   "text": "Wonderwall, by Oasis, from 1995. Capo on the second fret, and four chord shapes:",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "Wonderwall,",
+     "t": 0,
+     "end": 0.96
+    },
+    {
+     "w": "by",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Oasis,",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "from",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "1995.",
+     "t": 2.24,
+     "end": 3.92
+    },
+    {
+     "w": "Capo",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "on",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "second",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "fret,",
+     "t": 5.04,
+     "end": 5.68
+    },
+    {
+     "w": "and",
+     "t": 5.72,
+     "end": 5.76
+    },
+    {
+     "w": "four",
+     "t": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "chord",
+     "t": 6.24,
+     "end": 6.48
+    },
+    {
+     "w": "shapes:",
+     "t": 6.56,
+     "end": 7.28
+    }
+   ]
+  },
+  "what2": {
+   "text": "E minor seven, G, D sus four, A seven sus four.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "E",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "minor",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "seven,",
+     "t": 0.64,
+     "end": 1.52
+    },
+    {
+     "w": "G,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "D",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "sus",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "four,",
+     "t": 3.12,
+     "end": 3.92
+    },
+    {
+     "w": "A",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "seven",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "sus",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "four.",
+     "t": 4.96,
+     "end": 5.52
+    }
+   ]
+  },
+  "fingers": {
+   "text": "The trick: the ring and little fingers stay on the third fret of the two highest strings...",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "trick:",
+     "t": 0.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "ring",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "little",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "fingers",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "stay",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "on",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "third",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "fret",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "of",
+     "t": 4.4,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.52,
+     "end": 4.56
+    },
+    {
+     "w": "two",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "highest",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "strings...",
+     "t": 5.52,
+     "end": 6.4
+    }
+   ]
+  },
+  "fingers2": {
+   "text": "for every chord. So the same two top notes ring all the way through.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "for",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "every",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "chord.",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "So",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "same",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "two",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "top",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "notes",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "ring",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "all",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "way",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "through.",
+     "t": 4.56,
+     "end": 5.04
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? Notes shared by neighboring chords are called common tones.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "work?",
+     "t": 1.24,
+     "end": 1.52
+    },
+    {
+     "w": "Notes",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "shared",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "by",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "neighboring",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "chords",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "are",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "called",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "common",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "tones.",
+     "t": 4.96,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "Here, two notes are shared by all four chords. Like a mini drone, from our drone video.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Here,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "two",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "notes",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "are",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "shared",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "by",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "all",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "four",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "chords.",
+     "t": 2.72,
+     "end": 3.48
+    },
+    {
+     "w": "Like",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "mini",
+     "t": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "drone,",
+     "t": 4.32,
+     "end": 5.12
+    },
+    {
+     "w": "from",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "our",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "drone",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "video.",
+     "t": 5.84,
+     "end": 6.48
+    }
+   ]
+  },
+  "why3": {
+   "text": "Only the lower notes move, so the chords seem to shift under a fixed ceiling.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Only",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "lower",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "notes",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "move,",
+     "t": 1.2,
+     "end": 1.92
+    },
+    {
+     "w": "so",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "chords",
+     "t": 2.28,
+     "end": 2.64
+    },
+    {
+     "w": "seem",
+     "t": 2.68,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 3,
+     "end": 3.12
+    },
+    {
+     "w": "shift",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "under",
+     "t": 3.64,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "fixed",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "ceiling.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "why4": {
+   "text": "The sus chords swap the third for the fourth. They sound open and unresolved...",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sus",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chords",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "swap",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "third",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "for",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "fourth.",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "They",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "sound",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "open",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "and",
+     "t": 4.36,
+     "end": 4.48
+    },
+    {
+     "w": "unresolved...",
+     "t": 4.56,
+     "end": 5.6
+    }
+   ]
+  },
+  "why4b": {
+   "text": "so the loop just floats.",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "loop",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "just",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "floats.",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  },
+  "why5": {
+   "text": "And open strings plus fixed fingers make it easy to play, with a ringing, shimmering sound.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "open",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "strings",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "plus",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "fixed",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "fingers",
+     "t": 2,
+     "end": 2.48
+    },
+    {
+     "w": "make",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "it",
+     "t": 2.84,
+     "end": 2.96
+    },
+    {
+     "w": "easy",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "to",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "play,",
+     "t": 3.64,
+     "end": 4.08
+    },
+    {
+     "w": "with",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "ringing,",
+     "t": 4.48,
+     "end": 5.2
+    },
+    {
+     "w": "shimmering",
+     "t": 5.24,
+     "end": 5.68
+    },
+    {
+     "w": "sound.",
+     "t": 5.84,
+     "end": 6.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Keep two notes still, move everything underneath, and four chords become one sound.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Keep",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "two",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "notes",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "still,",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "move",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "everything",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "underneath,",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "four",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "chords",
+     "t": 3.92,
+     "end": 4.4
+    },
+    {
+     "w": "become",
+     "t": 4.48,
+     "end": 4.8
+    },
+    {
+     "w": "one",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "sound.",
+     "t": 5.28,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "break",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

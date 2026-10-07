@@ -1,0 +1,959 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Eight chords, looping forever. Here's the secret of Hotel California.",
+   "dur": 5.564082,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chords,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "looping",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "forever.",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "Here's",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "secret",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "of",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "Hotel",
+     "t": 4.2,
+     "end": 4.4
+    },
+    {
+     "w": "California.",
+     "t": 4.48,
+     "end": 5.52
+    }
+   ]
+  },
+  "what": {
+   "text": "B minor, F sharp seven, A, E, G, D, E minor, F sharp seven, and back.",
+   "dur": 8.907755,
+   "speechEnd": 8.96,
+   "words": [
+    {
+     "w": "B",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "minor,",
+     "t": 0.16,
+     "end": 0.72
+    },
+    {
+     "w": "F",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "sharp",
+     "t": 1.28,
+     "end": 1.552
+    },
+    {
+     "w": "seven,",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "A,",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "E,",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "G,",
+     "t": 4.16,
+     "end": 4.64
+    },
+    {
+     "w": "D,",
+     "t": 5.04,
+     "end": 5.92
+    },
+    {
+     "w": "E",
+     "t": 6,
+     "end": 6.16
+    },
+    {
+     "w": "minor,",
+     "t": 6.24,
+     "end": 6.88
+    },
+    {
+     "w": "F",
+     "t": 6.96,
+     "end": 7.12
+    },
+    {
+     "w": "sharp",
+     "t": 7.24,
+     "end": 7.36
+    },
+    {
+     "w": "seven,",
+     "t": 7.44,
+     "end": 8.16
+    },
+    {
+     "w": "and",
+     "t": 8.24,
+     "end": 8.32
+    },
+    {
+     "w": "back.",
+     "t": 8.52,
+     "end": 8.96
+    }
+   ]
+  },
+  "song": {
+   "text": "The Eagles released it in 1976.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Eagles",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "released",
+     "t": 0.84,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "in",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "1976.",
+     "t": 1.48,
+     "end": 3.04
+    }
+   ]
+  },
+  "song2": {
+   "text": "It won the Grammy for Record of the Year in 1978...",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "won",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "the",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "Grammy",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "for",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Record",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "of",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "Year",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "in",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "1978...",
+     "t": 2.48,
+     "end": 3.92
+    }
+   ]
+  },
+  "song3": {
+   "text": "and it ends with a long dual guitar solo by Don Felder and Joe Walsh.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "ends",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "with",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "long",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "dual",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "guitar",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "solo",
+     "t": 2.32,
+     "end": 2.64
+    },
+    {
+     "w": "by",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "Don",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "Felder",
+     "t": 3.28,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "Joe",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "Walsh.",
+     "t": 4.24,
+     "end": 4.96
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? F sharp seven is the five chord of B minor.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "work?",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "F",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "sharp",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "seven",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "is",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.44
+    },
+    {
+     "w": "five",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "chord",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "of",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "B",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "minor.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "It holds A sharp, the raised seventh: a leading tone, a half step below B.",
+   "dur": 5.799184,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "holds",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "A",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "sharp,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "raised",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "seventh:",
+     "t": 2.08,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "leading",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "tone,",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "half",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "step",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "below",
+     "t": 4.8,
+     "end": 5.04
+    },
+    {
+     "w": "B.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2b": {
+   "text": "It pulls straight home, as in our harmonic minor video.",
+   "dur": 3.866122,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pulls",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "straight",
+     "t": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "home,",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "as",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "in",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "our",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "harmonic",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "minor",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "video.",
+     "t": 3.12,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3": {
+   "text": "Then the pairs: A to E, and G to D. Each moves by a fifth, small steps around the circle.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.36
+    },
+    {
+     "w": "pairs:",
+     "t": 0.4,
+     "end": 1.36
+    },
+    {
+     "w": "A",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "to",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "E,",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "and",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "G",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "to",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "D.",
+     "t": 3.04,
+     "end": 3.64
+    },
+    {
+     "w": "Each",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "moves",
+     "t": 4.24,
+     "end": 4.56
+    },
+    {
+     "w": "by",
+     "t": 4.64,
+     "end": 4.72
+    },
+    {
+     "w": "a",
+     "t": 4.76,
+     "end": 4.8
+    },
+    {
+     "w": "fifth,",
+     "t": 4.96,
+     "end": 5.68
+    },
+    {
+     "w": "small",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "steps",
+     "t": 6.16,
+     "end": 6.56
+    },
+    {
+     "w": "around",
+     "t": 6.68,
+     "end": 6.8
+    },
+    {
+     "w": "the",
+     "t": 6.84,
+     "end": 6.88
+    },
+    {
+     "w": "circle.",
+     "t": 6.96,
+     "end": 7.68
+    }
+   ]
+  },
+  "why4": {
+   "text": "The loop starts dark, then drifts through brighter major chords...",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "loop",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "starts",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "dark,",
+     "t": 1.08,
+     "end": 1.68
+    },
+    {
+     "w": "then",
+     "t": 1.8,
+     "end": 1.92
+    },
+    {
+     "w": "drifts",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "through",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "brighter",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "major",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "chords...",
+     "t": 3.52,
+     "end": 4.4
+    }
+   ]
+  },
+  "why4b": {
+   "text": "until F sharp seven brings tension before every restart.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "until",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "F",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "sharp",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "seven",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "brings",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "tension",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "before",
+     "t": 2.48,
+     "end": 2.8
+    },
+    {
+     "w": "every",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "restart.",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "why5": {
+   "text": "Eight chords that never quite feel finished. So the song turns hypnotic.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "Eight",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chords",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "that",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "never",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "quite",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "feel",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "finished.",
+     "t": 2.32,
+     "end": 3.36
+    },
+    {
+     "w": "So",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "the",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "song",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "turns",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "hypnotic.",
+     "t": 4.6,
+     "end": 5.6
+    }
+   ]
+  },
+  "essence": {
+   "text": "One raised note, and a loop that keeps circling back. A hotel you can never leave.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "raised",
+     "t": 0.4,
+     "end": 0.8
+    },
+    {
+     "w": "note,",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "and",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "t": 1.813,
+     "end": 1.867
+    },
+    {
+     "w": "loop",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "that",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "keeps",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "circling",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "back.",
+     "t": 3.36,
+     "end": 4
+    },
+    {
+     "w": "A",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "hotel",
+     "t": 4.4,
+     "end": 4.96
+    },
+    {
+     "w": "you",
+     "t": 5.04,
+     "end": 5.12
+    },
+    {
+     "w": "can",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "never",
+     "t": 5.56,
+     "end": 5.68
+    },
+    {
+     "w": "leave.",
+     "t": 5.84,
+     "end": 6.56
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}
