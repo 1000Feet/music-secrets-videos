@@ -1,0 +1,902 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One short tune. A second voice plays it, then a third... and it all fits.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "short",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "tune.",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "A",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "second",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "voice",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "plays",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "it,",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "then",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "a",
+     "t": 3.733,
+     "end": 3.787
+    },
+    {
+     "w": "third...",
+     "t": 3.84,
+     "end": 4.72
+    },
+    {
+     "w": "and",
+     "t": 4.8,
+     "end": 4.88
+    },
+    {
+     "w": "it",
+     "t": 5,
+     "end": 5.12
+    },
+    {
+     "w": "all",
+     "t": 5.2,
+     "end": 5.44
+    },
+    {
+     "w": "fits.",
+     "t": 5.52,
+     "end": 6.32
+    }
+   ]
+  },
+  "what": {
+   "text": "That's a fugue: a whole piece grown from one theme, called the subject.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.36
+    },
+    {
+     "w": "a",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "fugue:",
+     "t": 0.56,
+     "end": 1.52
+    },
+    {
+     "w": "a",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "whole",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "piece",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "grown",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "from",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "one",
+     "t": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "theme,",
+     "t": 3.28,
+     "end": 3.92
+    },
+    {
+     "w": "called",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "the",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "subject.",
+     "t": 4.4,
+     "end": 5.28
+    }
+   ]
+  },
+  "wtc": {
+   "text": "You hear it in Bach's Well-Tempered Clavier: forty eight preludes and fugues, in two books.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "Bach's",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "Well-Tempered",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "Clavier:",
+     "t": 1.76,
+     "end": 2.8
+    },
+    {
+     "w": "forty",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "eight",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "preludes",
+     "t": 3.44,
+     "end": 3.92
+    },
+    {
+     "w": "and",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "fugues,",
+     "t": 4.16,
+     "end": 4.88
+    },
+    {
+     "w": "in",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "two",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "books.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "aof": {
+   "text": "in The Art of Fugue, left unfinished when he died in 1750...",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "in",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "The",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "Art",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "of",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "Fugue,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "left",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "unfinished",
+     "t": 2,
+     "end": 2.64
+    },
+    {
+     "w": "when",
+     "t": 2.68,
+     "end": 2.72
+    },
+    {
+     "w": "he",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "died",
+     "t": 3,
+     "end": 3.28
+    },
+    {
+     "w": "in",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "1750...",
+     "t": 3.52,
+     "end": 4.8
+    }
+   ]
+  },
+  "mo": {
+   "text": "and The Musical Offering, on a theme King Frederick the Great gave him in Potsdam.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "The",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Musical",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "Offering,",
+     "t": 1.2,
+     "end": 2.08
+    },
+    {
+     "w": "on",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "theme",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "King",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "Frederick",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "Great",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "gave",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "him",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "in",
+     "t": 4.44,
+     "end": 4.48
+    },
+    {
+     "w": "Potsdam.",
+     "t": 4.56,
+     "end": 5.52
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? One voice plays the subject alone.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "does",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 1.08,
+     "end": 1.6
+    },
+    {
+     "w": "One",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "voice",
+     "t": 2.16,
+     "end": 2.56
+    },
+    {
+     "w": "plays",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "subject",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "alone.",
+     "t": 3.76,
+     "end": 4.32
+    }
+   ]
+  },
+  "why2": {
+   "text": "A second voice answers: the same tune, a fifth higher.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "second",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "voice",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "answers:",
+     "t": 0.96,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "same",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "tune,",
+     "t": 2.44,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "fifth",
+     "t": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "higher.",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "Meanwhile, the first voice continues with a countermelody, the countersubject.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Meanwhile,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "the",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "first",
+     "t": 1.08,
+     "end": 1.2
+    },
+    {
+     "w": "voice",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "continues",
+     "t": 1.8,
+     "end": 2.24
+    },
+    {
+     "w": "with",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "a",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "countermelody,",
+     "t": 2.56,
+     "end": 3.68
+    },
+    {
+     "w": "the",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "countersubject.",
+     "t": 3.96,
+     "end": 5.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "More voices enter one by one. Between entries, episodes travel through other keys.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "More",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "voices",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "enter",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "one",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "by",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "one.",
+     "t": 2.16,
+     "end": 2.6
+    },
+    {
+     "w": "Between",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "entries,",
+     "t": 3.28,
+     "end": 4
+    },
+    {
+     "w": "episodes",
+     "t": 4.08,
+     "end": 4.64
+    },
+    {
+     "w": "travel",
+     "t": 4.84,
+     "end": 5.04
+    },
+    {
+     "w": "through",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "other",
+     "t": 5.48,
+     "end": 5.6
+    },
+    {
+     "w": "keys.",
+     "t": 5.68,
+     "end": 6.48
+    }
+   ]
+  },
+  "why5": {
+   "text": "Near the end, entries overlap more tightly. That's stretto: the intensity builds.",
+   "dur": 6.60898,
+   "speechEnd": 6.64,
+   "words": [
+    {
+     "w": "Near",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "end,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "entries",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "overlap",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "more",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "tightly.",
+     "t": 2.36,
+     "end": 2.88
+    },
+    {
+     "w": "That's",
+     "t": 3.36,
+     "end": 3.72
+    },
+    {
+     "w": "stretto:",
+     "t": 3.84,
+     "end": 4.88
+    },
+    {
+     "w": "the",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "intensity",
+     "t": 5.08,
+     "end": 5.68
+    },
+    {
+     "w": "builds.",
+     "t": 5.76,
+     "end": 6.64
+    }
+   ]
+  },
+  "why6": {
+   "text": "Entries on the home key and the fifth establish the key. Imitation gives it unity.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Entries",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "on",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "the",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "home",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "key",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "fifth",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "establish",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "the",
+     "t": 3.12,
+     "end": 3.16
+    },
+    {
+     "w": "key.",
+     "t": 3.2,
+     "end": 3.8
+    },
+    {
+     "w": "Imitation",
+     "t": 4.08,
+     "end": 4.8
+    },
+    {
+     "w": "gives",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "it",
+     "t": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "unity.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "essence": {
+   "text": "One small idea, layered against itself... and it grows into a cathedral of sound.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "small",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "idea,",
+     "t": 0.8,
+     "end": 1.76
+    },
+    {
+     "w": "layered",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "against",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "itself...",
+     "t": 2.64,
+     "end": 3.84
+    },
+    {
+     "w": "and",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "it",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "grows",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "into",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "a",
+     "t": 4.92,
+     "end": 4.96
+    },
+    {
+     "w": "cathedral",
+     "t": 5.04,
+     "end": 5.76
+    },
+    {
+     "w": "of",
+     "t": 5.84,
+     "end": 5.92
+    },
+    {
+     "w": "sound.",
+     "t": 6,
+     "end": 6.8
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

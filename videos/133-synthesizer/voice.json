@@ -1,0 +1,962 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A buzzing wave, a filter, an envelope: that's how a synthesizer makes sound.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "buzzing",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "wave,",
+     "t": 0.64,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "filter,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "an",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "envelope:",
+     "t": 2.56,
+     "end": 3.68
+    },
+    {
+     "w": "that's",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "how",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "a",
+     "t": 4.24,
+     "end": 4.32
+    },
+    {
+     "w": "synthesizer",
+     "t": 4.4,
+     "end": 5.04
+    },
+    {
+     "w": "makes",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "sound.",
+     "t": 5.6,
+     "end": 6.08
+    }
+   ]
+  },
+  "what": {
+   "text": "It's called subtractive synthesis.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "called",
+     "t": 0.4,
+     "end": 0.56
+    },
+    {
+     "w": "subtractive",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "synthesis.",
+     "t": 1.6,
+     "end": 2.64
+    }
+   ]
+  },
+  "s1": {
+   "text": "Robert Moog introduced his modular synthesizer in 1964.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Robert",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Moog",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "introduced",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "his",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "modular",
+     "t": 1.76,
+     "end": 2.16
+    },
+    {
+     "w": "synthesizer",
+     "t": 2.24,
+     "end": 3.04
+    },
+    {
+     "w": "in",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "1964.",
+     "t": 3.36,
+     "end": 4.8
+    }
+   ]
+  },
+  "s2": {
+   "text": "In 1968, Wendy Carlos played Bach on a Moog.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1968,",
+     "t": 0.24,
+     "end": 1.68
+    },
+    {
+     "w": "Wendy",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "Carlos",
+     "t": 2.08,
+     "end": 2.56
+    },
+    {
+     "w": "played",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "Bach",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "on",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "a",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "Moog.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "s2b": {
+   "text": "Her album, Switched On Bach, won three Grammy Awards.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Her",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "album,",
+     "t": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "Switched",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "On",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "Bach,",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "won",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "three",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "Grammy",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "Awards.",
+     "t": 3.4,
+     "end": 4.24
+    }
+   ]
+  },
+  "s3": {
+   "text": "And in 1970, the Minimoog made the synthesizer portable.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "in",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "1970,",
+     "t": 0.36,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "Minimoog",
+     "t": 1.76,
+     "end": 2.24
+    },
+    {
+     "w": "made",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.6
+    },
+    {
+     "w": "synthesizer",
+     "t": 2.64,
+     "end": 3.36
+    },
+    {
+     "w": "portable.",
+     "t": 3.52,
+     "end": 4.32
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? First, an oscillator makes a basic wave.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "does",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 0.96,
+     "end": 1.56
+    },
+    {
+     "w": "First,",
+     "t": 1.84,
+     "end": 2.48
+    },
+    {
+     "w": "an",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "oscillator",
+     "t": 2.72,
+     "end": 3.28
+    },
+    {
+     "w": "makes",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "a",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "basic",
+     "t": 3.96,
+     "end": 4.16
+    },
+    {
+     "w": "wave.",
+     "t": 4.24,
+     "end": 4.88
+    }
+   ]
+  },
+  "why2": {
+   "text": "A sine is pure.",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sine",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "pure.",
+     "t": 1.12,
+     "end": 2
+    }
+   ]
+  },
+  "why3": {
+   "text": "A sawtooth has all the harmonics: bright and buzzy.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sawtooth",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "has",
+     "t": 1,
+     "end": 1.2
+    },
+    {
+     "w": "all",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "harmonics:",
+     "t": 1.6,
+     "end": 2.64
+    },
+    {
+     "w": "bright",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "buzzy.",
+     "t": 3.52,
+     "end": 4.24
+    }
+   ]
+  },
+  "why4": {
+   "text": "A square has only the odd ones: hollow.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "square",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "has",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "only",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "odd",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "ones:",
+     "t": 1.92,
+     "end": 2.8
+    },
+    {
+     "w": "hollow.",
+     "t": 2.84,
+     "end": 3.52
+    }
+   ]
+  },
+  "why5": {
+   "text": "Next, a filter removes harmonics. A low pass filter cuts the highs...",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "Next,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "a",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "filter",
+     "t": 1.08,
+     "end": 1.28
+    },
+    {
+     "w": "removes",
+     "t": 1.4,
+     "end": 1.76
+    },
+    {
+     "w": "harmonics.",
+     "t": 1.88,
+     "end": 3.04
+    },
+    {
+     "w": "A",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "low",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "pass",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "filter",
+     "t": 3.76,
+     "end": 4.16
+    },
+    {
+     "w": "cuts",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "highs...",
+     "t": 4.84,
+     "end": 5.44
+    }
+   ]
+  },
+  "why6": {
+   "text": "and sweeping its cutoff makes that classic wow.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sweeping",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "its",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "cutoff",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "makes",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "that",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "classic",
+     "t": 2.08,
+     "end": 2.8
+    },
+    {
+     "w": "wow.",
+     "t": 3.04,
+     "end": 3.92
+    }
+   ]
+  },
+  "why7": {
+   "text": "Then an envelope shapes the volume over time: attack, decay, sustain, release.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "an",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "envelope",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "shapes",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "volume",
+     "t": 1.84,
+     "end": 2.24
+    },
+    {
+     "w": "over",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "time:",
+     "t": 2.76,
+     "end": 3.52
+    },
+    {
+     "w": "attack,",
+     "t": 3.8,
+     "end": 4.4
+    },
+    {
+     "w": "decay,",
+     "t": 4.64,
+     "end": 5.28
+    },
+    {
+     "w": "sustain,",
+     "t": 5.493,
+     "end": 6.24
+    },
+    {
+     "w": "release.",
+     "t": 6.56,
+     "end": 7.12
+    }
+   ]
+  },
+  "why8": {
+   "text": "Start rich, then carve away, like a sculptor.",
+   "dur": 4.04898,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Start",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "rich,",
+     "t": 0.48,
+     "end": 1.28
+    },
+    {
+     "w": "then",
+     "t": 1.4,
+     "end": 1.52
+    },
+    {
+     "w": "carve",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "away,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "like",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "sculptor.",
+     "t": 3.12,
+     "end": 4
+    }
+   ]
+  },
+  "why9": {
+   "text": "Real instruments work the same way:",
+   "dur": 2.272653,
+   "speechEnd": 2.32,
+   "words": [
+    {
+     "w": "Real",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "instruments",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "work",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "same",
+     "t": 1.56,
+     "end": 1.68
+    },
+    {
+     "w": "way:",
+     "t": 1.84,
+     "end": 2.32
+    }
+   ]
+  },
+  "why10": {
+   "text": "a piano starts fast with a long decay, while a violin can start slowly.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "a",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "piano",
+     "t": 0.2,
+     "end": 0.56
+    },
+    {
+     "w": "starts",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "fast",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "with",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "long",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "decay,",
+     "t": 2.32,
+     "end": 3.2
+    },
+    {
+     "w": "while",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "a",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "violin",
+     "t": 3.6,
+     "end": 4.16
+    },
+    {
+     "w": "can",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "start",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "slowly.",
+     "t": 4.8,
+     "end": 5.52
+    }
+   ]
+  },
+  "essence": {
+   "text": "One waveform, carved by a filter, shaped by an envelope. Every synth sound starts there.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "waveform,",
+     "t": 0.32,
+     "end": 1.36
+    },
+    {
+     "w": "carved",
+     "t": 1.48,
+     "end": 1.76
+    },
+    {
+     "w": "by",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "filter,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "shaped",
+     "t": 2.96,
+     "end": 3.28
+    },
+    {
+     "w": "by",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "an",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "envelope.",
+     "t": 3.68,
+     "end": 4.48
+    },
+    {
+     "w": "Every",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "synth",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "sound",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "starts",
+     "t": 5.84,
+     "end": 6.16
+    },
+    {
+     "w": "there.",
+     "t": 6.32,
+     "end": 6.8
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.802449,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

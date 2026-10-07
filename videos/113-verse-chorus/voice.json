@@ -1,0 +1,909 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Quiet. Building. Loud. Then do it all again.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Quiet.",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "Building.",
+     "t": 0.64,
+     "end": 1.76
+    },
+    {
+     "w": "Loud.",
+     "t": 2.32,
+     "end": 3.08
+    },
+    {
+     "w": "Then",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "do",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "it",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "all",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "again.",
+     "t": 4.36,
+     "end": 4.88
+    }
+   ]
+  },
+  "what": {
+   "text": "That's the verse, pre-chorus, chorus structure behind most modern pop and rock songs.",
+   "dur": 5.485714,
+   "speechEnd": 5.52,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "verse,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "pre-chorus,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "chorus",
+     "t": 2.04,
+     "end": 2.24
+    },
+    {
+     "w": "structure",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "behind",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "most",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "modern",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "pop",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "and",
+     "t": 4.36,
+     "end": 4.4
+    },
+    {
+     "w": "rock",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "songs.",
+     "t": 4.96,
+     "end": 5.52
+    }
+   ]
+  },
+  "teen": {
+   "text": "You hear it in Smells Like Teen Spirit: quiet verses, a building pre-chorus, a loud chorus.",
+   "dur": 6.687347,
+   "speechEnd": 6.72,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "it",
+     "t": 0.4,
+     "end": 0.44
+    },
+    {
+     "w": "in",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "Smells",
+     "t": 0.64,
+     "end": 0.96
+    },
+    {
+     "w": "Like",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "Teen",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "Spirit:",
+     "t": 1.52,
+     "end": 2.48
+    },
+    {
+     "w": "quiet",
+     "t": 2.56,
+     "end": 2.88
+    },
+    {
+     "w": "verses,",
+     "t": 2.96,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.8,
+     "end": 3.84
+    },
+    {
+     "w": "building",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "pre-chorus,",
+     "t": 4.32,
+     "end": 5.28
+    },
+    {
+     "w": "a",
+     "t": 5.32,
+     "end": 5.36
+    },
+    {
+     "w": "loud",
+     "t": 5.52,
+     "end": 5.84
+    },
+    {
+     "w": "chorus.",
+     "t": 5.92,
+     "end": 6.72
+    }
+   ]
+  },
+  "teen2": {
+   "text": "Kurt Cobain said he was trying to rip off the Pixies' quiet-loud dynamics.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Kurt",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Cobain",
+     "t": 0.28,
+     "end": 0.72
+    },
+    {
+     "w": "said",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "he",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "was",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "trying",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "rip",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "off",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "the",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "Pixies'",
+     "t": 2.6,
+     "end": 3.04
+    },
+    {
+     "w": "quiet-loud",
+     "t": 3.12,
+     "end": 3.84
+    },
+    {
+     "w": "dynamics.",
+     "t": 3.88,
+     "end": 4.88
+    }
+   ]
+  },
+  "pop": {
+   "text": "And most chart pop since the sixties uses some version of it.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "most",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "chart",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "pop",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "since",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "sixties",
+     "t": 1.6,
+     "end": 2.16
+    },
+    {
+     "w": "uses",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "some",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "version",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "of",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "it.",
+     "t": 3.48,
+     "end": 3.84
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? The verse tells the story: same melody, new words each time.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.64
+    },
+    {
+     "w": "The",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "verse",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "tells",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "story:",
+     "t": 2.96,
+     "end": 3.68
+    },
+    {
+     "w": "same",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "melody,",
+     "t": 4.08,
+     "end": 4.8
+    },
+    {
+     "w": "new",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "words",
+     "t": 5.12,
+     "end": 5.52
+    },
+    {
+     "w": "each",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "time.",
+     "t": 5.84,
+     "end": 6.48
+    }
+   ]
+  },
+  "why2": {
+   "text": "The pre-chorus builds tension, on chords that lean toward the chorus.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pre-chorus",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "builds",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "tension,",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "on",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "chords",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "that",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "lean",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "toward",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "the",
+     "t": 3.88,
+     "end": 3.92
+    },
+    {
+     "w": "chorus.",
+     "t": 4,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3a": {
+   "text": "Then the chorus: same words and melody every time.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "chorus:",
+     "t": 0.4,
+     "end": 1.44
+    },
+    {
+     "w": "same",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "words",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "melody",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "every",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "time.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3b": {
+   "text": "It carries the hook, and often the title.",
+   "dur": 3.004082,
+   "speechEnd": 3.04,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "carries",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "the",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "hook,",
+     "t": 0.72,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "often",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.2,
+     "end": 2.24
+    },
+    {
+     "w": "title.",
+     "t": 2.32,
+     "end": 3.04
+    }
+   ]
+  },
+  "why4": {
+   "text": "It's the energy peak: a higher melody, a fuller arrangement, landing on the home chord.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "the",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "energy",
+     "t": 0.48,
+     "end": 0.88
+    },
+    {
+     "w": "peak:",
+     "t": 0.96,
+     "end": 1.68
+    },
+    {
+     "w": "a",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "higher",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "melody,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "a",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "fuller",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "arrangement,",
+     "t": 3.44,
+     "end": 4.48
+    },
+    {
+     "w": "landing",
+     "t": 4.56,
+     "end": 4.96
+    },
+    {
+     "w": "on",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "home",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "chord.",
+     "t": 5.68,
+     "end": 6.32
+    }
+   ]
+  },
+  "why5": {
+   "text": "A bridge adds contrast before the final chorus.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "bridge",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "adds",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "contrast",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "before",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "final",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "chorus.",
+     "t": 2.48,
+     "end": 3.36
+    }
+   ]
+  },
+  "why6": {
+   "text": "And repeating the chorus is what makes the song memorable.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "repeating",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "chorus",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "is",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "what",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "makes",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "song",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "memorable.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "essence": {
+   "text": "Tell a little, build a little, then give the hook... and repeat until everyone sings along.",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "Tell",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.28,
+     "end": 0.32
+    },
+    {
+     "w": "little,",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "build",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "little,",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "then",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "give",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "the",
+     "t": 2.76,
+     "end": 2.8
+    },
+    {
+     "w": "hook...",
+     "t": 2.88,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "repeat",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "until",
+     "t": 4.4,
+     "end": 4.72
+    },
+    {
+     "w": "everyone",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "sings",
+     "t": 5.36,
+     "end": 5.6
+    },
+    {
+     "w": "along.",
+     "t": 5.68,
+     "end": 6.4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.959184,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "break",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

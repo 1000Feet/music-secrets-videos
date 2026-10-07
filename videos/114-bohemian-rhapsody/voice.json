@@ -1,0 +1,894 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "A six minute single... with no chorus at all.",
+   "dur": 3.63102,
+   "speechEnd": 3.68,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "six",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "minute",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "single...",
+     "t": 0.88,
+     "end": 1.84
+    },
+    {
+     "w": "with",
+     "t": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "no",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "chorus",
+     "t": 2.6,
+     "end": 2.88
+    },
+    {
+     "w": "at",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "all.",
+     "t": 3.04,
+     "end": 3.68
+    }
+   ]
+  },
+  "what": {
+   "text": "That's Bohemian Rhapsody, by Queen, from 1975. Freddie Mercury wrote it.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Bohemian",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "Rhapsody,",
+     "t": 1.04,
+     "end": 1.84
+    },
+    {
+     "w": "by",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "Queen,",
+     "t": 2.08,
+     "end": 2.72
+    },
+    {
+     "w": "from",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "1975.",
+     "t": 2.96,
+     "end": 4.64
+    },
+    {
+     "w": "Freddie",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "Mercury",
+     "t": 4.96,
+     "end": 5.44
+    },
+    {
+     "w": "wrote",
+     "t": 5.48,
+     "end": 5.68
+    },
+    {
+     "w": "it.",
+     "t": 5.76,
+     "end": 6.16
+    }
+   ]
+  },
+  "chart": {
+   "text": "It spent nine weeks at number one in the UK, then hit number one again in 1991, after Mercury's death.",
+   "dur": 7.706122,
+   "speechEnd": 7.76,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "spent",
+     "t": 0.36,
+     "end": 0.56
+    },
+    {
+     "w": "nine",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "weeks",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "at",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "number",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "one",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "in",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "UK,",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "then",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "hit",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "number",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "one",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "again",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "in",
+     "t": 4.72,
+     "end": 4.88
+    },
+    {
+     "w": "1991,",
+     "t": 4.96,
+     "end": 6.24
+    },
+    {
+     "w": "after",
+     "t": 6.4,
+     "end": 6.56
+    },
+    {
+     "w": "Mercury's",
+     "t": 6.68,
+     "end": 7.12
+    },
+    {
+     "w": "death.",
+     "t": 7.32,
+     "end": 7.76
+    }
+   ]
+  },
+  "secs": {
+   "text": "Instead of verses and choruses, it moves through six sections:",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "Instead",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "of",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "verses",
+     "t": 0.72,
+     "end": 1.12
+    },
+    {
+     "w": "and",
+     "t": 1.16,
+     "end": 1.2
+    },
+    {
+     "w": "choruses,",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "it",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "moves",
+     "t": 2.48,
+     "end": 2.72
+    },
+    {
+     "w": "through",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "six",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "sections:",
+     "t": 3.44,
+     "end": 4.4
+    }
+   ]
+  },
+  "s1": {
+   "text": "an a cappella intro, a piano ballad, a guitar solo...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "an",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "cappella",
+     "t": 0.36,
+     "end": 0.72
+    },
+    {
+     "w": "intro,",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "piano",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "ballad,",
+     "t": 2.24,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "guitar",
+     "t": 3.08,
+     "end": 3.44
+    },
+    {
+     "w": "solo...",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "s2": {
+   "text": "a mock operatic section, a hard rock section, and a quiet outro.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "a",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "mock",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "operatic",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "section,",
+     "t": 1.36,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "hard",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "rock",
+     "t": 2.44,
+     "end": 2.56
+    },
+    {
+     "w": "section,",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "quiet",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "outro.",
+     "t": 4.4,
+     "end": 5.2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? No section ever comes back as a chorus.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "why",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "does",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "it",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "No",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "section",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "ever",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "comes",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "back",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "as",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "a",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "chorus.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "why2": {
+   "text": "Music that keeps moving forward like this is called through-composed, like opera.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Music",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "that",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "keeps",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "moving",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "forward",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "like",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "this",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "is",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "called",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "through-composed,",
+     "t": 2.96,
+     "end": 4.16
+    },
+    {
+     "w": "like",
+     "t": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "opera.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "why3": {
+   "text": "Each section has its own texture, tempo and mood:",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "section",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "has",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "its",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "own",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "texture,",
+     "t": 1.72,
+     "end": 2.24
+    },
+    {
+     "w": "tempo",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "mood:",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "why3b": {
+   "text": "voices alone, piano and voice, full band, choir-like vocals, heavy rock.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "voices",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "alone,",
+     "t": 0.56,
+     "end": 1.36
+    },
+    {
+     "w": "piano",
+     "t": 1.4,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "voice,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "full",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "band,",
+     "t": 3.04,
+     "end": 3.76
+    },
+    {
+     "w": "choir-like",
+     "t": 3.84,
+     "end": 4.4
+    },
+    {
+     "w": "vocals,",
+     "t": 4.48,
+     "end": 5.36
+    },
+    {
+     "w": "heavy",
+     "t": 5.44,
+     "end": 5.76
+    },
+    {
+     "w": "rock.",
+     "t": 5.84,
+     "end": 6.48
+    }
+   ]
+  },
+  "why4": {
+   "text": "It moves through several keys, so each section feels like a new scene.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "moves",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "through",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "several",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "keys,",
+     "t": 1.28,
+     "end": 2
+    },
+    {
+     "w": "so",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "each",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "section",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "feels",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "like",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "a",
+     "t": 3.64,
+     "end": 3.68
+    },
+    {
+     "w": "new",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "scene.",
+     "t": 4,
+     "end": 4.72
+    }
+   ]
+  },
+  "why5": {
+   "text": "The contrast itself becomes the hook. You wait to hear what comes next.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "contrast",
+     "t": 0.44,
+     "end": 0.72
+    },
+    {
+     "w": "itself",
+     "t": 0.8,
+     "end": 1.44
+    },
+    {
+     "w": "becomes",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "the",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "hook.",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "You",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "wait",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "to",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "hear",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "what",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "comes",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "next.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "essence": {
+   "text": "No chorus, all story. Six scenes in six minutes.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "chorus,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "all",
+     "t": 1.32,
+     "end": 1.44
+    },
+    {
+     "w": "story.",
+     "t": 1.6,
+     "end": 2.48
+    },
+    {
+     "w": "Six",
+     "t": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "scenes",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "in",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "six",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "minutes.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.84,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "break",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.84
+    }
+   ]
+  }
+ }
+}

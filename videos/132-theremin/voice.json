@@ -1,0 +1,975 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "No keys, no strings, and the player never touches it.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "keys,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "no",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "strings,",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.12,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "player",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "never",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "touches",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "it.",
+     "t": 3.76,
+     "end": 4.16
+    }
+   ]
+  },
+  "what": {
+   "text": "This is the theremin, played by moving your hands in the air.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "is",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.68,
+     "end": 0.72
+    },
+    {
+     "w": "theremin,",
+     "t": 0.88,
+     "end": 1.76
+    },
+    {
+     "w": "played",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "by",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "moving",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "your",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "hands",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "air.",
+     "t": 3.44,
+     "end": 4
+    }
+   ]
+  },
+  "s1": {
+   "text": "Leon Theremin invented it around 1920, in Soviet Russia.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "Leon",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Theremin",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "invented",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "it",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "around",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "1920,",
+     "t": 2.08,
+     "end": 3.2
+    },
+    {
+     "w": "in",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "Soviet",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "Russia.",
+     "t": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "s2": {
+   "text": "Its eerie glide became a hallmark of 1950s science fiction films...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "eerie",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "glide",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "became",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "hallmark",
+     "t": 1.84,
+     "end": 2.32
+    },
+    {
+     "w": "of",
+     "t": 2.4,
+     "end": 2.48
+    },
+    {
+     "w": "1950s",
+     "t": 2.56,
+     "end": 3.44
+    },
+    {
+     "w": "science",
+     "t": 3.64,
+     "end": 3.84
+    },
+    {
+     "w": "fiction",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "films...",
+     "t": 4.32,
+     "end": 5.04
+    }
+   ]
+  },
+  "s2b": {
+   "text": "like The Day the Earth Stood Still, scored by Bernard Herrmann.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "like",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "The",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "Day",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "Earth",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "Stood",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "Still,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "scored",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "by",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "Bernard",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "Herrmann.",
+     "t": 3.56,
+     "end": 4.24
+    }
+   ]
+  },
+  "s3": {
+   "text": "And Clara Rockmore became its most celebrated virtuoso.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Clara",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "Rockmore",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "became",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "its",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "most",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "celebrated",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "virtuoso.",
+     "t": 3.12,
+     "end": 4.08
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? Two antennas.",
+   "dur": 3.160816,
+   "speechEnd": 3.2,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "how",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "does",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "it",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "work?",
+     "t": 1.04,
+     "end": 1.44
+    },
+    {
+     "w": "Two",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "antennas.",
+     "t": 2.24,
+     "end": 3.2
+    }
+   ]
+  },
+  "why2": {
+   "text": "Move your right hand toward the vertical one, and the pitch rises.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "Move",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "your",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "right",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "hand",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "toward",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "vertical",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "one,",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "and",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "pitch",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "rises.",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "why3": {
+   "text": "Your left hand, near the loop, controls the volume.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "left",
+     "t": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "hand,",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "near",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.4,
+     "end": 1.44
+    },
+    {
+     "w": "loop,",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "controls",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "the",
+     "t": 2.56,
+     "end": 2.6
+    },
+    {
+     "w": "volume.",
+     "t": 2.64,
+     "end": 3.36
+    }
+   ]
+  },
+  "why4": {
+   "text": "Your hands disturb an electric field. You never touch it.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "hands",
+     "t": 0.44,
+     "end": 0.64
+    },
+    {
+     "w": "disturb",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "an",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "electric",
+     "t": 1.52,
+     "end": 1.76
+    },
+    {
+     "w": "field.",
+     "t": 1.84,
+     "end": 2.64
+    },
+    {
+     "w": "You",
+     "t": 2.76,
+     "end": 2.88
+    },
+    {
+     "w": "never",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "touch",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "it.",
+     "t": 3.6,
+     "end": 4
+    }
+   ]
+  },
+  "why5": {
+   "text": "The pitch is continuous, so every move is a slide...",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "pitch",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "continuous,",
+     "t": 0.72,
+     "end": 1.76
+    },
+    {
+     "w": "so",
+     "t": 1.92,
+     "end": 2.08
+    },
+    {
+     "w": "every",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "move",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "is",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.2,
+     "end": 3.24
+    },
+    {
+     "w": "slide...",
+     "t": 3.28,
+     "end": 4.16
+    }
+   ]
+  },
+  "why6": {
+   "text": "and a shaking hand makes vibrato.",
+   "dur": 2.586122,
+   "speechEnd": 2.64,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "shaking",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "hand",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "makes",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "vibrato.",
+     "t": 1.72,
+     "end": 2.64
+    }
+   ]
+  },
+  "why7": {
+   "text": "The tone is close to a pure sine wave, with few overtones...",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "tone",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "is",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "close",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "to",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "pure",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "sine",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "wave,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "with",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "few",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "overtones...",
+     "t": 3.28,
+     "end": 4.32
+    }
+   ]
+  },
+  "why7b": {
+   "text": "so it sounds ghostly, almost like a voice.",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "sounds",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "ghostly,",
+     "t": 0.88,
+     "end": 1.92
+    },
+    {
+     "w": "almost",
+     "t": 2,
+     "end": 2.4
+    },
+    {
+     "w": "like",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "voice.",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "why8": {
+   "text": "Hitting exact notes in the air is notoriously hard: you must listen constantly.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Hitting",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "exact",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "notes",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "the",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "air",
+     "t": 1.6,
+     "end": 1.92
+    },
+    {
+     "w": "is",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "notoriously",
+     "t": 2.16,
+     "end": 3.04
+    },
+    {
+     "w": "hard:",
+     "t": 3.12,
+     "end": 3.92
+    },
+    {
+     "w": "you",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "must",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "listen",
+     "t": 4.48,
+     "end": 4.88
+    },
+    {
+     "w": "constantly.",
+     "t": 4.96,
+     "end": 6
+    }
+   ]
+  },
+  "essence": {
+   "text": "No keys, no touch: just a hand in the air, and a voice from another planet.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "No",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "keys,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "no",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "touch:",
+     "t": 1.36,
+     "end": 2.24
+    },
+    {
+     "w": "just",
+     "t": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "hand",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "in",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "air,",
+     "t": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "and",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "voice",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "from",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "another",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "planet.",
+     "t": 5.2,
+     "end": 6
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

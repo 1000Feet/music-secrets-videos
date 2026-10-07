@@ -1,0 +1,849 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "In Italian, piano means soft. So why is the piano named... soft?",
+   "dur": 6.347755,
+   "speechEnd": 6.4,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Italian,",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "piano",
+     "t": 1.08,
+     "end": 1.52
+    },
+    {
+     "w": "means",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "soft.",
+     "t": 2.16,
+     "end": 2.92
+    },
+    {
+     "w": "So",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "why",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "is",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "the",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "piano",
+     "t": 4.24,
+     "end": 4.64
+    },
+    {
+     "w": "named...",
+     "t": 4.72,
+     "end": 5.52
+    },
+    {
+     "w": "soft?",
+     "t": 5.6,
+     "end": 6.4
+    }
+   ]
+  },
+  "what": {
+   "text": "Its full name is pianoforte. Soft, loud. And your touch decides which.",
+   "dur": 7.000816,
+   "speechEnd": 7.04,
+   "words": [
+    {
+     "w": "Its",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "full",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "name",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "pianoforte.",
+     "t": 1.28,
+     "end": 2.32
+    },
+    {
+     "w": "Soft,",
+     "t": 2.96,
+     "end": 3.84
+    },
+    {
+     "w": "loud.",
+     "t": 3.92,
+     "end": 4.64
+    },
+    {
+     "w": "And",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "your",
+     "t": 5.12,
+     "end": 5.28
+    },
+    {
+     "w": "touch",
+     "t": 5.36,
+     "end": 5.76
+    },
+    {
+     "w": "decides",
+     "t": 5.84,
+     "end": 6.24
+    },
+    {
+     "w": "which.",
+     "t": 6.32,
+     "end": 7.04
+    }
+   ]
+  },
+  "haydn": {
+   "text": "Haydn's Surprise Symphony, 1791. A quiet, gentle theme...",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Haydn's",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "Surprise",
+     "t": 0.64,
+     "end": 1.2
+    },
+    {
+     "w": "Symphony,",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "1791.",
+     "t": 2.16,
+     "end": 3.84
+    },
+    {
+     "w": "A",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "quiet,",
+     "t": 4.08,
+     "end": 4.88
+    },
+    {
+     "w": "gentle",
+     "t": 5.04,
+     "end": 5.36
+    },
+    {
+     "w": "theme...",
+     "t": 5.56,
+     "end": 6.08
+    }
+   ]
+  },
+  "bang": {
+   "text": "and then, out of nowhere, a loud chord.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "then,",
+     "t": 0.24,
+     "end": 0.8
+    },
+    {
+     "w": "out",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "nowhere,",
+     "t": 1.28,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "loud",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "chord.",
+     "t": 2.8,
+     "end": 3.52
+    }
+   ]
+  },
+  "cristo": {
+   "text": "Around 1700 in Florence, Bartolomeo Cristofori built the first pianos.",
+   "dur": 5.955918,
+   "speechEnd": 6,
+   "words": [
+    {
+     "w": "Around",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "1700",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "in",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "Florence,",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "Bartolomeo",
+     "t": 2.6,
+     "end": 3.28
+    },
+    {
+     "w": "Cristofori",
+     "t": 3.36,
+     "end": 4.16
+    },
+    {
+     "w": "built",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "first",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "pianos.",
+     "t": 5.04,
+     "end": 6
+    }
+   ]
+  },
+  "cristo2": {
+   "text": "He called it gravicembalo col piano e forte. A harpsichord with soft and loud.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "He",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "called",
+     "t": 0.28,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "gravicembalo",
+     "t": 0.8,
+     "end": 1.6
+    },
+    {
+     "w": "col",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "piano",
+     "t": 1.92,
+     "end": 2.32
+    },
+    {
+     "w": "e",
+     "t": 2.36,
+     "end": 2.4
+    },
+    {
+     "w": "forte.",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "A",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "harpsichord",
+     "t": 3.68,
+     "end": 4.32
+    },
+    {
+     "w": "with",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "soft",
+     "t": 4.8,
+     "end": 5.2
+    },
+    {
+     "w": "and",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "loud.",
+     "t": 5.52,
+     "end": 6.24
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why that name? A harpsichord plucks its strings. Press harder, and it hardly gets louder.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "that",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "name?",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "A",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "harpsichord",
+     "t": 2.16,
+     "end": 2.8
+    },
+    {
+     "w": "plucks",
+     "t": 2.88,
+     "end": 3.28
+    },
+    {
+     "w": "its",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "strings.",
+     "t": 3.52,
+     "end": 4.28
+    },
+    {
+     "w": "Press",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "harder,",
+     "t": 4.8,
+     "end": 5.44
+    },
+    {
+     "w": "and",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "it",
+     "t": 5.64,
+     "end": 5.68
+    },
+    {
+     "w": "hardly",
+     "t": 5.84,
+     "end": 6.12
+    },
+    {
+     "w": "gets",
+     "t": 6.16,
+     "end": 6.4
+    },
+    {
+     "w": "louder.",
+     "t": 6.48,
+     "end": 7.12
+    }
+   ]
+  },
+  "why2": {
+   "text": "A piano's hammers strike the strings. Press harder, and it plays louder.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "piano's",
+     "t": 0.16,
+     "end": 0.64
+    },
+    {
+     "w": "hammers",
+     "t": 0.72,
+     "end": 1.2
+    },
+    {
+     "w": "strike",
+     "t": 1.28,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "strings.",
+     "t": 1.76,
+     "end": 2.52
+    },
+    {
+     "w": "Press",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "harder,",
+     "t": 3.04,
+     "end": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.72,
+     "end": 3.76
+    },
+    {
+     "w": "it",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "plays",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "louder.",
+     "t": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "dyn": {
+   "text": "That's what dynamics are: from pianissimo to fortissimo.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "what",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "dynamics",
+     "t": 0.52,
+     "end": 1.04
+    },
+    {
+     "w": "are:",
+     "t": 1.12,
+     "end": 1.76
+    },
+    {
+     "w": "from",
+     "t": 1.88,
+     "end": 2
+    },
+    {
+     "w": "pianissimo",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "fortissimo.",
+     "t": 3.2,
+     "end": 4.32
+    }
+   ]
+  },
+  "cresc": {
+   "text": "Crescendo, getting louder. Diminuendo, getting softer.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Crescendo,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "getting",
+     "t": 1.12,
+     "end": 1.36
+    },
+    {
+     "w": "louder.",
+     "t": 1.44,
+     "end": 2.2
+    },
+    {
+     "w": "Diminuendo,",
+     "t": 2.48,
+     "end": 3.56
+    },
+    {
+     "w": "getting",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "softer.",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "pedal": {
+   "text": "The sustain pedal lifts the dampers, so the notes keep ringing.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "sustain",
+     "t": 0.2,
+     "end": 0.64
+    },
+    {
+     "w": "pedal",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "lifts",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "dampers,",
+     "t": 1.6,
+     "end": 2.4
+    },
+    {
+     "w": "so",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "notes",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "keep",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "ringing.",
+     "t": 3.44,
+     "end": 4.08
+    }
+   ]
+  },
+  "soft": {
+   "text": "On a grand, the soft pedal shifts the hammers to strike fewer strings.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "On",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "grand,",
+     "t": 0.32,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "soft",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "pedal",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "shifts",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "the",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "hammers",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "to",
+     "t": 3,
+     "end": 3.04
+    },
+    {
+     "w": "strike",
+     "t": 3.12,
+     "end": 3.44
+    },
+    {
+     "w": "fewer",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "strings.",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "essence": {
+   "text": "Same notes, soft or loud. The piano gave every player control over both.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Same",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "notes,",
+     "t": 0.4,
+     "end": 1.12
+    },
+    {
+     "w": "soft",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "or",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "loud.",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "The",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "piano",
+     "t": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "gave",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "every",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "player",
+     "t": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "control",
+     "t": 4.56,
+     "end": 5.04
+    },
+    {
+     "w": "over",
+     "t": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "both.",
+     "t": 5.44,
+     "end": 6.16
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.36,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,941 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "One singer, two notes at once: a deep drone, and a whistling melody above it.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "singer,",
+     "t": 0.32,
+     "end": 1.12
+    },
+    {
+     "w": "two",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "notes",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "at",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "once:",
+     "t": 1.92,
+     "end": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "deep",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "drone,",
+     "t": 3.36,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "a",
+     "t": 4.2,
+     "end": 4.24
+    },
+    {
+     "w": "whistling",
+     "t": 4.32,
+     "end": 4.8
+    },
+    {
+     "w": "melody",
+     "t": 4.88,
+     "end": 5.28
+    },
+    {
+     "w": "above",
+     "t": 5.44,
+     "end": 5.6
+    },
+    {
+     "w": "it.",
+     "t": 5.72,
+     "end": 6.08
+    }
+   ]
+  },
+  "what": {
+   "text": "This is throat singing, or khoomei, from Tuva and Mongolia.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "throat",
+     "t": 0.56,
+     "end": 0.88
+    },
+    {
+     "w": "singing,",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "or",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "khoomei,",
+     "t": 2,
+     "end": 2.8
+    },
+    {
+     "w": "from",
+     "t": 2.92,
+     "end": 3.04
+    },
+    {
+     "w": "Tuva",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "and",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "Mongolia.",
+     "t": 3.84,
+     "end": 4.8
+    }
+   ]
+  },
+  "sygyt": {
+   "text": "In the sygyt style, the overtones sing a high, whistling melody.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "sygyt",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "style,",
+     "t": 0.96,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "overtones",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "sing",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "high,",
+     "t": 2.8,
+     "end": 3.36
+    },
+    {
+     "w": "whistling",
+     "t": 3.4,
+     "end": 3.84
+    },
+    {
+     "w": "melody.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "karg": {
+   "text": "In kargyraa, the voice drops into a very deep growl.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "kargyraa,",
+     "t": 0.24,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "voice",
+     "t": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "drops",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "into",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "very",
+     "t": 2.8,
+     "end": 3.2
+    },
+    {
+     "w": "deep",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "growl.",
+     "t": 3.68,
+     "end": 4.56
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? Every sung note is a stack of harmonics.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "does",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Every",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "sung",
+     "t": 2.32,
+     "end": 2.56
+    },
+    {
+     "w": "note",
+     "t": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "is",
+     "t": 3.12,
+     "end": 3.2
+    },
+    {
+     "w": "a",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "stack",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "of",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "harmonics.",
+     "t": 4.04,
+     "end": 4.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "The fundamental, plus two, three, four times its frequency.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "fundamental,",
+     "t": 0.24,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "two,",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "three,",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "four",
+     "t": 3.16,
+     "end": 3.28
+    },
+    {
+     "w": "times",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "its",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "frequency.",
+     "t": 4,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3": {
+   "text": "By shaping the mouth, tongue and throat, the singer boosts one harmonic at a time...",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "By",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "shaping",
+     "t": 0.28,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "mouth,",
+     "t": 1,
+     "end": 1.44
+    },
+    {
+     "w": "tongue",
+     "t": 1.48,
+     "end": 1.84
+    },
+    {
+     "w": "and",
+     "t": 1.88,
+     "end": 1.92
+    },
+    {
+     "w": "throat,",
+     "t": 2.08,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "singer",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "boosts",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "one",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "harmonic",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "at",
+     "t": 4.96,
+     "end": 5.04
+    },
+    {
+     "w": "a",
+     "t": 5.08,
+     "end": 5.12
+    },
+    {
+     "w": "time...",
+     "t": 5.2,
+     "end": 5.92
+    }
+   ]
+  },
+  "why4": {
+   "text": "so strongly that you hear it as a second, whistling note.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "strongly",
+     "t": 0.4,
+     "end": 1.04
+    },
+    {
+     "w": "that",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "you",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "hear",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "it",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "as",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "a",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "second,",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "whistling",
+     "t": 3.04,
+     "end": 3.52
+    },
+    {
+     "w": "note.",
+     "t": 3.6,
+     "end": 4.24
+    }
+   ]
+  },
+  "why5": {
+   "text": "The low note stays the same. The melody comes from moving between harmonics.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "low",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "note",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "stays",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "the",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "same.",
+     "t": 1.28,
+     "end": 1.92
+    },
+    {
+     "w": "The",
+     "t": 2.16,
+     "end": 2.2
+    },
+    {
+     "w": "melody",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "comes",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "from",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "moving",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "between",
+     "t": 3.68,
+     "end": 4.16
+    },
+    {
+     "w": "harmonics.",
+     "t": 4.24,
+     "end": 5.28
+    }
+   ]
+  },
+  "why6": {
+   "text": "So it can only use notes of the harmonic series.",
+   "dur": 3.317551,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "it",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "can",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "only",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "use",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "notes",
+     "t": 1.36,
+     "end": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.8,
+     "end": 1.84
+    },
+    {
+     "w": "harmonic",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "series.",
+     "t": 2.56,
+     "end": 3.36
+    }
+   ]
+  },
+  "why7": {
+   "text": "Around harmonics eight to twelve, they're close enough together to make a scale.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Around",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "harmonics",
+     "t": 0.52,
+     "end": 1.04
+    },
+    {
+     "w": "eight",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "to",
+     "t": 1.36,
+     "end": 1.52
+    },
+    {
+     "w": "twelve,",
+     "t": 1.6,
+     "end": 2.32
+    },
+    {
+     "w": "they're",
+     "t": 2.36,
+     "end": 2.56
+    },
+    {
+     "w": "close",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "enough",
+     "t": 2.92,
+     "end": 3.12
+    },
+    {
+     "w": "together",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "to",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "make",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.04
+    },
+    {
+     "w": "scale.",
+     "t": 4.08,
+     "end": 4.8
+    }
+   ]
+  },
+  "why8": {
+   "text": "Your mouth works like a filter: its resonances, called formants, shape every vowel.",
+   "dur": 6.034286,
+   "speechEnd": 6.08,
+   "words": [
+    {
+     "w": "Your",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "mouth",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "works",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "like",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "filter:",
+     "t": 1.44,
+     "end": 2.08
+    },
+    {
+     "w": "its",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "resonances,",
+     "t": 2.44,
+     "end": 3.28
+    },
+    {
+     "w": "called",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "formants,",
+     "t": 3.68,
+     "end": 4.48
+    },
+    {
+     "w": "shape",
+     "t": 4.56,
+     "end": 4.88
+    },
+    {
+     "w": "every",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "vowel.",
+     "t": 5.36,
+     "end": 6.08
+    }
+   ]
+  },
+  "why9": {
+   "text": "Throat singers push that to the extreme.",
+   "dur": 2.925714,
+   "speechEnd": 2.96,
+   "words": [
+    {
+     "w": "Throat",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "singers",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "push",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "that",
+     "t": 1.36,
+     "end": 1.6
+    },
+    {
+     "w": "to",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "extreme.",
+     "t": 1.92,
+     "end": 2.96
+    }
+   ]
+  },
+  "essence": {
+   "text": "One voice, two notes. The harmonic series becomes a melody.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "voice,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "notes.",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "The",
+     "t": 2.48,
+     "end": 2.52
+    },
+    {
+     "w": "harmonic",
+     "t": 2.56,
+     "end": 3.04
+    },
+    {
+     "w": "series",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "becomes",
+     "t": 3.68,
+     "end": 4
+    },
+    {
+     "w": "a",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "melody.",
+     "t": 4.16,
+     "end": 4.96
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 2.037551,
+   "speechEnd": 2,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 2
+    }
+   ]
+  }
+ }
+}

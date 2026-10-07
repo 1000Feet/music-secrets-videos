@@ -1,0 +1,994 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Sharps and flats in a key signature always arrive in the same secret order.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "Sharps",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "and",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "flats",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "a",
+     "t": 1.2,
+     "end": 1.24
+    },
+    {
+     "w": "key",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "signature",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "always",
+     "t": 2.32,
+     "end": 2.72
+    },
+    {
+     "w": "arrive",
+     "t": 2.84,
+     "end": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "same",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "secret",
+     "t": 4,
+     "end": 4.32
+    },
+    {
+     "w": "order.",
+     "t": 4.48,
+     "end": 5.04
+    }
+   ]
+  },
+  "what": {
+   "text": "A key signature tells you which notes are sharp or flat for the whole piece.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "key",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "signature",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "tells",
+     "t": 1.04,
+     "end": 1.36
+    },
+    {
+     "w": "you",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "which",
+     "t": 1.72,
+     "end": 1.84
+    },
+    {
+     "w": "notes",
+     "t": 2,
+     "end": 2.16
+    },
+    {
+     "w": "are",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "sharp",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "or",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "flat",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "for",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "the",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "whole",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "piece.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "elise": {
+   "text": "Für Elise is in A minor: no sharps, no flats.",
+   "dur": 4.362449,
+   "speechEnd": 4.4,
+   "words": [
+    {
+     "w": "Für",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "Elise",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "in",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "A",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "minor:",
+     "t": 1.52,
+     "end": 2.4
+    },
+    {
+     "w": "no",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "sharps,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "no",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "flats.",
+     "t": 3.6,
+     "end": 4.4
+    }
+   ]
+  },
+  "moon": {
+   "text": "The Moonlight Sonata, in C sharp minor: four sharps.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Moonlight",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "Sonata,",
+     "t": 0.72,
+     "end": 1.52
+    },
+    {
+     "w": "in",
+     "t": 1.6,
+     "end": 1.68
+    },
+    {
+     "w": "C",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "sharp",
+     "t": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "minor:",
+     "t": 2.4,
+     "end": 3.28
+    },
+    {
+     "w": "four",
+     "t": 3.4,
+     "end": 3.52
+    },
+    {
+     "w": "sharps.",
+     "t": 3.6,
+     "end": 4.32
+    }
+   ]
+  },
+  "clair": {
+   "text": "Clair de lune, in D flat major: five flats.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Clair",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "de",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "lune,",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "D",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "flat",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "major:",
+     "t": 2.08,
+     "end": 2.96
+    },
+    {
+     "w": "five",
+     "t": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "flats.",
+     "t": 3.44,
+     "end": 4.24
+    }
+   ]
+  },
+  "why1": {
+   "text": "So what's the secret? Each step up the circle of fifths adds one sharp.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "what's",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "secret?",
+     "t": 0.88,
+     "end": 1.44
+    },
+    {
+     "w": "Each",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "step",
+     "t": 2.24,
+     "end": 2.48
+    },
+    {
+     "w": "up",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "circle",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "of",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "fifths",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "adds",
+     "t": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "one",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "sharp.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why2": {
+   "text": "G major has one: F sharp. D major adds C sharp. A major adds G sharp.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "G",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "major",
+     "t": 0.16,
+     "end": 0.576
+    },
+    {
+     "w": "has",
+     "t": 0.64,
+     "end": 0.827
+    },
+    {
+     "w": "one:",
+     "t": 0.88,
+     "end": 1.6
+    },
+    {
+     "w": "F",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "sharp.",
+     "t": 1.84,
+     "end": 2.52
+    },
+    {
+     "w": "D",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "major",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "adds",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "C",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "sharp.",
+     "t": 4.16,
+     "end": 4.72
+    },
+    {
+     "w": "A",
+     "t": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "major",
+     "t": 5.2,
+     "end": 5.6
+    },
+    {
+     "w": "adds",
+     "t": 5.76,
+     "end": 6
+    },
+    {
+     "w": "G",
+     "t": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "sharp.",
+     "t": 6.4,
+     "end": 6.96
+    }
+   ]
+  },
+  "order": {
+   "text": "Sharps always come in this order: Father Charles Goes Down And Ends Battle.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Sharps",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "always",
+     "t": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "come",
+     "t": 1.12,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.32,
+     "end": 1.36
+    },
+    {
+     "w": "this",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "order:",
+     "t": 1.68,
+     "end": 2.64
+    },
+    {
+     "w": "Father",
+     "t": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "Charles",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "Goes",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "Down",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "And",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "Ends",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "Battle.",
+     "t": 5.04,
+     "end": 5.68
+    }
+   ]
+  },
+  "lead": {
+   "text": "Each new key keeps six notes and raises one: its new leading tone.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "new",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "key",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "keeps",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "six",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "notes",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "raises",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "one:",
+     "t": 2.96,
+     "end": 3.6
+    },
+    {
+     "w": "its",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "new",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "leading",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "tone.",
+     "t": 4.64,
+     "end": 5.2
+    }
+   ]
+  },
+  "flats": {
+   "text": "Walk the other way, and each step adds a flat: B, E, A, D, G, C, F.",
+   "dur": 7.627755,
+   "speechEnd": 7.68,
+   "words": [
+    {
+     "w": "Walk",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.36,
+     "end": 0.4
+    },
+    {
+     "w": "other",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "way,",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "each",
+     "t": 1.68,
+     "end": 1.84
+    },
+    {
+     "w": "step",
+     "t": 1.92,
+     "end": 2.24
+    },
+    {
+     "w": "adds",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "flat:",
+     "t": 2.72,
+     "end": 3.68
+    },
+    {
+     "w": "B,",
+     "t": 3.76,
+     "end": 4.24
+    },
+    {
+     "w": "E,",
+     "t": 4.4,
+     "end": 4.8
+    },
+    {
+     "w": "A,",
+     "t": 4.96,
+     "end": 5.4
+    },
+    {
+     "w": "D,",
+     "t": 5.52,
+     "end": 6
+    },
+    {
+     "w": "G,",
+     "t": 6.16,
+     "end": 6.52
+    },
+    {
+     "w": "C,",
+     "t": 6.64,
+     "end": 7.04
+    },
+    {
+     "w": "F.",
+     "t": 7.12,
+     "end": 7.68
+    }
+   ]
+  },
+  "trick": {
+   "text": "The shortcut: in sharp keys, the key is a half step above the last sharp.",
+   "dur": 5.564082,
+   "speechEnd": 5.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "shortcut:",
+     "t": 0.24,
+     "end": 1.36
+    },
+    {
+     "w": "in",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "sharp",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "keys,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "key",
+     "t": 2.8,
+     "end": 3.04
+    },
+    {
+     "w": "is",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "a",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "half",
+     "t": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "step",
+     "t": 3.76,
+     "end": 4
+    },
+    {
+     "w": "above",
+     "t": 4.2,
+     "end": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "last",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "sharp.",
+     "t": 5.04,
+     "end": 5.6
+    }
+   ]
+  },
+  "trick2": {
+   "text": "In flat keys, except F, it's the second to last flat.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "flat",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "keys,",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "except",
+     "t": 1.4,
+     "end": 1.6
+    },
+    {
+     "w": "F,",
+     "t": 1.76,
+     "end": 2.32
+    },
+    {
+     "w": "it's",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "second",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "to",
+     "t": 3.2,
+     "end": 3.28
+    },
+    {
+     "w": "last",
+     "t": 3.36,
+     "end": 3.6
+    },
+    {
+     "w": "flat.",
+     "t": 3.68,
+     "end": 4.32
+    }
+   ]
+  },
+  "essence": {
+   "text": "Sharps and flats aren't random. They march around the circle of fifths, one at a time.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Sharps",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "and",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "flats",
+     "t": 0.64,
+     "end": 1.12
+    },
+    {
+     "w": "aren't",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "random.",
+     "t": 1.52,
+     "end": 2.24
+    },
+    {
+     "w": "They",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "march",
+     "t": 2.68,
+     "end": 2.88
+    },
+    {
+     "w": "around",
+     "t": 2.96,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.24,
+     "end": 3.28
+    },
+    {
+     "w": "circle",
+     "t": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "of",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "fifths,",
+     "t": 3.88,
+     "end": 4.64
+    },
+    {
+     "w": "one",
+     "t": 4.72,
+     "end": 4.8
+    },
+    {
+     "w": "at",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "a",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "time.",
+     "t": 5.24,
+     "end": 5.76
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.724082,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.76
+    }
+   ]
+  }
+ }
+}

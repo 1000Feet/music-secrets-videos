@@ -1,0 +1,976 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Seven notes... with rules, a mood, and even a time of day.",
+   "dur": 5.146122,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "Seven",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "notes...",
+     "t": 0.48,
+     "end": 1.44
+    },
+    {
+     "w": "with",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "rules,",
+     "t": 1.76,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.52,
+     "end": 2.56
+    },
+    {
+     "w": "mood,",
+     "t": 2.72,
+     "end": 3.36
+    },
+    {
+     "w": "and",
+     "t": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "even",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "time",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "of",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "day.",
+     "t": 4.48,
+     "end": 5.12
+    }
+   ]
+  },
+  "what": {
+   "text": "This is a raga, from Indian classical music.",
+   "dur": 3.395918,
+   "speechEnd": 3.36,
+   "words": [
+    {
+     "w": "This",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "is",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "a",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "raga,",
+     "t": 0.72,
+     "end": 1.44
+    },
+    {
+     "w": "from",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "Indian",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "classical",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "music.",
+     "t": 2.72,
+     "end": 3.36
+    }
+   ]
+  },
+  "shankar": {
+   "text": "Ravi Shankar brought the sitar and this music to Western audiences...",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Ravi",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Shankar",
+     "t": 0.4,
+     "end": 0.96
+    },
+    {
+     "w": "brought",
+     "t": 1.04,
+     "end": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "sitar",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "this",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "music",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.28,
+     "end": 3.36
+    },
+    {
+     "w": "Western",
+     "t": 3.56,
+     "end": 3.76
+    },
+    {
+     "w": "audiences...",
+     "t": 3.84,
+     "end": 4.88
+    }
+   ]
+  },
+  "harrison": {
+   "text": "George Harrison played it on Norwegian Wood, and later studied with Shankar.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "George",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "Harrison",
+     "t": 0.4,
+     "end": 0.88
+    },
+    {
+     "w": "played",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "it",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "on",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "Norwegian",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "Wood,",
+     "t": 2.16,
+     "end": 2.72
+    },
+    {
+     "w": "and",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "later",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "studied",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "with",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "Shankar.",
+     "t": 3.96,
+     "end": 4.72
+    }
+   ]
+  },
+  "yaman": {
+   "text": "Raga Yaman, a classic evening raga, raises the fourth, like the Lydian mode.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Raga",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Yaman,",
+     "t": 0.48,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "classic",
+     "t": 1.44,
+     "end": 1.92
+    },
+    {
+     "w": "evening",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "raga,",
+     "t": 2.44,
+     "end": 3.04
+    },
+    {
+     "w": "raises",
+     "t": 3.12,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "fourth,",
+     "t": 3.76,
+     "end": 4.4
+    },
+    {
+     "w": "like",
+     "t": 4.52,
+     "end": 4.64
+    },
+    {
+     "w": "the",
+     "t": 4.68,
+     "end": 4.72
+    },
+    {
+     "w": "Lydian",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "mode.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why is it more than a scale? A raga sets the notes, and how to move.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.48,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "it",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "more",
+     "t": 1.16,
+     "end": 1.28
+    },
+    {
+     "w": "than",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.48,
+     "end": 1.52
+    },
+    {
+     "w": "scale?",
+     "t": 1.6,
+     "end": 2.28
+    },
+    {
+     "w": "A",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "raga",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "sets",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "the",
+     "t": 3.48,
+     "end": 3.52
+    },
+    {
+     "w": "notes,",
+     "t": 3.6,
+     "end": 4.32
+    },
+    {
+     "w": "and",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "how",
+     "t": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "to",
+     "t": 5,
+     "end": 5.04
+    },
+    {
+     "w": "move.",
+     "t": 5.12,
+     "end": 5.76
+    }
+   ]
+  },
+  "why2": {
+   "text": "The way up, aroha, and the way down, avaroha, can differ.",
+   "dur": 5.250612,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "way",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "up,",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "aroha,",
+     "t": 1.2,
+     "end": 2.08
+    },
+    {
+     "w": "and",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.28,
+     "end": 2.32
+    },
+    {
+     "w": "way",
+     "t": 2.4,
+     "end": 2.56
+    },
+    {
+     "w": "down,",
+     "t": 2.64,
+     "end": 3.44
+    },
+    {
+     "w": "avaroha,",
+     "t": 3.6,
+     "end": 4.4
+    },
+    {
+     "w": "can",
+     "t": 4.48,
+     "end": 4.56
+    },
+    {
+     "w": "differ.",
+     "t": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "why3": {
+   "text": "Characteristic phrases and important notes make it recognisable.",
+   "dur": 4.205714,
+   "speechEnd": 4.24,
+   "words": [
+    {
+     "w": "Characteristic",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "phrases",
+     "t": 0.8,
+     "end": 1.36
+    },
+    {
+     "w": "and",
+     "t": 1.44,
+     "end": 1.6
+    },
+    {
+     "w": "important",
+     "t": 1.88,
+     "end": 2.16
+    },
+    {
+     "w": "notes",
+     "t": 2.24,
+     "end": 2.64
+    },
+    {
+     "w": "make",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "it",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "recognisable.",
+     "t": 3.24,
+     "end": 4.24
+    }
+   ]
+  },
+  "why4": {
+   "text": "Each raga has a mood, its rasa. Many belong to a time of day, or a season.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "raga",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "has",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "t": 1.08,
+     "end": 1.12
+    },
+    {
+     "w": "mood,",
+     "t": 1.2,
+     "end": 2
+    },
+    {
+     "w": "its",
+     "t": 2.12,
+     "end": 2.24
+    },
+    {
+     "w": "rasa.",
+     "t": 2.32,
+     "end": 3.12
+    },
+    {
+     "w": "Many",
+     "t": 3.44,
+     "end": 3.68
+    },
+    {
+     "w": "belong",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "to",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "time",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "of",
+     "t": 4.68,
+     "end": 4.72
+    },
+    {
+     "w": "day,",
+     "t": 4.88,
+     "end": 5.44
+    },
+    {
+     "w": "or",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "a",
+     "t": 5.64,
+     "end": 5.68
+    },
+    {
+     "w": "season.",
+     "t": 5.76,
+     "end": 6.48
+    }
+   ]
+  },
+  "why5": {
+   "text": "Underneath, the tanpura drone holds home and the fifth.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "Underneath,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "the",
+     "t": 0.96,
+     "end": 1.04
+    },
+    {
+     "w": "tanpura",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "drone",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "holds",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "home",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "and",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "the",
+     "t": 3.16,
+     "end": 3.2
+    },
+    {
+     "w": "fifth.",
+     "t": 3.36,
+     "end": 4
+    }
+   ]
+  },
+  "why6": {
+   "text": "Rhythm comes from tala, a repeating cycle. Teentaal has sixteen beats, four groups of four...",
+   "dur": 7.392653,
+   "speechEnd": 7.44,
+   "words": [
+    {
+     "w": "Rhythm",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "comes",
+     "t": 0.48,
+     "end": 0.72
+    },
+    {
+     "w": "from",
+     "t": 0.8,
+     "end": 0.96
+    },
+    {
+     "w": "tala,",
+     "t": 1.12,
+     "end": 1.92
+    },
+    {
+     "w": "a",
+     "t": 1.96,
+     "end": 2
+    },
+    {
+     "w": "repeating",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "cycle.",
+     "t": 2.64,
+     "end": 3.6
+    },
+    {
+     "w": "Teentaal",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "has",
+     "t": 4.32,
+     "end": 4.56
+    },
+    {
+     "w": "sixteen",
+     "t": 4.64,
+     "end": 5.12
+    },
+    {
+     "w": "beats,",
+     "t": 5.2,
+     "end": 6
+    },
+    {
+     "w": "four",
+     "t": 6.08,
+     "end": 6.16
+    },
+    {
+     "w": "groups",
+     "t": 6.32,
+     "end": 6.56
+    },
+    {
+     "w": "of",
+     "t": 6.64,
+     "end": 6.72
+    },
+    {
+     "w": "four...",
+     "t": 6.8,
+     "end": 7.44
+    }
+   ]
+  },
+  "why6b": {
+   "text": "and everyone meets on beat one: the sam.",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "everyone",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "meets",
+     "t": 0.8,
+     "end": 1.12
+    },
+    {
+     "w": "on",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "beat",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "one:",
+     "t": 1.84,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.6,
+     "end": 2.64
+    },
+    {
+     "w": "sam.",
+     "t": 2.8,
+     "end": 3.52
+    }
+   ]
+  },
+  "why7": {
+   "text": "North and South, Hindustani and Carnatic music both use ragas.",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "North",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "and",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "South,",
+     "t": 0.64,
+     "end": 1.36
+    },
+    {
+     "w": "Hindustani",
+     "t": 1.4,
+     "end": 2.16
+    },
+    {
+     "w": "and",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "Carnatic",
+     "t": 2.4,
+     "end": 2.88
+    },
+    {
+     "w": "music",
+     "t": 2.96,
+     "end": 3.44
+    },
+    {
+     "w": "both",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "use",
+     "t": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "ragas.",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "essence": {
+   "text": "Not just which notes, but how they behave. A raga is a scale with a soul.",
+   "dur": 6.19102,
+   "speechEnd": 6.24,
+   "words": [
+    {
+     "w": "Not",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "just",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "which",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "notes,",
+     "t": 0.96,
+     "end": 1.6
+    },
+    {
+     "w": "but",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "how",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "they",
+     "t": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "behave.",
+     "t": 2.24,
+     "end": 3.44
+    },
+    {
+     "w": "A",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "raga",
+     "t": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "is",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "a",
+     "t": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "scale",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "with",
+     "t": 5.04,
+     "end": 5.2
+    },
+    {
+     "w": "a",
+     "t": 5.24,
+     "end": 5.28
+    },
+    {
+     "w": "soul.",
+     "t": 5.44,
+     "end": 6.24
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.92,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,881 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Leave home. Get lost. Find your way back.",
+   "dur": 3.787755,
+   "speechEnd": 3.84,
+   "words": [
+    {
+     "w": "Leave",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "home.",
+     "t": 0.4,
+     "end": 1
+    },
+    {
+     "w": "Get",
+     "t": 1.2,
+     "end": 1.36
+    },
+    {
+     "w": "lost.",
+     "t": 1.52,
+     "end": 2.32
+    },
+    {
+     "w": "Find",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "your",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "way",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "back.",
+     "t": 3.2,
+     "end": 3.84
+    }
+   ]
+  },
+  "what": {
+   "text": "That's sonata form, the classic plan for first movements: exposition, development, recapitulation.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "sonata",
+     "t": 0.44,
+     "end": 0.72
+    },
+    {
+     "w": "form,",
+     "t": 0.8,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "classic",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "plan",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "for",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "first",
+     "t": 2.64,
+     "end": 2.88
+    },
+    {
+     "w": "movements:",
+     "t": 2.96,
+     "end": 3.92
+    },
+    {
+     "w": "exposition,",
+     "t": 4,
+     "end": 4.96
+    },
+    {
+     "w": "development,",
+     "t": 5.28,
+     "end": 5.92
+    },
+    {
+     "w": "recapitulation.",
+     "t": 6.04,
+     "end": 7.2
+    }
+   ]
+  },
+  "moz": {
+   "text": "You hear it in Mozart's Symphony No. 40 in G minor, from 1788.",
+   "dur": 5.146122,
+   "speechEnd": 5.2,
+   "words": [
+    {
+     "w": "You",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "hear",
+     "t": 0.24,
+     "end": 0.4
+    },
+    {
+     "w": "it",
+     "t": 0.44,
+     "end": 0.48
+    },
+    {
+     "w": "in",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "Mozart's",
+     "t": 0.68,
+     "end": 1.2
+    },
+    {
+     "w": "Symphony",
+     "t": 1.32,
+     "end": 1.6
+    },
+    {
+     "w": "No.",
+     "t": 1.68,
+     "end": 1.92
+    },
+    {
+     "w": "40",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "in",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "G",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "minor,",
+     "t": 2.88,
+     "end": 3.44
+    },
+    {
+     "w": "from",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "1788.",
+     "t": 3.76,
+     "end": 5.2
+    }
+   ]
+  },
+  "moz2": {
+   "text": "The second theme arrives in B flat major... and in the recapitulation, it returns in G minor.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "second",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "theme",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "arrives",
+     "t": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "in",
+     "t": 1.44,
+     "end": 1.52
+    },
+    {
+     "w": "B",
+     "t": 1.6,
+     "end": 1.76
+    },
+    {
+     "w": "flat",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "major...",
+     "t": 2.16,
+     "end": 3.12
+    },
+    {
+     "w": "and",
+     "t": 3.2,
+     "end": 3.36
+    },
+    {
+     "w": "in",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "the",
+     "t": 3.56,
+     "end": 3.6
+    },
+    {
+     "w": "recapitulation,",
+     "t": 3.72,
+     "end": 4.8
+    },
+    {
+     "w": "it",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "returns",
+     "t": 5.24,
+     "end": 5.52
+    },
+    {
+     "w": "in",
+     "t": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "G",
+     "t": 5.84,
+     "end": 6
+    },
+    {
+     "w": "minor.",
+     "t": 6.08,
+     "end": 6.8
+    }
+   ]
+  },
+  "hmb": {
+   "text": "Haydn, Mozart and Beethoven used it for most first movements: symphonies, sonatas, quartets.",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "Haydn,",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "Mozart",
+     "t": 0.72,
+     "end": 1.28
+    },
+    {
+     "w": "and",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "Beethoven",
+     "t": 1.52,
+     "end": 2.16
+    },
+    {
+     "w": "used",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "it",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "for",
+     "t": 2.68,
+     "end": 2.8
+    },
+    {
+     "w": "most",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "first",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "movements:",
+     "t": 3.52,
+     "end": 4.48
+    },
+    {
+     "w": "symphonies,",
+     "t": 4.6,
+     "end": 5.36
+    },
+    {
+     "w": "sonatas,",
+     "t": 5.48,
+     "end": 6.24
+    },
+    {
+     "w": "quartets.",
+     "t": 6.32,
+     "end": 7.2
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why does it work? First, the exposition.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "why",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "does",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "it",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "work?",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "First,",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.96,
+     "end": 3
+    },
+    {
+     "w": "exposition.",
+     "t": 3.04,
+     "end": 4.08
+    }
+   ]
+  },
+  "why2a": {
+   "text": "A first theme, in the home key.",
+   "dur": 2.507755,
+   "speechEnd": 2.56,
+   "words": [
+    {
+     "w": "A",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "first",
+     "t": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "theme,",
+     "t": 0.64,
+     "end": 1.28
+    },
+    {
+     "w": "in",
+     "t": 1.36,
+     "end": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.52,
+     "end": 1.56
+    },
+    {
+     "w": "home",
+     "t": 1.6,
+     "end": 1.84
+    },
+    {
+     "w": "key.",
+     "t": 1.92,
+     "end": 2.56
+    }
+   ]
+  },
+  "why2b": {
+   "text": "Then a contrasting second theme, in a new key, often the dominant.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "contrasting",
+     "t": 0.56,
+     "end": 1.28
+    },
+    {
+     "w": "second",
+     "t": 1.44,
+     "end": 1.76
+    },
+    {
+     "w": "theme,",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "in",
+     "t": 2.44,
+     "end": 2.48
+    },
+    {
+     "w": "a",
+     "t": 2.56,
+     "end": 2.64
+    },
+    {
+     "w": "new",
+     "t": 2.72,
+     "end": 2.8
+    },
+    {
+     "w": "key,",
+     "t": 2.88,
+     "end": 3.52
+    },
+    {
+     "w": "often",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "the",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "dominant.",
+     "t": 4.08,
+     "end": 4.88
+    }
+   ]
+  },
+  "why3a": {
+   "text": "In the development, the themes break into fragments...",
+   "dur": 3.474286,
+   "speechEnd": 3.52,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "the",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "development,",
+     "t": 0.32,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "themes",
+     "t": 1.44,
+     "end": 1.84
+    },
+    {
+     "w": "break",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "into",
+     "t": 2.28,
+     "end": 2.4
+    },
+    {
+     "w": "fragments...",
+     "t": 2.48,
+     "end": 3.52
+    }
+   ]
+  },
+  "why3b": {
+   "text": "pushed through key after key. That's the conflict.",
+   "dur": 3.866122,
+   "speechEnd": 3.92,
+   "words": [
+    {
+     "w": "pushed",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "through",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "key",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "after",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "key.",
+     "t": 1.6,
+     "end": 2
+    },
+    {
+     "w": "That's",
+     "t": 2.56,
+     "end": 2.8
+    },
+    {
+     "w": "the",
+     "t": 2.84,
+     "end": 2.88
+    },
+    {
+     "w": "conflict.",
+     "t": 2.96,
+     "end": 3.92
+    }
+   ]
+  },
+  "why4": {
+   "text": "Then the recapitulation: both themes return, now both in the home key.",
+   "dur": 5.32898,
+   "speechEnd": 5.28,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "the",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "recapitulation:",
+     "t": 0.56,
+     "end": 2.08
+    },
+    {
+     "w": "both",
+     "t": 2.2,
+     "end": 2.32
+    },
+    {
+     "w": "themes",
+     "t": 2.4,
+     "end": 2.64
+    },
+    {
+     "w": "return,",
+     "t": 2.72,
+     "end": 3.52
+    },
+    {
+     "w": "now",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "both",
+     "t": 4,
+     "end": 4.24
+    },
+    {
+     "w": "in",
+     "t": 4.28,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.44
+    },
+    {
+     "w": "home",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "key.",
+     "t": 4.8,
+     "end": 5.28
+    }
+   ]
+  },
+  "why5": {
+   "text": "Conflict resolved. Often, a coda closes it out.",
+   "dur": 4.284082,
+   "speechEnd": 4.32,
+   "words": [
+    {
+     "w": "Conflict",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "resolved.",
+     "t": 0.64,
+     "end": 1.6
+    },
+    {
+     "w": "Often,",
+     "t": 1.92,
+     "end": 2.56
+    },
+    {
+     "w": "a",
+     "t": 2.64,
+     "end": 2.68
+    },
+    {
+     "w": "coda",
+     "t": 2.72,
+     "end": 3.12
+    },
+    {
+     "w": "closes",
+     "t": 3.2,
+     "end": 3.52
+    },
+    {
+     "w": "it",
+     "t": 3.6,
+     "end": 3.68
+    },
+    {
+     "w": "out.",
+     "t": 3.76,
+     "end": 4.32
+    }
+   ]
+  },
+  "why6": {
+   "text": "Home, journey, struggle, return. It's a story.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "Home,",
+     "t": 0,
+     "end": 0.8
+    },
+    {
+     "w": "journey,",
+     "t": 0.88,
+     "end": 1.68
+    },
+    {
+     "w": "struggle,",
+     "t": 1.76,
+     "end": 2.56
+    },
+    {
+     "w": "return.",
+     "t": 2.84,
+     "end": 3.2
+    },
+    {
+     "w": "It's",
+     "t": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "t": 3.867,
+     "end": 3.893
+    },
+    {
+     "w": "story.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "essence": {
+   "text": "Two themes, two keys, one conflict... and the return home makes it all make sense.",
+   "dur": 7.079184,
+   "speechEnd": 7.12,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0,
+     "end": 0.2
+    },
+    {
+     "w": "themes,",
+     "t": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "keys,",
+     "t": 1.52,
+     "end": 2.4
+    },
+    {
+     "w": "one",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "conflict...",
+     "t": 2.72,
+     "end": 4
+    },
+    {
+     "w": "and",
+     "t": 4.04,
+     "end": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.12,
+     "end": 4.16
+    },
+    {
+     "w": "return",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "home",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "makes",
+     "t": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "it",
+     "t": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "all",
+     "t": 5.88,
+     "end": 6
+    },
+    {
+     "w": "make",
+     "t": 6.08,
+     "end": 6.24
+    },
+    {
+     "w": "sense.",
+     "t": 6.32,
+     "end": 7.12
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "I",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

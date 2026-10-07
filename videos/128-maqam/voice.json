@@ -1,0 +1,989 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Some music lives between the piano's keys... in notes a piano simply doesn't have.",
+   "dur": 6.112653,
+   "speechEnd": 6.16,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "music",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "lives",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "between",
+     "t": 1.12,
+     "end": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.56,
+     "end": 1.6
+    },
+    {
+     "w": "piano's",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "keys...",
+     "t": 2.52,
+     "end": 3.36
+    },
+    {
+     "w": "in",
+     "t": 3.44,
+     "end": 3.52
+    },
+    {
+     "w": "notes",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "piano",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "simply",
+     "t": 4.72,
+     "end": 5.04
+    },
+    {
+     "w": "doesn't",
+     "t": 5.12,
+     "end": 5.44
+    },
+    {
+     "w": "have.",
+     "t": 5.52,
+     "end": 6.16
+    }
+   ]
+  },
+  "what": {
+   "text": "Arabic music is built on modes called maqamat, and some of them use quarter tones.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Arabic",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "music",
+     "t": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "built",
+     "t": 1.2,
+     "end": 1.44
+    },
+    {
+     "w": "on",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "modes",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "called",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "maqamat,",
+     "t": 2.48,
+     "end": 3.44
+    },
+    {
+     "w": "and",
+     "t": 3.52,
+     "end": 3.68
+    },
+    {
+     "w": "some",
+     "t": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "of",
+     "t": 4,
+     "end": 4.08
+    },
+    {
+     "w": "them",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "use",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "quarter",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "tones.",
+     "t": 5.04,
+     "end": 5.76
+    }
+   ]
+  },
+  "oud": {
+   "text": "The oud, a fretless lute, can play those in-between pitches freely...",
+   "dur": 4.989388,
+   "speechEnd": 5.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "oud,",
+     "t": 0.32,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "fretless",
+     "t": 1.16,
+     "end": 1.6
+    },
+    {
+     "w": "lute,",
+     "t": 1.68,
+     "end": 2.24
+    },
+    {
+     "w": "can",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "play",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "those",
+     "t": 2.72,
+     "end": 3.04
+    },
+    {
+     "w": "in-between",
+     "t": 3.12,
+     "end": 3.6
+    },
+    {
+     "w": "pitches",
+     "t": 3.68,
+     "end": 4.08
+    },
+    {
+     "w": "freely...",
+     "t": 4.24,
+     "end": 5.04
+    }
+   ]
+  },
+  "taqsim": {
+   "text": "and an improvised prelude that explores a maqam is called a taqsim.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "an",
+     "t": 0.32,
+     "end": 0.4
+    },
+    {
+     "w": "improvised",
+     "t": 0.48,
+     "end": 1.04
+    },
+    {
+     "w": "prelude",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "that",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "explores",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.4,
+     "end": 2.44
+    },
+    {
+     "w": "maqam",
+     "t": 2.48,
+     "end": 3.04
+    },
+    {
+     "w": "is",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "called",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "a",
+     "t": 3.84,
+     "end": 3.92
+    },
+    {
+     "w": "taqsim.",
+     "t": 4,
+     "end": 4.96
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? Take Maqam Rast: C, D, E half flat, F, G, A, B half flat, C.",
+   "dur": 9.560816,
+   "speechEnd": 9.52,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "does",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "work?",
+     "t": 1.08,
+     "end": 1.56
+    },
+    {
+     "w": "Take",
+     "t": 1.84,
+     "end": 2
+    },
+    {
+     "w": "Maqam",
+     "t": 2.08,
+     "end": 2.48
+    },
+    {
+     "w": "Rast:",
+     "t": 2.56,
+     "end": 3.32
+    },
+    {
+     "w": "C,",
+     "t": 3.6,
+     "end": 4
+    },
+    {
+     "w": "D,",
+     "t": 4.16,
+     "end": 4.56
+    },
+    {
+     "w": "E",
+     "t": 4.64,
+     "end": 4.88
+    },
+    {
+     "w": "half",
+     "t": 4.96,
+     "end": 5.2
+    },
+    {
+     "w": "flat,",
+     "t": 5.28,
+     "end": 5.92
+    },
+    {
+     "w": "F,",
+     "t": 6.08,
+     "end": 6.4
+    },
+    {
+     "w": "G,",
+     "t": 6.56,
+     "end": 7.12
+    },
+    {
+     "w": "A,",
+     "t": 7.2,
+     "end": 7.48
+    },
+    {
+     "w": "B",
+     "t": 7.52,
+     "end": 7.76
+    },
+    {
+     "w": "half",
+     "t": 7.92,
+     "end": 8.08
+    },
+    {
+     "w": "flat,",
+     "t": 8.16,
+     "end": 8.8
+    },
+    {
+     "w": "C.",
+     "t": 8.96,
+     "end": 9.52
+    }
+   ]
+  },
+  "why2": {
+   "text": "That E sits halfway between E flat and E natural, about a quarter tone off the piano.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "That",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "E",
+     "t": 0.4,
+     "end": 0.72
+    },
+    {
+     "w": "sits",
+     "t": 0.88,
+     "end": 1.12
+    },
+    {
+     "w": "halfway",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "between",
+     "t": 1.8,
+     "end": 2
+    },
+    {
+     "w": "E",
+     "t": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "flat",
+     "t": 2.4,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "E",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "natural,",
+     "t": 3.36,
+     "end": 4.16
+    },
+    {
+     "w": "about",
+     "t": 4.24,
+     "end": 4.48
+    },
+    {
+     "w": "a",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "quarter",
+     "t": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "tone",
+     "t": 5.04,
+     "end": 5.28
+    },
+    {
+     "w": "off",
+     "t": 5.36,
+     "end": 5.44
+    },
+    {
+     "w": "the",
+     "t": 5.52,
+     "end": 5.6
+    },
+    {
+     "w": "piano.",
+     "t": 5.64,
+     "end": 6.32
+    }
+   ]
+  },
+  "why3": {
+   "text": "Maqam Hijaz has a wide gap: D, E flat, F sharp, G.",
+   "dur": 5.720816,
+   "speechEnd": 5.76,
+   "words": [
+    {
+     "w": "Maqam",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "Hijaz",
+     "t": 0.44,
+     "end": 0.96
+    },
+    {
+     "w": "has",
+     "t": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "a",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "wide",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "gap:",
+     "t": 1.76,
+     "end": 2.64
+    },
+    {
+     "w": "D,",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "E",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "flat,",
+     "t": 3.6,
+     "end": 4.24
+    },
+    {
+     "w": "F",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "sharp,",
+     "t": 4.48,
+     "end": 5.12
+    },
+    {
+     "w": "G.",
+     "t": 5.2,
+     "end": 5.76
+    }
+   ]
+  },
+  "why3b": {
+   "text": "The same exotic augmented second as the harmonic minor.",
+   "dur": 4.127347,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "same",
+     "t": 0.24,
+     "end": 0.48
+    },
+    {
+     "w": "exotic",
+     "t": 0.56,
+     "end": 1.12
+    },
+    {
+     "w": "augmented",
+     "t": 1.28,
+     "end": 1.84
+    },
+    {
+     "w": "second",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "as",
+     "t": 2.48,
+     "end": 2.64
+    },
+    {
+     "w": "the",
+     "t": 2.72,
+     "end": 2.76
+    },
+    {
+     "w": "harmonic",
+     "t": 2.8,
+     "end": 3.28
+    },
+    {
+     "w": "minor.",
+     "t": 3.36,
+     "end": 4.08
+    }
+   ]
+  },
+  "why4": {
+   "text": "And a maqam isn't just a scale. It has typical phrases and important notes...",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "And",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "maqam",
+     "t": 0.36,
+     "end": 0.8
+    },
+    {
+     "w": "isn't",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "just",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "a",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "scale.",
+     "t": 1.68,
+     "end": 2.56
+    },
+    {
+     "w": "It",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "has",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "typical",
+     "t": 3.04,
+     "end": 3.44
+    },
+    {
+     "w": "phrases",
+     "t": 3.48,
+     "end": 4.08
+    },
+    {
+     "w": "and",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "important",
+     "t": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "notes...",
+     "t": 4.96,
+     "end": 5.68
+    }
+   ]
+  },
+  "why4b": {
+   "text": "and ways of moving between ajnas, building blocks of three to five notes.",
+   "dur": 5.407347,
+   "speechEnd": 5.44,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "ways",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "of",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "moving",
+     "t": 0.72,
+     "end": 1.04
+    },
+    {
+     "w": "between",
+     "t": 1.32,
+     "end": 1.6
+    },
+    {
+     "w": "ajnas,",
+     "t": 1.68,
+     "end": 2.72
+    },
+    {
+     "w": "building",
+     "t": 2.8,
+     "end": 3.12
+    },
+    {
+     "w": "blocks",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "of",
+     "t": 3.68,
+     "end": 3.76
+    },
+    {
+     "w": "three",
+     "t": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "to",
+     "t": 4.16,
+     "end": 4.32
+    },
+    {
+     "w": "five",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "notes.",
+     "t": 4.72,
+     "end": 5.44
+    }
+   ]
+  },
+  "why5": {
+   "text": "Twelve note equal temperament has no quarter tones...",
+   "dur": 3.552653,
+   "speechEnd": 3.6,
+   "words": [
+    {
+     "w": "Twelve",
+     "t": 0,
+     "end": 0.32
+    },
+    {
+     "w": "note",
+     "t": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "equal",
+     "t": 0.72,
+     "end": 0.96
+    },
+    {
+     "w": "temperament",
+     "t": 1.04,
+     "end": 1.68
+    },
+    {
+     "w": "has",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "no",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "quarter",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "tones...",
+     "t": 2.8,
+     "end": 3.6
+    }
+   ]
+  },
+  "why5b": {
+   "text": "so a piano literally can't play Maqam Rast in tune.",
+   "dur": 4.127347,
+   "speechEnd": 4.16,
+   "words": [
+    {
+     "w": "so",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "a",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "piano",
+     "t": 0.56,
+     "end": 1.04
+    },
+    {
+     "w": "literally",
+     "t": 1.2,
+     "end": 1.68
+    },
+    {
+     "w": "can't",
+     "t": 1.76,
+     "end": 2.08
+    },
+    {
+     "w": "play",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "Maqam",
+     "t": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "Rast",
+     "t": 2.92,
+     "end": 3.28
+    },
+    {
+     "w": "in",
+     "t": 3.36,
+     "end": 3.44
+    },
+    {
+     "w": "tune.",
+     "t": 3.52,
+     "end": 4.16
+    }
+   ]
+  },
+  "essence": {
+   "text": "Music that lives between the keys... and a whole world of colours the piano can't reach.",
+   "dur": 6.269388,
+   "speechEnd": 6.32,
+   "words": [
+    {
+     "w": "Music",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "that",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "lives",
+     "t": 0.8,
+     "end": 1.04
+    },
+    {
+     "w": "between",
+     "t": 1.12,
+     "end": 1.6
+    },
+    {
+     "w": "the",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "keys...",
+     "t": 1.76,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "a",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "whole",
+     "t": 3.2,
+     "end": 3.44
+    },
+    {
+     "w": "world",
+     "t": 3.52,
+     "end": 3.84
+    },
+    {
+     "w": "of",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "colours",
+     "t": 4.08,
+     "end": 4.48
+    },
+    {
+     "w": "the",
+     "t": 4.56,
+     "end": 4.64
+    },
+    {
+     "w": "piano",
+     "t": 4.72,
+     "end": 5.12
+    },
+    {
+     "w": "can't",
+     "t": 5.28,
+     "end": 5.52
+    },
+    {
+     "w": "reach.",
+     "t": 5.6,
+     "end": 6.32
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.56,
+     "end": 0.64
+    },
+    {
+     "w": "break",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "down",
+     "t": 1,
+     "end": 1.12
+    },
+    {
+     "w": "next?",
+     "t": 1.2,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

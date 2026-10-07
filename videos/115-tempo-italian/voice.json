@@ -1,0 +1,896 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Allegro, Adagio, Presto. Why do composers tell you how fast to play... in Italian?",
+   "dur": 7.157551,
+   "speechEnd": 7.2,
+   "words": [
+    {
+     "w": "Allegro,",
+     "t": 0,
+     "end": 0.84
+    },
+    {
+     "w": "Adagio,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "Presto.",
+     "t": 1.92,
+     "end": 2.8
+    },
+    {
+     "w": "Why",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "do",
+     "t": 3.32,
+     "end": 3.36
+    },
+    {
+     "w": "composers",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "tell",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "you",
+     "t": 4.32,
+     "end": 4.4
+    },
+    {
+     "w": "how",
+     "t": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "fast",
+     "t": 4.8,
+     "end": 5.12
+    },
+    {
+     "w": "to",
+     "t": 5.16,
+     "end": 5.2
+    },
+    {
+     "w": "play...",
+     "t": 5.28,
+     "end": 6.08
+    },
+    {
+     "w": "in",
+     "t": 6.16,
+     "end": 6.24
+    },
+    {
+     "w": "Italian?",
+     "t": 6.56,
+     "end": 7.2
+    }
+   ]
+  },
+  "what": {
+   "text": "One word at the top of the page sets the speed of the music.",
+   "dur": 3.709388,
+   "speechEnd": 3.76,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "word",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "at",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "the",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "top",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "of",
+     "t": 1.12,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.28
+    },
+    {
+     "w": "page",
+     "t": 1.36,
+     "end": 1.84
+    },
+    {
+     "w": "sets",
+     "t": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.24,
+     "end": 2.32
+    },
+    {
+     "w": "speed",
+     "t": 2.4,
+     "end": 2.72
+    },
+    {
+     "w": "of",
+     "t": 2.8,
+     "end": 2.88
+    },
+    {
+     "w": "the",
+     "t": 2.92,
+     "end": 2.96
+    },
+    {
+     "w": "music.",
+     "t": 3.04,
+     "end": 3.76
+    }
+   ]
+  },
+  "moon": {
+   "text": "The Moonlight Sonata opens Adagio sostenuto. Slow.",
+   "dur": 4.675918,
+   "speechEnd": 4.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Moonlight",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "Sonata",
+     "t": 0.76,
+     "end": 1.2
+    },
+    {
+     "w": "opens",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "Adagio",
+     "t": 1.84,
+     "end": 2.4
+    },
+    {
+     "w": "sostenuto.",
+     "t": 2.48,
+     "end": 3.36
+    },
+    {
+     "w": "Slow.",
+     "t": 3.92,
+     "end": 4.72
+    }
+   ]
+  },
+  "fifth": {
+   "text": "The Fifth Symphony opens Allegro con brio: fast, with vigour.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.08
+    },
+    {
+     "w": "Fifth",
+     "t": 0.16,
+     "end": 0.4
+    },
+    {
+     "w": "Symphony",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "opens",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "Allegro",
+     "t": 1.6,
+     "end": 2.08
+    },
+    {
+     "w": "con",
+     "t": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "brio:",
+     "t": 2.44,
+     "end": 3.28
+    },
+    {
+     "w": "fast,",
+     "t": 3.36,
+     "end": 3.96
+    },
+    {
+     "w": "with",
+     "t": 4.08,
+     "end": 4.24
+    },
+    {
+     "w": "vigour.",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "why1": {
+   "text": "So why Italian? In the 17th and 18th centuries, Italian music dominated Europe.",
+   "dur": 6.922449,
+   "speechEnd": 6.96,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "why",
+     "t": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "Italian?",
+     "t": 0.8,
+     "end": 1.72
+    },
+    {
+     "w": "In",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "the",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "17th",
+     "t": 2.32,
+     "end": 2.8
+    },
+    {
+     "w": "and",
+     "t": 2.88,
+     "end": 3.04
+    },
+    {
+     "w": "18th",
+     "t": 3.16,
+     "end": 3.52
+    },
+    {
+     "w": "centuries,",
+     "t": 3.6,
+     "end": 4.4
+    },
+    {
+     "w": "Italian",
+     "t": 4.48,
+     "end": 4.96
+    },
+    {
+     "w": "music",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "dominated",
+     "t": 5.6,
+     "end": 6.24
+    },
+    {
+     "w": "Europe.",
+     "t": 6.32,
+     "end": 6.96
+    }
+   ]
+  },
+  "why2": {
+   "text": "Opera, violin making, music printing. Italian became the international language of music.",
+   "dur": 6.765714,
+   "speechEnd": 6.8,
+   "words": [
+    {
+     "w": "Opera,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "violin",
+     "t": 0.8,
+     "end": 1.28
+    },
+    {
+     "w": "making,",
+     "t": 1.36,
+     "end": 2
+    },
+    {
+     "w": "music",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "printing.",
+     "t": 2.48,
+     "end": 2.96
+    },
+    {
+     "w": "Italian",
+     "t": 3.44,
+     "end": 4
+    },
+    {
+     "w": "became",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "the",
+     "t": 4.4,
+     "end": 4.56
+    },
+    {
+     "w": "international",
+     "t": 4.64,
+     "end": 5.28
+    },
+    {
+     "w": "language",
+     "t": 5.36,
+     "end": 5.84
+    },
+    {
+     "w": "of",
+     "t": 5.88,
+     "end": 5.92
+    },
+    {
+     "w": "music.",
+     "t": 6,
+     "end": 6.8
+    }
+   ]
+  },
+  "lad1": {
+   "text": "Largo is very slow and broad. Adagio, slow: literally at ease.",
+   "dur": 7.549388,
+   "speechEnd": 7.6,
+   "words": [
+    {
+     "w": "Largo",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "is",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "very",
+     "t": 0.96,
+     "end": 1.28
+    },
+    {
+     "w": "slow",
+     "t": 1.52,
+     "end": 2
+    },
+    {
+     "w": "and",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "broad.",
+     "t": 2.32,
+     "end": 2.96
+    },
+    {
+     "w": "Adagio,",
+     "t": 3.52,
+     "end": 4.64
+    },
+    {
+     "w": "slow:",
+     "t": 4.8,
+     "end": 5.68
+    },
+    {
+     "w": "literally",
+     "t": 5.76,
+     "end": 6.24
+    },
+    {
+     "w": "at",
+     "t": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "ease.",
+     "t": 6.88,
+     "end": 7.6
+    }
+   ]
+  },
+  "lad2": {
+   "text": "Andante is a walking pace. Moderato, moderate.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Andante",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "walking",
+     "t": 1.2,
+     "end": 1.52
+    },
+    {
+     "w": "pace.",
+     "t": 1.6,
+     "end": 2.36
+    },
+    {
+     "w": "Moderato,",
+     "t": 2.64,
+     "end": 3.84
+    },
+    {
+     "w": "moderate.",
+     "t": 4,
+     "end": 4.8
+    }
+   ]
+  },
+  "lad3": {
+   "text": "Allegro literally means cheerful: fast. And Presto, very fast.",
+   "dur": 5.799184,
+   "speechEnd": 5.84,
+   "words": [
+    {
+     "w": "Allegro",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "literally",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "means",
+     "t": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "cheerful:",
+     "t": 1.68,
+     "end": 2.48
+    },
+    {
+     "w": "fast.",
+     "t": 2.56,
+     "end": 3.24
+    },
+    {
+     "w": "And",
+     "t": 3.44,
+     "end": 3.6
+    },
+    {
+     "w": "Presto,",
+     "t": 3.68,
+     "end": 4.24
+    },
+    {
+     "w": "very",
+     "t": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "fast.",
+     "t": 5.04,
+     "end": 5.84
+    }
+   ]
+  },
+  "metro": {
+   "text": "In 1815, Johann Maelzel patented the mechanical metronome.",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1815,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "Johann",
+     "t": 1.68,
+     "end": 2.08
+    },
+    {
+     "w": "Maelzel",
+     "t": 2.12,
+     "end": 2.64
+    },
+    {
+     "w": "patented",
+     "t": 2.72,
+     "end": 3.2
+    },
+    {
+     "w": "the",
+     "t": 3.28,
+     "end": 3.32
+    },
+    {
+     "w": "mechanical",
+     "t": 3.36,
+     "end": 3.92
+    },
+    {
+     "w": "metronome.",
+     "t": 4,
+     "end": 4.96
+    }
+   ]
+  },
+  "bpm": {
+   "text": "It counts beats per minute. Sixty BPM is one beat per second.",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "It",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "counts",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "beats",
+     "t": 0.64,
+     "end": 0.88
+    },
+    {
+     "w": "per",
+     "t": 0.96,
+     "end": 1.12
+    },
+    {
+     "w": "minute.",
+     "t": 1.2,
+     "end": 1.6
+    },
+    {
+     "w": "Sixty",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "BPM",
+     "t": 2.48,
+     "end": 3.2
+    },
+    {
+     "w": "is",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "one",
+     "t": 3.6,
+     "end": 3.76
+    },
+    {
+     "w": "beat",
+     "t": 3.84,
+     "end": 4.08
+    },
+    {
+     "w": "per",
+     "t": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "second.",
+     "t": 4.32,
+     "end": 5.12
+    }
+   ]
+  },
+  "beet1": {
+   "text": "Beethoven was one of the first major composers to add metronome markings.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Beethoven",
+     "t": 0,
+     "end": 0.64
+    },
+    {
+     "w": "was",
+     "t": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "one",
+     "t": 0.92,
+     "end": 0.96
+    },
+    {
+     "w": "of",
+     "t": 1.04,
+     "end": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.24,
+     "end": 1.36
+    },
+    {
+     "w": "first",
+     "t": 1.52,
+     "end": 1.68
+    },
+    {
+     "w": "major",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "composers",
+     "t": 2.16,
+     "end": 2.88
+    },
+    {
+     "w": "to",
+     "t": 2.96,
+     "end": 3.04
+    },
+    {
+     "w": "add",
+     "t": 3.12,
+     "end": 3.28
+    },
+    {
+     "w": "metronome",
+     "t": 3.36,
+     "end": 3.84
+    },
+    {
+     "w": "markings.",
+     "t": 3.92,
+     "end": 4.8
+    }
+   ]
+  },
+  "beet2": {
+   "text": "In 1817, he published them for his first eight symphonies.",
+   "dur": 4.519184,
+   "speechEnd": 4.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "1817,",
+     "t": 0.24,
+     "end": 1.6
+    },
+    {
+     "w": "he",
+     "t": 1.68,
+     "end": 1.76
+    },
+    {
+     "w": "published",
+     "t": 1.84,
+     "end": 2.16
+    },
+    {
+     "w": "them",
+     "t": 2.24,
+     "end": 2.4
+    },
+    {
+     "w": "for",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "his",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "first",
+     "t": 2.88,
+     "end": 3.2
+    },
+    {
+     "w": "eight",
+     "t": 3.28,
+     "end": 3.52
+    },
+    {
+     "w": "symphonies.",
+     "t": 3.6,
+     "end": 4.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "One word on the page sets the heartbeat of the whole piece.",
+   "dur": 3.970612,
+   "speechEnd": 4,
+   "words": [
+    {
+     "w": "One",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "word",
+     "t": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "on",
+     "t": 0.6,
+     "end": 0.64
+    },
+    {
+     "w": "the",
+     "t": 0.72,
+     "end": 0.8
+    },
+    {
+     "w": "page",
+     "t": 0.88,
+     "end": 1.28
+    },
+    {
+     "w": "sets",
+     "t": 1.44,
+     "end": 1.68
+    },
+    {
+     "w": "the",
+     "t": 1.72,
+     "end": 1.76
+    },
+    {
+     "w": "heartbeat",
+     "t": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.48,
+     "end": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.64,
+     "end": 2.72
+    },
+    {
+     "w": "whole",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "piece.",
+     "t": 3.2,
+     "end": 4
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.880816,
+   "speechEnd": 1.92,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "should",
+     "t": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "I",
+     "t": 0.52,
+     "end": 0.56
+    },
+    {
+     "w": "break",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "down",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "next?",
+     "t": 1.12,
+     "end": 1.92
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,931 @@
+{
+ "voice_id": "EwzF7Z2UMSib9JaKx0Kg",
+ "model_id": "eleven_v4",
+ "segments": {
+  "hook": {
+   "text": "Bronze, gongs, and notes that don't fit on a piano. This is gamelan.",
+   "dur": 5.877551,
+   "speechEnd": 5.92,
+   "words": [
+    {
+     "w": "Bronze,",
+     "t": 0,
+     "end": 0.88
+    },
+    {
+     "w": "gongs,",
+     "t": 0.96,
+     "end": 1.76
+    },
+    {
+     "w": "and",
+     "t": 1.84,
+     "end": 1.92
+    },
+    {
+     "w": "notes",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "that",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "don't",
+     "t": 2.56,
+     "end": 2.72
+    },
+    {
+     "w": "fit",
+     "t": 2.88,
+     "end": 2.96
+    },
+    {
+     "w": "on",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "a",
+     "t": 3.173,
+     "end": 3.227
+    },
+    {
+     "w": "piano.",
+     "t": 3.28,
+     "end": 4.32
+    },
+    {
+     "w": "This",
+     "t": 4.52,
+     "end": 4.72
+    },
+    {
+     "w": "is",
+     "t": 4.88,
+     "end": 5.04
+    },
+    {
+     "w": "gamelan.",
+     "t": 5.08,
+     "end": 5.92
+    }
+   ]
+  },
+  "what": {
+   "text": "Gamelan orchestras from Java and Bali are made mostly of bronze metallophones, gongs and drums.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "Gamelan",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "orchestras",
+     "t": 0.56,
+     "end": 1.2
+    },
+    {
+     "w": "from",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "Java",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "and",
+     "t": 2,
+     "end": 2.08
+    },
+    {
+     "w": "Bali",
+     "t": 2.16,
+     "end": 2.64
+    },
+    {
+     "w": "are",
+     "t": 2.8,
+     "end": 2.96
+    },
+    {
+     "w": "made",
+     "t": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "mostly",
+     "t": 3.28,
+     "end": 3.68
+    },
+    {
+     "w": "of",
+     "t": 3.76,
+     "end": 3.84
+    },
+    {
+     "w": "bronze",
+     "t": 3.92,
+     "end": 4.24
+    },
+    {
+     "w": "metallophones,",
+     "t": 4.32,
+     "end": 5.44
+    },
+    {
+     "w": "gongs",
+     "t": 5.52,
+     "end": 6.08
+    },
+    {
+     "w": "and",
+     "t": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "drums.",
+     "t": 6.4,
+     "end": 7.28
+    }
+   ]
+  },
+  "debussy": {
+   "text": "Debussy heard a Javanese gamelan at the 1889 Paris Exposition...",
+   "dur": 4.91102,
+   "speechEnd": 4.96,
+   "words": [
+    {
+     "w": "Debussy",
+     "t": 0,
+     "end": 0.56
+    },
+    {
+     "w": "heard",
+     "t": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "a",
+     "t": 0.84,
+     "end": 0.88
+    },
+    {
+     "w": "Javanese",
+     "t": 0.96,
+     "end": 1.44
+    },
+    {
+     "w": "gamelan",
+     "t": 1.52,
+     "end": 2.08
+    },
+    {
+     "w": "at",
+     "t": 2.16,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "t": 2.32,
+     "end": 2.4
+    },
+    {
+     "w": "1889",
+     "t": 2.52,
+     "end": 3.36
+    },
+    {
+     "w": "Paris",
+     "t": 3.44,
+     "end": 3.84
+    },
+    {
+     "w": "Exposition...",
+     "t": 3.92,
+     "end": 4.96
+    }
+   ]
+  },
+  "pagodes": {
+   "text": "and it influenced works like his piano piece Pagodes, from 1903.",
+   "dur": 4.832653,
+   "speechEnd": 4.88,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "it",
+     "t": 0.2,
+     "end": 0.24
+    },
+    {
+     "w": "influenced",
+     "t": 0.32,
+     "end": 0.88
+    },
+    {
+     "w": "works",
+     "t": 0.96,
+     "end": 1.2
+    },
+    {
+     "w": "like",
+     "t": 1.28,
+     "end": 1.44
+    },
+    {
+     "w": "his",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "piano",
+     "t": 1.68,
+     "end": 2
+    },
+    {
+     "w": "piece",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "Pagodes,",
+     "t": 2.56,
+     "end": 3.44
+    },
+    {
+     "w": "from",
+     "t": 3.52,
+     "end": 3.6
+    },
+    {
+     "w": "1903.",
+     "t": 3.68,
+     "end": 4.88
+    }
+   ]
+  },
+  "why1": {
+   "text": "So how does it work? Two tuning systems. Slendro has five notes, roughly equally spaced.",
+   "dur": 7.235918,
+   "speechEnd": 7.28,
+   "words": [
+    {
+     "w": "So",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "how",
+     "t": 0.48,
+     "end": 0.56
+    },
+    {
+     "w": "does",
+     "t": 0.64,
+     "end": 0.72
+    },
+    {
+     "w": "it",
+     "t": 0.76,
+     "end": 0.8
+    },
+    {
+     "w": "work?",
+     "t": 0.88,
+     "end": 1.48
+    },
+    {
+     "w": "Two",
+     "t": 1.76,
+     "end": 1.92
+    },
+    {
+     "w": "tuning",
+     "t": 2,
+     "end": 2.32
+    },
+    {
+     "w": "systems.",
+     "t": 2.48,
+     "end": 3.32
+    },
+    {
+     "w": "Slendro",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "has",
+     "t": 4.16,
+     "end": 4.4
+    },
+    {
+     "w": "five",
+     "t": 4.48,
+     "end": 4.72
+    },
+    {
+     "w": "notes,",
+     "t": 4.88,
+     "end": 5.52
+    },
+    {
+     "w": "roughly",
+     "t": 5.64,
+     "end": 6
+    },
+    {
+     "w": "equally",
+     "t": 6.08,
+     "end": 6.4
+    },
+    {
+     "w": "spaced.",
+     "t": 6.48,
+     "end": 7.28
+    }
+   ]
+  },
+  "pelog": {
+   "text": "Pelog has seven unequal notes, usually five used at a time.",
+   "dur": 4.754286,
+   "speechEnd": 4.8,
+   "words": [
+    {
+     "w": "Pelog",
+     "t": 0,
+     "end": 0.48
+    },
+    {
+     "w": "has",
+     "t": 0.64,
+     "end": 0.8
+    },
+    {
+     "w": "seven",
+     "t": 1,
+     "end": 1.2
+    },
+    {
+     "w": "unequal",
+     "t": 1.28,
+     "end": 1.76
+    },
+    {
+     "w": "notes,",
+     "t": 1.84,
+     "end": 2.64
+    },
+    {
+     "w": "usually",
+     "t": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "five",
+     "t": 3.2,
+     "end": 3.6
+    },
+    {
+     "w": "used",
+     "t": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "at",
+     "t": 3.96,
+     "end": 4
+    },
+    {
+     "w": "a",
+     "t": 4.08,
+     "end": 4.12
+    },
+    {
+     "w": "time.",
+     "t": 4.16,
+     "end": 4.8
+    }
+   ]
+  },
+  "neither": {
+   "text": "Neither one matches Western equal temperament.",
+   "dur": 3.082449,
+   "speechEnd": 3.12,
+   "words": [
+    {
+     "w": "Neither",
+     "t": 0,
+     "end": 0.4
+    },
+    {
+     "w": "one",
+     "t": 0.56,
+     "end": 0.8
+    },
+    {
+     "w": "matches",
+     "t": 0.88,
+     "end": 1.2
+    },
+    {
+     "w": "Western",
+     "t": 1.36,
+     "end": 1.76
+    },
+    {
+     "w": "equal",
+     "t": 1.84,
+     "end": 2.08
+    },
+    {
+     "w": "temperament.",
+     "t": 2.16,
+     "end": 3.12
+    }
+   ]
+  },
+  "set": {
+   "text": "Each gamelan is tuned as a set, so tunings vary from one ensemble to another.",
+   "dur": 5.642449,
+   "speechEnd": 5.68,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0,
+     "end": 0.24
+    },
+    {
+     "w": "gamelan",
+     "t": 0.32,
+     "end": 0.8
+    },
+    {
+     "w": "is",
+     "t": 0.88,
+     "end": 1.04
+    },
+    {
+     "w": "tuned",
+     "t": 1.12,
+     "end": 1.44
+    },
+    {
+     "w": "as",
+     "t": 1.52,
+     "end": 1.6
+    },
+    {
+     "w": "a",
+     "t": 1.64,
+     "end": 1.68
+    },
+    {
+     "w": "set,",
+     "t": 1.84,
+     "end": 2.56
+    },
+    {
+     "w": "so",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "tunings",
+     "t": 2.96,
+     "end": 3.36
+    },
+    {
+     "w": "vary",
+     "t": 3.44,
+     "end": 3.76
+    },
+    {
+     "w": "from",
+     "t": 3.84,
+     "end": 4
+    },
+    {
+     "w": "one",
+     "t": 4.08,
+     "end": 4.16
+    },
+    {
+     "w": "ensemble",
+     "t": 4.24,
+     "end": 4.8
+    },
+    {
+     "w": "to",
+     "t": 4.88,
+     "end": 4.96
+    },
+    {
+     "w": "another.",
+     "t": 5.2,
+     "end": 5.68
+    }
+   ]
+  },
+  "cycle": {
+   "text": "The music is cyclical: the large gong marks the end of each cycle...",
+   "dur": 5.067755,
+   "speechEnd": 5.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "music",
+     "t": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "is",
+     "t": 0.72,
+     "end": 0.88
+    },
+    {
+     "w": "cyclical:",
+     "t": 0.92,
+     "end": 2
+    },
+    {
+     "w": "the",
+     "t": 2.04,
+     "end": 2.08
+    },
+    {
+     "w": "large",
+     "t": 2.16,
+     "end": 2.48
+    },
+    {
+     "w": "gong",
+     "t": 2.56,
+     "end": 2.96
+    },
+    {
+     "w": "marks",
+     "t": 3.04,
+     "end": 3.28
+    },
+    {
+     "w": "the",
+     "t": 3.36,
+     "end": 3.52
+    },
+    {
+     "w": "end",
+     "t": 3.6,
+     "end": 3.84
+    },
+    {
+     "w": "of",
+     "t": 3.92,
+     "end": 4
+    },
+    {
+     "w": "each",
+     "t": 4.08,
+     "end": 4.32
+    },
+    {
+     "w": "cycle...",
+     "t": 4.4,
+     "end": 5.12
+    }
+   ]
+  },
+  "cycle2": {
+   "text": "and smaller gongs divide it.",
+   "dur": 2.194286,
+   "speechEnd": 2.24,
+   "words": [
+    {
+     "w": "and",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "smaller",
+     "t": 0.32,
+     "end": 0.72
+    },
+    {
+     "w": "gongs",
+     "t": 0.8,
+     "end": 1.2
+    },
+    {
+     "w": "divide",
+     "t": 1.28,
+     "end": 1.68
+    },
+    {
+     "w": "it.",
+     "t": 1.8,
+     "end": 2.24
+    }
+   ]
+  },
+  "ombak": {
+   "text": "In Balinese gamelan, paired instruments are tuned slightly apart...",
+   "dur": 4.597551,
+   "speechEnd": 4.64,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "Balinese",
+     "t": 0.24,
+     "end": 0.72
+    },
+    {
+     "w": "gamelan,",
+     "t": 0.8,
+     "end": 1.68
+    },
+    {
+     "w": "paired",
+     "t": 1.76,
+     "end": 2
+    },
+    {
+     "w": "instruments",
+     "t": 2.08,
+     "end": 2.64
+    },
+    {
+     "w": "are",
+     "t": 2.72,
+     "end": 2.88
+    },
+    {
+     "w": "tuned",
+     "t": 2.92,
+     "end": 3.28
+    },
+    {
+     "w": "slightly",
+     "t": 3.36,
+     "end": 3.76
+    },
+    {
+     "w": "apart...",
+     "t": 3.88,
+     "end": 4.64
+    }
+   ]
+  },
+  "ombak2": {
+   "text": "for a shimmering beat: ombak, the wave.",
+   "dur": 4.04898,
+   "speechEnd": 4.08,
+   "words": [
+    {
+     "w": "for",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "a",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "shimmering",
+     "t": 0.48,
+     "end": 0.96
+    },
+    {
+     "w": "beat:",
+     "t": 1.04,
+     "end": 1.92
+    },
+    {
+     "w": "ombak,",
+     "t": 2,
+     "end": 2.96
+    },
+    {
+     "w": "the",
+     "t": 3.04,
+     "end": 3.12
+    },
+    {
+     "w": "wave.",
+     "t": 3.2,
+     "end": 4.08
+    }
+   ]
+  },
+  "kotekan": {
+   "text": "In kotekan, two players each play part of a fast melody that only exists when combined.",
+   "dur": 6.530612,
+   "speechEnd": 6.56,
+   "words": [
+    {
+     "w": "In",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "kotekan,",
+     "t": 0.24,
+     "end": 1.2
+    },
+    {
+     "w": "two",
+     "t": 1.28,
+     "end": 1.36
+    },
+    {
+     "w": "players",
+     "t": 1.52,
+     "end": 1.92
+    },
+    {
+     "w": "each",
+     "t": 2.08,
+     "end": 2.24
+    },
+    {
+     "w": "play",
+     "t": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "part",
+     "t": 2.64,
+     "end": 2.8
+    },
+    {
+     "w": "of",
+     "t": 2.88,
+     "end": 2.92
+    },
+    {
+     "w": "a",
+     "t": 2.96,
+     "end": 3.12
+    },
+    {
+     "w": "fast",
+     "t": 3.28,
+     "end": 3.44
+    },
+    {
+     "w": "melody",
+     "t": 3.6,
+     "end": 4.08
+    },
+    {
+     "w": "that",
+     "t": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "only",
+     "t": 4.4,
+     "end": 4.64
+    },
+    {
+     "w": "exists",
+     "t": 4.72,
+     "end": 5.36
+    },
+    {
+     "w": "when",
+     "t": 5.48,
+     "end": 5.6
+    },
+    {
+     "w": "combined.",
+     "t": 5.92,
+     "end": 6.56
+    }
+   ]
+  },
+  "essence": {
+   "text": "Bronze, cycles and a different tuning... music that shimmers instead of resolving.",
+   "dur": 6.426122,
+   "speechEnd": 6.48,
+   "words": [
+    {
+     "w": "Bronze,",
+     "t": 0,
+     "end": 0.72
+    },
+    {
+     "w": "cycles",
+     "t": 1.12,
+     "end": 1.68
+    },
+    {
+     "w": "and",
+     "t": 1.76,
+     "end": 1.84
+    },
+    {
+     "w": "a",
+     "t": 1.92,
+     "end": 2
+    },
+    {
+     "w": "different",
+     "t": 2.08,
+     "end": 2.4
+    },
+    {
+     "w": "tuning...",
+     "t": 2.48,
+     "end": 3.52
+    },
+    {
+     "w": "music",
+     "t": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "that",
+     "t": 4,
+     "end": 4.16
+    },
+    {
+     "w": "shimmers",
+     "t": 4.32,
+     "end": 4.88
+    },
+    {
+     "w": "instead",
+     "t": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "of",
+     "t": 5.48,
+     "end": 5.52
+    },
+    {
+     "w": "resolving.",
+     "t": 5.64,
+     "end": 6.48
+    }
+   ]
+  },
+  "cta": {
+   "text": "What should I break down next?",
+   "dur": 1.724082,
+   "speechEnd": 1.76,
+   "words": [
+    {
+     "w": "What",
+     "t": 0,
+     "end": 0.16
+    },
+    {
+     "w": "should",
+     "t": 0.24,
+     "end": 0.32
+    },
+    {
+     "w": "I",
+     "t": 0.4,
+     "end": 0.48
+    },
+    {
+     "w": "break",
+     "t": 0.6,
+     "end": 0.72
+    },
+    {
+     "w": "down",
+     "t": 0.84,
+     "end": 0.96
+    },
+    {
+     "w": "next?",
+     "t": 1.04,
+     "end": 1.76
+    }
+   ]
+  }
+ }
+}
